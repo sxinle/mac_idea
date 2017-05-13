@@ -109,6 +109,13 @@
       <file name="$USER_HOME$/workspace/mp/xhr/xhr_c_jfl.html" timestamp="1464191148324">
         <mark key="[" line="33" column="38" />
       </file>
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/SSBufferWrap.java" timestamp="1494680070400">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="8" column="39" />
+      </file>
       <file name="$USER_HOME$/workspace/admin/src/main/webapp/WEB-INF/view/camera/camera.jsp" timestamp="1464432188376">
         <mark key="'" line="63" column="25" />
         <mark key="[" line="14" column="0" />
@@ -168,6 +175,12 @@
         <mark key="]" line="26" column="22" />
         <mark key="." line="26" column="22" />
         <mark key="^" line="26" column="22" />
+      </file>
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/TcpWorker.java" timestamp="1494681183223">
+        <mark key="[" line="104" column="64" />
+        <mark key="]" line="104" column="74" />
+        <mark key="." line="104" column="74" />
+        <mark key="^" line="28" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/admin/src/main/java/com/acenode/admin/model/Event.java" timestamp="1464408930725">
         <mark key="'" line="13" column="0" />
@@ -323,6 +336,13 @@
         <mark key="]" line="15" column="39" />
         <mark key="^" line="15" column="39" />
         <mark key="." line="15" column="39" />
+      </file>
+      <file name="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/Session.java" timestamp="1494680831938">
+        <mark key="'" line="14" column="10" />
+        <mark key="[" line="14" column="4" />
+        <mark key="]" line="14" column="10" />
+        <mark key="." line="14" column="10" />
+        <mark key="^" line="14" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/admin/src/main/webapp/assets/js/street/street.js" timestamp="1464425205733">
         <mark key="'" line="75" column="4" />
@@ -526,13 +546,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/workspace/fxweb/src/main/java/com/acenode/fx/controller/DataController.java" />
-      <jump line="338" column="0" filename="$USER_HOME$/workspace/fxweb/src/main/java/com/acenode/fx/controller/DataController.java" />
-      <jump line="380" column="31" filename="$USER_HOME$/workspace/fx/his.html" />
-      <jump line="406" column="0" filename="$USER_HOME$/workspace/fx/his.html" />
-      <jump line="165" column="37" filename="$USER_HOME$/workspace/shopping/index.html" />
-      <jump line="1596" column="40" filename="$USER_HOME$/workspace/shopping/index.html" />
-      <jump line="290" column="100" filename="$USER_HOME$/workspace/shopping/index.html" />
       <jump line="291" column="42" filename="$USER_HOME$/workspace/shopping/index.html" />
       <jump line="292" column="27" filename="$USER_HOME$/workspace/shopping/index.html" />
       <jump line="307" column="27" filename="$USER_HOME$/workspace/shopping/index.html" />
@@ -626,13 +639,20 @@
       <jump line="835" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
       <jump line="23" column="2" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/auth/SSAuth.java" />
       <jump line="97" column="4" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/crypto/Utils.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/SSBufferWrap.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/SSBufferWrap.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/SSBufferWrap.java" />
+      <jump line="62" column="6" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/TcpWorker.java" />
+      <jump line="54" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/TcpWorker.java" />
+      <jump line="53" column="16" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/Session.java" />
+      <jump line="14" column="10" filename="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/nio/tcp/Session.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>2.jpg</text>
@@ -640,32 +660,36 @@
       <register name="0" type="4">
         <text>http://olabini.com/blog/tag/evp_bytestokey/</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgSW5ldFNvY2tldEFkZHJlc3MgcGFyc2VIZWFkZXIoU29ja2V0Q2hhbm5lbCBsb2NhbCkgdGhyb3dzIElPRXhjZXB0aW9uLCBDcnlwdG9FeGNlcHRpb24sIEF1dGhFeGNlcHRpb24gewogICAgICAgIG1TdHJlYW1VcERhdGEucmVzZXQoKTsK</text>
+      <register name="1" type="8">
+        <text>public
+public
+public
+public
+public</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyogICAKICogICBDb3B5cmlnaHQgMjAxNiBBdXRob3I6TlUxMSBiZXN0b2FwYWNoZUBnbWFpbC5jb20KICoKICogIExpY2Vuc2VkIHVuZGVyIHRoZSBBcGFjaGUgTGljZW5zZSwgVmVyc2lvbiAyLjAgKHRoZSAiTGljZW5zZSIpOwogKiAgeW91IG1heSBub3QgdXNlIHRoaXMgZmlsZSBleGNlcHQgaW4gY29tcGxpYW5jZSB3aXRoIHRoZSBMaWNlbnNlLgogKiAgWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiAqCiAqICAgICAgIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAogKgogKiAgVW5sZXNzIHJlcXVpcmVkIGJ5IGFwcGxpY2FibGUgbGF3IG9yIGFncmVlZCB0byBpbiB3cml0aW5nLCBzb2Z0d2FyZQogKiAgZGlzdHJpYnV0ZWQgdW5kZXIgdGhlIExpY2Vuc2UgaXMgZGlzdHJpYnV0ZWQgb24gYW4gIkFTIElTIiBCQVNJUywKICogIFdJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgogKiAgU2VlIHRoZSBMaWNlbnNlIGZvciB0aGUgc3BlY2lmaWMgbGFuZ3VhZ2UgZ292ZXJuaW5nIHBlcm1pc3Npb25zIGFuZAogKiAgbGltaXRhdGlvbnMgdW5kZXIgdGhlIExpY2Vuc2UuCiAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNyeXBvdAo=</text>
+        <text encoding="base64">LyoKICogICBDb3B5cmlnaHQgMjAxNiBBdXRob3I6TlUxMSBiZXN0b2FwYWNoZUBnbWFpbC5jb20KICoKICogIExpY2Vuc2VkIHVuZGVyIHRoZSBBcGFjaGUgTGljZW5zZSwgVmVyc2lvbiAyLjAgKHRoZSAiTGljZW5zZSIpOwogKiAgeW91IG1heSBub3QgdXNlIHRoaXMgZmlsZSBleGNlcHQgaW4gY29tcGxpYW5jZSB3aXRoIHRoZSBMaWNlbnNlLgogKiAgWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiAqCiAqICAgICAgIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAogKgogKiAgVW5sZXNzIHJlcXVpcmVkIGJ5IGFwcGxpY2FibGUgbGF3IG9yIGFncmVlZCB0byBpbiB3cml0aW5nLCBzb2Z0d2FyZQogKiAgZGlzdHJpYnV0ZWQgdW5kZXIgdGhlIExpY2Vuc2UgaXMgZGlzdHJpYnV0ZWQgb24gYW4gIkFTIElTIiBCQVNJUywKICogIFdJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgogKiAgU2VlIHRoZSBMaWNlbnNlIGZvciB0aGUgc3BlY2lmaWMgbGFuZ3VhZ2UgZ292ZXJuaW5nIHBlcm1pc3Npb25zIGFuZAogKiAgbGltaXRhdGlvbnMgdW5kZXIgdGhlIExpY2Vuc2UuCiAqLwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyogICAKICogICBDb3B5cmlnaHQgMjAxNiBBdXRob3I6TlUxMSBiZXN0b2FwYWNoZUBnbWFpbC5jb20KICoKICogIExpY2Vuc2VkIHVuZGVyIHRoZSBBcGFjaGUgTGljZW5zZSwgVmVyc2lvbiAyLjAgKHRoZSAiTGljZW5zZSIpOwogKiAgeW91IG1heSBub3QgdXNlIHRoaXMgZmlsZSBleGNlcHQgaW4gY29tcGxpYW5jZSB3aXRoIHRoZSBMaWNlbnNlLgogKiAgWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiAqCiAqICAgICAgIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAogKgogKiAgVW5sZXNzIHJlcXVpcmVkIGJ5IGFwcGxpY2FibGUgbGF3IG9yIGFncmVlZCB0byBpbiB3cml0aW5nLCBzb2Z0d2FyZQogKiAgZGlzdHJpYnV0ZWQgdW5kZXIgdGhlIExpY2Vuc2UgaXMgZGlzdHJpYnV0ZWQgb24gYW4gIkFTIElTIiBCQVNJUywKICogIFdJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgogKiAgU2VlIHRoZSBMaWNlbnNlIGZvciB0aGUgc3BlY2lmaWMgbGFuZ3VhZ2UgZ292ZXJuaW5nIHBlcm1pc3Npb25zIGFuZAogKiAgbGltaXRhdGlvbnMgdW5kZXIgdGhlIExpY2Vuc2UuCiAqLwo=</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBzdGF0aWMgTG9nZ2VyIGxvZyA9IExvZ01hbmFnZXIuZ2V0TG9nZ2VyKFRjcFdvcmtlci5jbGFzcy5nZXROYW1lKCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyogICAKICogICBDb3B5cmlnaHQgMjAxNiBBdXRob3I6TlUxMSBiZXN0b2FwYWNoZUBnbWFpbC5jb20KICoKICogIExpY2Vuc2VkIHVuZGVyIHRoZSBBcGFjaGUgTGljZW5zZSwgVmVyc2lvbiAyLjAgKHRoZSAiTGljZW5zZSIpOwogKiAgeW91IG1heSBub3QgdXNlIHRoaXMgZmlsZSBleGNlcHQgaW4gY29tcGxpYW5jZSB3aXRoIHRoZSBMaWNlbnNlLgogKiAgWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiAqCiAqICAgICAgIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAogKgogKiAgVW5sZXNzIHJlcXVpcmVkIGJ5IGFwcGxpY2FibGUgbGF3IG9yIGFncmVlZCB0byBpbiB3cml0aW5nLCBzb2Z0d2FyZQogKiAgZGlzdHJpYnV0ZWQgdW5kZXIgdGhlIExpY2Vuc2UgaXMgZGlzdHJpYnV0ZWQgb24gYW4gIkFTIElTIiBCQVNJUywKICogIFdJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgogKiAgU2VlIHRoZSBMaWNlbnNlIGZvciB0aGUgc3BlY2lmaWMgbGFuZ3VhZ2UgZ292ZXJuaW5nIHBlcm1pc3Npb25zIGFuZAogKiAgbGltaXRhdGlvbnMgdW5kZXIgdGhlIExpY2Vuc2UuCiAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyogICAKICogICBDb3B5cmlnaHQgMjAxNiBBdXRob3I6TlUxMSBiZXN0b2FwYWNoZUBnbWFpbC5jb20KICoKICogIExpY2Vuc2VkIHVuZGVyIHRoZSBBcGFjaGUgTGljZW5zZSwgVmVyc2lvbiAyLjAgKHRoZSAiTGljZW5zZSIpOwogKiAgeW91IG1heSBub3QgdXNlIHRoaXMgZmlsZSBleGNlcHQgaW4gY29tcGxpYW5jZSB3aXRoIHRoZSBMaWNlbnNlLgogKiAgWW91IG1heSBvYnRhaW4gYSBjb3B5IG9mIHRoZSBMaWNlbnNlIGF0CiAqCiAqICAgICAgIGh0dHA6Ly93d3cuYXBhY2hlLm9yZy9saWNlbnNlcy9MSUNFTlNFLTIuMAogKgogKiAgVW5sZXNzIHJlcXVpcmVkIGJ5IGFwcGxpY2FibGUgbGF3IG9yIGFncmVlZCB0byBpbiB3cml0aW5nLCBzb2Z0d2FyZQogKiAgZGlzdHJpYnV0ZWQgdW5kZXIgdGhlIExpY2Vuc2UgaXMgZGlzdHJpYnV0ZWQgb24gYW4gIkFTIElTIiBCQVNJUywKICogIFdJVEhPVVQgV0FSUkFOVElFUyBPUiBDT05ESVRJT05TIE9GIEFOWSBLSU5ELCBlaXRoZXIgZXhwcmVzcyBvciBpbXBsaWVkLgogKiAgU2VlIHRoZSBMaWNlbnNlIGZvciB0aGUgc3BlY2lmaWMgbGFuZ3VhZ2UgZ292ZXJuaW5nIHBlcm1pc3Npb25zIGFuZAogKiAgbGltaXRhdGlvbnMgdW5kZXIgdGhlIExpY2Vuc2UuCiAqLwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgICBTb2NrZXRDaGFubmVsIG1Mb2NhbDsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZvbnQtZmFtaWx5OiBmYW50YXN5Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGh0bWw+CjxoZWFkPgogICAgPHRpdGxlPlRpdGxlPC90aXRsZT4KPC9oZWFkPgo8Ym9keT4KCmhlbGxvIGluZGV4CjwvYm9keT4KPC9odG1sPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
