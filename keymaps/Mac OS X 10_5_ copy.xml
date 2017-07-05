@@ -18,6 +18,10 @@
     <keyboard-shortcut first-keystroke="alt f8" />
     <keyboard-shortcut first-keystroke="a" />
   </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="ctrl o" />
+  </action>
   <action id="FullyExpandTreeNode">
     <keyboard-shortcut first-keystroke="multiply" />
     <keyboard-shortcut first-keystroke="1" />
@@ -30,6 +34,7 @@
     <keyboard-shortcut first-keystroke="shift meta alt m" />
   </action>
   <action id="MinimizeCurrentWindow" />
+  <action id="OverrideMethods" />
   <action id="RunToCursor">
     <keyboard-shortcut first-keystroke="alt f9" />
     <keyboard-shortcut first-keystroke="s" />
