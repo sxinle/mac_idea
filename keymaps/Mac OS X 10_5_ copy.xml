@@ -14,9 +14,10 @@
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="EditorToggleColumnMode" />
   <action id="EvaluateExpression">
     <keyboard-shortcut first-keystroke="alt f8" />
-    <keyboard-shortcut first-keystroke="a" />
+    <keyboard-shortcut first-keystroke="shift meta 8" />
   </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
@@ -38,6 +39,10 @@
   <action id="RunToCursor">
     <keyboard-shortcut first-keystroke="alt f9" />
     <keyboard-shortcut first-keystroke="s" />
+  </action>
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="meta alt f7" />
+    <keyboard-shortcut first-keystroke="shift meta 7" />
   </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift ctrl space" />
