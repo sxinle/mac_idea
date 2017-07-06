@@ -124,9 +124,10 @@
         <mark key="]" line="1" column="48" />
         <mark key="." line="1" column="48" />
       </file>
-      <file name="$USER_HOME$/Desktop/workspace/order-producer/conf/routes" timestamp="1499306405950">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/Desktop/workspace/order-producer/conf/routes" timestamp="1499315098222">
+        <mark key="'" line="214" column="2" />
       </file>
+      <file name="$USER_HOME$/Desktop/workspace/order-producer/app/controllers/user/UserController.java" timestamp="1499315881389" />
       <file name="$USER_HOME$/workspace/admin/src/main/java/com/acenode/admin/controller/IndexController.java" timestamp="1465632385641">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="21" column="23" />
@@ -244,6 +245,7 @@
         <mark key="." line="14" column="41" />
         <mark key="^" line="14" column="71" />
       </file>
+      <file name="$USER_HOME$/Desktop/workspace/order-producer/app/service/SalesOrderService.java" timestamp="1499315465490" />
       <file name="$USER_HOME$/workspace/admin/src/main/webapp/WEB-INF/view/event/js.jsp" timestamp="1463222069026">
         <mark key="'" line="2" column="24" />
         <mark key="[" line="237" column="26" />
@@ -512,7 +514,8 @@
         <mark key="." line="105" column="62" />
         <mark key="^" line="105" column="69" />
       </file>
-      <file name="$USER_HOME$/Desktop/workspace/order-producer/conf/config.properties" timestamp="1499305118135">
+      <file name="$USER_HOME$/Desktop/workspace/order-producer/conf/config.properties" timestamp="1499316002823">
+        <mark key="'" line="21" column="18" />
         <mark key="[" line="1" column="9" />
         <mark key="]" line="1" column="17" />
         <mark key="." line="1" column="17" />
@@ -558,6 +561,7 @@
       <file name="$USER_HOME$/workspace/zest/src/main/java/zest/Test.java" timestamp="1481118892627">
         <mark key="'" line="59" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/workspace/order-producer/app/controllers/regional/RegionalController.java" timestamp="1499315902950" />
       <file name="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/js/login.js" timestamp="1494777014448">
         <mark key="'" line="168" column="9" />
         <mark key="[" line="161" column="18" />
@@ -579,7 +583,7 @@
         <mark key="." line="153" column="27" />
         <mark key="^" line="153" column="27" />
       </file>
-      <file name="/a.regexp" timestamp="1499312246585">
+      <file name="/a.regexp" timestamp="1499315925195">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/yh_svr/src/main/java/shadowsocks/auth/SSAuth.java" timestamp="1494679036401">
@@ -623,6 +627,7 @@
       <file name="$USER_HOME$/workspace/mp/static/lonlat.js" timestamp="1465637465622">
         <mark key="'" line="692" column="77" />
       </file>
+      <file name="$USER_HOME$/Desktop/workspace/order-producer/readme.txt" timestamp="1499315201174" />
       <file name="/fragment.java" timestamp="1499310963978">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
@@ -634,12 +639,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/login.jsp" />
-      <jump line="434" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/WEB-INF/view/index.jsp" />
-      <jump line="13" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/js/login.js" />
-      <jump line="16" column="15" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/js/login.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/js/login.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/login.css" />
       <jump line="294" column="15" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/login.css" />
       <jump line="299" column="14" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/login.css" />
       <jump line="514" column="21" filename="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/login.css" />
@@ -734,6 +733,12 @@
       <jump line="8" column="0" filename="$USER_HOME$/Desktop/workspace/order-producer/conf/application.conf" />
       <jump line="12" column="0" filename="$USER_HOME$/Desktop/workspace/crm/conf/application.conf" />
       <jump line="11" column="6" filename="$USER_HOME$/Desktop/workspace/order-producer/conf/application.conf" />
+      <jump line="208" column="7" filename="$USER_HOME$/Desktop/workspace/order-producer/conf/routes" />
+      <jump line="91" column="7" filename="$USER_HOME$/Desktop/workspace/order-producer/conf/routes" />
+      <jump line="210" column="2" filename="$USER_HOME$/Desktop/workspace/order-producer/conf/routes" />
+      <jump line="212" column="2" filename="$USER_HOME$/Desktop/workspace/order-producer/conf/routes" />
+      <jump line="214" column="2" filename="$USER_HOME$/Desktop/workspace/order-producer/conf/routes" />
+      <jump line="21" column="18" filename="$USER_HOME$/Desktop/workspace/order-producer/conf/config.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -743,7 +748,7 @@
         <text>jh123</text>
       </register>
       <register name="/" type="4">
-        <text>cust</text>
+        <text>经销商</text>
       </register>
       <register name="0" type="4">
         <text>jar uvf mybatis_plus.jar com/seventh7/mybatis/util/JavaUtils.class</text>
@@ -780,17 +785,16 @@
       </register>
     </registers>
     <search>
-      <last-search>cust</last-search>
+      <last-search>经销商</last-search>
       <last-offset />
-      <last-pattern>cust</last-pattern>
+      <last-pattern>经销商</last-pattern>
       <last-replace>server</last-replace>
       <last-substitute>grid-layla</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>span</entry>
         <entry>hover</entry>
         <entry>effect-layla</entry>
         <entry>effect-layla h2</entry>
@@ -810,6 +814,7 @@
         <entry>jbpm</entry>
         <entry>schema</entry>
         <entry>cust</entry>
+        <entry>经销商</entry>
       </history-search>
       <history-cmd>
         <entry>w ~/a.txt</entry>
