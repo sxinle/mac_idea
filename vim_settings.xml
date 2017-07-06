@@ -592,6 +592,10 @@
       <file name="$USER_HOME$/Desktop/workspace/order-dealer/lib/hibernate-core.jar!/org/hibernate/dialect/PostgreSQLDialect.class" timestamp="1499243133640">
         <mark key="'" line="22" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/jrec/src/main/java/CMybatis.java" timestamp="1499314138263">
+        <mark key="[" line="45" column="10" />
+        <mark key="]" line="45" column="75" />
+      </file>
       <file name="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/login.css" timestamp="1494777899301">
         <mark key="'" line="100" column="86" />
         <mark key="[" line="395" column="17" />
@@ -741,8 +745,8 @@
       <register name="/" type="4">
         <text>cust</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">amRiYy5kcml2ZXJDbGFzc05hbWU9b3JnLnBvc3RncmVzcWwuRHJpdmVyCmpkYmMudXJsPWpkYmM6cG9zdGdyZXNxbDovLzEyNy4wLjAuMTo1NDMyL2ppbmh1aQpqZGJjLnVzZXJuYW1lPWppbmh1aQpqZGJjLnBhc3N3b3JkPWFkbWluCg==</text>
+      <register name="0" type="4">
+        <text>jar uvf mybatis_plus.jar com/seventh7/mybatis/util/JavaUtils.class</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aHR0cC5wb3J0ID0gOTAwMAo=</text>
