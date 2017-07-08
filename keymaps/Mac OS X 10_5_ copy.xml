@@ -10,6 +10,10 @@
     <keyboard-shortcut first-keystroke="subtract" />
     <keyboard-shortcut first-keystroke="2" />
   </action>
+  <action id="Diff.ShowDiff">
+    <keyboard-shortcut first-keystroke="meta d" />
+    <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
   <action id="EditorChooseLookupItem">
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="ctrl j" />
