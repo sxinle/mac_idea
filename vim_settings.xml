@@ -113,7 +113,16 @@
       <file name="/JavaScript Console" timestamp="1499499291832">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/DispatchOrderServiceImpl.java" timestamp="1499593020408" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/DispatchOrderServiceImpl.java" timestamp="1499598421626">
+        <mark key="[" line="213" column="0" />
+        <mark key="]" line="215" column="81" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/LogisticsServiceImpl.java" timestamp="1499598130611">
+        <mark key="[" line="126" column="0" />
+        <mark key="]" line="126" column="66" />
+        <mark key="." line="135" column="14" />
+        <mark key="^" line="135" column="14" />
+      </file>
       <file name="$USER_HOME$/Desktop/workspace/order-dealer/lib/jbpm.jar!/org/jbpm/pvm/internal/cmd/CheckDbCmd.class" timestamp="1499236236161">
         <mark key="'" line="44" column="8" />
       </file>
@@ -165,7 +174,12 @@
       <file name="$USER_HOME$/Desktop/workspace/order-dealer/lib/hibernate-core.jar!/org/hibernate/dialect/PostgreSQLDialect.class" timestamp="1499243133640">
         <mark key="'" line="22" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/FinanceOrderServiceImpl.java" timestamp="1499593446635" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/FinanceOrderServiceImpl.java" timestamp="1499598511221">
+        <mark key="[" line="210" column="12" />
+        <mark key="]" line="210" column="15" />
+        <mark key="." line="210" column="15" />
+        <mark key="^" line="210" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/CommonService.java" timestamp="1499591024851">
         <mark key="e" line="20" column="25" />
         <mark key="[" line="20" column="26" />
@@ -297,40 +311,40 @@
         <text>基本废物......</text>
       </register>
       <register name="-" type="4">
-        <text>logisticsman</text>
+        <text>财务</text>
       </register>
       <register name="/" type="4">
         <text>setVari</text>
       </register>
-      <register name="0" type="4">
-        <text>assignee</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIAkJSW50ZWdlciBkZXB0SWQgPSBjb21tU2VydmljZS5nZXREZXB0SWQodXNlci5nZXREZXB0SWQoKSxJQ29udGVudHMuREVQVF9DT0RFX0ZJTkFOQ0UpOwogICAgCQkvL+i9rOiHs+i0ouWKoQogICAgCQlqYnBtTWFwLnB1dChJQ29udGVudHMuRklOQU5DSUFMTUFOLElDb250ZW50cy5ST0xFX0ZJTkFOQ0UrIi0iK2RlcHRJZCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgPHRhc2sgYXNzaWduZWU9IiN7c3RvcmVtYW59IiBnPSIxMDcyLDc4LDEwMSw1MiIgbmFtZT0i5bqT566hIj4KICAgICAgPHRyYW5zaXRpb24gZz0iLTUwLC0yMiIgbmFtZT0i57uT5p2f6K6i5Y2VIiB0bz0iZW5kMSIvPgogICAgICA8dHJhbnNpdGlvbiBnPSIxMTIxLDUyOzY5NCw1MjotNDUsLTIzIiBuYW1lPSLnvLrotKfpgJrnn6UiIHRvPSLosIPluqbkuK3lv4PlrqHmoLgiLz4KICAgPC90YXNrPgo=</text>
+        <text encoding="base64">ICAgICAgICAvL+i9rOiHs+i0ouWKoQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgPHRhc2sgYXNzaWduZWU9IiN7ZGlzcGF0Y2htYW59IiBnPSI5MzcsODEsOTIsNTIiIG5hbWU9IueJqea1geiwg+W6piI+CiAgICAgIDx0cmFuc2l0aW9uIGc9Ii0yMSwtMjEiIG5hbWU9IueJqea1gemFjei0pyIgdG89IuW6k+euoSIvPgogICA8L3Rhc2s+Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KCjxwcm9jZXNzIGtleT0ib3JkZXIiIG5hbWU9Im9yZGVyIiB4bWxucz0iaHR0cDovL2picG0ub3JnLzQuNC9qcGRsIj4KICAgPHN0YXJ0IGc9IjcsMjA5LDQ4LDQ4IiBuYW1lPSJzdGFydDEiPgogICAgICA8dHJhbnNpdGlvbiBnPSItMzUsLTE5IiBuYW1lPSJ0byDnlJ/miJDorqLljZUiIHRvPSLnlJ/miJDorqLljZUiLz4KICAgPC9zdGFydD4KICAgPHRhc2sgYXNzaWduZWU9IiN7b3duZXJ9IiBnPSIxMzUsMjA2LDkyLDUyIiBuYW1lPSLnlJ/miJDorqLljZUiPgogICAgICA8dHJhbnNpdGlvbiBnPSItMzcsLTE3IiBuYW1lPSLkuJrliqHlkZjlrqHmoLgiIHRvPSLlpKfljLrkuJrliqHlrqHmoLgiLz4KICAgPC90YXNrPgogICA8dGFzayBhc3NpZ25lZT0iI3tvd25lcn0iIGc9IjE0MCwzNDcsOTIsNTIiIG5hbWU9IuiuouWNleehruiupCI+CiAgICAgIDx0cmFuc2l0aW9uIGc9Ii02LDEiIG5hbWU9IuiuouWNleW3suehruiupCIgdG89IuWkp+WMuuelqOaNruWuoeaguCIvPgogICAgICA8dHJhbnNpdGlvbiBuYW1lPSLnoa7orqTmj5DliY3nu5PmnZ8iIHRvPSLotKLliqHpg6jlrqHmoLgiIGc9IjE4Niw0MTg7OTc2LDQxNjotNjcsLTIyIi8+CiAgIDwvdGFzaz4KICAgPHRhc2sgYXNzaWduZWU9IiN7c2FsZXNtYW59IiBnPSIzMjAsMjA0LDkyLDUyIiBuYW1lPSLlpKfljLrkuJrliqHlrqHmoLgiPgogICAgICA8dHJhbnNpdGlvbiBnPSItMTcsLTE5IiBuYW1lPSLmibnlh4YiIHRvPSLlpKfljLrnpajmja7lrqHmoLgiLz4KICAgICAgPHRyYW5zaXRpb24gZz0iMzY0LDI4NDsxODIsMjg1Oi0xNywtMTciIG5hbWU9Iumps+WbniIgdG89IueUn+aIkOiuouWNlSIvPgogICA8L3Rhc2s+CiAgIDx0YXNrIGFzc2lnbmVlPSIje3JlZ2lvbmFsbWFufSIgZz0iNDcyLDIwMiw5Miw1MiIgbmFtZT0i5aSn5Yy656Wo5o2u5a6h5qC4Ij4KICAgICAgPHRyYW5zaXRpb24gZz0iLTE0LC0xOSIgbmFtZT0i5om55YeGIiB0bz0i6LCD5bqm5Lit5b+D5a6h5qC4Ii8+CiAgICAgIDx0cmFuc2l0aW9uIGc9IjUyMywzNzM6LTcxLC0xOCIgbmFtZT0i5L+u5pS56K6i5Y2VIiB0bz0i6K6i5Y2V56Gu6K6kIi8+CiAgIDwvdGFzaz4KICAgPHRhc2sgYXNzaWduZWU9IiN7ZGlzcGF0Y2htYW59IiBnPSI2NTAsMjAwLDkyLDUyIiBuYW1lPSLosIPluqbkuK3lv4PlrqHmoLgiPgogICAgICA8dHJhbnNpdGlvbiBnPSI2OTQsMTY1OzUxOCwxNjU6LTE5LC0xOCIgbmFtZT0i6amz5ZueIiB0bz0i5aSn5Yy656Wo5o2u5a6h5qC4Ii8+CiAgICAgIDx0cmFuc2l0aW9uIGc9Ii0yMSwtMjEiIG5hbWU9IuWuoeaguCIgdG89Iui0ouWKoemDqOWuoeaguCIvPgogICA8L3Rhc2s+CiAgIDx0YXNrIGFzc2lnbmVlPSIje2ZpbmFuY2lhbG1hbn0iIGc9Ijk2MywxOTksOTIsNTIiIG5hbWU9Iui0ouWKoemDqOWuoeaguCI+CiAgICAgIDx0cmFuc2l0aW9uIGc9IjEwMDYsMTY0OzgwMiwxNjQ6LTksLTE4IiBuYW1lPSLmibnlh4YiIHRvPSLosIPluqYiLz4KICAgICAgPHRyYW5zaXRpb24gZz0iMTAxMSw0MTM6MTgsLTIwIiBuYW1lPSLnu5PmnZ/orqLljZUiIHRvPSJlbmQxIi8+CiAgIDwvdGFzaz4KICAgPHRhc2sgYXNzaWduZWU9IiN7bG9naXN0aWNzbWFufSIgZz0iMTA3Miw3MCwxMDEsNTIiIG5hbWU9IueJqea1geS4reW/g+mFjei0pyI+CiAgICAgIDx0cmFuc2l0aW9uIGc9Ii01MCwtMjIiIG5hbWU9Iue7k+adn+iuouWNlSIgdG89ImVuZDEiLz4KICAgICAgPHRyYW5zaXRpb24gZz0iMTEyMSw1Mjs2OTQsNTI6LTQ1LC0yMyIgbmFtZT0i5o+Q5YmN57uT5p2f6K6i5Y2VIiB0bz0i6LCD5bqm5Lit5b+D5a6h5qC4Ii8+CiAgIDwvdGFzaz4KICAgPGVuZCBnPSIxMTAxLDM4OCw0OCw0OCIgbmFtZT0iZW5kMSIvPgogICA8dGFzayBhc3NpZ25lZT0iI3tkaXNwYXRjaG1hbn0iIGc9Ijc1Nyw2OSw5Miw1MiIgbmFtZT0i6LCD5bqmIj4KICAgICAgPHRyYW5zaXRpb24gZz0iLTM0LC0yMSIgbmFtZT0i54mp5rWB6YWN6LSnIiB0bz0i54mp5rWB5Lit5b+D6YWN6LSnIi8+CiAgIDwvdGFzaz4KPC9wcm9jZXNzPgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPHRyYW5zaXRpb24gdG89IuiuouWNleehruiupCIvPgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBqYnBtTWFwLnB1dChJQ29udGVudHMuUEFQRVIsIElDb250ZW50cy5ST0xFX0lOU1RSVU1FTlQgKyAiLSIgKyBkZXB0SWQpOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBqYnBtTWFwLnB1dChJQ29udGVudHMuUEFQRVIsIElDb250ZW50cy5ST0xFX0lOU1RSVU1FTlQgKyAiLSIgKyBkZXB0SWQpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLE9iamVjdD4gamJwbU1hcCA9IG5ldyBIYXNoTWFwPFN0cmluZywgT2JqZWN0PigpOwo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxsb2dnZXIgbmFtZT0iY29tLmliYXRpcyIgYWRkaXRpdml0eT0idHJ1ZSI+CiAgICAgICAgPGxldmVsIHZhbHVlPSJERUJVRyIvPgogICAgPC9sb2dnZXI+CiAgICA8bG9nZ2VyIG5hbWU9IkphdmEuc3FsIiBhZGRpdGl2aXR5PSJ0cnVlIj4KICAgICAgICA8bGV2ZWwgdmFsdWU9IkRFQlVHIi8+CiAgICA8L2xvZ2dlcj4K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbG9naXN0aWNzaWQ7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxsb2dnZXIgbmFtZT0iamF2YS5zcWwuU3RhdGVtZW50IiBhZGRpdGl2aXR5PSJ0cnVlIj4KICAgICAgICA8bGV2ZWwgdmFsdWU9IkRFQlVHIi8+CiAgICA8L2xvZ2dlcj4KICAgIDxsb2dnZXIgbmFtZT0iamF2YS5zcWwuUHJlcGFyZWRTdGF0ZW1lbnQiIGFkZGl0aXZpdHk9InRydWUiPgogICAgICAgIDxsZXZlbCB2YWx1ZT0iREVCVUciLz4KICAgIDwvbG9nZ2VyPgogICAgPGxvZ2dlciBuYW1lPSJqYXZhLnNxbC5SZXN1bHRTZXQiIGFkZGl0aXZpdHk9InRydWUiPgogICAgICAgIDxsZXZlbCB2YWx1ZT0iREVCVUciLz4KICAgIDwvbG9nZ2VyPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8YXBwZW5kZXItcmVmIHJlZj0iSUJhdGlzIi8+Cg==</text>
+        <text encoding="base64">ICAgPHRhc2sgYXNzaWduZWU9IiN7c3RvcmVtYW59IiBnPSIxMDcyLDc4LDEwMSw1MiIgbmFtZT0i5bqT566hIj4KICAgICAgPHRyYW5zaXRpb24gZz0iLTUwLC0yMiIgbmFtZT0i57uT5p2f6K6i5Y2VIiB0bz0iZW5kMSIvPgogICAgICA8dHJhbnNpdGlvbiBnPSIxMTIxLDUyOzY5NCw1MjotNDUsLTIzIiBuYW1lPSLnvLrotKfpgJrnn6UiIHRvPSLosIPluqbkuK3lv4PlrqHmoLgiLz4KICAgPC90YXNrPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -383,11 +397,11 @@
         <entry encoding="base64">JzwsJz5zLyNhLyNlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2ljb25HcmF5L2ljb25HcmVlbi9n</entry>
         <entry>vim</entry>
-        <entry>action $Redo</entry>
         <entry encoding="base64">JzwsJz5zL2dyaWQtbGF5bGEvc2VydmVyL2c=</entry>
         <entry>noh</entry>
         <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zL0VSUk9SL0RFQlVHL2c=</entry>
+        <entry>action $Redo</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
