@@ -89,8 +89,8 @@
       <file name="$USER_HOME$/Desktop/workspace/order-dealer/public/page/login.js" timestamp="1499304536626">
         <mark key="'" line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/jbpm/impl/JbpmManagerImpl.java" timestamp="1499596016750">
-        <mark key="'" line="170" column="27" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/jbpm/impl/JbpmManagerImpl.java" timestamp="1499597286263">
+        <mark key="'" line="104" column="56" />
       </file>
       <file name="$USER_HOME$/Desktop/workspace/order-dealer/lib/postgresql-9.1-901.jdbc4.jar!/org/postgresql/core/v3/QueryExecutorImpl.class" timestamp="1499227219047">
         <mark key="'" line="1410" column="21" />
@@ -137,6 +137,9 @@
         <mark key="." line="1" column="17" />
         <mark key="^" line="1" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/jbpm/impl/JbpmManagerImpl.java" timestamp="1499597405800">
+        <mark key="'" line="372" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1499588683179">
         <mark key="[" line="0" column="0" />
       </file>
@@ -153,7 +156,7 @@
       <file name="$USER_HOME$/Desktop/workspace/order-producer/app/controllers/regional/RegionalController.java" timestamp="1499316996339">
         <mark key="'" line="139" column="34" />
       </file>
-      <file name="/a.regexp" timestamp="1499596563409">
+      <file name="/a.regexp" timestamp="1499597553984">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1499592847438">
@@ -188,9 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="47" filename="$USER_HOME$/Desktop/workspace/order-dealer/conf/application-common.xml" />
-      <jump line="0" column="31" filename="$USER_HOME$/Desktop/workspace/order-dealer/conf/jdbc.properties" />
-      <jump line="3" column="0" filename="$USER_HOME$/Desktop/workspace/order-dealer/conf/jdbc.properties" />
       <jump line="13" column="53" filename="$USER_HOME$/Desktop/workspace/order-dealer/conf/application-beans.xml" />
       <jump line="40" column="0" filename="$USER_HOME$/Desktop/workspace/order-dealer/conf/application-beans.xml" />
       <jump line="1410" column="21" filename="$USER_HOME$/Desktop/workspace/order-dealer/lib/postgresql-9.1-901.jdbc4.jar!/org/postgresql/core/v3/QueryExecutorImpl.class" />
@@ -288,6 +288,9 @@
       <jump line="9" column="16" filename="$USER_HOME$/workspace/jinhui/order-producer/app/jbpm/impl/JbpmManagerImpl.java" />
       <jump line="226" column="27" filename="$USER_HOME$/workspace/jinhui/order-producer/app/jbpm/impl/JbpmManagerImpl.java" />
       <jump line="170" column="27" filename="$USER_HOME$/workspace/jinhui/order-producer/app/jbpm/impl/JbpmManagerImpl.java" />
+      <jump line="104" column="56" filename="$USER_HOME$/workspace/jinhui/order-producer/app/jbpm/impl/JbpmManagerImpl.java" />
+      <jump line="34" column="13" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/jbpm/impl/JbpmManagerImpl.java" />
+      <jump line="372" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/jbpm/impl/JbpmManagerImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -297,7 +300,7 @@
         <text>logisticsman</text>
       </register>
       <register name="/" type="4">
-        <text>findPerson</text>
+        <text>setVari</text>
       </register>
       <register name="0" type="4">
         <text>assignee</text>
@@ -334,9 +337,9 @@
       </register>
     </registers>
     <search>
-      <last-search>findPerson</last-search>
+      <last-search>setVari</last-search>
       <last-offset />
-      <last-pattern>findPerson</last-pattern>
+      <last-pattern>setVari</last-pattern>
       <last-replace>DEBUG</last-replace>
       <last-substitute>ERROR</last-substitute>
       <last-dir>1</last-dir>
@@ -344,8 +347,6 @@
     </search>
     <history>
       <history-search>
-        <entry>jpa</entry>
-        <entry>addr</entry>
         <entry>ERROR</entry>
         <entry>alertMsg</entry>
         <entry>orderDetail</entry>
@@ -364,6 +365,8 @@
         <entry>dispatch</entry>
         <entry>man</entry>
         <entry>findPerson</entry>
+        <entry>variable</entry>
+        <entry>setVari</entry>
       </history-search>
       <history-cmd>
         <entry>echo aa</entry>
