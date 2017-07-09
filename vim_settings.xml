@@ -19,15 +19,20 @@
       <file name="$USER_HOME$/workspace/yh_svr/src/main/java/com/yh/zhgp/controller/UserController.java" timestamp="1494682776848">
         <mark key="'" line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/jbpm-4.4/src/org/jbpm/pvm/internal/svc/TaskServiceImpl.java" timestamp="1499596180811" />
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/jbpm/org/order.jpdl.xml" timestamp="1499594305048">
         <mark key="[" line="21" column="21" />
         <mark key="]" line="21" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/jbpm/order.jpdl.xml" timestamp="1499594346915">
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/jbpm/order.jpdl.xml" timestamp="1499596562216">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="37" column="11" />
         <mark key="." line="34" column="0" />
         <mark key="^" line="31" column="28" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/jbpm/org/ordersub.jpdl.xml" timestamp="1499595811765">
+        <mark key="[" line="9" column="9" />
+        <mark key="]" line="9" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/yh_svr/src/main/webapp/assets/css/login.scss" timestamp="1494754833852">
         <mark key="'" line="568" column="0" />
@@ -84,7 +89,9 @@
       <file name="$USER_HOME$/Desktop/workspace/order-dealer/public/page/login.js" timestamp="1499304536626">
         <mark key="'" line="91" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/jbpm/impl/JbpmManagerImpl.java" timestamp="1499593484864" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/jbpm/impl/JbpmManagerImpl.java" timestamp="1499596016750">
+        <mark key="'" line="170" column="27" />
+      </file>
       <file name="$USER_HOME$/Desktop/workspace/order-dealer/lib/postgresql-9.1-901.jdbc4.jar!/org/postgresql/core/v3/QueryExecutorImpl.class" timestamp="1499227219047">
         <mark key="'" line="1410" column="21" />
       </file>
@@ -146,7 +153,7 @@
       <file name="$USER_HOME$/Desktop/workspace/order-producer/app/controllers/regional/RegionalController.java" timestamp="1499316996339">
         <mark key="'" line="139" column="34" />
       </file>
-      <file name="/a.regexp" timestamp="1499594085740">
+      <file name="/a.regexp" timestamp="1499596563409">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1499592847438">
@@ -181,12 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="27" filename="$USER_HOME$/Desktop/workspace/order-dealer/app/controllers/account/AccountBank.java" />
-      <jump line="77" column="0" filename="$USER_HOME$/Desktop/workspace/order-dealer/app/controllers/account/AccountBank.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Desktop/workspace/order-dealer/app/controllers/account/AccountBank.java" />
-      <jump line="85" column="37" filename="$USER_HOME$/Desktop/workspace/order-dealer/app/views/bank.scala.html" />
-      <jump line="5" column="37" filename="$USER_HOME$/Desktop/workspace/order-dealer/app/views/bank.scala.html" />
-      <jump line="15" column="42" filename="$USER_HOME$/Desktop/workspace/order-dealer/app/views/bank.scala.html" />
       <jump line="38" column="47" filename="$USER_HOME$/Desktop/workspace/order-dealer/conf/application-common.xml" />
       <jump line="0" column="31" filename="$USER_HOME$/Desktop/workspace/order-dealer/conf/jdbc.properties" />
       <jump line="3" column="0" filename="$USER_HOME$/Desktop/workspace/order-dealer/conf/jdbc.properties" />
@@ -281,6 +282,12 @@
       <jump line="158" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
       <jump line="17" column="8" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/config.properties" />
       <jump line="18" column="27" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
+      <jump line="239" column="82" filename="$USER_HOME$/workspace/jinhui/order-producer/app/jbpm/impl/JbpmManagerImpl.java" />
+      <jump line="36" column="24" filename="$USER_HOME$/workspace/jinhui/order-producer/app/jbpm/impl/JbpmManagerImpl.java" />
+      <jump line="37" column="44" filename="$USER_HOME$/workspace/jinhui/order-producer/app/jbpm/impl/JbpmManagerImpl.java" />
+      <jump line="9" column="16" filename="$USER_HOME$/workspace/jinhui/order-producer/app/jbpm/impl/JbpmManagerImpl.java" />
+      <jump line="226" column="27" filename="$USER_HOME$/workspace/jinhui/order-producer/app/jbpm/impl/JbpmManagerImpl.java" />
+      <jump line="170" column="27" filename="$USER_HOME$/workspace/jinhui/order-producer/app/jbpm/impl/JbpmManagerImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -290,10 +297,10 @@
         <text>logisticsman</text>
       </register>
       <register name="/" type="4">
-        <text>dispatch</text>
+        <text>findPerson</text>
       </register>
       <register name="0" type="4">
-        <text>dispatchman</text>
+        <text>assignee</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgPHRhc2sgYXNzaWduZWU9IiN7c3RvcmVtYW59IiBnPSIxMDcyLDc4LDEwMSw1MiIgbmFtZT0i5bqT566hIj4KICAgICAgPHRyYW5zaXRpb24gZz0iLTUwLC0yMiIgbmFtZT0i57uT5p2f6K6i5Y2VIiB0bz0iZW5kMSIvPgogICAgICA8dHJhbnNpdGlvbiBnPSIxMTIxLDUyOzY5NCw1MjotNDUsLTIzIiBuYW1lPSLnvLrotKfpgJrnn6UiIHRvPSLosIPluqbkuK3lv4PlrqHmoLgiLz4KICAgPC90YXNrPgo=</text>
@@ -327,9 +334,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dispatch</last-search>
+      <last-search>findPerson</last-search>
       <last-offset />
-      <last-pattern>dispatch</last-pattern>
+      <last-pattern>findPerson</last-pattern>
       <last-replace>DEBUG</last-replace>
       <last-substitute>ERROR</last-substitute>
       <last-dir>1</last-dir>
@@ -337,8 +344,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sql</entry>
-        <entry>showSql</entry>
         <entry>jpa</entry>
         <entry>addr</entry>
         <entry>ERROR</entry>
@@ -357,6 +362,8 @@
         <entry>dispatch\/check</entry>
         <entry>dispa</entry>
         <entry>dispatch</entry>
+        <entry>man</entry>
+        <entry>findPerson</entry>
       </history-search>
       <history-cmd>
         <entry>echo aa</entry>
