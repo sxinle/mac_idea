@@ -144,8 +144,10 @@
       <file name="$USER_HOME$/workspace/zest/src/main/java/zest/Test.java" timestamp="1481118892627">
         <mark key="'" line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" timestamp="1499588450392">
-        <mark key="'" line="158" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" timestamp="1499687997366">
+        <mark key="'" line="157" column="0" />
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="15" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/fxweb/src/main/java/com/acenode/fx/common/AppConfig.java" timestamp="1468592071425">
         <mark key="'" line="38" column="0" />
@@ -194,10 +196,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="0" filename="$USER_HOME$/Desktop/workspace/order-dealer/conf/application-beans.xml" />
-      <jump line="1410" column="21" filename="$USER_HOME$/Desktop/workspace/order-dealer/lib/postgresql-9.1-901.jdbc4.jar!/org/postgresql/core/v3/QueryExecutorImpl.class" />
-      <jump line="35" column="12" filename="$USER_HOME$/Desktop/workspace/order-dealer/lib/jbpm.jar!/org/jbpm/pvm/internal/cmd/CheckDbCmd.class" />
-      <jump line="44" column="8" filename="$USER_HOME$/Desktop/workspace/order-dealer/lib/jbpm.jar!/org/jbpm/pvm/internal/cmd/CheckDbCmd.class" />
       <jump line="23" column="47" filename="$USER_HOME$/Desktop/workspace/order-dealer/lib/jbpm.jar!/org/jbpm/pvm/internal/svc/DefaultCommandService.class" />
       <jump line="32" column="0" filename="$USER_HOME$/Desktop/workspace/order-dealer/lib/jbpm.jar!/org/jbpm/pvm/internal/svc/DefaultCommandService.class" />
       <jump line="60" column="11" filename="$USER_HOME$/Desktop/workspace/order-dealer/logs/application.log" />
@@ -280,8 +278,6 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/application.conf" />
       <jump line="61" column="16" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/application.conf" />
       <jump line="43" column="112" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
-      <jump line="158" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
       <jump line="17" column="8" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/config.properties" />
       <jump line="18" column="27" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="239" column="82" filename="$USER_HOME$/workspace/jinhui/order-producer/app/jbpm/impl/JbpmManagerImpl.java" />
@@ -294,6 +290,12 @@
       <jump line="34" column="13" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/jbpm/impl/JbpmManagerImpl.java" />
       <jump line="372" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/jbpm/impl/JbpmManagerImpl.java" />
       <jump line="303" column="5" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/CartServiceImpl.java" />
+      <jump line="7" column="27" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
+      <jump line="21" column="6" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
+      <jump line="158" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
+      <jump line="157" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -305,8 +307,8 @@
       <register name="/" type="4">
         <text>setVari</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIAkJSW50ZWdlciBkZXB0SWQgPSBjb21tU2VydmljZS5nZXREZXB0SWQodXNlci5nZXREZXB0SWQoKSxJQ29udGVudHMuREVQVF9DT0RFX0ZJTkFOQ0UpOwogICAgCQkvL+i9rOiHs+i0ouWKoQogICAgCQlqYnBtTWFwLnB1dChJQ29udGVudHMuRklOQU5DSUFMTUFOLElDb250ZW50cy5ST0xFX0ZJTkFOQ0UrIi0iK2RlcHRJZCk7Cg==</text>
+      <register name="0" type="4">
+        <text>orderOnline</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvL+i9rOiHs+i0ouWKoQo=</text>
