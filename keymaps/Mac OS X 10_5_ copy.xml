@@ -49,6 +49,10 @@
   </action>
   <action id="MinimizeCurrentWindow" />
   <action id="OverrideMethods" />
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
   <action id="RunToCursor">
     <keyboard-shortcut first-keystroke="alt f9" />
     <keyboard-shortcut first-keystroke="s" />
