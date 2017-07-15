@@ -117,6 +117,7 @@
         <mark key="." line="3" column="16" />
         <mark key="^" line="1" column="35" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/paper/PaperNewController.java" timestamp="1500088920003" />
       <file name="$USER_HOME$/Desktop/workspace/order-dealer/app/util/CommonUtils.java" timestamp="1499140227696">
         <mark key="'" line="167" column="27" />
       </file>
@@ -248,19 +249,26 @@
       <file name="$USER_HOME$/workspace/mp/static/lonlat.js" timestamp="1465637465622">
         <mark key="'" line="692" column="77" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/views/paperOrderDetailNew.scala.html" timestamp="1500089180772">
+        <mark key="'" line="44" column="24" />
+        <mark key="[" line="167" column="56" />
+        <mark key="]" line="167" column="61" />
+        <mark key="." line="167" column="61" />
+        <mark key="^" line="167" column="61" />
+      </file>
       <file name="$USER_HOME$/Desktop/workspace/order-dealer/conf/application-context.xml" timestamp="1499486837687">
         <mark key="'" line="16" column="46" />
       </file>
       <file name="/fragment.java" timestamp="1499593485802">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/RegionalServiceImpl.java" timestamp="1500089053328" />
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/pwd.txt" timestamp="1499592678178">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="2" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/application.conf" />
       <jump line="19" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/application.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/application.conf" />
       <jump line="62" column="12" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/application.conf" />
@@ -360,6 +368,7 @@
       <jump line="172" column="51" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/logisticsOrderDetail.scala.html" />
       <jump line="75" column="76" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql/SalesOrder.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/clear.sql" />
+      <jump line="44" column="24" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/paperOrderDetailNew.scala.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -369,10 +378,10 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>totalprice</text>
       </register>
       <register name="/" type="4">
-        <text>amount</text>
+        <text>dcount</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVsZXRlIGZyb20gamJwbTRfdGFzazsKZGVsZXRlIGZyb20gamJwbTRfdmFyaWFibGU7CmRlbGV0ZSBmcm9tIGpicG00X2xvYjsKZGVsZXRlIGZyb20gamJwbTRfZGVwbG95cHJvcDsKZGVsZXRlIGZyb20gamJwbTRfZGVwbG95bWVudDsKZGVsZXRlIGZyb20gb3JkZXJfaW5mbzsKZGVsZXRlIGZyb20gb3JkZXJfZGV0YWlsOwpkZWxldGUgZnJvbSBvcmRlcl9kZWFsaW5mbzsKZGVsZXRlIGZyb20gbG9naXN0aWNzX2luZm87CmRlbGV0ZSBmcm9tIGxvZ2lzdGljc19kZXRhaWw7Cg==</text>
@@ -409,17 +418,16 @@
       </register>
     </registers>
     <search>
-      <last-search>amount</last-search>
+      <last-search>dcount</last-search>
       <last-offset />
-      <last-pattern>amount</last-pattern>
+      <last-pattern>dcount</last-pattern>
       <last-replace>DEBUG</last-replace>
       <last-substitute>ERROR</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>order\/detailI</entry>
         <entry>order\/check</entry>
         <entry>dispatch\/check</entry>
         <entry>dispa</entry>
@@ -439,6 +447,7 @@
         <entry>store</entry>
         <entry>配货</entry>
         <entry>amount</entry>
+        <entry>dcount</entry>
       </history-search>
       <history-cmd>
         <entry>echo aa</entry>
