@@ -87,11 +87,12 @@
         <mark key="^" line="192" column="42" />
         <mark key="." line="192" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/views/logisticsOrderDetail.scala.html" timestamp="1500177872835">
-        <mark key="[" line="315" column="24" />
-        <mark key="]" line="316" column="37" />
-        <mark key="^" line="316" column="37" />
-        <mark key="." line="316" column="37" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/views/logisticsOrderDetail.scala.html" timestamp="1500178940527">
+        <mark key="'" line="316" column="77" />
+        <mark key="[" line="334" column="55" />
+        <mark key="]" line="334" column="56" />
+        <mark key="^" line="340" column="27" />
+        <mark key="." line="334" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/views/distributeConfirm.scala.html" timestamp="1500112374969">
         <mark key="'" line="96" column="82" />
@@ -103,12 +104,12 @@
       <file name="/JavaScript Console" timestamp="1499499291832">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/LogisticsServiceImpl.java" timestamp="1500177261601">
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/LogisticsServiceImpl.java" timestamp="1500179075767">
         <mark key="'" line="122" column="15" />
-        <mark key="[" line="286" column="0" />
-        <mark key="]" line="286" column="0" />
-        <mark key="." line="286" column="0" />
-        <mark key="^" line="283" column="13" />
+        <mark key="[" line="116" column="97" />
+        <mark key="]" line="116" column="101" />
+        <mark key="." line="116" column="101" />
+        <mark key="^" line="116" column="101" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/clear.sql" timestamp="1500112701509">
         <mark key="'" line="0" column="0" />
@@ -153,7 +154,7 @@
         <mark key="^" line="103" column="92" />
         <mark key="." line="103" column="92" />
       </file>
-      <file name="/a.regexp" timestamp="1500177262242">
+      <file name="/a.regexp" timestamp="1500179076246">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/OrderDetailServiceImpl.java" timestamp="1500098786495">
@@ -212,10 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="58" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/jbpm/order.jpdl.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/jbpm/order.jpdl.xml" />
-      <jump line="163" column="121" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
-      <jump line="165" column="141" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="30" column="115" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="300" column="40" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/regionalOrderModify.scala.html" />
       <jump line="144" column="79" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/salesOrderDetail.scala.html" />
@@ -312,6 +309,10 @@
       <jump line="116" column="82" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql/Logistics.xml" />
       <jump line="147" column="84" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql/Logistics.xml" />
       <jump line="184" column="76" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql/Logistics.xml" />
+      <jump line="313" column="69" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/logisticsOrderDetail.scala.html" />
+      <jump line="314" column="69" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/logisticsOrderDetail.scala.html" />
+      <jump line="315" column="73" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/logisticsOrderDetail.scala.html" />
+      <jump line="316" column="77" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/logisticsOrderDetail.scala.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -321,57 +322,56 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>salesMan</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>resultType</text>
+        <text>carcode</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0ZCBjb2xzcGFuPSI3IiB2YWxpZ249Im1pZGRsZSI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJCgnI2NhcmNvZGUnKS52YWwoQGNhcnMuaGVhZC5nZXQoImNhcmNvZGUiKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmdW5jdGlvbiAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzY3JpcHQ+CiAgICAgICAgICAgICAgICA8L3NjcmlwdD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJCgnI2NhcmNvZGUnKS52YWwoJ0BjYXJzLmhlYWQuZ2V0KCJjYXJjb2RlIiknKTsKICAgICAgICAgICAgICAgICAgICAgICAgJCgnI3NlbmRtYW4nKS52YWwoJ0BjYXJzLmhlYWQuZ2V0KCJzZW5kbWFuIiknKTsKICAgICAgICAgICAgICAgICAgICAgICAgJCgnI3NlbmRwaG9uZScpLnZhbCgnQGNhcnMuaGVhZC5nZXQoInNlbmRwaG9uZSIpJyk7CiAgICAgICAgICAgICAgICAgICAgICAgICQoJyNzZW5kY29tcGFueScpLnZhbCgnQGNhcnMuaGVhZC5nZXQoInNlbmRjb21wYW55IiknKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbGVydChAY2Fycy5nZXQoImNhcmNvZGUiKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzY3JpcHQ+CiAgICAgICAgICAgICAgICAgICAgICAgIGZ1bmN0aW9uIGNhckNoYW5nZShjYXJTdHIpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHZhciB2YWxzID0gY2FyU3RyLnNwbGl0KCItIik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCcjY2FyY29kZScpLnZhbCh2YWxzWzBdKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICQoJyNzZW5kbWFuJykudmFsKHZhbHNbMV0pOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgJCgnI3NlbmRwaG9uZScpLnZhbCh2YWxzWzJdKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICQoJyNzZW5kY29tcGFueScpLnZhbCh2YWxzWzRdKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAkKCcjY2FyY29kZScpLnZhbCgnQGNhcnMuaGVhZC5nZXQoImNhcmNvZGUiKScpOwogICAgICAgICAgICAgICAgICAgICAgICAkKCcjc2VuZG1hbicpLnZhbCgnQGNhcnMuaGVhZC5nZXQoInNlbmRtYW4iKScpOwogICAgICAgICAgICAgICAgICAgICAgICAkKCcjc2VuZHBob25lJykudmFsKCdAY2Fycy5oZWFkLmdldCgic2VuZHBob25lIiknKTsKICAgICAgICAgICAgICAgICAgICAgICAgJCgnI3NlbmRjb21wYW55JykudmFsKCdAY2Fycy5oZWFkLmdldCgic2VuZGNvbXBhbnkiKScpOwogICAgICAgICAgICAgICAgPC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzY3JpcHQ+CiAgICAgICAgICAgICAgICAgICAgZnVuY3Rpb24gY2FyQ2hhbmdlKGNhclN0cikgewogICAgICAgICAgICAgICAgICAgICAgICB2YXIgdmFscyA9IGNhclN0ci5zcGxpdCgiLSIpOwogICAgICAgICAgICAgICAgICAgICAgICAkKCcjY2FyY29kZScpLnZhbCh2YWxzWzBdKTsKICAgICAgICAgICAgICAgICAgICAgICAgJCgnI3NlbmRtYW4nKS52YWwodmFsc1sxXSk7CiAgICAgICAgICAgICAgICAgICAgICAgICQoJyNzZW5kcGhvbmUnKS52YWwodmFsc1syXSk7CiAgICAgICAgICAgICAgICAgICAgICAgICQoJyNzZW5kY29tcGFueScpLnZhbCh2YWxzWzRdKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICA8L3NjcmlwdD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQGlmKGNhcnMuc2l6ZSA+IDApIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHRyIGNsYXNzPSJzaGVuaGUiPgogICAgICAgICAgICAgICAgPHRkIGNvbHNwYW49IjciIHZhbGlnbj0ibWlkZGxlIj4KICAgICAgICAgICAgICAgICAgICDovabniYzlj7fvvJo8aW5wdXQgdHlwZT0idGV4dCIgc3R5bGU9IndpZHRoOiAxMDBweDsKICAgICAgICAgICAgICAgICAgICBoZWlnaHQ6IDI1cHgiIGlkPSJjYXJjb2RlIi8+CiAgICAgICAgICAgICAgICAgICAg5om/6L+Q5Lq677yaPGlucHV0IHR5cGU9InRleHQiIHN0eWxlPSJ3aWR0aDogMTAwcHg7CiAgICAgICAgICAgICAgICAgICAgaGVpZ2h0OiAyNXB4IiBpZD0ic2VuZG1hbiIvPgogICAgICAgICAgICAgICAgICAgIOaJv+i/kOS6uueUteivne+8mjxpbnB1dCB0eXBlPSJ0ZXh0IiBzdHlsZT0id2lkdGg6IDEwMHB4OwogICAgICAgICAgICAgICAgICAgIGhlaWdodDogMjVweCIgaWQ9InNlbmRwaG9uZSIvPgogICAgICAgICAgICAgICAgICAgIOaJv+i/kOWFrOWPuO+8mjxpbnB1dCB0eXBlPSJ0ZXh0IiBzdHlsZT0id2lkdGg6IDIwMHB4OwogICAgICAgICAgICAgICAgICAgIGhlaWdodDogMjVweCIgaWQ9InNlbmRjb21wYW55Ii8+CiAgICAgICAgICAgICAgICA8L3RkPgogICAgICAgICAgICA8L3RyPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmdW5jdGlvbiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxzY3JpcHQ+CiAgICAgICAgICAgICAgICA8L3NjcmlwdD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>resultType</last-search>
+      <last-search>carcode</last-search>
       <last-offset />
-      <last-pattern>resultType</last-pattern>
+      <last-pattern>carcode</last-pattern>
       <last-replace>sendcompany</last-replace>
-      <last-substitute>sendphone</last-substitute>
+      <last-substitute>carcode</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>distributeCon</entry>
         <entry>orderdetail</entry>
         <entry>配货单号</entry>
         <entry>配货</entry>
@@ -391,11 +391,9 @@
         <entry>insert into</entry>
         <entry>INSERT INTO</entry>
         <entry>resultType</entry>
+        <entry>carcode</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5TLy4vXC9cLy9n</entry>
-        <entry encoding="base64">JzwsJz5zLyIvJy8vZw==</entry>
-        <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry encoding="base64">JzwsJz5zL0V2ZW50UmV0L1N0cmVldFJlcS9n</entry>
         <entry encoding="base64">JzwsJz5zL0V2ZW50UmVxL1N0cmVldFJlcS9n</entry>
         <entry encoding="base64">JzwsJz5zL2V2ZW50UmVxL3N0cmVldFJlcS9n</entry>
@@ -412,6 +410,9 @@
         <entry encoding="base64">JzwsJz5zL0RpZmYvQ2hhbmdlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3NlbmRtYW4vc2VuZHBob25lL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3NlbmRwaG9uZS9zZW5kY29tcGFueS9n</entry>
+        <entry encoding="base64">JzwsJz5zL2NhcmNvZGUvc2VuZG1hbi9n</entry>
+        <entry encoding="base64">JzwsJz5zL2NhcmNvZGUvc2VuZHBob25lL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2NhcmNvZGUvc2VuZGNvbXBhbnkvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
