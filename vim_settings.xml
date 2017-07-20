@@ -10,16 +10,6 @@
         <mark key="^" line="99" column="76" />
         <mark key="." line="99" column="76" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" timestamp="1500530385661">
-        <mark key="[" line="3" column="15" />
-        <mark key="]" line="3" column="16" />
-        <mark key="." line="3" column="16" />
-      </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/jbpm/prizeorder.jpdl.xml" timestamp="1500387164299">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="10" column="10" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/CartService.java" timestamp="1500513901582" />
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/MyOrderServiceImpl.java" timestamp="1500115720839">
         <mark key="'" line="86" column="50" />
@@ -128,6 +118,9 @@
         <mark key="^" line="2" column="20" />
         <mark key="." line="3" column="16" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/util/RedisUtil.java" timestamp="1500531430228">
+        <mark key="'" line="116" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/public/statics/orderOnline.js" timestamp="1500514330811">
         <mark key="'" line="14" column="0" />
       </file>
@@ -170,9 +163,9 @@
         <mark key="." line="122" column="26" />
         <mark key="^" line="122" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/clear.sql" timestamp="1500529399388">
-        <mark key="'" line="20" column="31" />
-        <mark key="[" line="27" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/clear.sql" timestamp="1500532073996">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="29" column="63" />
         <mark key="^" line="29" column="63" />
         <mark key="." line="29" column="63" />
@@ -258,9 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/alterDB.sql" />
-      <jump line="5" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/alterDB.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/alterDB.sql" />
       <jump line="82" column="4" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
       <jump line="121" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="121" column="43" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/LogisticsServiceImpl.java" />
@@ -335,7 +325,6 @@
       <jump line="10" column="9" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/jbpm/prizeorder.jpdl.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/jbpm/prizeorder.jpdl.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/jbpm/prizeorder.jpdl.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/clear.sql" />
       <jump line="16" column="31" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/interFlowDetail.scala.html" />
       <jump line="84" column="11" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/interFlowDetail.scala.html" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/public/statics/interFlowDetail.js" />
@@ -358,6 +347,10 @@
       <jump line="20" column="31" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/clear.sql" />
       <jump line="0" column="41" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/jdbc.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" />
+      <jump line="116" column="18" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/RedisUtil.java" />
+      <jump line="12" column="26" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/clear.sql" />
+      <jump line="10" column="28" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/clear.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/clear.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -373,7 +366,7 @@
         <text>kong.jpg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">amRiYy5kcml2ZXJDbGFzc05hbWU9b3JnLnBvc3RncmVzcWwuRHJpdmVyCmpkYmMudXJsPWpkYmM6cG9zdGdyZXNxbDovLzE5Mi4xNjguMi42OTo1NDMyL2piX3Byb2QKamRiYy51c2VybmFtZT1qYl9wcm9kCmpkYmMucGFzc3dvcmQ9amJfcHJvZAo=</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gb3JkZXJfaW5mbzsKZGVsZXRlIGZyb20gb3JkZXJfZGV0YWlsOwpkZWxldGUgZnJvbSBvcmRlcl9kZWFsaW5mbzsKZGVsZXRlIGZyb20gbG9naXN0aWNzX2luZm87CmRlbGV0ZSBmcm9tIGxvZ2lzdGljc19kZXRhaWw7CmRlbGV0ZSBmcm9tIGFjY291bnRfbG9nOwoKZGVsZXRlIGZyb20gamJwbTRfdGFzazsKZGVsZXRlIGZyb20gamJwbTRfdmFyaWFibGU7CmRlbGV0ZSBmcm9tIGpicG00X2xvYjsKZGVsZXRlIGZyb20gamJwbTRfZGVwbG95cHJvcDsKZGVsZXRlIGZyb20gamJwbTRfZGVwbG95bWVudDsKZGVsZXRlIGZyb20gamJwbTRfdmFyaWFibGU7CmRlbGV0ZSBmcm9tIGpicG00X2V4ZWN1dGlvbjsKZGVsZXRlIGZyb20gamJwbTRfaGlzdF9hY3RpbnN0OwpkZWxldGUgZnJvbSBqYnBtNF9oaXN0X2RldGFpbDsKZGVsZXRlIGZyb20gamJwbTRfaGlzdF9wcm9jaW5zdDsKZGVsZXRlIGZyb20gamJwbTRfaGlzdF90YXNrOwpkZWxldGUgZnJvbSBqYnBtNF9oaXN0X3ZhcjsKZGVsZXRlIGZyb20gamJwbTRfaWRfZ3JvdXA7CmRlbGV0ZSBmcm9tIGpicG00X2lkX21lbWJlcnNoaXA7CmRlbGV0ZSBmcm9tIGpicG00X2lkX3VzZXI7CmRlbGV0ZSBmcm9tIGpicG00X3BhcnRpY2lwYXRpb247CmRlbGV0ZSBmcm9tIGpicG00X3Byb3BlcnR5OwpkZWxldGUgZnJvbSBqYnBtNF9sb2I7CmRlbGV0ZSBmcm9tIGpicG00X3N3aW1sYW5lOwoKLS0g5a+G56CB5L+u5pS55Li6MTIzNDU2CnVwZGF0ZSB1c2VyX2luZm8gc2V0IHBhc3M9J2UxMGFkYzM5NDliYTU5YWJiZTU2ZTA1N2YyMGY4ODNlJzsKdXBkYXRlIGN1c3RvbWVyX2luZm8gc2V0IHB3ZD0nZTEwYWRjMzk0OWJhNTlhYmJlNTZlMDU3ZjIwZjg4M2UnOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">amRiYy5kcml2ZXJDbGFzc05hbWU9b3JnLnBvc3RncmVzcWwuRHJpdmVyCmpkYmMudXJsPWpkYmM6cG9zdGdyZXNxbDovLzEyNy4wLjAuMTo1NDMyL2ppbmh1aQpqZGJjLnVzZXJuYW1lPWppbmh1aQpqZGJjLnBhc3N3b3JkPWFkbWluCg==</text>
