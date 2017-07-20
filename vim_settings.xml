@@ -10,12 +10,12 @@
         <mark key="^" line="99" column="76" />
         <mark key="." line="99" column="76" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" timestamp="1500535149826">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" timestamp="1500538110093">
+        <mark key="'" line="9" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="8" column="21" />
-        <mark key="^" line="6" column="39" />
-        <mark key="." line="6" column="39" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/jbpm/prizeorder.jpdl.xml" timestamp="1500387164299">
         <mark key="[" line="0" column="0" />
@@ -267,7 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="29" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql/Logistics.xml" />
       <jump line="71" column="33" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql/Logistics.xml" />
       <jump line="82" column="33" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql/Logistics.xml" />
       <jump line="190" column="12" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql/Logistics.xml" />
@@ -367,6 +366,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/jdbc.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/clear.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/pwd.txt" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -384,26 +384,29 @@
       <register name="0" type="4">
         <text>2015050342</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">CuWIhumUgOWVhuS4i+WNlQoyMDE3MDQxMzY5NDYvMTExMTExIChjdXN0aWQgIDY5NDYpCgoK5Lia5Yqh5ZGYIArlsYjmtIsgcXkgMTIzNDU2CgrlpKfljLrnpajmja4KemhmCgrosIPluqYKaHNnCgrotKLliqHlrqHmoLgKc3JoCgrplIDllK7npajmja4KenhwCgrnianmtYHkuK3lv4PosIPluqYKdHQKCuS7k+W6kwpzeWYKcHIKYmpkcQpobQp5cQpjeHcKaGwKenBwCndoYgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">amRiYy5kcml2ZXJDbGFzc05hbWU9b3JnLnBvc3RncmVzcWwuRHJpdmVyCmpkYmMudXJsPWpkYmM6cG9zdGdyZXNxbDovLzEyNy4wLjAuMTo1NDMyL2ppbmh1aQpqZGJjLnVzZXJuYW1lPWppbmh1aQpqZGJjLnBhc3N3b3JkPWFkbWluCg==</text>
-      </register>
-      <register name="4" type="4">
+      <register name="1" type="4">
         <text>jdbc.driverClassName=org.postgresql.Driver
 jdbc.url=jdbc:postgresql://127.0.0.1:5432/jinhui
 jdbc.username=jinhui
 jdbc.password=admin</text>
       </register>
-      <register name="5" type="2">
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CuWIhumUgOWVhuS4i+WNlQoyMDE3MDQxMzY5NDYvMTExMTExIChjdXN0aWQgIDY5NDYpCgoK5Lia5Yqh5ZGYIArlsYjmtIsgcXkgMTIzNDU2CgrlpKfljLrnpajmja4KemhmCgrosIPluqYKaHNnCgrotKLliqHlrqHmoLgKc3JoCgrplIDllK7npajmja4KenhwCgrnianmtYHkuK3lv4PosIPluqYKdHQKCuS7k+W6kwpzeWYKcHIKYmpkcQpobQp5cQpjeHcKaGwKenBwCndoYgo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">amRiYy5kcml2ZXJDbGFzc05hbWU9b3JnLnBvc3RncmVzcWwuRHJpdmVyCmpkYmMudXJsPWpkYmM6cG9zdGdyZXNxbDovLzEyNy4wLjAuMTo1NDMyL2ppbmh1aQpqZGJjLnVzZXJuYW1lPWppbmh1aQpqZGJjLnBhc3N3b3JkPWFkbWluCg==</text>
       </register>
+      <register name="5" type="4">
+        <text>jdbc.driverClassName=org.postgresql.Driver
+jdbc.url=jdbc:postgresql://127.0.0.1:5432/jinhui
+jdbc.username=jinhui
+jdbc.password=admin</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">amRiYy5kcml2ZXJDbGFzc05hbWU9b3JnLnBvc3RncmVzcWwuRHJpdmVyCmpkYmMudXJsPWpkYmM6cG9zdGdyZXNxbDovLzEyNy4wLjAuMTo1NDMyL2ppbmh1aQpqZGJjLnVzZXJuYW1lPWppbmh1aQpqZGJjLnBhc3N3b3JkPWFkbWluCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
