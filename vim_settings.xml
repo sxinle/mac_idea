@@ -77,12 +77,12 @@
         <mark key="." line="124" column="34" />
         <mark key="^" line="124" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/public/page/addr.js" timestamp="1500779846917">
-        <mark key="'" line="366" column="49" />
-        <mark key="[" line="424" column="47" />
-        <mark key="]" line="424" column="47" />
-        <mark key="^" line="424" column="47" />
-        <mark key="." line="424" column="47" />
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/public/page/addr.js" timestamp="1500784126840">
+        <mark key="'" line="460" column="54" />
+        <mark key="[" line="453" column="122" />
+        <mark key="]" line="454" column="52" />
+        <mark key="^" line="454" column="52" />
+        <mark key="." line="454" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/public/statics/commonHeader.js" timestamp="1500711866554">
         <mark key="[" line="85" column="61" />
@@ -288,8 +288,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="110" column="20" filename="$USER_HOME$/workspace/jinhui/order-producer/.idea/workspace.xml" />
-      <jump line="116" column="11" filename="$USER_HOME$/workspace/jinhui/order-producer/.idea/workspace.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/.idea/workspace.xml" />
       <jump line="161" column="6" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/views/orderOnline.scala.html" />
@@ -388,6 +386,8 @@
       <jump line="229" column="32" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/views/addr.scala.html" />
       <jump line="82" column="14" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/addr/AddrController.java" />
       <jump line="242" column="71" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/views/addr.scala.html" />
+      <jump line="451" column="88" filename="$USER_HOME$/workspace/jinhui/order-dealer/public/page/addr.js" />
+      <jump line="460" column="54" filename="$USER_HOME$/workspace/jinhui/order-dealer/public/page/addr.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -397,10 +397,10 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>p.getProductPrice</text>
+        <text>' + '</text>
       </register>
       <register name="/" type="4">
-        <text>addr</text>
+        <text>,</text>
       </register>
       <register name="0" type="4">
         <text>￥</text>
@@ -433,22 +433,20 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz5zLywvXG5cci9n</text>
       </register>
     </registers>
     <search>
-      <last-search>addr</last-search>
+      <last-search>,</last-search>
       <last-offset />
-      <last-pattern>addr</last-pattern>
-      <last-replace>\t</last-replace>
-      <last-substitute encoding="base64">IA==</last-substitute>
+      <last-pattern>,</last-pattern>
+      <last-replace>\n\r</last-replace>
+      <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>cartClick</entry>
-        <entry>modify</entry>
         <entry>经销商</entry>
         <entry>去结算</entry>
         <entry>statis</entry>
@@ -467,10 +465,10 @@
         <entry encoding="base64">XDznrYnlvoXnpajmja7lrqHmoLhcPg==</entry>
         <entry>确定</entry>
         <entry>addr</entry>
+        <entry>r</entry>
+        <entry>,</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2V2ZW50UmVxL3N0cmVldFJlcS9n</entry>
-        <entry encoding="base64">JzwsJz5zL1N0cmVldFJlcS9TdHJlZXRQb2ludFJlcS9n</entry>
         <entry encoding="base64">JzwsJz5zL3N0cmVldFJlcS9zdHJlZXRQb2ludFJlcS9n</entry>
         <entry encoding="base64">JzwsJz5zLyNhLyNlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2ljb25HcmF5L2ljb25HcmVlbi9n</entry>
@@ -489,6 +487,8 @@
         <entry encoding="base64">JzwsJz5zLyAvXHQvZw==</entry>
         <entry>nohl</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz5zLywvXG4vZw==</entry>
+        <entry encoding="base64">JzwsJz5zLywvXG5cci9n</entry>
       </history-cmd>
       <history-expr />
       <history-input />
