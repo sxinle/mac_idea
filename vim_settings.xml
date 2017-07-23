@@ -70,8 +70,12 @@
         <mark key="." line="124" column="34" />
         <mark key="^" line="124" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/public/page/addr.js" timestamp="1500302196103">
-        <mark key="'" line="88" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/public/page/addr.js" timestamp="1500779846917">
+        <mark key="'" line="366" column="49" />
+        <mark key="[" line="424" column="47" />
+        <mark key="]" line="424" column="47" />
+        <mark key="^" line="424" column="47" />
+        <mark key="." line="424" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/public/statics/commonHeader.js" timestamp="1500711866554">
         <mark key="[" line="85" column="61" />
@@ -264,7 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="315" column="73" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/logisticsOrderDetail.scala.html" />
       <jump line="316" column="77" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/logisticsOrderDetail.scala.html" />
       <jump line="15" column="40" filename="$USER_HOME$/workspace/jinhui/order-producer/.idea/workspace.xml" />
       <jump line="117" column="11" filename="$USER_HOME$/workspace/jinhui/order-producer/.idea/workspace.xml" />
@@ -364,6 +367,7 @@
       <jump line="65" column="6" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
       <jump line="123" column="27" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/distributeDetail.scala.html" />
       <jump line="34" column="6" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/dispatch/DispatchOrderController.java" />
+      <jump line="366" column="49" filename="$USER_HOME$/workspace/jinhui/order-dealer/public/page/addr.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -376,7 +380,7 @@
         <text>票据审核</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDznrYnlvoXnpajmja7lrqHmoLhcPg==</text>
+        <text>确定</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN0ciA9IHN0ciArICcgIDx0ZCB3aWR0aD0iMTIwIj7nrYnlvoXnpajmja7lrqHmoLg8L3RkPic7Cg==</text>
@@ -413,17 +417,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDznrYnlvoXnpajmja7lrqHmoLhcPg==</last-search>
+      <last-search>确定</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDznrYnlvoXnpajmja7lrqHmoLhcPg==</last-pattern>
+      <last-pattern>确定</last-pattern>
       <last-replace>\t</last-replace>
       <last-substitute encoding="base64">IA==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>addC</entry>
         <entry>addCart</entry>
         <entry>cartClick</entry>
         <entry>modify</entry>
@@ -443,6 +446,7 @@
         <entry>imagePath</entry>
         <entry>common</entry>
         <entry encoding="base64">XDznrYnlvoXnpajmja7lrqHmoLhcPg==</entry>
+        <entry>确定</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2V2ZW50UmVxL3N0cmVldFJlcS9n</entry>
