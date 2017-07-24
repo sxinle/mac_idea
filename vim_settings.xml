@@ -263,6 +263,11 @@
         <mark key="^" line="161" column="56" />
         <mark key="." line="165" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/application.conf" timestamp="1500879520860">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="68" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1500786253687">
         <mark key="'" line="255" column="113" />
         <mark key="[" line="121" column="0" />
@@ -315,7 +320,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="457" column="24" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/cart.scala.html" />
       <jump line="271" column="116" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="184" column="34" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/common/CommonController.java" />
       <jump line="34" column="6" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/cart/CartController.java" />
@@ -415,6 +419,7 @@
       <jump line="100" column="40" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/LogisticsServiceImpl.java" />
       <jump line="101" column="37" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/LogisticsServiceImpl.java" />
       <jump line="102" column="39" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/LogisticsServiceImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/application.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -430,7 +435,7 @@
         <text>send</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I+efreS/oee9keWFswpzcC5hZGRyPWh0dHA6Ly80Mi45Ni4xNDkuNDc6MTA4Ni9zZGsvQmF0Y2hTZW5kLmFzcHgKQ29ycElEID1hc2RrMjI3OApQd2Q9amluaHVpaml1aWFkbWluCg==</text>
+        <text encoding="base64">IyBSb290IGxvZ2dlcjoKbG9nZ2VyLnJvb3Q9REVCVUcKCiMgTG9nZ2VyIHVzZWQgYnkgdGhlIGZyYW1ld29yazoKbG9nZ2VyLnBsYXk9REVCVUcKCiMgTG9nZ2VyIHByb3ZpZGVkIHRvIHlvdXIgYXBwbGljYXRpb246CmxvZ2dlci5hcHBsaWNhdGlvbj1ERUJVRwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">I0ZUUOacjeWKoeWZqOmFjee9ruS/oeaBrwpmdHAuaG9zdG5hbWU9MTI3LjAuMC4xCmZ0cC5wb3J0PTIxCmZ0cC51c2VybmFtZT1mdHB1c2VyCmZ0cC5wYXNzd29yZD1BMTFfMmVOZGUzCg==</text>
