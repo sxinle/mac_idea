@@ -124,10 +124,10 @@
         <mark key="^" line="32" column="40" />
         <mark key="." line="32" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/config.properties" timestamp="1500793648545">
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/config.properties" timestamp="1500856317134">
         <mark key="'" line="7" column="15" />
-        <mark key="[" line="17" column="13" />
-        <mark key="]" line="17" column="24" />
+        <mark key="[" line="19" column="15" />
+        <mark key="]" line="19" column="26" />
         <mark key="." line="17" column="13" />
         <mark key="^" line="14" column="21" />
       </file>
@@ -194,8 +194,8 @@
       <file name="/JavaScript Console" timestamp="1499499291832">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/LogisticsServiceImpl.java" timestamp="1500790909018">
-        <mark key="'" line="139" column="15" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/LogisticsServiceImpl.java" timestamp="1500856159974">
+        <mark key="'" line="102" column="39" />
         <mark key="[" line="129" column="0" />
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
@@ -208,7 +208,6 @@
         <mark key="^" line="29" column="63" />
         <mark key="." line="29" column="63" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/order/OrderDetailContoller.java" timestamp="1500778600763" />
       <file name="$USER_HOME$/workspace/jinhui/order-producer/public/statics/interFlowDetail.js" timestamp="1500388780460">
         <mark key="'" line="0" column="0" />
       </file>
@@ -249,7 +248,6 @@
         <mark key="." line="167" column="31" />
         <mark key="^" line="167" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/CommonServiceImpl.java" timestamp="1500785166367" />
       <file name="/a.regexp" timestamp="1500790759843">
         <mark key="[" line="0" column="0" />
       </file>
@@ -318,9 +316,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="311" column="24" filename="$USER_HOME$/workspace/jinhui/order-dealer/lib/jedis-2.4.2.jar!/redis/clients/jedis/Jedis.class" />
-      <jump line="88" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/public/page/addr.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/statisticsOrder.scala.html" />
       <jump line="457" column="24" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/cart.scala.html" />
       <jump line="271" column="116" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="184" column="34" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/common/CommonController.java" />
@@ -418,6 +413,9 @@
       <jump line="298" column="32" filename="$USER_HOME$/workspace/jinhui/order-producer/app/util/CommonUtils.java" />
       <jump line="314" column="26" filename="$USER_HOME$/workspace/jinhui/order-producer/app/util/CommonUtils.java" />
       <jump line="7" column="15" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/config.properties" />
+      <jump line="100" column="40" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/LogisticsServiceImpl.java" />
+      <jump line="101" column="37" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/LogisticsServiceImpl.java" />
+      <jump line="102" column="39" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/LogisticsServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -433,7 +431,7 @@
         <text>send</text>
       </register>
       <register name="0" type="4">
-        <text>Ht3gl_cl1w_a</text>
+        <text>42.96.149.47</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
