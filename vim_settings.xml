@@ -144,10 +144,10 @@
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/lib/jedis-2.4.2.jar!/redis/clients/jedis/Jedis.class" timestamp="1500299683382">
         <mark key="'" line="311" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" timestamp="1501049853601">
-        <mark key="'" line="54" column="13" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" timestamp="1501051256028">
+        <mark key="'" line="156" column="36" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="23" />
         <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/.idea/workspace.xml" timestamp="1500386877668">
@@ -285,7 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="48" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/cart/CartController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/application-context.xml" />
       <jump line="78" column="4" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/application-context.xml" />
       <jump line="9" column="23" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/clear.sql" />
@@ -385,6 +384,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/pwd.txt" />
       <jump line="93" column="50" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
       <jump line="54" column="13" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
+      <jump line="156" column="36" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -400,7 +400,7 @@
         <text>托管</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">57uP6ZSA5ZWG55m76ZmG77yaaHR0cDovLzExMS40LjExNy43MTo5MDAxLwrlhazlj7jogYzlt6XnmbvpmYbvvJpodHRwOi8vMTExLjQuMTE3LjcxOjkwMDIvCgo8IS0tIOeZu+mZhuWvhueggemDveaYr++8mjEyMzQ1NiAtLT4K57uP6ZSA5ZWGOgkyMDE1MDUwMzQyCjE65aSn5Yy65Lia5YqhCWdyCjI65aSn5Yy656Wo5o2uCWpiZgozOuiwg+W6puS4reW/gwl3bHEKNDrotKLliqHpg6gJICAgIGx5CjU66ZSA5ZSu56Wo5o2uCWx6dwo2OueJqea1geiwg+W6pgl3eQo3OuW6k+euoSjlhbDlt57lupPvvJpzeWYgICDkuK3lv4PlupPvvJpsaXVqKQoK5aWW6L+U5Yip44CB5pCt6LWg44CB5YaF6YOo55So6YWS44CB5Lia5Yqh55So6YWS5LiL5Y2V77yM6YCJ5oup57uP6ZSA5ZWG5Zyw5Z2A5pe277yM6YCJ5oupICAi5b695Y6/6YeR5bu65ZWG6LS45pyJ6ZmQ5YWs5Y+4IiAo5Y+q5pyJ6L+Z5Liq57uP6ZSA5ZWG5pyJ5Zyw5Z2A5L+h5oGvKQo=</text>
+        <text encoding="base64">aW1wb3J0IHZpZXdzLmh0bWwuY2FydDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSBiYW5rVHlwZSAg6ZO26KGM5qCH6K+GCiAgICAgKiBAcGFyYW0gbWFwICDlhYXlgLzlj4LmlbAK</text>
