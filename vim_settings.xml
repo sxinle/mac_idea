@@ -17,6 +17,7 @@
       <file name="$USER_HOME$/workspace/jinhui/anti/app/util/CommonUtils.java" timestamp="1501125457071">
         <mark key="'" line="279" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/anti/app/controllers/makecode/MakeCodeController.java" timestamp="1501144255161" />
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/application.conf" timestamp="1501048570494">
         <mark key="'" line="69" column="0" />
       </file>
@@ -49,12 +50,12 @@
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/util/CommonUtils.java" timestamp="1500787588784">
         <mark key="'" line="314" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/anti/conf/config.properties" timestamp="1501142983347">
+      <file name="$USER_HOME$/workspace/jinhui/anti/conf/config.properties" timestamp="1501143798523">
         <mark key="'" line="3" column="19" />
-        <mark key="[" line="0" column="20" />
-        <mark key="]" line="0" column="20" />
-        <mark key="." line="0" column="20" />
-        <mark key="^" line="0" column="20" />
+        <mark key="[" line="0" column="25" />
+        <mark key="]" line="0" column="29" />
+        <mark key="." line="0" column="29" />
+        <mark key="^" line="0" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/views/distributeDetail.scala.html" timestamp="1500115209009">
         <mark key="'" line="0" column="0" />
@@ -170,8 +171,12 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/anti/app/service/impl/MakeCodeServiceImpl.java" timestamp="1501134712875">
-        <mark key="'" line="641" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/anti/app/service/impl/MakeCodeServiceImpl.java" timestamp="1501145495251">
+        <mark key="'" line="495" column="31" />
+        <mark key="[" line="537" column="88" />
+        <mark key="]" line="537" column="88" />
+        <mark key="^" line="537" column="88" />
+        <mark key="." line="537" column="88" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/views/logisticsOrderDetail.scala.html" timestamp="1500178940527">
         <mark key="'" line="316" column="77" />
@@ -216,8 +221,8 @@
         <mark key="." line="129" column="0" />
         <mark key="^" line="116" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/anti/conf/routes" timestamp="1501141209269">
-        <mark key="'" line="509" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/anti/conf/routes" timestamp="1501144242926">
+        <mark key="'" line="73" column="62" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/clear.sql" timestamp="1500710548414">
         <mark key="'" line="0" column="0" />
@@ -325,10 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" />
-      <jump line="5" column="41" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" />
-      <jump line="3" column="18" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" />
-      <jump line="1" column="19" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/jdbc.properties" />
       <jump line="9" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/jdbc.properties" />
       <jump line="2" column="4" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/pwd.txt" />
@@ -425,6 +426,10 @@
       <jump line="509" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="52" column="48" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
       <jump line="3" column="19" filename="$USER_HOME$/workspace/jinhui/anti/conf/config.properties" />
+      <jump line="331" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="73" column="62" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="527" column="6" filename="$USER_HOME$/workspace/jinhui/anti/app/service/impl/MakeCodeServiceImpl.java" />
+      <jump line="495" column="31" filename="$USER_HOME$/workspace/jinhui/anti/app/service/impl/MakeCodeServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -434,49 +439,49 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>groverconfig543396759037330044</text>
+        <text encoding="base64">ICsgIi56aXAi</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">QCA=</text>
+        <text>makecode</text>
       </register>
       <register name="0" type="4">
         <text>ftpuser</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBiYW5rVHlwZSAg6ZO26KGM5qCH6K+GCiAgICAgKiBAcGFyYW0gbWFwICDlhYXlgLzlj4LmlbAK</text>
+        <text encoding="base64">ICAgICAgICBQbGF5LmNvbQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBiYW5rVHlwZSDpk7booYzmoIfor4YqIEBwYXJhbSBtYXAg5pSv5LuY5Y+C5pWwCg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlIHppcEZpbGUgPSBuZXcgRmlsZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBiYW5rVHlwZSDpk7booYzmoIfor4YKICAgICAqIEBwYXJhbSBtYXAg5pSv5LuY5Y+C5pWwCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBiYW5rVHlwZSAg6ZO26KGM5qCH6K+GCiAgICAgKiBAcGFyYW0gbWFwICDlhYXlgLzlj4LmlbAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I0ZUUOacjeWKoeWZqOmFjee9ruS/oeaBrwpmdHAuaG9zdG5hbWU9MTI3LjAuMC4xCmZ0cC5wb3J0PTIxCmZ0cC51c2VybmFtZT1mdHB1c2VyCmZ0cC5wYXNzd29yZD1BMTFfMmVOZGUzCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBiYW5rVHlwZSDpk7booYzmoIfor4YqIEBwYXJhbSBtYXAg5pSv5LuY5Y+C5pWwCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBiYW5rVHlwZSDpk7booYzmoIfor4YKICAgICAqIEBwYXJhbSBtYXAg5pSv5LuY5Y+C5pWwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">I0ZUUOacjeWKoeWZqOmFjee9ruS/oeaBrwpmdHAuaG9zdG5hbWU9MTI3LjAuMC4xCmZ0cC5wb3J0PTIxCmZ0cC51c2VybmFtZT1mdHB1c2VyCmZ0cC5wYXNzd29yZD1BMTFfMmVOZGUzCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB7Ly8g55+t5L+h6YCa55+l57uP6ZSA5ZWG77yM5Y+45py6CiAgICAgICAgICAgIFN0cmluZyBkcml2ZXJQaG9uZSA9IGZvcm0uZ2V0KCJzZW5kcGhvbmUiKVswXTsKICAgICAgICAgICAgU3RyaW5nIGN1c3RvbWVyUGhvbmUgPSBkYW8ucXVlcnlGb3JPYmplY3QoIiIsIG5ldyBIYXNoTWFwPFN0cmluZywgU3RyaW5nPigpe3sKICAgICAgICAgICAgICAgIHB1dCgiY3VzdGlkIiwgY3VzdGlkKTsKICAgICAgICAgICAgfX0pOwogICAgICAgICAgICBpZiAobnVsbCAhPSBkcml2ZXJQaG9uZSkgewogICAgICAgICAgICAgICAgQ29tbW9uVXRpbHMuc2VuZENoZWNrTnVtKGRyaXZlclBob25lLCAiIik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKG51bGwgIT0gY3VzdG9tZXJQaG9uZSkgewogICAgICAgICAgICAgICAgQ29tbW9uVXRpbHMuc2VuZENoZWNrTnVtKGN1c3RvbWVyUGhvbmUsICIiKTsKICAgICAgICAgICAgfQoKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAg5Y+45py6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBDb21tb25VdGlscwo=</text>
+        <text encoding="base64">ICAgICAgICB7Ly8g55+t5L+h6YCa55+l57uP6ZSA5ZWG77yM5Y+45py6CiAgICAgICAgICAgIFN0cmluZyBkcml2ZXJQaG9uZSA9IGZvcm0uZ2V0KCJzZW5kcGhvbmUiKVswXTsKICAgICAgICAgICAgU3RyaW5nIGN1c3RvbWVyUGhvbmUgPSBkYW8ucXVlcnlGb3JPYmplY3QoIiIsIG5ldyBIYXNoTWFwPFN0cmluZywgU3RyaW5nPigpe3sKICAgICAgICAgICAgICAgIHB1dCgiY3VzdGlkIiwgY3VzdGlkKTsKICAgICAgICAgICAgfX0pOwogICAgICAgICAgICBpZiAobnVsbCAhPSBkcml2ZXJQaG9uZSkgewogICAgICAgICAgICAgICAgQ29tbW9uVXRpbHMuc2VuZENoZWNrTnVtKGRyaXZlclBob25lLCAiIik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgaWYgKG51bGwgIT0gY3VzdG9tZXJQaG9uZSkgewogICAgICAgICAgICAgICAgQ29tbW9uVXRpbHMuc2VuZENoZWNrTnVtKGN1c3RvbWVyUGhvbmUsICIiKTsKICAgICAgICAgICAgfQoKICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">QCA=</last-search>
+      <last-search>makecode</last-search>
       <last-offset />
-      <last-pattern encoding="base64">QCA=</last-pattern>
+      <last-pattern>makecode</last-pattern>
       <last-replace>@</last-replace>
       <last-substitute encoding="base64">QCA=</last-substitute>
       <last-dir>1</last-dir>
@@ -502,8 +507,8 @@
         <entry>jdbc</entry>
         <entry>导出</entry>
         <entry>user</entry>
-        <entry>makecode</entry>
         <entry encoding="base64">QCA=</entry>
+        <entry>makecode</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyNhLyNlL2c=</entry>
