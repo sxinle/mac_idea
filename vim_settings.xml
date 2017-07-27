@@ -13,6 +13,7 @@
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" timestamp="1500545094259">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/anti/conf/producer.properties" timestamp="1501143009568" />
       <file name="$USER_HOME$/workspace/jinhui/anti/app/util/CommonUtils.java" timestamp="1501125457071">
         <mark key="'" line="279" column="0" />
       </file>
@@ -48,12 +49,12 @@
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/util/CommonUtils.java" timestamp="1500787588784">
         <mark key="'" line="314" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/anti/conf/config.properties" timestamp="1501141135073">
-        <mark key="'" line="0" column="13" />
-        <mark key="[" line="3" column="20" />
-        <mark key="]" line="3" column="22" />
-        <mark key="." line="3" column="22" />
-        <mark key="^" line="3" column="22" />
+      <file name="$USER_HOME$/workspace/jinhui/anti/conf/config.properties" timestamp="1501142983347">
+        <mark key="'" line="3" column="19" />
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="20" />
+        <mark key="." line="0" column="20" />
+        <mark key="^" line="0" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/views/distributeDetail.scala.html" timestamp="1500115209009">
         <mark key="'" line="0" column="0" />
@@ -93,8 +94,8 @@
         <mark key="^" line="462" column="81" />
         <mark key="." line="465" column="81" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" timestamp="1501132733760">
-        <mark key="'" line="11" column="51" />
+      <file name="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" timestamp="1501142881272">
+        <mark key="'" line="52" column="48" />
         <mark key="[" line="52" column="48" />
         <mark key="]" line="52" column="48" />
         <mark key="." line="52" column="48" />
@@ -324,7 +325,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="13" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/finance/FinanceOrderController.java" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" />
       <jump line="5" column="41" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" />
       <jump line="3" column="18" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" />
@@ -416,7 +416,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="19" column="7" filename="$USER_HOME$/workspace/jinhui/anti/conf/application.conf" />
-      <jump line="3" column="22" filename="$USER_HOME$/workspace/jinhui/anti/conf/config.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/anti/build.sbt" />
       <jump line="343" column="5" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="14" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
@@ -424,6 +423,8 @@
       <jump line="345" column="54" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="509" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="52" column="48" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
+      <jump line="3" column="19" filename="$USER_HOME$/workspace/jinhui/anti/conf/config.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -433,7 +434,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>A11_2eNde3</text>
+        <text>groverconfig543396759037330044</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">QCA=</text>
