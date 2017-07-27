@@ -16,7 +16,6 @@
       <file name="$USER_HOME$/workspace/jinhui/anti/app/util/CommonUtils.java" timestamp="1501125457071">
         <mark key="'" line="279" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/anti/app/controllers/makecode/MakeCodeController.java" timestamp="1501134527099" />
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/application.conf" timestamp="1501048570494">
         <mark key="'" line="69" column="0" />
       </file>
@@ -43,19 +42,18 @@
         <mark key="." line="10" column="53" />
         <mark key="^" line="10" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/anti/app/controllers/inventory/InventoryController.java" timestamp="1501133139669" />
       <file name="$USER_HOME$/Desktop/workspace/jinhui/order-dealer/lib/PAYAPI.jar!/com/czbank/netpay/api/APIConstance.class" timestamp="1500706539344">
         <mark key="'" line="14" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/util/CommonUtils.java" timestamp="1500787588784">
         <mark key="'" line="314" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/anti/conf/config.properties" timestamp="1501135181463">
+      <file name="$USER_HOME$/workspace/jinhui/anti/conf/config.properties" timestamp="1501141135073">
         <mark key="'" line="0" column="13" />
-        <mark key="[" line="3" column="23" />
-        <mark key="]" line="3" column="23" />
-        <mark key="." line="3" column="23" />
-        <mark key="^" line="3" column="13" />
+        <mark key="[" line="3" column="20" />
+        <mark key="]" line="3" column="22" />
+        <mark key="." line="3" column="22" />
+        <mark key="^" line="3" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/views/distributeDetail.scala.html" timestamp="1500115209009">
         <mark key="'" line="0" column="0" />
@@ -217,7 +215,7 @@
         <mark key="." line="129" column="0" />
         <mark key="^" line="116" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/anti/conf/routes" timestamp="1501134760687">
+      <file name="$USER_HOME$/workspace/jinhui/anti/conf/routes" timestamp="1501141209269">
         <mark key="'" line="509" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/clear.sql" timestamp="1500710548414">
@@ -243,7 +241,6 @@
       <file name="$USER_HOME$/Desktop/workspace/jinhui/order-dealer/app/util/UpLoadImageUtil.java" timestamp="1500567228359">
         <mark key="'" line="242" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" timestamp="1501049367762" />
       <file name="$USER_HOME$/workspace/jinhui/anti/conf/sql/User.xml" timestamp="1501119986412">
         <mark key="'" line="206" column="40" />
         <mark key="[" line="206" column="16" />
@@ -327,8 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="26" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/clear.sql" />
-      <jump line="10" column="28" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/clear.sql" />
       <jump line="37" column="13" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/finance/FinanceOrderController.java" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" />
       <jump line="5" column="41" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" />
@@ -425,8 +420,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/anti/build.sbt" />
       <jump line="343" column="5" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="14" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
-      <jump line="509" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="0" column="13" filename="$USER_HOME$/workspace/jinhui/anti/conf/config.properties" />
+      <jump line="345" column="54" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="5" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="509" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -436,13 +433,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>A11_2eNde3</text>
       </register>
       <register name="/" type="4">
-        <text>makecode</text>
+        <text encoding="base64">QCA=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YXBhY2hlLmhvc3RuYW1lPTExMS40LjExNy43MTo4MApmdHAuaG9zdG5hbWU9MTExLjQuMTE3LjcxCmZ0cC51c2VybmFtZT1mdHB1c2VyCmZ0cC5wYXNzd29yZD1BMTFfMmVOZGUzIAo=</text>
+      <register name="0" type="4">
+        <text>ftpuser</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSBiYW5rVHlwZSAg6ZO26KGM5qCH6K+GCiAgICAgKiBAcGFyYW0gbWFwICDlhYXlgLzlj4LmlbAK</text>
@@ -476,17 +473,16 @@
       </register>
     </registers>
     <search>
-      <last-search>makecode</last-search>
+      <last-search encoding="base64">QCA=</last-search>
       <last-offset />
-      <last-pattern>makecode</last-pattern>
-      <last-replace>\n\r</last-replace>
-      <last-substitute>,</last-substitute>
+      <last-pattern encoding="base64">QCA=</last-pattern>
+      <last-replace>@</last-replace>
+      <last-substitute encoding="base64">QCA=</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>common</entry>
         <entry encoding="base64">XDznrYnlvoXnpajmja7lrqHmoLhcPg==</entry>
         <entry>确定</entry>
         <entry>addr</entry>
@@ -506,9 +502,9 @@
         <entry>导出</entry>
         <entry>user</entry>
         <entry>makecode</entry>
+        <entry encoding="base64">QCA=</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3N0cmVldFJlcS9zdHJlZXRQb2ludFJlcS9n</entry>
         <entry encoding="base64">JzwsJz5zLyNhLyNlL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2ljb25HcmF5L2ljb25HcmVlbi9n</entry>
         <entry>vim</entry>
@@ -527,6 +523,7 @@
         <entry>nohl</entry>
         <entry encoding="base64">JzwsJz5zLywvXG4vZw==</entry>
         <entry encoding="base64">JzwsJz5zLywvXG5cci9n</entry>
+        <entry encoding="base64">JzwsJz5zL0AgL0AvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
