@@ -131,6 +131,9 @@
       <file name="$USER_HOME$/workspace/jinhui/order-producer/public/statics/orderOnline.js" timestamp="1500514330811">
         <mark key="'" line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/anti/app/service/impl/MakeCodeServiceImpl.java" timestamp="1501114144544">
+        <mark key="'" line="595" column="50" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/views/logisticsOrderDetail.scala.html" timestamp="1500178940527">
         <mark key="'" line="316" column="77" />
         <mark key="[" line="334" column="55" />
@@ -190,12 +193,6 @@
         <mark key="]" line="99" column="66" />
         <mark key="." line="99" column="66" />
         <mark key="^" line="99" column="66" />
-      </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/config.properties" timestamp="1500861797920">
-        <mark key="'" line="22" column="44" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="39" column="24" />
-        <mark key="." line="30" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1500861843893">
         <mark key="[" line="0" column="0" />
@@ -285,13 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/application-context.xml" />
-      <jump line="78" column="4" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/application-context.xml" />
-      <jump line="9" column="23" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/clear.sql" />
-      <jump line="19" column="34" filename="$USER_HOME$/workspace/jinhui/order-producer/.idea/workspace.xml" />
-      <jump line="11" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/.idea/workspace.xml" />
-      <jump line="141" column="11" filename="$USER_HOME$/workspace/jinhui/order-producer/.idea/workspace.xml" />
-      <jump line="974" column="14" filename="$USER_HOME$/workspace/jinhui/order-producer/.idea/workspace.xml" />
       <jump line="978" column="14" filename="$USER_HOME$/workspace/jinhui/order-producer/.idea/workspace.xml" />
       <jump line="1214" column="25" filename="$USER_HOME$/workspace/jinhui/order-producer/.idea/workspace.xml" />
       <jump line="140" column="11" filename="$USER_HOME$/workspace/jinhui/order-producer/.idea/workspace.xml" />
@@ -385,6 +375,13 @@
       <jump line="93" column="50" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
       <jump line="54" column="13" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
       <jump line="156" column="36" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
+      <jump line="64" column="13" filename="$USER_HOME$/workspace/jinhui/anti/app/service/impl/MakeCodeServiceImpl.java" />
+      <jump line="408" column="35" filename="$USER_HOME$/workspace/jinhui/anti/app/service/impl/MakeCodeServiceImpl.java" />
+      <jump line="511" column="34" filename="$USER_HOME$/workspace/jinhui/anti/app/service/impl/MakeCodeServiceImpl.java" />
+      <jump line="519" column="38" filename="$USER_HOME$/workspace/jinhui/anti/app/service/impl/MakeCodeServiceImpl.java" />
+      <jump line="582" column="15" filename="$USER_HOME$/workspace/jinhui/anti/app/service/impl/MakeCodeServiceImpl.java" />
+      <jump line="591" column="48" filename="$USER_HOME$/workspace/jinhui/anti/app/service/impl/MakeCodeServiceImpl.java" />
+      <jump line="595" column="50" filename="$USER_HOME$/workspace/jinhui/anti/app/service/impl/MakeCodeServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -397,7 +394,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>托管</text>
+        <text encoding="base64">XDxmaWxlTmFtZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IHZpZXdzLmh0bWwuY2FydDsK</text>
@@ -434,9 +431,9 @@
       </register>
     </registers>
     <search>
-      <last-search>托管</last-search>
+      <last-search encoding="base64">XDxmaWxlTmFtZVw+</last-search>
       <last-offset />
-      <last-pattern>托管</last-pattern>
+      <last-pattern encoding="base64">XDxmaWxlTmFtZVw+</last-pattern>
       <last-replace>\n\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -444,7 +441,6 @@
     </search>
     <history>
       <history-search>
-        <entry>green</entry>
         <entry>配货</entry>
         <entry>confirm</entry>
         <entry encoding="base64">XDxvcmRlck9ubGluZVw+</entry>
@@ -464,6 +460,7 @@
         <entry>send</entry>
         <entry encoding="base64">XDxzZW5kQW5kUmVjZWl2ZVw+</entry>
         <entry>托管</entry>
+        <entry encoding="base64">XDxmaWxlTmFtZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3N0cmVldFJlcS9zdHJlZXRQb2ludFJlcS9n</entry>
