@@ -9,8 +9,12 @@
       <file name="$USER_HOME$/workspace/jinhui/anti/app/util/CommonUtils.java" timestamp="1501125457071">
         <mark key="'" line="279" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/anti/app/controllers/makecode/MakeCodeController.java" timestamp="1501133863808" />
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/application.conf" timestamp="1501048570494">
         <mark key="'" line="69" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/anti/app/controllers/user/UserController.java" timestamp="1501133586191">
+        <mark key="'" line="64" column="36" />
       </file>
       <file name="/a.dummy" timestamp="1500546667502">
         <mark key="[" line="0" column="0" />
@@ -18,24 +22,32 @@
       <file name="$USER_HOME$/workspace/mp/xhr/xhr_c_jfl.html" timestamp="1464191148324">
         <mark key="[" line="33" column="38" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/anti/app/controllers/inventory/InventoryController.java" timestamp="1501133139669" />
       <file name="$USER_HOME$/Desktop/workspace/jinhui/order-dealer/lib/PAYAPI.jar!/com/czbank/netpay/api/APIConstance.class" timestamp="1500706539344">
         <mark key="'" line="14" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/util/CommonUtils.java" timestamp="1500787588784">
         <mark key="'" line="314" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/anti/conf/config.properties" timestamp="1501134097810">
+        <mark key="'" line="3" column="22" />
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="0" column="30" />
+        <mark key="." line="0" column="30" />
+        <mark key="^" line="0" column="30" />
+      </file>
       <file name="$USER_HOME$/Desktop/workspace/jinhui/order-dealer/app/util/HttpInterfaceRequester.java" timestamp="1500704733507">
         <mark key="'" line="119" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" timestamp="1501127116317">
+      <file name="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" timestamp="1501132733760">
         <mark key="'" line="11" column="51" />
         <mark key="[" line="52" column="48" />
-        <mark key="]" line="52" column="50" />
-        <mark key="." line="52" column="50" />
-        <mark key="^" line="52" column="50" />
+        <mark key="]" line="52" column="48" />
+        <mark key="." line="52" column="48" />
+        <mark key="^" line="50" column="62" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/anti/conf/application.conf" timestamp="1501115324343">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/anti/conf/application.conf" timestamp="1501134074138">
+        <mark key="'" line="19" column="7" />
         <mark key="[" line="37" column="12" />
         <mark key="]" line="37" column="16" />
         <mark key="." line="37" column="16" />
@@ -68,6 +80,9 @@
       <file name="/JavaScript Console" timestamp="1499499291832">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/anti/conf/routes" timestamp="1501133591978">
+        <mark key="'" line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/public/statics/interFlowDetail.js" timestamp="1500388780460">
         <mark key="'" line="0" column="0" />
       </file>
@@ -88,7 +103,7 @@
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/finance/FinanceOrderController.java" timestamp="1500534936125">
         <mark key="'" line="37" column="13" />
       </file>
-      <file name="/a.regexp" timestamp="1501119931475">
+      <file name="/a.regexp" timestamp="1501133412400">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/workspace/jinhui/order-producer/conf/jdbc.properties" timestamp="1500567273275">
@@ -112,14 +127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="509" column="30" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/cart.scala.html" />
-      <jump line="305" column="57" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/cart.scala.html" />
-      <jump line="497" column="24" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/cart.scala.html" />
-      <jump line="602" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/cart.scala.html" />
-      <jump line="61" column="13" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/CartServiceImpl.java" />
-      <jump line="491" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/CartServiceImpl.java" />
-      <jump line="25" column="13" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/clear.sql" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/clear.sql" />
       <jump line="28" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/clear.sql" />
       <jump line="15" column="29" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/clear.sql" />
       <jump line="27" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/clear.sql" />
@@ -212,6 +219,14 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
       <jump line="120" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
       <jump line="11" column="51" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
+      <jump line="16" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="64" column="36" filename="$USER_HOME$/workspace/jinhui/anti/app/controllers/user/UserController.java" />
+      <jump line="20" column="4" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="200" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="19" column="7" filename="$USER_HOME$/workspace/jinhui/anti/conf/application.conf" />
+      <jump line="3" column="22" filename="$USER_HOME$/workspace/jinhui/anti/conf/config.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -221,13 +236,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>127.0.0.1</text>
+        <text>http://</text>
       </register>
       <register name="/" type="4">
-        <text>jdbc</text>
+        <text>makecode</text>
       </register>
       <register name="0" type="4">
-        <text>context:component-scan</text>
+        <text>localhost</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSBiYW5rVHlwZSAg6ZO26KGM5qCH6K+GCiAgICAgKiBAcGFyYW0gbWFwICDlhYXlgLzlj4LmlbAK</text>
@@ -261,9 +276,9 @@
       </register>
     </registers>
     <search>
-      <last-search>jdbc</last-search>
+      <last-search>makecode</last-search>
       <last-offset />
-      <last-pattern>jdbc</last-pattern>
+      <last-pattern>makecode</last-pattern>
       <last-replace>\n\r</last-replace>
       <last-substitute>,</last-substitute>
       <last-dir>1</last-dir>
@@ -271,9 +286,6 @@
     </search>
     <history>
       <history-search>
-        <entry>kong.jpg</entry>
-        <entry encoding="base64">IA==</entry>
-        <entry>imagePath</entry>
         <entry>common</entry>
         <entry encoding="base64">XDznrYnlvoXnpajmja7lrqHmoLhcPg==</entry>
         <entry>确定</entry>
@@ -291,6 +303,9 @@
         <entry encoding="base64">XDxkYXRhYmFzZWtleVw+</entry>
         <entry>jh_prod</entry>
         <entry>jdbc</entry>
+        <entry>导出</entry>
+        <entry>user</entry>
+        <entry>makecode</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3N0cmVldFJlcS9zdHJlZXRQb2ludFJlcS9n</entry>
