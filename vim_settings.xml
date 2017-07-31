@@ -236,6 +236,10 @@
         <mark key="^" line="126" column="34" />
         <mark key="." line="126" column="35" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/bak/clear.sql" timestamp="1501471844672">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="25" column="26" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/application-context.xml" timestamp="1500303273266">
         <mark key="'" line="71" column="4" />
       </file>
@@ -310,8 +314,8 @@
       <file name="$USER_HOME$/Desktop/workspace/jinhui/order-dealer/app/util/UpLoadImageUtil.java" timestamp="1500567228359">
         <mark key="'" line="242" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" timestamp="1501471165720">
-        <mark key="'" line="268" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" timestamp="1501472217119">
+        <mark key="'" line="211" column="45" />
         <mark key="[" line="190" column="0" />
         <mark key="]" line="191" column="38" />
         <mark key="^" line="191" column="38" />
@@ -410,14 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
-      <jump line="10" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
-      <jump line="19" column="7" filename="$USER_HOME$/workspace/jinhui/anti/conf/application.conf" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/anti/build.sbt" />
-      <jump line="343" column="5" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
-      <jump line="14" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
-      <jump line="0" column="13" filename="$USER_HOME$/workspace/jinhui/anti/conf/config.properties" />
-      <jump line="345" column="54" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="509" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="52" column="48" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
@@ -449,7 +445,6 @@
       <jump line="62" column="25" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
       <jump line="160" column="68" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
       <jump line="135" column="15" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
-      <jump line="132" column="44" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
       <jump line="131" column="31" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
       <jump line="82" column="70" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
       <jump line="151" column="54" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
@@ -509,7 +504,16 @@
       <jump line="65" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
       <jump line="349" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
       <jump line="180" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
+      <jump line="155" column="31" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
+      <jump line="58" column="33" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
+      <jump line="126" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
       <jump line="268" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
+      <jump line="67" column="15" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
+      <jump line="99" column="18" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
+      <jump line="132" column="42" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
+      <jump line="204" column="19" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
+      <jump line="211" column="45" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -522,10 +526,10 @@
         <text>config</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNYWluRm9ybTJcPg==</text>
+        <text encoding="base64">XDxpbnRlcmZhY2VWZXJzaW9uXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>APITools.nvl(APIConstance.getConfig(&quot;orderCommitVersion&quot;)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZGVsZXRlIGZyb20gamJwbTRfdGFzazsKZGVsZXRlIGZyb20gamJwbTRfdmFyaWFibGU7CmRlbGV0ZSBmcm9tIGpicG00X2xvYjsKZGVsZXRlIGZyb20gamJwbTRfZGVwbG95cHJvcDsKZGVsZXRlIGZyb20gamJwbTRfZGVwbG95bWVudDsKZGVsZXRlIGZyb20gamJwbTRfdmFyaWFibGU7CmRlbGV0ZSBmcm9tIGpicG00X2V4ZWN1dGlvbjsKZGVsZXRlIGZyb20gamJwbTRfaGlzdF9hY3RpbnN0OwpkZWxldGUgZnJvbSBqYnBtNF9oaXN0X2RldGFpbDsKZGVsZXRlIGZyb20gamJwbTRfaGlzdF9wcm9jaW5zdDsKZGVsZXRlIGZyb20gamJwbTRfaGlzdF90YXNrOwpkZWxldGUgZnJvbSBqYnBtNF9oaXN0X3ZhcjsKZGVsZXRlIGZyb20gamJwbTRfaWRfZ3JvdXA7CmRlbGV0ZSBmcm9tIGpicG00X2lkX21lbWJlcnNoaXA7CmRlbGV0ZSBmcm9tIGpicG00X2lkX3VzZXI7CmRlbGV0ZSBmcm9tIGpicG00X3BhcnRpY2lwYXRpb247CmRlbGV0ZSBmcm9tIGpicG00X3Byb3BlcnR5OwpkZWxldGUgZnJvbSBqYnBtNF9sb2I7CmRlbGV0ZSBmcm9tIGpicG00X3N3aW1sYW5lOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAqIEBwYXJhbSBzcmMK</text>
@@ -562,17 +566,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNYWluRm9ybTJcPg==</last-search>
+      <last-search encoding="base64">XDxpbnRlcmZhY2VWZXJzaW9uXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNYWluRm9ybTJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpbnRlcmZhY2VWZXJzaW9uXD4=</last-pattern>
       <last-replace>60.191.15.92\\:465</last-replace>
       <last-substitute>10.0.7.130\\:465</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>jh_prod</entry>
         <entry>jdbc</entry>
         <entry>导出</entry>
         <entry>user</entry>
@@ -592,6 +595,7 @@
         <entry>verify</entry>
         <entry>mycent</entry>
         <entry encoding="base64">XDxNYWluRm9ybTJcPg==</entry>
+        <entry encoding="base64">XDxpbnRlcmZhY2VWZXJzaW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NlbmRtYW4vc2VuZHBob25lL2c=</entry>
