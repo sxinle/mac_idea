@@ -24,6 +24,11 @@
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="ctrl j" />
   </action>
+  <action id="EditorEnter">
+    <keyboard-shortcut first-keystroke="enter" />
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="EditorMatchBrace" />
   <action id="EditorSplitLine" />
   <action id="EditorToggleColumnMode" />
   <action id="EvaluateExpression">
@@ -140,6 +145,9 @@
     <keyboard-shortcut first-keystroke="shift meta 9" />
   </action>
   <action id="UsageView.Rerun" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="meta e" />
+  </action>
   <action id="XDebugger.MuteBreakpoints">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
