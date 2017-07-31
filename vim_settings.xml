@@ -67,8 +67,11 @@
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/util/CommonUtils.java" timestamp="1500787588784">
         <mark key="'" line="314" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/core/Global.java" timestamp="1501303376588">
-        <mark key="[" line="58" column="55" />
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/core/Global.java" timestamp="1501470748393">
+        <mark key="[" line="60" column="46" />
+        <mark key="]" line="60" column="50" />
+        <mark key="." line="60" column="50" />
+        <mark key="^" line="60" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/anti/conf/config.properties" timestamp="1501143798523">
         <mark key="'" line="3" column="19" />
@@ -307,7 +310,7 @@
       <file name="$USER_HOME$/Desktop/workspace/jinhui/order-dealer/app/util/UpLoadImageUtil.java" timestamp="1500567228359">
         <mark key="'" line="242" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" timestamp="1501468410633">
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" timestamp="1501471165720">
         <mark key="'" line="268" column="0" />
         <mark key="[" line="190" column="0" />
         <mark key="]" line="191" column="38" />
@@ -395,7 +398,7 @@
         <mark key="." line="152" column="30" />
         <mark key="^" line="153" column="49" />
       </file>
-      <file name="/fragment.java" timestamp="1501152432826">
+      <file name="/fragment.java" timestamp="1501470591318">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/pwd.txt" timestamp="1501048617082">
@@ -407,7 +410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="200" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="19" column="7" filename="$USER_HOME$/workspace/jinhui/anti/conf/application.conf" />
@@ -503,10 +505,11 @@
       <jump line="69" column="41" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
       <jump line="31" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
       <jump line="49" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
-      <jump line="268" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
       <jump line="58" column="15" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
       <jump line="65" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
       <jump line="349" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
+      <jump line="180" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
+      <jump line="268" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -516,7 +519,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>settings</text>
+        <text>config</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNYWluRm9ybTJcPg==</text>
