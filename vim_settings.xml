@@ -277,8 +277,8 @@
         <mark key="." line="129" column="0" />
         <mark key="^" line="116" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/anti/conf/routes" timestamp="1501480620058">
-        <mark key="'" line="245" column="66" />
+      <file name="$USER_HOME$/workspace/jinhui/anti/conf/routes" timestamp="1501480869388">
+        <mark key="'" line="504" column="98" />
         <mark key="[" line="463" column="108" />
         <mark key="]" line="463" column="108" />
         <mark key="." line="463" column="108" />
@@ -414,7 +414,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="14" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
       <jump line="64" column="30" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
       <jump line="125" column="0" filename="$USER_HOME$/workspace/jinhui/anti/app/setup/Setup.java" />
       <jump line="100" column="21" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
@@ -513,7 +512,8 @@
       <jump line="468" column="109" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="465" column="107" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="242" column="77" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
-      <jump line="245" column="66" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="245" column="77" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="504" column="98" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -526,7 +526,7 @@
         <text>()</text>
       </register>
       <register name="/" type="4">
-        <text>uploadfile</text>
+        <text>storeage</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZGVsZXRlIGZyb20gamJwbTRfdGFzazsKZGVsZXRlIGZyb20gamJwbTRfdmFyaWFibGU7CmRlbGV0ZSBmcm9tIGpicG00X2xvYjsKZGVsZXRlIGZyb20gamJwbTRfZGVwbG95cHJvcDsKZGVsZXRlIGZyb20gamJwbTRfZGVwbG95bWVudDsKZGVsZXRlIGZyb20gamJwbTRfdmFyaWFibGU7CmRlbGV0ZSBmcm9tIGpicG00X2V4ZWN1dGlvbjsKZGVsZXRlIGZyb20gamJwbTRfaGlzdF9hY3RpbnN0OwpkZWxldGUgZnJvbSBqYnBtNF9oaXN0X2RldGFpbDsKZGVsZXRlIGZyb20gamJwbTRfaGlzdF9wcm9jaW5zdDsKZGVsZXRlIGZyb20gamJwbTRfaGlzdF90YXNrOwpkZWxldGUgZnJvbSBqYnBtNF9oaXN0X3ZhcjsKZGVsZXRlIGZyb20gamJwbTRfaWRfZ3JvdXA7CmRlbGV0ZSBmcm9tIGpicG00X2lkX21lbWJlcnNoaXA7CmRlbGV0ZSBmcm9tIGpicG00X2lkX3VzZXI7CmRlbGV0ZSBmcm9tIGpicG00X3BhcnRpY2lwYXRpb247CmRlbGV0ZSBmcm9tIGpicG00X3Byb3BlcnR5OwpkZWxldGUgZnJvbSBqYnBtNF9sb2I7CmRlbGV0ZSBmcm9tIGpicG00X3N3aW1sYW5lOwo=</text>
@@ -563,9 +563,9 @@
       </register>
     </registers>
     <search>
-      <last-search>uploadfile</last-search>
+      <last-search>storeage</last-search>
       <last-offset />
-      <last-pattern>uploadfile</last-pattern>
+      <last-pattern>storeage</last-pattern>
       <last-replace>60.191.15.92\\:465</last-replace>
       <last-substitute>10.0.7.130\\:465</last-substitute>
       <last-dir>1</last-dir>
@@ -573,8 +573,6 @@
     </search>
     <history>
       <history-search>
-        <entry>user</entry>
-        <entry encoding="base64">QCA=</entry>
         <entry>makecode</entry>
         <entry>sqlSer</entry>
         <entry encoding="base64">XDxzcWxTZXJ2ZXJTZXNzaW9uRmFjdG9yeVw+</entry>
@@ -593,6 +591,8 @@
         <entry encoding="base64">XDxpbnRlcmZhY2VWZXJzaW9uXD4=</entry>
         <entry encoding="base64">XDxnZXRJbml0aWFsU3RhdGVcPg==</entry>
         <entry>uploadfile</entry>
+        <entry>storeBatch</entry>
+        <entry>storeage</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NlbmRtYW4vc2VuZHBob25lL2c=</entry>
