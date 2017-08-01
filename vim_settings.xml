@@ -293,8 +293,8 @@
         <mark key="." line="129" column="0" />
         <mark key="^" line="116" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" timestamp="1501577383137">
-        <mark key="'" line="112" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" timestamp="1501580358501">
+        <mark key="'" line="52" column="61" />
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
@@ -438,8 +438,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="29" filename="$USER_HOME$/workspace/zsyh/web/WEB-INF/web.xml" />
-      <jump line="12" column="43" filename="$USER_HOME$/workspace/zsyh/web/WEB-INF/web.xml" />
       <jump line="18" column="13" filename="$USER_HOME$/workspace/zsyh/web/WEB-INF/web.xml" />
       <jump line="25" column="12" filename="$USER_HOME$/workspace/zsyh/web/WEB-INF/config/config.properties" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/zsyh/web/WEB-INF/config/config.properties" />
@@ -538,6 +536,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/application.conf" />
       <jump line="68" column="23" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/application.conf" />
       <jump line="69" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/application.conf" />
+      <jump line="33" column="7" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" />
+      <jump line="52" column="61" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -550,7 +550,7 @@
         <text>ERROR</text>
       </register>
       <register name="/" type="4">
-        <text>storeage</text>
+        <text>http</text>
       </register>
       <register name="0" type="4">
         <text>DEBUG</text>
@@ -587,18 +587,16 @@
       </register>
     </registers>
     <search>
-      <last-search>storeage</last-search>
+      <last-search>http</last-search>
       <last-offset />
-      <last-pattern>storeage</last-pattern>
-      <last-replace>60.191.15.92\\:465</last-replace>
-      <last-substitute>10.0.7.130\\:465</last-substitute>
+      <last-pattern>http</last-pattern>
+      <last-replace>https</last-replace>
+      <last-substitute>http</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>makecode</entry>
-        <entry>sqlSer</entry>
         <entry encoding="base64">XDxzcWxTZXJ2ZXJTZXNzaW9uRmFjdG9yeVw+</entry>
         <entry encoding="base64">XDxzcWxTZXNzaW9uRmFjdG9yeVw+</entry>
         <entry>+</entry>
@@ -617,10 +615,10 @@
         <entry>uploadfile</entry>
         <entry>storeBatch</entry>
         <entry>storeage</entry>
+        <entry>https</entry>
+        <entry>http</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL3NlbmRtYW4vc2VuZHBob25lL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL3NlbmRwaG9uZS9zZW5kY29tcGFueS9n</entry>
         <entry encoding="base64">JzwsJz5zL2NhcmNvZGUvc2VuZG1hbi9n</entry>
         <entry encoding="base64">JzwsJz5zL2NhcmNvZGUvc2VuZHBob25lL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2NhcmNvZGUvc2VuZGNvbXBhbnkvZw==</entry>
@@ -638,6 +636,8 @@
         <entry>vsp config.properteis</entry>
         <entry>vsp</entry>
         <entry>action $Redo</entry>
+        <entry encoding="base64">JzwsJz5zL2h0dHBzL2h0dHAvZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2h0dHAvaHR0cHMvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
