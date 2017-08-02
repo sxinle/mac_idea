@@ -29,6 +29,10 @@
       <file name="$USER_HOME$/Desktop/workspace/jinhui/order-dealer/lib/PAYAPI.jar!/com/czbank/netpay/api/APIConstance.class" timestamp="1500706539344">
         <mark key="'" line="14" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/trace_api_server/lib/kafka_2.10-0.8.1.jar!/kafka/consumer/ConsumerIterator.class" timestamp="1501671919463">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/util/csii/sign/tools/SignUtil.java" timestamp="1501468382873">
         <mark key="'" line="93" column="0" />
         <mark key="[" line="44" column="0" />
@@ -78,19 +82,19 @@
         <mark key="." line="0" column="11" />
         <mark key="^" line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/trace_api_server/build.sbt" timestamp="1501669943002">
+      <file name="$USER_HOME$/workspace/jinhui/trace_api_server/build.sbt" timestamp="1501673039075">
         <mark key="'" line="4" column="27" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="55" />
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/anti/app/service/impl/ProcessTimerFromStorage.java" timestamp="1501639560803" />
-      <file name="$USER_HOME$/workspace/jinhui/trace_api_server/app/controllers/api/sync/KafkaConsumer.java" timestamp="1501669967296">
-        <mark key="'" line="78" column="64" />
-        <mark key="[" line="91" column="20" />
-        <mark key="]" line="91" column="63" />
-        <mark key="^" line="139" column="39" />
-        <mark key="." line="134" column="45" />
+      <file name="$USER_HOME$/workspace/jinhui/trace_api_server/app/controllers/api/sync/KafkaConsumer.java" timestamp="1501672845048">
+        <mark key="'" line="125" column="28" />
+        <mark key="[" line="141" column="64" />
+        <mark key="]" line="141" column="72" />
+        <mark key="." line="141" column="72" />
+        <mark key="^" line="141" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/config.properties" timestamp="1500863245098">
         <mark key="'" line="7" column="15" />
@@ -388,7 +392,7 @@
         <mark key="." line="99" column="66" />
         <mark key="^" line="99" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501666282833">
+      <file name="/Dummy.txt" timestamp="1501673049262">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/workspace/jinhui/order-dealer/app/util/UpLoadImageUtil.java" timestamp="1500567228359">
@@ -457,9 +461,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="42" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
-      <jump line="204" column="19" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
-      <jump line="211" column="45" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
       <jump line="9" column="9" filename="$USER_HOME$/workspace/demo/react-demos/demo01/index.html" />
       <jump line="15" column="12" filename="$USER_HOME$/workspace/zsyh/web/WEB-INF/web.xml" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/zsyh/web/WEB-INF/web.xml" />
@@ -557,6 +558,9 @@
       <jump line="745" column="8" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/src.zip!/java/lang/Thread.java" />
       <jump line="4" column="27" filename="$USER_HOME$/workspace/jinhui/trace_api_server/build.sbt" />
       <jump line="78" column="64" filename="$USER_HOME$/workspace/jinhui/trace_api_server/app/controllers/api/sync/KafkaConsumer.java" />
+      <jump line="116" column="44" filename="$USER_HOME$/workspace/jinhui/trace_api_server/app/controllers/api/sync/KafkaConsumer.java" />
+      <jump line="133" column="22" filename="$USER_HOME$/workspace/jinhui/trace_api_server/app/controllers/api/sync/KafkaConsumer.java" />
+      <jump line="125" column="28" filename="$USER_HOME$/workspace/jinhui/trace_api_server/app/controllers/api/sync/KafkaConsumer.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -566,49 +570,49 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aXQgPSA=</text>
+        <text>logger</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmbGFnXD4=</text>
+        <text encoding="base64">XDxwYXJ0aXRpb25cPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>Consumer.createJavaConsumerConnector(config)</text>
+      <register name="0" type="2">
+        <text encoding="base64">amF2YWNPcHRpb25zICsrPSBTZXEoIi1zb3VyY2UiLCAiMS43IiwgIi10YXJnZXQiLCAiMS43IikK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLmVycm9yKCIkJCQkJCQkJCQkJCQkJCQkJDMzIik7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">c2NhbGFWZXJzaW9uIDo9ICIyLjExLjUiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYXkuTG9nZ2VyLmVycm9yKCIjIyMjIyMjIyMjIiArIGl0ZW0ubWVzc2FnZSgpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYXkuTG9nZ2VyLmVycm9yKCIjIyMjIyMjIyMjIiArIGZsYWcpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYXkuTG9nZ2VyLmVycm9yKCIjIyMjIyMjIyMjIiArIGZsYWcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29uc3VtZXJJdGVyYXRvcjxieXRlW10sIGJ5dGVbXT4gaXQgPSBwYXJ0aXRpb24uaXRlcmF0b3IoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aHR0cC5wb3J0Cg==</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I+WVhuaIt+ivgeS5pgptZXJDZXJ0RmlsZT1tYWxsLnBmeAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLmVycm8K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBhbGVydCh0aGlzLnJlZnMubXlUZXh0SW5wdXQudmFsdWUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmbGFnXD4=</last-search>
+      <last-search encoding="base64">XDxwYXJ0aXRpb25cPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmbGFnXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwYXJ0aXRpb25cPg==</last-pattern>
       <last-replace>https</last-replace>
       <last-substitute>http</last-substitute>
       <last-dir>1</last-dir>
@@ -616,7 +620,6 @@
     </search>
     <history>
       <history-search>
-        <entry>uploadfile</entry>
         <entry>storeBatch</entry>
         <entry>storeage</entry>
         <entry>https</entry>
@@ -636,6 +639,7 @@
         <entry>手工出库</entry>
         <entry>outBatch</entry>
         <entry encoding="base64">XDxmbGFnXD4=</entry>
+        <entry encoding="base64">XDxwYXJ0aXRpb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NhcmNvZGUvc2VuZG1hbi9n</entry>
