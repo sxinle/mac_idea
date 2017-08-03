@@ -13,6 +13,12 @@
       <file name="$USER_HOME$/workspace/zsyh/web/payConfirm.jsp" timestamp="1501476884233">
         <mark key="'" line="52" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/anti/conf/producer.properties" timestamp="1501722769680">
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="19" />
+        <mark key="." line="4" column="19" />
+        <mark key="^" line="4" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/anti/app/controllers/user/UserController.java" timestamp="1501133586191">
         <mark key="'" line="64" column="36" />
       </file>
@@ -73,8 +79,8 @@
         <mark key="^" line="113" column="94" />
         <mark key="." line="113" column="94" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/anti/conf/application.conf" timestamp="1501721462529">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/anti/conf/application.conf" timestamp="1501722370265">
+        <mark key="'" line="43" column="0" />
         <mark key="[" line="0" column="11" />
         <mark key="]" line="0" column="11" />
         <mark key="." line="0" column="11" />
@@ -86,10 +92,10 @@
         <mark key="]" line="12" column="55" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/trace_api_server/app/controllers/api/sync/KafkaConsumer.java" timestamp="1501672845048">
+      <file name="$USER_HOME$/workspace/jinhui/trace_api_server/app/controllers/api/sync/KafkaConsumer.java" timestamp="1501722838115">
         <mark key="'" line="125" column="28" />
-        <mark key="[" line="141" column="64" />
-        <mark key="]" line="141" column="72" />
+        <mark key="[" line="133" column="12" />
+        <mark key="]" line="133" column="27" />
         <mark key="." line="141" column="72" />
         <mark key="^" line="141" column="72" />
       </file>
@@ -203,9 +209,9 @@
       <file name="$USER_HOME$/Desktop/workspace/jinhui/order-dealer/lib/PAYAPI.jar!/com/czbank/netpay/api/KeyStoreUtil.class" timestamp="1500706636684">
         <mark key="'" line="152" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/trace_api_server/conf/application.conf" timestamp="1501721471881">
+      <file name="$USER_HOME$/workspace/jinhui/trace_api_server/conf/application.conf" timestamp="1501722815804">
         <mark key="'" line="84" column="5" />
-        <mark key="[" line="85" column="19" />
+        <mark key="[" line="85" column="26" />
         <mark key="]" line="85" column="27" />
         <mark key="." line="85" column="27" />
         <mark key="^" line="85" column="27" />
@@ -525,7 +531,6 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="509" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/application.conf" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/application.conf" />
       <jump line="87" column="44" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
       <jump line="87" column="18" filename="$USER_HOME$/workspace/jinhui/trace_api_server/conf/application.conf" />
       <jump line="79" column="40" filename="$USER_HOME$/workspace/jinhui/trace_api_server/conf/application.conf" />
@@ -543,7 +548,6 @@
       <jump line="396" column="24" filename="$USER_HOME$/workspace/jinhui/anti/app/views/makeCode.scala.html" />
       <jump line="11" column="6" filename="$USER_HOME$/workspace/jinhui/trace_api_server/conf/application.conf" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/trace_api_server/conf/application.conf" />
-      <jump line="43" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/application.conf" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/jinhui/trace_api_server/build.sbt" />
       <jump line="138" column="38" filename="$USER_HOME$/workspace/jinhui/trace_api_server/app/controllers/api/sync/KafkaConsumer.java" />
       <jump line="80" column="11" filename="$USER_HOME$/workspace/jinhui/trace_api_server/app/controllers/api/sync/KafkaConsumer.java" />
@@ -576,6 +580,8 @@
       <jump line="125" column="28" filename="$USER_HOME$/workspace/jinhui/trace_api_server/app/controllers/api/sync/KafkaConsumer.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/application.conf" />
       <jump line="84" column="5" filename="$USER_HOME$/workspace/jinhui/trace_api_server/conf/application.conf" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/application.conf" />
+      <jump line="43" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/application.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -585,13 +591,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>logger</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJ0aXRpb25cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">amF2YWNPcHRpb25zICsrPSBTZXEoIi1zb3VyY2UiLCAiMS43IiwgIi10YXJnZXQiLCAiMS43IikK</text>
+      <register name="0" type="4">
+        <text>ConsumerIterator</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLmVycm9yKCIkJCQkJCQkJCQkJCQkJCQkJDMzIik7Cg==</text>
