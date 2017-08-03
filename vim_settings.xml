@@ -55,10 +55,6 @@
       <file name="$USER_HOME$/Desktop/workspace/jinhui/order-dealer/lib/PAYAPI.jar!/com/czbank/netpay/api/APIConstance.class" timestamp="1500706539344">
         <mark key="'" line="14" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/trace_api_server/lib/kafka_2.10-0.8.1.jar!/kafka/consumer/ConsumerIterator.class" timestamp="1501671919463">
-        <mark key="[" line="1" column="6" />
-        <mark key="]" line="1" column="21" />
-      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/util/csii/sign/tools/SignUtil.java" timestamp="1501468382873">
         <mark key="'" line="93" column="0" />
         <mark key="[" line="44" column="0" />
@@ -86,12 +82,11 @@
         <mark key="." line="21" column="52" />
         <mark key="^" line="21" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" timestamp="1501635113384">
+      <file name="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" timestamp="1501744134875">
         <mark key="'" line="79" column="44" />
-        <mark key="[" line="10" column="66" />
-        <mark key="]" line="10" column="66" />
-        <mark key="." line="10" column="66" />
-        <mark key="^" line="42" column="62" />
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/addr/AddrController.java" timestamp="1500783623274">
         <mark key="'" line="82" column="14" />
@@ -307,9 +302,12 @@
         <mark key="^" line="101" column="22" />
         <mark key="." line="130" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/anti/conf/sql/StorageBatchLocal.xml" timestamp="1501739357872">
-        <mark key="[" line="56" column="17" />
-        <mark key="]" line="56" column="30" />
+      <file name="$USER_HOME$/workspace/jinhui/anti/conf/sql/StorageBatchLocal.xml" timestamp="1501743383255">
+        <mark key="'" line="73" column="0" />
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="18" column="4" />
+        <mark key="^" line="18" column="4" />
+        <mark key="." line="18" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/zsyh/web/redirect.jsp" timestamp="1501570049973">
         <mark key="'" line="34" column="0" />
@@ -467,7 +465,7 @@
         <mark key="." line="99" column="66" />
         <mark key="^" line="99" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501739349530">
+      <file name="/Dummy.txt" timestamp="1501744046707">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/workspace/jinhui/order-dealer/app/util/UpLoadImageUtil.java" timestamp="1500567228359">
@@ -538,8 +536,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="20" filename="$USER_HOME$/workspace/zsyh/web/WEB-INF/web.xml" />
-      <jump line="108" column="0" filename="$USER_HOME$/workspace/zsyh/web/WEB-INF/web.xml" />
       <jump line="749" column="10" filename="$USER_HOME$/.ivy2/cache/log4j/log4j/srcs/log4j-1.2.17-sources.jar!/org/apache/log4j/xml/DOMConfigurator.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/application.conf" />
       <jump line="67" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/application.conf" />
@@ -638,6 +634,8 @@
       <jump line="202" column="0" filename="$USER_HOME$/workspace/uauth/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/uauth/pom.xml" />
       <jump line="180" column="44" filename="$USER_HOME$/workspace/uauth/pom.xml" />
+      <jump line="27" column="17" filename="$USER_HOME$/workspace/jinhui/anti/conf/sql/StorageBatchLocal.xml" />
+      <jump line="73" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/sql/StorageBatchLocal.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -647,7 +645,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>get</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>code</text>
@@ -656,31 +654,31 @@
         <text>storage_detail</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqQOmhueebruWQjeensDogc3luY19kYXRhCiAqQOaWh+S7tuWQjeensDogQ29uc3VtZXJBbnRpT3JQcml6ZS5qYXZhCiAqQERhdGU6IDIwMTblubQx5pyINOaXpQogKkBDb3B5cmlnaHQ6IDIwMTUtMjAxNiB3d3cubmV1bm4uY29tICBBbGwgcmlnaHRzIHJlc2VydmVkLgogKuazqOaEj++8muacrOWGheWuueS7hemZkOS6juS4nOe9keenkeaKgOaciemZkOWFrOWPuOWGhemDqOS8oOmYhe+8jOemgeatouWkluazhOS7peWPiueUqOS6juWFtuS7lueahOWVhuS4muebrueahAogKi8K</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">LyoqCiAqQOmhueebruWQjeensDogc3luY19kYXRhCiAqQOaWh+S7tuWQjeensDogQ29uc3VtZXJBbnRpT3JQcml6ZS5qYXZhCiAqQERhdGU6IDIwMTblubQx5pyINOaXpQogKkBDb3B5cmlnaHQ6IDIwMTUtMjAxNiB3d3cubmV1bm4uY29tICBBbGwgcmlnaHRzIHJlc2VydmVkLgogKuazqOaEj++8muacrOWGheWuueS7hemZkOS6juS4nOe9keenkeaKgOaciemZkOWFrOWPuOWGhemDqOS8oOmYhe+8jOemgeatouWkluazhOS7peWPiueUqOS6juWFtuS7lueahOWVhuS4muebrueahAogKi8K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgLy/nur/nqIvmsaAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nZ2VyLmVycm9yKG5ldyBTdHJpbmcoaXRlbS5tZXNzYWdlKCksIGNoYXJzZXQpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -719,7 +717,6 @@
         <entry>code</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2NhcmNvZGUvc2VuZG1hbi9n</entry>
         <entry encoding="base64">JzwsJz5zL2NhcmNvZGUvc2VuZHBob25lL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2NhcmNvZGUvc2VuZGNvbXBhbnkvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyAvXHQvZw==</entry>
@@ -738,6 +735,7 @@
         <entry encoding="base64">JzwsJz5zL2h0dHBzL2h0dHAvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2h0dHAvaHR0cHMvZw==</entry>
         <entry>action $Redo</entry>
+        <entry>source ~/.ideavimrc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
