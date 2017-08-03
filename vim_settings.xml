@@ -13,8 +13,8 @@
       <file name="$USER_HOME$/workspace/zsyh/web/payConfirm.jsp" timestamp="1501476884233">
         <mark key="'" line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/anti/conf/producer.properties" timestamp="1501722769680">
-        <mark key="[" line="4" column="19" />
+      <file name="$USER_HOME$/workspace/jinhui/anti/conf/producer.properties" timestamp="1501724440225">
+        <mark key="[" line="4" column="11" />
         <mark key="]" line="4" column="19" />
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="19" />
@@ -24,6 +24,9 @@
       </file>
       <file name="/a.dummy" timestamp="1500546667502">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/trace_api_server/lib/kafka_2.10-0.8.1.jar!/kafka/consumer/ConsumerConfig.class" timestamp="1501723816601">
+        <mark key="'" line="18" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/anti/app/setup/Setup.java" timestamp="1501148493316">
         <mark key="'" line="125" column="0" />
@@ -92,12 +95,12 @@
         <mark key="]" line="12" column="55" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/trace_api_server/app/controllers/api/sync/KafkaConsumer.java" timestamp="1501722838115">
+      <file name="$USER_HOME$/workspace/jinhui/trace_api_server/app/controllers/api/sync/KafkaConsumer.java" timestamp="1501723902446">
         <mark key="'" line="125" column="28" />
-        <mark key="[" line="133" column="12" />
-        <mark key="]" line="133" column="27" />
-        <mark key="." line="141" column="72" />
-        <mark key="^" line="141" column="72" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="140" column="72" />
+        <mark key="." line="139" column="0" />
+        <mark key="^" line="80" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/config.properties" timestamp="1500863245098">
         <mark key="'" line="7" column="15" />
@@ -414,7 +417,7 @@
         <mark key="." line="99" column="66" />
         <mark key="^" line="99" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501673049262">
+      <file name="/Dummy.txt" timestamp="1501724125827">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/workspace/jinhui/order-dealer/app/util/UpLoadImageUtil.java" timestamp="1500567228359">
@@ -482,11 +485,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="9" filename="$USER_HOME$/workspace/demo/react-demos/demo01/index.html" />
-      <jump line="15" column="12" filename="$USER_HOME$/workspace/zsyh/web/WEB-INF/web.xml" />
-      <jump line="3" column="0" filename="$USER_HOME$/workspace/zsyh/web/WEB-INF/web.xml" />
-      <jump line="21" column="67" filename="$USER_HOME$/workspace/zsyh/src/com/czb/mer/OrderCommit.java" />
-      <jump line="147" column="0" filename="$USER_HOME$/workspace/zsyh/src/com/czb/mer/OrderCommit.java" />
       <jump line="20" column="23" filename="$USER_HOME$/workspace/zsyh/web/payConfirm.jsp" />
       <jump line="52" column="0" filename="$USER_HOME$/workspace/zsyh/web/payConfirm.jsp" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/demo/react-demos/demo01/index.html" />
@@ -582,6 +580,11 @@
       <jump line="84" column="5" filename="$USER_HOME$/workspace/jinhui/trace_api_server/conf/application.conf" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/application.conf" />
       <jump line="43" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/application.conf" />
+      <jump line="2" column="6" filename="$USER_HOME$/workspace/jinhui/trace_api_server/lib/kafka_2.10-0.8.1.jar!/kafka/consumer/ConsumerConfig.class" />
+      <jump line="23" column="12" filename="$USER_HOME$/workspace/jinhui/trace_api_server/lib/kafka_2.10-0.8.1.jar!/kafka/consumer/ConsumerConfig.class" />
+      <jump line="34" column="14" filename="$USER_HOME$/workspace/jinhui/trace_api_server/lib/kafka_2.10-0.8.1.jar!/kafka/consumer/ConsumerConfig.class" />
+      <jump line="5" column="12" filename="$USER_HOME$/workspace/jinhui/trace_api_server/lib/kafka_2.10-0.8.1.jar!/kafka/consumer/ConsumerConfig.class" />
+      <jump line="18" column="14" filename="$USER_HOME$/workspace/jinhui/trace_api_server/lib/kafka_2.10-0.8.1.jar!/kafka/consumer/ConsumerConfig.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -591,57 +594,56 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>localhost</text>
+        <text>127.0.0.1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJ0aXRpb25cPg==</text>
+        <text>timeOut</text>
       </register>
       <register name="0" type="4">
         <text>ConsumerIterator</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLmVycm9yKCIkJCQkJCQkJCQkJCQkJCQkJDMzIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGNvbm5lY3Rvci5jb21taXRPZmZzZXRzKCk75omL5Yqo5o+Q5Lqkb2Zmc2V0LOW9k2F1dG9jb21taXQuZW5hYmxlPWZhbHNl5pe25L2/55SoCiAgICAgICAgICAgICAgICBNZXNzYWdlQW5kTWV0YWRhdGE8Ynl0ZVtdLCBieXRlW10+IGl0ZW0gPSBpdC5uZXh0KCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYXkuTG9nZ2VyLmVycm9yKCIjIyMjIyMjIyMjIiArIGl0ZW0ubWVzc2FnZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLmVycm9yKCIkJCQkJCQkJCQkJCQkJCQkJDMzIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYXkuTG9nZ2VyLmVycm9yKCIjIyMjIyMjIyMjIiArIGZsYWcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYXkuTG9nZ2VyLmVycm9yKCIjIyMjIyMjIyMjIiArIGl0ZW0ubWVzc2FnZSgpKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYXkuTG9nZ2VyLmVycm9yKCIjIyMjIyMjIyMjIiArIGZsYWcpOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBsYXkuTG9nZ2VyLmVycm9yKCIjIyMjIyMjIyMjIiArIGZsYWcpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLmVycm8K</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUubG9nNGouTG9nZ2VyOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLmVycm8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXJ0aXRpb25cPg==</last-search>
+      <last-search>timeOut</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJ0aXRpb25cPg==</last-pattern>
+      <last-pattern>timeOut</last-pattern>
       <last-replace>https</last-replace>
       <last-substitute>http</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>storeBatch</entry>
         <entry>storeage</entry>
         <entry>https</entry>
         <entry>http</entry>
@@ -661,6 +663,7 @@
         <entry>outBatch</entry>
         <entry encoding="base64">XDxmbGFnXD4=</entry>
         <entry encoding="base64">XDxwYXJ0aXRpb25cPg==</entry>
+        <entry>timeOut</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NhcmNvZGUvc2VuZG1hbi9n</entry>
