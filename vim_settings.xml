@@ -144,6 +144,11 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/sync_data/app/ConsumerAntiOrPrize.java" timestamp="1501731710559">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/views/logisticsOrderDetail.scala.html" timestamp="1500178940527">
         <mark key="'" line="316" column="77" />
         <mark key="[" line="334" column="55" />
@@ -231,6 +236,13 @@
       </file>
       <file name="$USER_HOME$/Desktop/workspace/jinhui/order-dealer/lib/PAYAPI.jar!/com/czbank/netpay/api/KeyStoreUtil.class" timestamp="1500706636684">
         <mark key="'" line="152" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/sync_data/app/ProducerAntiOrPrize.java" timestamp="1501731741114">
+        <mark key="'" line="37" column="3" />
+        <mark key="[" line="85" column="5" />
+        <mark key="]" line="86" column="3" />
+        <mark key="^" line="86" column="3" />
+        <mark key="." line="86" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/trace_api_server/conf/application.conf" timestamp="1501728735750">
         <mark key="[" line="85" column="0" />
@@ -442,7 +454,7 @@
         <mark key="." line="99" column="66" />
         <mark key="^" line="99" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501731112495">
+      <file name="/Dummy.txt" timestamp="1501731762232">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/workspace/jinhui/order-dealer/app/util/UpLoadImageUtil.java" timestamp="1500567228359">
@@ -510,11 +522,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="11" filename="$USER_HOME$/workspace/demo/react-demos/demo10/index.html" />
-      <jump line="45" column="0" filename="$USER_HOME$/workspace/demo/react-demos/demo10/index.html" />
-      <jump line="13" column="34" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" />
-      <jump line="17" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" />
-      <jump line="3" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" />
       <jump line="15" column="9" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" />
       <jump line="112" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" />
       <jump line="80" column="60" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
@@ -610,6 +617,11 @@
       <jump line="429" column="102" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="85" column="34" filename="$USER_HOME$/workspace/jinhui/trace_api_server/conf/application.conf" />
       <jump line="29" column="48" filename="$USER_HOME$/workspace/jinhui/anti/app/util/KafkaProducerClient.java" />
+      <jump line="24" column="13" filename="$USER_HOME$/workspace/jinhui/sync_data/app/ProducerAntiOrPrize.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/workspace/jinhui/sync_data/app/ProducerAntiOrPrize.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/workspace/jinhui/sync_data/app/ProducerAntiOrPrize.java" />
+      <jump line="86" column="0" filename="$USER_HOME$/workspace/jinhui/sync_data/app/ProducerAntiOrPrize.java" />
+      <jump line="37" column="3" filename="$USER_HOME$/workspace/jinhui/sync_data/app/ProducerAntiOrPrize.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -628,7 +640,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXIuZXJyb3IobmV3IFN0cmluZyhpdGVtLm1lc3NhZ2UoKSwgY2hhcnNldCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqQOmhueebruWQjeensDogc3luY19kYXRhCiAqQOaWh+S7tuWQjeensDogQ29uc3VtZXJBbnRpT3JQcml6ZS5qYXZhCiAqQERhdGU6IDIwMTblubQx5pyINOaXpQogKkBDb3B5cmlnaHQ6IDIwMTUtMjAxNiB3d3cubmV1bm4uY29tICBBbGwgcmlnaHRzIHJlc2VydmVkLgogKuazqOaEj++8muacrOWGheWuueS7hemZkOS6juS4nOe9keenkeaKgOaciemZkOWFrOWPuOWGhemDqOS8oOmYhe+8jOemgeatouWkluazhOS7peWPiueUqOS6juWFtuS7lueahOWVhuS4muebrueahAogKi8K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -637,22 +649,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgLy/nur/nqIvmsaAK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nZ2VyLmVycm9yKG5ldyBTdHJpbmcoaXRlbS5tZXNzYWdlKCksIGNoYXJzZXQpKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyAgICAgICAgLy/nur/nqIvmsaAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXIuZXJyb3IobmV3IFN0cmluZyhpdGVtLm1lc3NhZ2UoKSwgY2hhcnNldCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nZ2VyLmVycm9yKG5ldyBTdHJpbmcoaXRlbS5tZXNzYWdlKCksIGNoYXJzZXQpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
