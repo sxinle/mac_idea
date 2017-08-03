@@ -47,7 +47,6 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="35" column="40" />
       </file>
-      <file name="/producer.properties" timestamp="1501726195464" />
       <file name="$USER_HOME$/Desktop/workspace/jinhui/order-dealer/lib/PAYAPI.jar!/com/czbank/netpay/api/APIConstance.class" timestamp="1500706539344">
         <mark key="'" line="14" column="13" />
       </file>
@@ -137,6 +136,7 @@
         <mark key="." line="90" column="60" />
         <mark key="^" line="90" column="60" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/anti/app/service/StrorageBatchSynService.java" timestamp="1501739349009" />
       <file name="$USER_HOME$/workspace/jinhui/anti/build.sbt" timestamp="1501635894340">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="12" column="0" />
@@ -179,8 +179,8 @@
       <file name="$USER_HOME$/workspace/jinhui/trace_api_server/lib/zookeeper-3.3.4.jar!/LICENSE.txt" timestamp="1501658471148">
         <mark key="'" line="201" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/anti/conf/routes" timestamp="1501725838913">
-        <mark key="'" line="429" column="102" />
+      <file name="$USER_HOME$/workspace/jinhui/anti/conf/routes" timestamp="1501739172847">
+        <mark key="'" line="473" column="70" />
         <mark key="[" line="463" column="108" />
         <mark key="]" line="463" column="108" />
         <mark key="." line="463" column="108" />
@@ -303,6 +303,10 @@
         <mark key="^" line="101" column="22" />
         <mark key="." line="130" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/anti/conf/sql/StorageBatchLocal.xml" timestamp="1501739357872">
+        <mark key="[" line="56" column="17" />
+        <mark key="]" line="56" column="30" />
+      </file>
       <file name="$USER_HOME$/workspace/zsyh/web/redirect.jsp" timestamp="1501570049973">
         <mark key="'" line="34" column="0" />
       </file>
@@ -355,7 +359,12 @@
         <mark key="^" line="462" column="81" />
         <mark key="." line="465" column="81" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/anti/app/service/impl/StorageBatchServiceImpl.java" timestamp="1501725864793" />
+      <file name="$USER_HOME$/workspace/jinhui/anti/app/service/impl/StorageBatchServiceImpl.java" timestamp="1501739310543">
+        <mark key="[" line="376" column="30" />
+        <mark key="]" line="376" column="32" />
+        <mark key="." line="376" column="32" />
+        <mark key="^" line="376" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/cart/CartController.java" timestamp="1500513783667">
         <mark key="'" line="93" column="48" />
         <mark key="[" line="93" column="42" />
@@ -454,7 +463,7 @@
         <mark key="." line="99" column="66" />
         <mark key="^" line="99" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501736352679">
+      <file name="/Dummy.txt" timestamp="1501739349530">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/workspace/jinhui/order-dealer/app/util/UpLoadImageUtil.java" timestamp="1500567228359">
@@ -522,8 +531,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="9" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" />
-      <jump line="112" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" />
       <jump line="80" column="60" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
       <jump line="349" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
       <jump line="27" column="30" filename="$USER_HOME$/workspace/zsyh/web/WEB-INF/config/config.properties" />
@@ -561,7 +568,6 @@
       <jump line="13" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/anti/app/views/manualInBatch.scala.html" />
       <jump line="434" column="100" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
-      <jump line="472" column="75" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="396" column="24" filename="$USER_HOME$/workspace/jinhui/anti/app/views/makeCode.scala.html" />
       <jump line="11" column="6" filename="$USER_HOME$/workspace/jinhui/trace_api_server/conf/application.conf" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/trace_api_server/conf/application.conf" />
@@ -622,6 +628,9 @@
       <jump line="16" column="0" filename="$USER_HOME$/workspace/jinhui/sync_data/app/ProducerAntiOrPrize.java" />
       <jump line="86" column="0" filename="$USER_HOME$/workspace/jinhui/sync_data/app/ProducerAntiOrPrize.java" />
       <jump line="37" column="3" filename="$USER_HOME$/workspace/jinhui/sync_data/app/ProducerAntiOrPrize.java" />
+      <jump line="469" column="107" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="472" column="103" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="473" column="70" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -631,13 +640,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>get</text>
       </register>
       <register name="/" type="4">
         <text>code</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXIuZXJyb3IobmV3IFN0cmluZyhpdGVtLm1lc3NhZ2UoKSwgY2hhcnNldCkpOwo=</text>
+      <register name="0" type="4">
+        <text>storage_detail</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">LyoqCiAqQOmhueebruWQjeensDogc3luY19kYXRhCiAqQOaWh+S7tuWQjeensDogQ29uc3VtZXJBbnRpT3JQcml6ZS5qYXZhCiAqQERhdGU6IDIwMTblubQx5pyINOaXpQogKkBDb3B5cmlnaHQ6IDIwMTUtMjAxNiB3d3cubmV1bm4uY29tICBBbGwgcmlnaHRzIHJlc2VydmVkLgogKuazqOaEj++8muacrOWGheWuueS7hemZkOS6juS4nOe9keenkeaKgOaciemZkOWFrOWPuOWGhemDqOS8oOmYhe+8jOemgeatouWkluazhOS7peWPiueUqOS6juWFtuS7lueahOWVhuS4muebrueahAogKi8K</text>
