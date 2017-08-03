@@ -1,4 +1,7 @@
 <application>
+  <component name="RelativeLineNumbersSettings">
+    <option name="enabled" value="false" />
+  </component>
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
@@ -303,10 +306,10 @@
         <mark key="^" line="101" column="22" />
         <mark key="." line="130" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/anti/conf/sql/StorageBatchLocal.xml" timestamp="1501743383255">
+      <file name="$USER_HOME$/workspace/jinhui/anti/conf/sql/StorageBatchLocal.xml" timestamp="1501747123469">
         <mark key="'" line="73" column="0" />
-        <mark key="[" line="17" column="18" />
-        <mark key="]" line="18" column="4" />
+        <mark key="[" line="31" column="63" />
+        <mark key="]" line="31" column="72" />
         <mark key="^" line="18" column="4" />
         <mark key="." line="18" column="4" />
       </file>
@@ -543,7 +546,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="749" column="10" filename="$USER_HOME$/.ivy2/cache/log4j/log4j/srcs/log4j-1.2.17-sources.jar!/org/apache/log4j/xml/DOMConfigurator.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/application.conf" />
       <jump line="67" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/application.conf" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/application.conf" />
@@ -642,6 +644,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/uauth/pom.xml" />
       <jump line="180" column="44" filename="$USER_HOME$/workspace/uauth/pom.xml" />
       <jump line="27" column="17" filename="$USER_HOME$/workspace/jinhui/anti/conf/sql/StorageBatchLocal.xml" />
+      <jump line="25" column="1" filename="$USER_HOME$/workspace/jinhui/anti/conf/sql/StorageBatchLocal.xml" />
       <jump line="73" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/sql/StorageBatchLocal.xml" />
     </jumps>
     <registers>
@@ -658,7 +661,7 @@
         <text>try</text>
       </register>
       <register name="0" type="4">
-        <text>storage_detail</text>
+        <text>resultType</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDxjb250ZXh0OmNvbXBvbmVudC1zY2FuIGJhc2UtcGFja2FnZT0ibW9kZWxzIi8+Cg==</text>
@@ -698,7 +701,7 @@
       <last-replace>https</last-replace>
       <last-substitute>http</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
