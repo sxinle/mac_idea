@@ -13,11 +13,11 @@
       <file name="$USER_HOME$/workspace/zsyh/web/payConfirm.jsp" timestamp="1501476884233">
         <mark key="'" line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/anti/conf/producer.properties" timestamp="1501728025957">
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="4" column="32" />
-        <mark key="." line="4" column="32" />
+      <file name="$USER_HOME$/workspace/jinhui/anti/conf/producer.properties" timestamp="1501728810619">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
         <mark key="^" line="3" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/anti/app/controllers/user/UserController.java" timestamp="1501133586191">
         <mark key="'" line="64" column="36" />
@@ -34,11 +34,11 @@
       <file name="$USER_HOME$/workspace/jinhui/anti/app/views/manualInBatch.scala.html" timestamp="1501636497028">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/anti/app/util/KafkaProducerClient.java" timestamp="1501728013655">
+      <file name="$USER_HOME$/workspace/jinhui/anti/app/util/KafkaProducerClient.java" timestamp="1501728836315">
         <mark key="'" line="29" column="48" />
-        <mark key="[" line="35" column="74" />
-        <mark key="]" line="35" column="91" />
-        <mark key="." line="35" column="74" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
         <mark key="^" line="35" column="40" />
       </file>
       <file name="/producer.properties" timestamp="1501726195464" />
@@ -103,12 +103,12 @@
         <mark key="]" line="12" column="55" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/trace_api_server/app/controllers/api/sync/KafkaConsumer.java" timestamp="1501723902446">
+      <file name="$USER_HOME$/workspace/jinhui/trace_api_server/app/controllers/api/sync/KafkaConsumer.java" timestamp="1501729823645">
         <mark key="'" line="125" column="28" />
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="140" column="72" />
-        <mark key="." line="139" column="0" />
-        <mark key="^" line="80" column="7" />
+        <mark key="[" line="147" column="47" />
+        <mark key="]" line="147" column="47" />
+        <mark key="." line="147" column="47" />
+        <mark key="^" line="147" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/config.properties" timestamp="1500863245098">
         <mark key="'" line="7" column="15" />
@@ -190,6 +190,12 @@
       <file name="$USER_HOME$/workspace/jinhui/order-producer/public/statics/interFlowDetail.js" timestamp="1500388780460">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/trace_api_server/app/controllers/api/DimensionProcessor.java" timestamp="1501728860342">
+        <mark key="[" line="45" column="42" />
+        <mark key="]" line="45" column="56" />
+        <mark key="^" line="45" column="56" />
+        <mark key="." line="45" column="56" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" timestamp="1501472217119">
         <mark key="'" line="211" column="45" />
         <mark key="[" line="190" column="0" />
@@ -220,12 +226,16 @@
       <file name="$USER_HOME$/Desktop/workspace/jinhui/order-dealer/lib/PAYAPI.jar!/com/czbank/netpay/api/KeyStoreUtil.class" timestamp="1500706636684">
         <mark key="'" line="152" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/trace_api_server/conf/application.conf" timestamp="1501727333037">
-        <mark key="'" line="85" column="34" />
+      <file name="$USER_HOME$/workspace/jinhui/trace_api_server/conf/application.conf" timestamp="1501728735750">
         <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="33" />
-        <mark key="." line="85" column="33" />
-        <mark key="^" line="85" column="27" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/trace_api_server/app/Global.java" timestamp="1501729214092">
+        <mark key="[" line="63" column="45" />
+        <mark key="]" line="63" column="60" />
+        <mark key="^" line="63" column="60" />
+        <mark key="." line="63" column="60" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/views/paperOrderDetailNew.scala.html" timestamp="1500711211139">
         <mark key="'" line="44" column="24" />
@@ -426,7 +436,7 @@
         <mark key="." line="99" column="66" />
         <mark key="^" line="99" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501724125827">
+      <file name="/Dummy.txt" timestamp="1501729913237">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/workspace/jinhui/order-dealer/app/util/UpLoadImageUtil.java" timestamp="1500567228359">
@@ -603,37 +613,37 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>束</text>
       </register>
       <register name="/" type="4">
         <text>code</text>
       </register>
-      <register name="0" type="4">
-        <text>zookeeper.connect</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXIuZXJyb3IobmV3IFN0cmluZyhpdGVtLm1lc3NhZ2UoKSwgY2hhcnNldCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgUHJvZHVjZXJDb25maWcoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nZ2VyLmVycm9yKG5ldyBTdHJpbmcoaXRlbS5tZXNzYWdlKCksIGNoYXJzZXQpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXIuZXJyb3IobmV3IFN0cmluZyhpdGVtLm1lc3NhZ2UoKSwgY2hhcnNldCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8JCX1jYXRjaChFeGNlcHRpb24gZSl7Ci8vCQkgICAgTG9nZ2VyLmVycm9yKCJLYWZrYVByb2R1Y2VyQ2xpZW50LXNlbmQt5om56YeP5Y+R6YCB5raI5oGv5pe26L+e5o6l5byC5bi477yaIiwgZSk7Ci8vCQl9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXIuZXJyb3IobmV3IFN0cmluZyhpdC5uZXh0KCkubWVzc2FnZSgpKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ci8vCQl0cnl7Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9wZXJ0aWVzLnB1dCgiem9va2VlcGVyLmNvbm5lY3QiLCBGaWxlQ29tbW9uVXRpbC5nZXRTeXNDZmdQcm9wKCJ6b29rZWVwZXIuY29ubmVjdCIpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8JCX1jYXRjaChFeGNlcHRpb24gZSl7Ci8vCQkJTG9nZ2VyLmVycm9yKCJLYWZrYVByb2R1Y2VyQ2xpZW50LXNlbmQt5Y+R6YCB5Y2V5p2h5raI5oGv5pe26L+e5o6l5byC5bi477yaIiwgZSk7Ci8vCQl9Cgo=</text>
+        <text encoding="base64">em9va2VlcGVyLmNvbm5lY3Q9MTI3LjAuMC4xOjIxODEK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8JCXRyeXsK</text>
+        <text encoding="base64">em9va2VlcGVyLmNvbm5lY3Q9IjEyNy4wLjAuMToyMTgxIgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ29uZmlnRmFjdG9yeS5sb2FkKCIiKS5nZXRTdHJpbmcoKQo=</text>
+        <text encoding="base64">ICAgICAgICBuZXcgUHJvZHVjZXJDb25maWcoKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
