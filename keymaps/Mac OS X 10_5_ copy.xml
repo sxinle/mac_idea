@@ -8,6 +8,9 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="shift alt h" />
   </action>
+  <action id="ChangesView.Refresh">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="ctrl space" />
     <keyboard-shortcut first-keystroke="ctrl l" />
@@ -70,7 +73,6 @@
     <keyboard-shortcut first-keystroke="shift meta alt m" />
   </action>
   <action id="MethodHierarchy" />
-  <action id="MethodHierarchy.BaseOnThisType" />
   <action id="MinimizeCurrentWindow" />
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
@@ -83,15 +85,15 @@
     <keyboard-shortcut first-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
-  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="ReplaceInPath" />
   <action id="Rerun" />
   <action id="Resume">
     <keyboard-shortcut first-keystroke="meta alt r" />
-    <keyboard-shortcut first-keystroke="shift f" />
   </action>
   <action id="RunToCursor">
     <keyboard-shortcut first-keystroke="alt f9" />
-    <keyboard-shortcut first-keystroke="s" />
+    <keyboard-shortcut first-keystroke="shift f" />
   </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
@@ -144,7 +146,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl 9" />
     <keyboard-shortcut first-keystroke="shift meta 9" />
   </action>
-  <action id="UsageView.Rerun" />
+  <action id="Vcs.RefreshStatuses">
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="meta e" />
   </action>
