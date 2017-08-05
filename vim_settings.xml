@@ -51,12 +51,12 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="37" column="7" />
       </file>
-      <file name="$USER_HOME$/.config/karabiner/assets/complex_modifications/karabiner.mine.json" timestamp="1501861866240">
-        <mark key="'" line="100" column="21" />
-        <mark key="[" line="47" column="48" />
-        <mark key="]" line="47" column="60" />
-        <mark key="^" line="47" column="60" />
-        <mark key="." line="47" column="60" />
+      <file name="$USER_HOME$/.config/karabiner/assets/complex_modifications/karabiner.mine.json" timestamp="1501909862325">
+        <mark key="'" line="293" column="21" />
+        <mark key="[" line="306" column="4" />
+        <mark key="]" line="306" column="4" />
+        <mark key="." line="306" column="4" />
+        <mark key="^" line="274" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/anti/app/util/KafkaProducerClient.java" timestamp="1501728836315">
         <mark key="'" line="29" column="48" />
@@ -563,9 +563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="40" filename="$USER_HOME$/workspace/jinhui/trace_api_server/conf/application.conf" />
-      <jump line="99" column="0" filename="$USER_HOME$/workspace/jinhui/trace_api_server/conf/application.conf" />
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/jinhui/trace_api_server/conf/application.conf" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/jinhui/anti/build.sbt" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/jinhui/anti/build.sbt" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/trace_api_server/build.sbt" />
@@ -663,6 +660,9 @@
       <jump line="81" column="8" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/karabiner.mine.json" />
       <jump line="46" column="4" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/karabiner.mine.json" />
       <jump line="100" column="21" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/karabiner.mine.json" />
+      <jump line="50" column="16" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/karabiner.mine.json" />
+      <jump line="274" column="0" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/karabiner.mine.json" />
+      <jump line="291" column="21" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/karabiner.mine.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -672,57 +672,109 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>左右仅仅对Shortcut Bar生效</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>iterm2</text>
+        <text>left</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJjb20uZ29vZ2xlY29kZS5pdGVybTIiCg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgImRlc2NyaXB0aW9uIjogIlNob3J0Y2F0IOW/q+aNt+mUriBjdHJsKzsgLT4gc2hpZnRfY3RybF9hbHRfY21kK0YxMCIsCiAgICAgICJtYW5pcHVsYXRvcnMiOiBbCiAgICAgICAgewogICAgICAgICAgInR5cGUiOiAiYmFzaWMiLAogICAgICAgICAgImZyb20iOiB7CiAgICAgICAgICAgICJrZXlfY29kZSI6ICJzZW1pY29sb24iLAogICAgICAgICAgICAibW9kaWZpZXJzIjogewogICAgICAgICAgICAgICJtYW5kYXRvcnkiOiBbCiAgICAgICAgICAgICAgICAibGVmdF9jb250cm9sIgogICAgICAgICAgICAgIF0KICAgICAgICAgICAgfQogICAgICAgICAgfSwKICAgICAgICAgICJ0byI6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICJrZXlfY29kZSI6ICJmMTAiLAogICAgICAgICAgICAgICJtb2RpZmllcnMiOiBbCiAgICAgICAgICAgICAgICAibGVmdF9zaGlmdCIsCiAgICAgICAgICAgICAgICAibGVmdF9jb250cm9sIiwKICAgICAgICAgICAgICAgICJsZWZ0X29wdGlvbiIsCiAgICAgICAgICAgICAgICAibGVmdF9jb21tYW5kIgogICAgICAgICAgICAgIF0KICAgICAgICAgICAgfQogICAgICAgICAgXSwKICAgICAgICAgICJjb25kaXRpb25zIjogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgInR5cGUiOiAiZnJvbnRtb3N0X2FwcGxpY2F0aW9uX3VubGVzcyIsCiAgICAgICAgICAgICAgImJ1bmRsZV9pZGVudGlmaWVycyI6IFsKICAgICAgICAgICAgICAgICJjb20uamV0YnJhaW5zLmludGVsbGlqIgogICAgICAgICAgICAgIF0KICAgICAgICAgICAgfQogICAgICAgICAgXQogICAgICAgIH0KICAgICAgXQogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJjb20uZmlwbGFiLnNob3J0Y3V0YmFyIgo=</text>
+        <text encoding="base64">ICAgIHsKICAgICAgImRlc2NyaXB0aW9uIjogIue8lui+keenu+WKqOaYoOWwhCIsCiAgICAgICJtYW5pcHVsYXRvcnMiOiBbCiAgICAgICAgewogICAgICAgICAgInR5cGUiOiAiYmFzaWMiLAogICAgICAgICAgImZyb20iOiB7CiAgICAgICAgICAgICJrZXlfY29kZSI6ICJoIiwKICAgICAgICAgICAgIm1vZGlmaWVycyI6IHsKICAgICAgICAgICAgICAibWFuZGF0b3J5IjogWwogICAgICAgICAgICAgICAgImxlZnRfY29udHJvbCIKICAgICAgICAgICAgICBdCiAgICAgICAgICAgIH0KICAgICAgICAgIH0sCiAgICAgICAgICAidG8iOiBbCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAia2V5X2NvZGUiOiAiZGVsZXRlX29yX2JhY2tzcGFjZSIKICAgICAgICAgICAgfQogICAgICAgICAgXQogICAgICAgIH0KICAgICAgXQogICAgfQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJjb20uZmlwbGFiLnNob3J0Y3V0YmFyIgo=</text>
+      <register name="2" type="4">
+        <text>,
+          &quot;conditions&quot;: [
+            {
+              &quot;type&quot;: &quot;frontmost_application_unless&quot;,
+              &quot;bundle_identifiers&quot;: [
+                &quot;com.jetbrains.intellij&quot;
+              ]
+            }
+          ]</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgImRlc2NyaXB0aW9uIjogIklERUEgQUxUX1NISUZUICsgaC9sIDwtPiBDTURfU0hJRlQgaC9sICYmIGN0cmwrbSAtPiBFbnRlciIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAibW9kaWZpZXJzIjogWwogICAgICAgICAgICAgICAgImxlZnRfc2hpZnQiLAogICAgICAgICAgICAgICAgImxlZnRfY29udHJvbCIsCiAgICAgICAgICAgICAgICAibGVmdF9vcHRpb24iLAogICAgICAgICAgICAgICAgImxlZnRfY29tbWFuZCIKICAgICAgICAgICAgICBdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAidHlwZSI6ICJiYXNpYyIsCiAgICAgICAgICAiZnJvbSI6IHsKICAgICAgICAgICAgImtleV9jb2RlIjogIm4iLAogICAgICAgICAgICAibW9kaWZpZXJzIjogewogICAgICAgICAgICAgICJtYW5kYXRvcnkiOiBbCiAgICAgICAgICAgICAgICAibGVmdF9jb250cm9sIgogICAgICAgICAgICAgIF0KICAgICAgICAgICAgfQogICAgICAgICAgfSwKICAgICAgICAgICJ0byI6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICJrZXlfY29kZSI6ICJkb3duX2Fycm93IgogICAgICAgICAgICB9CiAgICAgICAgICBdCiAgICAgICAgfSwK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJsZWZ0X3NoaWZ0IiwKICAgICAgICAgICAgICAgICJsZWZ0X2NvbnRyb2wiLAo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>,
+        {
+          &quot;type&quot;: &quot;basic&quot;,
+          &quot;from&quot;: {
+            &quot;key_code&quot;: &quot;l&quot;,
+            &quot;modifiers&quot;: {
+              &quot;mandatory&quot;: [
+                &quot;left_command&quot;,
+                &quot;left_shift&quot;
+              ]
+            }
+          },
+          &quot;to&quot;: [
+            {
+              &quot;key_code&quot;: &quot;l&quot;,
+              &quot;modifiers&quot;: [
+                &quot;left_option&quot;,
+                &quot;left_shift&quot;
+              ]
+            }
+          ],
+          &quot;conditions&quot;: [
+            {
+              &quot;type&quot;: &quot;frontmost_application_if&quot;,
+              &quot;bundle_identifiers&quot;: [
+                &quot;com.jetbrains.intellij&quot;
+              ]
+            }
+          ]
+        },
+        {
+          &quot;type&quot;: &quot;basic&quot;,
+          &quot;from&quot;: {
+            &quot;key_code&quot;: &quot;m&quot;,
+            &quot;modifiers&quot;: {
+              &quot;mandatory&quot;: [
+                &quot;left_control&quot;
+              ]
+            }
+          },
+          &quot;to&quot;: [
+            {
+              &quot;key_code&quot;: &quot;return_or_enter&quot;
+            }
+          ]
+        }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJsZWZ0X3NoaWZ0Igo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAibW9kaWZpZXJzIjogWwogICAgICAgICAgICAgICAgImxlZnRfb3B0aW9uIiwKICAgICAgICAgICAgICAgICJsZWZ0X2NvbW1hbmQiCiAgICAgICAgICAgICAgXQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJjb20uZmlwbGFiLnNob3J0Y3V0YmFyIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>iterm2</last-search>
+      <last-search>left</last-search>
       <last-offset />
-      <last-pattern>iterm2</last-pattern>
-      <last-replace>https</last-replace>
-      <last-substitute>http</last-substitute>
+      <last-pattern>left</last-pattern>
+      <last-replace>right</last-replace>
+      <last-substitute>left</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>manule</entry>
         <entry>makecode</entry>
         <entry>makecode\/init</entry>
         <entry>预览</entry>
@@ -742,9 +794,9 @@
         <entry encoding="base64">XDxwbGF5SmF2YVNldHRpbmdzXD4=</entry>
         <entry>iterm</entry>
         <entry>iterm2</entry>
+        <entry>left</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2NhcmNvZGUvc2VuZHBob25lL2c=</entry>
         <entry encoding="base64">JzwsJz5zL2NhcmNvZGUvc2VuZGNvbXBhbnkvZw==</entry>
         <entry encoding="base64">JzwsJz5zLyAvXHQvZw==</entry>
         <entry>nohl</entry>
@@ -763,6 +815,7 @@
         <entry encoding="base64">JzwsJz5zL2h0dHAvaHR0cHMvZw==</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action $Redo</entry>
+        <entry encoding="base64">JzwsJz5zL2xlZnQvcmlnaHQvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
