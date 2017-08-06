@@ -51,12 +51,12 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="37" column="7" />
       </file>
-      <file name="$USER_HOME$/.config/karabiner/assets/complex_modifications/karabiner.mine.json" timestamp="1501909862325">
-        <mark key="'" line="293" column="21" />
-        <mark key="[" line="306" column="4" />
-        <mark key="]" line="306" column="4" />
-        <mark key="." line="306" column="4" />
-        <mark key="^" line="274" column="33" />
+      <file name="$USER_HOME$/.config/karabiner/assets/complex_modifications/karabiner.mine.json" timestamp="1502007260710">
+        <mark key="'" line="89" column="0" />
+        <mark key="[" line="125" column="39" />
+        <mark key="]" line="125" column="39" />
+        <mark key="." line="125" column="39" />
+        <mark key="^" line="125" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/anti/app/util/KafkaProducerClient.java" timestamp="1501728836315">
         <mark key="'" line="29" column="48" />
@@ -563,7 +563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/workspace/jinhui/anti/build.sbt" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/jinhui/anti/build.sbt" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/trace_api_server/build.sbt" />
       <jump line="67" column="16" filename="$USER_HOME$/workspace/jinhui/trace_api_server/conf/application.conf" />
@@ -663,6 +662,7 @@
       <jump line="50" column="16" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/karabiner.mine.json" />
       <jump line="274" column="0" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/karabiner.mine.json" />
       <jump line="291" column="21" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/karabiner.mine.json" />
+      <jump line="89" column="0" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/karabiner.mine.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -678,7 +678,7 @@
         <text>left</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgImRlc2NyaXB0aW9uIjogIlNob3J0Y2F0IOW/q+aNt+mUriBjdHJsKzsgLT4gc2hpZnRfY3RybF9hbHRfY21kK0YxMCIsCiAgICAgICJtYW5pcHVsYXRvcnMiOiBbCiAgICAgICAgewogICAgICAgICAgInR5cGUiOiAiYmFzaWMiLAogICAgICAgICAgImZyb20iOiB7CiAgICAgICAgICAgICJrZXlfY29kZSI6ICJzZW1pY29sb24iLAogICAgICAgICAgICAibW9kaWZpZXJzIjogewogICAgICAgICAgICAgICJtYW5kYXRvcnkiOiBbCiAgICAgICAgICAgICAgICAibGVmdF9jb250cm9sIgogICAgICAgICAgICAgIF0KICAgICAgICAgICAgfQogICAgICAgICAgfSwKICAgICAgICAgICJ0byI6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICJrZXlfY29kZSI6ICJmMTAiLAogICAgICAgICAgICAgICJtb2RpZmllcnMiOiBbCiAgICAgICAgICAgICAgICAibGVmdF9zaGlmdCIsCiAgICAgICAgICAgICAgICAibGVmdF9jb250cm9sIiwKICAgICAgICAgICAgICAgICJsZWZ0X29wdGlvbiIsCiAgICAgICAgICAgICAgICAibGVmdF9jb21tYW5kIgogICAgICAgICAgICAgIF0KICAgICAgICAgICAgfQogICAgICAgICAgXSwKICAgICAgICAgICJjb25kaXRpb25zIjogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgInR5cGUiOiAiZnJvbnRtb3N0X2FwcGxpY2F0aW9uX3VubGVzcyIsCiAgICAgICAgICAgICAgImJ1bmRsZV9pZGVudGlmaWVycyI6IFsKICAgICAgICAgICAgICAgICJjb20uamV0YnJhaW5zLmludGVsbGlqIgogICAgICAgICAgICAgIF0KICAgICAgICAgICAgfQogICAgICAgICAgXQogICAgICAgIH0KICAgICAgXQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJvcmcudmltLk1hY1ZpbSIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHsKICAgICAgImRlc2NyaXB0aW9uIjogIue8lui+keenu+WKqOaYoOWwhCIsCiAgICAgICJtYW5pcHVsYXRvcnMiOiBbCiAgICAgICAgewogICAgICAgICAgInR5cGUiOiAiYmFzaWMiLAogICAgICAgICAgImZyb20iOiB7CiAgICAgICAgICAgICJrZXlfY29kZSI6ICJoIiwKICAgICAgICAgICAgIm1vZGlmaWVycyI6IHsKICAgICAgICAgICAgICAibWFuZGF0b3J5IjogWwogICAgICAgICAgICAgICAgImxlZnRfY29udHJvbCIKICAgICAgICAgICAgICBdCiAgICAgICAgICAgIH0KICAgICAgICAgIH0sCiAgICAgICAgICAidG8iOiBbCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAia2V5X2NvZGUiOiAiZGVsZXRlX29yX2JhY2tzcGFjZSIKICAgICAgICAgICAgfQogICAgICAgICAgXQogICAgICAgIH0KICAgICAgXQogICAgfQo=</text>
@@ -771,7 +771,7 @@
       <last-replace>right</last-replace>
       <last-substitute>left</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
