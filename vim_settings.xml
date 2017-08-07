@@ -54,12 +54,12 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="37" column="7" />
       </file>
-      <file name="$USER_HOME$/.config/karabiner/assets/complex_modifications/karabiner.mine.json" timestamp="1502078261632">
-        <mark key="'" line="287" column="10" />
-        <mark key="[" line="92" column="26" />
-        <mark key="]" line="92" column="30" />
-        <mark key="." line="92" column="30" />
-        <mark key="^" line="291" column="5" />
+      <file name="$USER_HOME$/.config/karabiner/assets/complex_modifications/karabiner.mine.json" timestamp="1502088642890">
+        <mark key="'" line="3" column="4" />
+        <mark key="[" line="309" column="17" />
+        <mark key="]" line="309" column="27" />
+        <mark key="." line="309" column="27" />
+        <mark key="^" line="309" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/anti/app/util/KafkaProducerClient.java" timestamp="1501728836315">
         <mark key="'" line="29" column="48" />
@@ -68,7 +68,6 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="35" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/HttpAPIs.java" timestamp="1502075310393" />
       <file name="$USER_HOME$/Desktop/workspace/jinhui/order-dealer/lib/PAYAPI.jar!/com/czbank/netpay/api/APIConstance.class" timestamp="1500706539344">
         <mark key="'" line="14" column="13" />
       </file>
@@ -424,7 +423,6 @@
       <file name="$USER_HOME$/workspace/jinhui/trace_api_server/conf/routes" timestamp="1501666068296">
         <mark key="'" line="17" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/Application.java" timestamp="1502075365255" />
       <file name="$USER_HOME$/workspace/jinhui/anti/app/service/impl/MakeCodeServiceImpl.java" timestamp="1501145918928">
         <mark key="'" line="641" column="0" />
         <mark key="[" line="537" column="88" />
@@ -565,7 +563,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/jinhui/trace_api_server/lib/kafka_2.10-0.8.1.jar!/kafka/consumer/Consumer.class" />
       <jump line="16" column="56" filename="$USER_HOME$/workspace/jinhui/trace_api_server/lib/zookeeper-3.3.4.jar!/LICENSE.txt" />
       <jump line="201" column="3" filename="$USER_HOME$/workspace/jinhui/trace_api_server/lib/zookeeper-3.3.4.jar!/LICENSE.txt" />
       <jump line="17" column="29" filename="$USER_HOME$/workspace/jinhui/trace_api_server/conf/routes" />
@@ -665,6 +662,7 @@
       <jump line="17" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
       <jump line="263" column="85" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
       <jump line="287" column="10" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/karabiner.mine.json" />
+      <jump line="3" column="4" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/karabiner.mine.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -674,22 +672,22 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>left_command</text>
       </register>
       <register name="/" type="4">
         <text>user\/login</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgImRlc2NyaXB0aW9uIjogIkNNRCtFU0Mg5Y+N5ZCR5YiH5o2iIiwKICAgICAgIm1hbmlwdWxhdG9ycyI6IFsKICAgICAgICB7CiAgICAgICAgICAidHlwZSI6ICJiYXNpYyIsCiAgICAgICAgICAiZnJvbSI6IHsKICAgICAgICAgICAgImtleV9jb2RlIjogImVzY2FwZSIsCiAgICAgICAgICAgICJtb2RpZmllcnMiOiB7CiAgICAgICAgICAgICAgIm1hbmRhdG9yeSI6IFsKICAgICAgICAgICAgICAgICJsZWZ0X2NvbW1hbmQiCiAgICAgICAgICAgICAgXQogICAgICAgICAgICB9CiAgICAgICAgICB9LAogICAgICAgICAgInRvIjogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgImtleV9jb2RlIjogImdyYXZlX2FjY2VudF9hbmRfdGlsZGUiLAogICAgICAgICAgICAgICJtb2RpZmllcnMiOiBbCiAgICAgICAgICAgICAgICAibGVmdF9jb21tYW5kIgogICAgICAgICAgICAgIF0KICAgICAgICAgICAgfQogICAgICAgICAgXQogICAgICAgIH0KICAgICAgXQogICAgfQo=</text>
+      <register name="0" type="4">
+        <text>left_control</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICJjb25kaXRpb25zIjogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgInR5cGUiOiAiZnJvbnRtb3N0X2FwcGxpY2F0aW9uX3VubGVzcyIsCiAgICAgICAgICAgICAgImJ1bmRsZV9pZGVudGlmaWVycyI6IFsKICAgICAgICAgICAgICAgICJjb20uamV0YnJhaW5zLmludGVsbGlqIgogICAgICAgICAgICAgIF0KICAgICAgICAgICAgfQogICAgICAgICAgXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJsZWZ0X3NoaWZ0IiwKICAgICAgICAgICAgICAgICJsZWZ0X2NvbnRyb2wiLAogICAgICAgICAgICAgICAgImxlZnRfb3B0aW9uIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICJjb25kaXRpb25zIjogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgInR5cGUiOiAiZnJvbnRtb3N0X2FwcGxpY2F0aW9uX3VubGVzcyIsCiAgICAgICAgICAgICAgImJ1bmRsZV9pZGVudGlmaWVycyI6IFsKICAgICAgICAgICAgICAgICJjb20uamV0YnJhaW5zLmludGVsbGlqIgogICAgICAgICAgICAgIF0KICAgICAgICAgICAgfQogICAgICAgICAgXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJsZWZ0X3NoaWZ0IiwKICAgICAgICAgICAgICAgICJsZWZ0X2NvbnRyb2wiLAogICAgICAgICAgICAgICAgImxlZnRfb3B0aW9uIiwK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -698,13 +696,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -720,7 +718,7 @@
       <last-replace>DEBUG</last-replace>
       <last-substitute>ERROR</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
