@@ -45,12 +45,12 @@
       <file name="$USER_HOME$/workspace/jinhui/anti/conf/ckSum.xml" timestamp="1501843344451">
         <mark key="'" line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/sync_data/conf/application.conf" timestamp="1502069431904">
-        <mark key="'" line="1" column="13" />
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="1" column="13" />
-        <mark key="^" line="1" column="13" />
-        <mark key="." line="1" column="13" />
+      <file name="$USER_HOME$/workspace/jinhui/sync_data/conf/application.conf" timestamp="1502072959605">
+        <mark key="'" line="39" column="6" />
+        <mark key="[" line="20" column="12" />
+        <mark key="]" line="20" column="12" />
+        <mark key="^" line="17" column="16" />
+        <mark key="." line="20" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" timestamp="1502069286820">
         <mark key="'" line="57" column="17" />
@@ -165,6 +165,12 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/sync_data/conf/producer.properties" timestamp="1502072993428">
+        <mark key="[" line="0" column="17" />
+        <mark key="]" line="0" column="19" />
+        <mark key="." line="0" column="19" />
+        <mark key="^" line="0" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/sync_data/app/ConsumerAntiOrPrize.java" timestamp="1501731710559">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -193,6 +199,12 @@
         <mark key="]" line="117" column="45" />
         <mark key="." line="117" column="45" />
         <mark key="^" line="117" column="45" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/sync_data/conf/consumer.properties" timestamp="1502072978734">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="27" />
+        <mark key="." line="0" column="27" />
+        <mark key="^" line="0" column="27" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/log4j/log4j/srcs/log4j-1.2.17-sources.jar!/org/apache/log4j/xml/DOMConfigurator.java" timestamp="1501577905030">
         <mark key="'" line="749" column="10" />
@@ -572,8 +584,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="6" filename="$USER_HOME$/workspace/jinhui/trace_api_server/conf/application.conf" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/trace_api_server/conf/application.conf" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/jinhui/trace_api_server/build.sbt" />
       <jump line="138" column="38" filename="$USER_HOME$/workspace/jinhui/trace_api_server/app/controllers/api/sync/KafkaConsumer.java" />
       <jump line="80" column="11" filename="$USER_HOME$/workspace/jinhui/trace_api_server/app/controllers/api/sync/KafkaConsumer.java" />
@@ -672,6 +682,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/karabiner.mine.json" />
       <jump line="91" column="4" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/karabiner.mine.json" />
       <jump line="269" column="0" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/karabiner.mine.json" />
+      <jump line="95" column="13" filename="$USER_HOME$/workspace/jinhui/sync_data/conf/application.conf" />
+      <jump line="39" column="6" filename="$USER_HOME$/workspace/jinhui/sync_data/conf/application.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -681,7 +693,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>10.20.0.248</text>
       </register>
       <register name="/" type="4">
         <text>left</text>
