@@ -307,8 +307,14 @@
       <file name="$USER_HOME$/workspace/jinhui/anti/app/util/CommonUtils.java" timestamp="1501125457071">
         <mark key="'" line="279" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/application.conf" timestamp="1502200433924">
+        <mark key="'" line="17" column="31" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/anti/app/views/inventoryInfo.scala.html" timestamp="1501666227140">
         <mark key="'" line="1051" column="20" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/views/orderDetail.scala.html" timestamp="1502200673043">
+        <mark key="'" line="18" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/MyOrderServiceImpl.java" timestamp="1500115720839">
         <mark key="'" line="86" column="50" />
@@ -396,7 +402,7 @@
         <mark key="." line="376" column="32" />
         <mark key="^" line="376" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/cart/CartController.java" timestamp="1500513783667">
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/cart/CartController.java" timestamp="1502200762810">
         <mark key="'" line="93" column="48" />
         <mark key="[" line="93" column="42" />
         <mark key="]" line="93" column="48" />
@@ -574,8 +580,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="125" column="28" filename="$USER_HOME$/workspace/jinhui/trace_api_server/app/controllers/api/sync/KafkaConsumer.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/application.conf" />
       <jump line="84" column="5" filename="$USER_HOME$/workspace/jinhui/trace_api_server/conf/application.conf" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/application.conf" />
       <jump line="43" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/application.conf" />
@@ -674,6 +678,8 @@
       <jump line="31" column="31" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
       <jump line="24" column="0" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
       <jump line="141" column="0" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
+      <jump line="17" column="31" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/application.conf" />
+      <jump line="18" column="36" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/orderDetail.scala.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -686,7 +692,7 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx9XD4=</text>
+        <text>司机姓名</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgImRlc2NyaXB0aW9uIjogIlZpbeWSjElERUEgQ01EK2gvbO+8jFRhYuWIh+aNoiIsCg==</text>
@@ -749,17 +755,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx9XD4=</last-search>
+      <last-search>司机姓名</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
+      <last-pattern>司机姓名</last-pattern>
       <last-replace>DEBUG</last-replace>
       <last-substitute>ERROR</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>auto</entry>
         <entry>出库</entry>
         <entry>submit</entry>
         <entry>手工出库</entry>
@@ -779,6 +784,7 @@
         <entry>user\/login</entry>
         <entry encoding="base64">XDxjb25kaVw+</entry>
         <entry encoding="base64">XDx9XD4=</entry>
+        <entry>司机姓名</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
