@@ -142,6 +142,10 @@
         <mark key="^" line="486" column="91" />
         <mark key="." line="486" column="91" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/anti/app/service/TrayService.java" timestamp="1502261509835">
+        <mark key="[" line="35" column="34" />
+        <mark key="]" line="35" column="68" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/DistributeService.java" timestamp="1500786497411">
         <mark key="'" line="90" column="66" />
         <mark key="[" line="90" column="54" />
@@ -197,6 +201,9 @@
       </file>
       <file name="$USER_HOME$/workspace/jinhui/trace_api_server/lib/zookeeper-3.3.4.jar!/LICENSE.txt" timestamp="1501658471148">
         <mark key="'" line="201" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/anti/conf/routes" timestamp="1502261492084">
+        <mark key="'" line="469" column="105" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/clear.sql" timestamp="1500710548414">
         <mark key="'" line="0" column="0" />
@@ -509,7 +516,7 @@
         <mark key="." line="99" column="66" />
         <mark key="^" line="99" column="66" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502097125036">
+      <file name="/Dummy.txt" timestamp="1502261510330">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/workspace/jinhui/order-dealer/app/util/UpLoadImageUtil.java" timestamp="1500567228359">
@@ -545,12 +552,12 @@
         <mark key="^" line="161" column="84" />
         <mark key="." line="154" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1500786253687">
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1502261404198">
         <mark key="'" line="255" column="113" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="123" column="130" />
-        <mark key="." line="146" column="98" />
-        <mark key="^" line="146" column="98" />
+        <mark key="[" line="12" column="110" />
+        <mark key="]" line="12" column="47" />
+        <mark key="." line="12" column="47" />
+        <mark key="^" line="12" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/FinanceOrderServiceImpl.java" timestamp="1500786060741">
         <mark key="'" line="221" column="0" />
@@ -601,7 +608,6 @@
       <jump line="16" column="0" filename="$USER_HOME$/workspace/jinhui/sync_data/app/ProducerAntiOrPrize.java" />
       <jump line="86" column="0" filename="$USER_HOME$/workspace/jinhui/sync_data/app/ProducerAntiOrPrize.java" />
       <jump line="37" column="3" filename="$USER_HOME$/workspace/jinhui/sync_data/app/ProducerAntiOrPrize.java" />
-      <jump line="469" column="107" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="472" column="103" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="473" column="70" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="194" column="28" filename="$USER_HOME$/workspace/uauth/pom.xml" />
@@ -680,6 +686,7 @@
       <jump line="19" column="7" filename="$USER_HOME$/workspace/jinhui/anti/conf/application.conf" />
       <jump line="32" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/application.conf" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/application.conf" />
+      <jump line="469" column="105" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -692,10 +699,10 @@
         <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>司机姓名</text>
+        <text>tray</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgImRlc2NyaXB0aW9uIjogIlZpbeWSjElERUEgQ01EK2gvbO+8jFRhYuWIh+aNoiIsCg==</text>
+      <register name="0" type="4">
+        <text>TrayServeiceImpl/selectTrayFlowList</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -755,9 +762,9 @@
       </register>
     </registers>
     <search>
-      <last-search>司机姓名</last-search>
+      <last-search>tray</last-search>
       <last-offset />
-      <last-pattern>司机姓名</last-pattern>
+      <last-pattern>tray</last-pattern>
       <last-replace>DEBUG</last-replace>
       <last-substitute>ERROR</last-substitute>
       <last-dir>1</last-dir>
@@ -765,7 +772,6 @@
     </search>
     <history>
       <history-search>
-        <entry>出库</entry>
         <entry>submit</entry>
         <entry>手工出库</entry>
         <entry>outBatch</entry>
@@ -785,6 +791,7 @@
         <entry encoding="base64">XDxjb25kaVw+</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>司机姓名</entry>
+        <entry>tray</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
