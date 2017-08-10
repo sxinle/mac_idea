@@ -420,10 +420,10 @@
         <mark key="." line="4" column="14" />
         <mark key="^" line="4" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" timestamp="1502283815042">
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" timestamp="1502331420978">
         <mark key="'" line="62" column="37" />
-        <mark key="[" line="68" column="145" />
-        <mark key="]" line="68" column="145" />
+        <mark key="[" line="156" column="9" />
+        <mark key="]" line="156" column="27" />
         <mark key="." line="99" column="73" />
         <mark key="^" line="68" column="48" />
       </file>
@@ -444,8 +444,8 @@
         <mark key="^" line="161" column="84" />
         <mark key="." line="154" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1502327263833">
-        <mark key="'" line="203" column="117" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1502331001325">
+        <mark key="'" line="195" column="0" />
         <mark key="[" line="287" column="105" />
         <mark key="]" line="287" column="117" />
         <mark key="." line="287" column="117" />
@@ -493,6 +493,9 @@
         <mark key="^" line="63" column="60" />
         <mark key="." line="63" column="60" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/CustomerServiceImpl.java" timestamp="1502331008493">
+        <mark key="'" line="78" column="39" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/views/paperOrderDetailNew.scala.html" timestamp="1500711211139">
         <mark key="'" line="44" column="24" />
         <mark key="[" line="152" column="30" />
@@ -518,8 +521,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="4" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/karabiner.mine.json" />
-      <jump line="14" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
       <jump line="16" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/ckSum.xml" />
       <jump line="52" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/ckSum.xml" />
       <jump line="124" column="27" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/karabiner.mine.json" />
@@ -618,6 +619,8 @@
       <jump line="288" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="203" column="117" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
+      <jump line="195" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
+      <jump line="78" column="39" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/CustomerServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -632,8 +635,8 @@
       <register name="/" type="4">
         <text>stati</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGJvZHkgPSByZXF1ZXN0KCkuYm9keSgpLmFzSnNvbigpLnRvU3RyaW5nKCk7Cg==</text>
+      <register name="0" type="4">
+        <text>/jhpay/acceptResult</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
