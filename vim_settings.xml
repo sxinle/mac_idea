@@ -175,11 +175,6 @@
         <mark key="." line="376" column="32" />
         <mark key="^" line="376" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/build.sbt" timestamp="1502264983195">
-        <mark key="'" line="12" column="5" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="55" />
-      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/addr/AddrController.java" timestamp="1500783623274">
         <mark key="'" line="82" column="14" />
         <mark key="[" line="113" column="60" />
@@ -374,12 +369,12 @@
         <mark key="." line="249" column="9" />
         <mark key="^" line="249" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/sql/Logistics.xml" timestamp="1500790831553">
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/sql/Logistics.xml" timestamp="1502327458124">
         <mark key="'" line="189" column="76" />
-        <mark key="[" line="99" column="56" />
-        <mark key="]" line="99" column="66" />
-        <mark key="." line="99" column="66" />
-        <mark key="^" line="99" column="66" />
+        <mark key="[" line="211" column="18" />
+        <mark key="]" line="211" column="25" />
+        <mark key="." line="211" column="25" />
+        <mark key="^" line="211" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/trace_api_server/app/controllers/api/DimensionProcessor.java" timestamp="1501728860342">
         <mark key="[" line="45" column="42" />
@@ -415,7 +410,7 @@
         <mark key="^" line="210" column="81" />
         <mark key="." line="206" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502286301292">
+      <file name="/Dummy.txt" timestamp="1502327317167">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/zsyh/web/WEB-INF/config/config.properties" timestamp="1501582136418">
@@ -449,8 +444,8 @@
         <mark key="^" line="161" column="84" />
         <mark key="." line="154" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1502291148594">
-        <mark key="'" line="263" column="93" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1502327263833">
+        <mark key="'" line="203" column="117" />
         <mark key="[" line="287" column="105" />
         <mark key="]" line="287" column="117" />
         <mark key="." line="287" column="117" />
@@ -490,6 +485,7 @@
         <mark key="." line="7" column="49" />
         <mark key="^" line="7" column="49" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/LogisticsService.java" timestamp="1502327316574" />
       <file name="$USER_HOME$/workspace/jinhui/trace_api_server/app/Global.java" timestamp="1502071037627">
         <mark key="'" line="62" column="34" />
         <mark key="[" line="63" column="45" />
@@ -522,12 +518,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="9" filename="$USER_HOME$/workspace/jinhui/crm/build.sbt" />
-      <jump line="10" column="0" filename="$USER_HOME$/workspace/jinhui/crm/build.sbt" />
-      <jump line="12" column="0" filename="$USER_HOME$/workspace/jinhui/crm/build.sbt" />
-      <jump line="85" column="54" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
-      <jump line="13" column="43" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
-      <jump line="11" column="13" filename="$USER_HOME$/workspace/jinhui/crm/build.sbt" />
       <jump line="144" column="4" filename="$USER_HOME$/.config/karabiner/assets/complex_modifications/karabiner.mine.json" />
       <jump line="14" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/application-context.xml" />
       <jump line="16" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/ckSum.xml" />
@@ -622,6 +612,12 @@
       <jump line="46" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/APIServiceImpl.java" />
       <jump line="9" column="31" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql/ApiService.xml" />
       <jump line="30" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql/ApiService.xml" />
+      <jump line="287" column="108" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
+      <jump line="5" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
+      <jump line="288" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
+      <jump line="203" column="117" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -631,10 +627,10 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>request().body().asJson().toString()</text>
+        <text encoding="base64">PCFbQ0RBVEFbPD5dXT4=</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text>stati</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGJvZHkgPSByZXF1ZXN0KCkuYm9keSgpLmFzSnNvbigpLnRvU3RyaW5nKCk7Cg==</text>
@@ -671,18 +667,16 @@
       </register>
     </registers>
     <search>
-      <last-search>login</last-search>
+      <last-search>stati</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern>stati</last-pattern>
       <last-replace>DEBUG</last-replace>
       <last-substitute>ERROR</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>submit</entry>
-        <entry>手工出库</entry>
         <entry>outBatch</entry>
         <entry encoding="base64">XDxmbGFnXD4=</entry>
         <entry encoding="base64">XDxwYXJ0aXRpb25cPg==</entry>
@@ -701,6 +695,8 @@
         <entry>司机姓名</entry>
         <entry>tray</entry>
         <entry>login</entry>
+        <entry>orderHistory</entry>
+        <entry>stati</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
