@@ -414,6 +414,11 @@
         <mark key="." line="69" column="31" />
         <mark key="^" line="69" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/JbpmManagerImpl.java" timestamp="1502468729241">
+        <mark key="[" line="181" column="0" />
+        <mark key="]" line="181" column="0" />
+        <mark key="." line="181" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/jbpm/order.jpdl.xml" timestamp="1500101899191">
         <mark key="'" line="11" column="57" />
         <mark key="[" line="27" column="0" />
@@ -679,16 +684,16 @@
         <text>IContents</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYobnVsID4gMCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYobnVsID4gMCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGpicG0uSmJwbU1hbmFnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoKQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IGpicG0uSmJwbU1hbmFnZXI7Cg==</text>
@@ -697,13 +702,13 @@
         <text encoding="base64">aW1wb3J0IGpicG0uSmJwbU1hbmFnZXI7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiAqIOmHkeW+veiuouWNleezu+e7nwogKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioKICogQWRkckNvbnRyb2xsZXIuamF2YQogKi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICogKEMpIOayiOmYs+WFq+e7tOaXtuepuuenkeaKgOWPkeWxlQogKiAgICAgU0hFTllBTkcgRUlHSFRTUEFDRSBURUNITk9MT0dZIERFVkVMT1BNRU5UIENPLixMVEQuICAyMDE0CiAqLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogKiBWZXJzaW9uICAgIERhdGUgICAgICAgQnkgICAgICAgICAgICBDb21tZW50CiAqIDEuMCAgICAgICAgMjAxNC04LTEyICAgIFBvcHB5ICAgICAgIOaWsOW7ugogKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKiovCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IGpicG0uSmJwbU1hbmFnZXI7Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiAqIOmHkeW+veiuouWNleezu+e7nwogKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioKICogQWRkckNvbnRyb2xsZXIuamF2YQogKi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICogKEMpIOayiOmYs+WFq+e7tOaXtuepuuenkeaKgOWPkeWxlQogKiAgICAgU0hFTllBTkcgRUlHSFRTUEFDRSBURUNITk9MT0dZIERFVkVMT1BNRU5UIENPLixMVEQuICAyMDE0CiAqLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogKiBWZXJzaW9uICAgIERhdGUgICAgICAgQnkgICAgICAgICAgICBDb21tZW50CiAqIDEuMCAgICAgICAgMjAxNC04LTEyICAgIFBvcHB5ICAgICAgIOaWsOW7ugogKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKiovCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHV0aWwuQ29uc3RhbnRzOwo=</text>
+        <text encoding="base64">aW1wb3J0IGpicG0uSmJwbU1hbmFnZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
