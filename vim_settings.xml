@@ -41,6 +41,9 @@
         <mark key="." line="118" column="53" />
         <mark key="^" line="37" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/util/JAXBUtil.java" timestamp="1502952855569">
+        <mark key="'" line="64" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/util/Global.java" timestamp="1502683296548">
         <mark key="'" line="39" column="12" />
         <mark key="[" line="99" column="71" />
@@ -179,6 +182,9 @@
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/application-context.xml" timestamp="1502934583721">
         <mark key="'" line="81" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/paper/PaperNewController.java" timestamp="1502952846622">
+        <mark key="'" line="290" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/views/logisticsOrderDetail.scala.html" timestamp="1500178940527">
         <mark key="'" line="316" column="77" />
@@ -604,10 +610,10 @@
         <mark key="^" line="161" column="84" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1502952518702">
-        <mark key="'" line="18" column="105" />
-        <mark key="[" line="288" column="0" />
-        <mark key="]" line="288" column="2" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1502953929296">
+        <mark key="'" line="16" column="32" />
+        <mark key="[" line="288" column="8" />
+        <mark key="]" line="288" column="29" />
         <mark key="." line="288" column="2" />
         <mark key="^" line="288" column="2" />
       </file>
@@ -630,14 +636,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="61" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/APIServiceImpl.java" />
-      <jump line="46" column="52" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql/SalesOrder.xml" />
-      <jump line="85" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql/ApiService.xml" />
-      <jump line="23" column="77" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/APIServiceImpl.java" />
-      <jump line="39" column="12" filename="$USER_HOME$/workspace/jinhui/order-producer/app/util/Global.java" />
-      <jump line="26" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/models/NCOrderInfo.java" />
-      <jump line="35" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/models/NCOrderInfo.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/models/NCOrderInfo.java" />
       <jump line="29" column="31" filename="$USER_HOME$/workspace/jinhui/order-producer/app/models/NCOrderInfo.java" />
       <jump line="145" column="7" filename="$USER_HOME$/workspace/jinhui/order-producer/app/models/NCOrderInfo.java" />
       <jump line="154" column="35" filename="$USER_HOME$/workspace/jinhui/order-producer/app/models/NCOrderInfo.java" />
@@ -730,6 +728,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/PaperNewServiceImpl.java" />
       <jump line="18" column="105" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="101" column="80" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/UserServiceImpl.java" />
+      <jump line="44" column="45" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/paper/PaperNewController.java" />
+      <jump line="34" column="6" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/paper/PaperNewController.java" />
+      <jump line="290" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/paper/PaperNewController.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/util/JAXBUtil.java" />
+      <jump line="64" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/util/JAXBUtil.java" />
+      <jump line="129" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
+      <jump line="256" column="6" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
+      <jump line="16" column="32" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -745,7 +751,7 @@
         <text>papernew</text>
       </register>
       <register name="0" type="4">
-        <text>deptCode</text>
+        <text>/api/nc/sync_logistics</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiAqIOmHkeW+veiuouWNleezu+e7nwogKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioKICogVXNlckNvbnRyb2xsZXIuamF2YQogKi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICogKEMpIOayiOmYs+WFq+e7tOaXtuepuuenkeaKgOWPkeWxlQogKiAgICAgU0hFTllBTkcgRUlHSFRTUEFDRSBURUNITk9MT0dZIERFVkVMT1BNRU5UIENPLixMVEQuICAyMDE0CiAqLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogKiBWZXJzaW9uICAgIERhdGUgICAgICAgQnkgICAgICAgICAgICBDb21tZW50CiAqIDEuMCAgICAgICAgMjAxNC04LTEyICAgIFBvcHB5ICAgICAgIOaWsOW7ugogKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKiovCg==</text>
