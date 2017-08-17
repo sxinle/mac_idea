@@ -200,8 +200,8 @@
         <mark key="." line="192" column="0" />
         <mark key="^" line="178" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" timestamp="1502948623969">
-        <mark key="'" line="343" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" timestamp="1502958546865">
+        <mark key="'" line="101" column="36" />
         <mark key="[" line="115" column="53" />
         <mark key="]" line="115" column="20" />
         <mark key="." line="115" column="20" />
@@ -254,7 +254,7 @@
         <mark key="." line="70" column="23" />
         <mark key="^" line="70" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" timestamp="1501472217119">
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" timestamp="1502959831103">
         <mark key="'" line="211" column="45" />
         <mark key="[" line="190" column="0" />
         <mark key="]" line="191" column="38" />
@@ -554,8 +554,8 @@
         <mark key="." line="129" column="0" />
         <mark key="^" line="116" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" timestamp="1502944503141">
-        <mark key="'" line="52" column="61" />
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" timestamp="1502960680753">
+        <mark key="'" line="13" column="21" />
         <mark key="[" line="13" column="17" />
         <mark key="]" line="13" column="22" />
         <mark key="." line="13" column="22" />
@@ -624,7 +624,7 @@
         <mark key="." line="7" column="49" />
         <mark key="^" line="7" column="49" />
       </file>
-      <file name="/fragment.java" timestamp="1502948913344">
+      <file name="/fragment.java" timestamp="1502959831960">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/CommonController.java" timestamp="1502457606927">
@@ -636,13 +636,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="31" filename="$USER_HOME$/workspace/jinhui/order-producer/app/models/NCOrderInfo.java" />
-      <jump line="145" column="7" filename="$USER_HOME$/workspace/jinhui/order-producer/app/models/NCOrderInfo.java" />
-      <jump line="154" column="35" filename="$USER_HOME$/workspace/jinhui/order-producer/app/models/NCOrderInfo.java" />
-      <jump line="14" column="4" filename="$USER_HOME$/workspace/jinhui/order-producer/app/models/NCOrderInfo.java" />
-      <jump line="108" column="3" filename="$USER_HOME$/workspace/jinhui/order-producer/app/models/NCOrderInfo.java" />
-      <jump line="112" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/models/NCOrderInfo.java" />
-      <jump line="21" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/models/NCOrderInfo.java" />
       <jump line="120" column="12" filename="$USER_HOME$/workspace/jinhui/order-producer/app/models/NCOrderInfo.java" />
       <jump line="70" column="4" filename="$USER_HOME$/workspace/jinhui/order-producer/app/models/NCOrderInfo.java" />
       <jump line="90" column="14" filename="$USER_HOME$/workspace/jinhui/order-producer/app/models/NCOrderInfo.java" />
@@ -736,6 +729,13 @@
       <jump line="129" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="256" column="6" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="16" column="32" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
+      <jump line="101" column="36" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
+      <jump line="53" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" />
+      <jump line="25" column="12" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" />
+      <jump line="17" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" />
+      <jump line="27" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" />
+      <jump line="78" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" />
+      <jump line="13" column="21" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -748,7 +748,7 @@
         <text>(</text>
       </register>
       <register name="/" type="4">
-        <text>papernew</text>
+        <text>60.191.15.92\\:465</text>
       </register>
       <register name="0" type="4">
         <text>/api/nc/sync_logistics</text>
@@ -785,17 +785,16 @@
       </register>
     </registers>
     <search>
-      <last-search>papernew</last-search>
+      <last-search>60.191.15.92\\:465</last-search>
       <last-offset />
-      <last-pattern>papernew</last-pattern>
-      <last-replace>private</last-replace>
-      <last-substitute>public</last-substitute>
+      <last-pattern>60.191.15.92\\:465</last-pattern>
+      <last-replace>pay.czbank.com\\:443</last-replace>
+      <last-substitute>60.191.15.92\\:465</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZXRhaWxJbml0XD4=</entry>
         <entry>display</entry>
         <entry>finance</entry>
         <entry>商家金额</entry>
@@ -815,9 +814,9 @@
         <entry>status</entry>
         <entry>login</entry>
         <entry>papernew</entry>
+        <entry>60.191.15.92\\:465</entry>
       </history-search>
       <history-cmd>
-        <entry>vsp config.properteis</entry>
         <entry>vsp</entry>
         <entry encoding="base64">JzwsJz5zL2h0dHBzL2h0dHAvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2h0dHAvaHR0cHMvZw==</entry>
@@ -836,6 +835,7 @@
         <entry encoding="base64">JzwsJz5zL0NvbnN0YW50cy9JQ29udGVudHMvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2phdmEubGFuZy4vL2c=</entry>
         <entry encoding="base64">JzwsJz5zL3B1YmxpYy9wcml2YXRlL2c=</entry>
+        <entry encoding="base64">JzwsJz5zLzYwLjE5MS4xNS45MlxcOjQ2NS9wYXkuY3piYW5rLmNvbVxcOjQ0My9n</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
