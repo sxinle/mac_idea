@@ -358,7 +358,7 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" timestamp="1502938363396">
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" timestamp="1502938821797">
         <mark key="'" line="322" column="19" />
         <mark key="[" line="113" column="125" />
         <mark key="]" line="113" column="138" />
@@ -392,6 +392,11 @@
         <mark key="]" line="9" column="68" />
         <mark key="." line="9" column="68" />
         <mark key="^" line="9" column="92" />
+      </file>
+      <file name="$USER_HOME$/Desktop/银行/兴业银行/epaysdk_acquire_java_utf-8/src/com/cib/epay/sdk/service/gp/GpPay.java" timestamp="1502939166966">
+        <mark key="[" line="35" column="70" />
+        <mark key="]" line="35" column="81" />
+        <mark key="." line="35" column="70" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/views/distributeConfirm.scala.html" timestamp="1500112374969">
         <mark key="'" line="96" column="82" />
@@ -530,6 +535,7 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/银行/兴业银行/epaysdk_acquire_java_utf-8/Readme.txt" timestamp="1502939109936" />
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/OrderDetailServiceImpl.java" timestamp="1502468341573">
         <mark key="'" line="155" column="69" />
         <mark key="[" line="11" column="0" />
@@ -721,13 +727,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>61.161.249.3</text>
+        <text>GP_DEV_API</text>
       </register>
       <register name="/" type="4">
         <text>gppay</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBYbWxKYXZhVHlwZUFkYXB0ZXIoSkFYQlV0aWwuSmF4YkRhdGVBZGFwdGVyLmNsYXNzKQo=</text>
+      <register name="0" type="4">
+        <text>GP_PROD_API</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
