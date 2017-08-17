@@ -145,6 +145,12 @@
         <mark key="^" line="13" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/银行/兴业银行/epaysdk_acquire_java_utf-8/src/com/cib/epay/sdk/common/Configure.java" timestamp="1502940493366">
+        <mark key="[" line="60" column="53" />
+        <mark key="]" line="60" column="60" />
+        <mark key="." line="60" column="60" />
+        <mark key="^" line="60" column="60" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/anti/conf/config.properties" timestamp="1501143798523">
         <mark key="'" line="3" column="19" />
         <mark key="[" line="0" column="25" />
@@ -358,8 +364,8 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" timestamp="1502939742570">
-        <mark key="'" line="322" column="19" />
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" timestamp="1502940703142">
+        <mark key="'" line="343" column="0" />
         <mark key="[" line="113" column="125" />
         <mark key="]" line="113" column="138" />
         <mark key="." line="113" column="125" />
@@ -467,12 +473,12 @@
         <mark key="." line="70" column="23" />
         <mark key="^" line="70" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/config.properties" timestamp="1502937194708">
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/config.properties" timestamp="1502940660640">
         <mark key="'" line="52" column="0" />
-        <mark key="[" line="16" column="38" />
-        <mark key="]" line="16" column="37" />
-        <mark key="^" line="16" column="37" />
-        <mark key="." line="16" column="37" />
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="29" column="15" />
+        <mark key="^" line="29" column="15" />
+        <mark key="." line="29" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" timestamp="1501472217119">
         <mark key="'" line="211" column="45" />
@@ -488,7 +494,7 @@
         <mark key="^" line="210" column="81" />
         <mark key="." line="206" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502698736428">
+      <file name="/Dummy.txt" timestamp="1502940830397">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -514,7 +520,7 @@
         <mark key="^" line="74" column="42" />
         <mark key="." line="74" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" timestamp="1502938055499">
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" timestamp="1502940829552">
         <mark key="'" line="135" column="37" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -618,8 +624,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="67" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/financeDetail.scala.html" />
-      <jump line="18" column="26" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/financeDetail.scala.html" />
       <jump line="58" column="19" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/financeDetail.scala.html" />
       <jump line="141" column="31" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/financeDetail.scala.html" />
       <jump line="146" column="31" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/financeDetail.scala.html" />
@@ -718,6 +722,8 @@
       <jump line="358" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/addr/AddrController.java" />
       <jump line="135" column="37" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
       <jump line="26" column="45" filename="$USER_HOME$/Desktop/银行/兴业银行/epaysdk_acquire_java_utf-8/src/com/cib/epay/sdk/Example.java" />
+      <jump line="98" column="62" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
+      <jump line="343" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -727,7 +733,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>GP_DEV_API</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>gppay</text>
