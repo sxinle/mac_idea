@@ -241,7 +241,7 @@
         <mark key="." line="104" column="45" />
         <mark key="^" line="104" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/crm/conf/application-context.xml" timestamp="1502277812645">
+      <file name="$USER_HOME$/workspace/jinhui/crm/conf/application-context.xml" timestamp="1503048406947">
         <mark key="'" line="12" column="0" />
         <mark key="[" line="44" column="41" />
         <mark key="]" line="44" column="48" />
@@ -317,6 +317,11 @@
         <mark key="]" line="79" column="39" />
         <mark key="^" line="79" column="39" />
         <mark key="." line="79" column="39" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/bak/clear.sql" timestamp="1503048027310">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="25" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/crm/build.sbt" timestamp="1502264986466">
         <mark key="'" line="9" column="5" />
@@ -535,12 +540,6 @@
         <mark key="." line="9" column="68" />
         <mark key="^" line="9" column="92" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/user/UserController.java" timestamp="1502951938110">
-        <mark key="'" line="39" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/views/distributeConfirm.scala.html" timestamp="1500112374969">
         <mark key="'" line="96" column="82" />
         <mark key="[" line="96" column="80" />
@@ -644,7 +643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="14" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/config.properties" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/config.properties" />
       <jump line="52" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/config.properties" />
       <jump line="10" column="0" filename="$USER_HOME$/Desktop/银行/兴业银行/epaysdk_acquire_java_utf-8/src/com/cib/epay/sdk/Example.java" />
@@ -744,6 +742,7 @@
       <jump line="5" column="20" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/jdbc.properties" />
       <jump line="155" column="110" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
       <jump line="0" column="13" filename="$USER_HOME$/workspace/jinhui/crm/conf/application.conf" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/bak/clear.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -759,7 +758,7 @@
         <text>login</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICJrZXlfY29kZSI6ICJwIiwKICAgICAgICAgICAgICAibW9kaWZpZXJzIjogWwogICAgICAgICAgICAgICAgImxlZnRfY29udHJvbCIsCiAgICAgICAgICAgICAgICAibGVmdF9zaGlmdCIsCiAgICAgICAgICAgICAgICAibGVmdF9vcHRpb24iLAogICAgICAgICAgICAgICAgImxlZnRfY29tbWFuZCIKICAgICAgICAgICAgICBdCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gamJwbTRfdGFzazsKZGVsZXRlIGZyb20gamJwbTRfdmFyaWFibGU7CmRlbGV0ZSBmcm9tIGpicG00X2xvYjsKZGVsZXRlIGZyb20gamJwbTRfZGVwbG95cHJvcDsKZGVsZXRlIGZyb20gamJwbTRfZGVwbG95bWVudDsKZGVsZXRlIGZyb20gamJwbTRfdmFyaWFibGU7CmRlbGV0ZSBmcm9tIGpicG00X2V4ZWN1dGlvbjsKZGVsZXRlIGZyb20gamJwbTRfaGlzdF9hY3RpbnN0OwpkZWxldGUgZnJvbSBqYnBtNF9oaXN0X2RldGFpbDsKZGVsZXRlIGZyb20gamJwbTRfaGlzdF9wcm9jaW5zdDsKZGVsZXRlIGZyb20gamJwbTRfaGlzdF90YXNrOwpkZWxldGUgZnJvbSBqYnBtNF9oaXN0X3ZhcjsKZGVsZXRlIGZyb20gamJwbTRfaWRfZ3JvdXA7CmRlbGV0ZSBmcm9tIGpicG00X2lkX21lbWJlcnNoaXA7CmRlbGV0ZSBmcm9tIGpicG00X2lkX3VzZXI7CmRlbGV0ZSBmcm9tIGpicG00X3BhcnRpY2lwYXRpb247CmRlbGV0ZSBmcm9tIGpicG00X3Byb3BlcnR5OwpkZWxldGUgZnJvbSBqYnBtNF9sb2I7CmRlbGV0ZSBmcm9tIGpicG00X3N3aW1sYW5lOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">I2pkYmMudXJsPWpkYmM6cG9zdGdyZXNxbDovLzE5Mi4xNjguMi42OTo1NDMyL2poX3Byb2QK</text>
