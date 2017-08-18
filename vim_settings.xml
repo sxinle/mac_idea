@@ -234,18 +234,18 @@
         <mark key="." line="96" column="39" />
         <mark key="^" line="96" column="29" />
       </file>
-      <file name="$USER_HOME$/folder/util/mactools/dotfiles/karabiner.mine.json" timestamp="1503049502547">
-        <mark key="'" line="12" column="30" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/folder/util/mactools/dotfiles/karabiner.mine.json" timestamp="1503050801879">
+        <mark key="'" line="171" column="33" />
+        <mark key="[" line="287" column="0" />
+        <mark key="]" line="287" column="0" />
+        <mark key="." line="287" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/crm/conf/application-context.xml" timestamp="1503049470975">
+      <file name="$USER_HOME$/workspace/jinhui/crm/conf/application-context.xml" timestamp="1503050939297">
         <mark key="'" line="23" column="52" />
-        <mark key="[" line="44" column="41" />
-        <mark key="]" line="44" column="48" />
-        <mark key="." line="44" column="41" />
-        <mark key="^" line="42" column="75" />
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+        <mark key="^" line="6" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/APIServiceImpl.java" timestamp="1502693744137">
         <mark key="'" line="48" column="12" />
@@ -641,11 +641,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/Desktop/银行/兴业银行/epaysdk_acquire_java_utf-8/src/com/cib/epay/sdk/Example.java" />
-      <jump line="99" column="58" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/addr/AddrController.java" />
-      <jump line="78" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/addr/AddrController.java" />
-      <jump line="44" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/addr/AddrController.java" />
-      <jump line="358" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/addr/AddrController.java" />
       <jump line="135" column="37" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
       <jump line="26" column="45" filename="$USER_HOME$/Desktop/银行/兴业银行/epaysdk_acquire_java_utf-8/src/com/cib/epay/sdk/Example.java" />
       <jump line="98" column="62" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
@@ -741,6 +736,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/bak/clear.sql" />
       <jump line="12" column="30" filename="$USER_HOME$/folder/util/mactools/dotfiles/karabiner.mine.json" />
       <jump line="23" column="52" filename="$USER_HOME$/workspace/jinhui/crm/conf/application-context.xml" />
+      <jump line="323" column="28" filename="$USER_HOME$/folder/util/mactools/dotfiles/karabiner.mine.json" />
+      <jump line="55" column="33" filename="$USER_HOME$/folder/util/mactools/dotfiles/karabiner.mine.json" />
+      <jump line="82" column="33" filename="$USER_HOME$/folder/util/mactools/dotfiles/karabiner.mine.json" />
+      <jump line="112" column="33" filename="$USER_HOME$/folder/util/mactools/dotfiles/karabiner.mine.json" />
+      <jump line="171" column="33" filename="$USER_HOME$/folder/util/mactools/dotfiles/karabiner.mine.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -750,57 +750,74 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>INFO</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text>appli</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ZGVsZXRlIGZyb20gamJwbTRfdGFzazsKZGVsZXRlIGZyb20gamJwbTRfdmFyaWFibGU7CmRlbGV0ZSBmcm9tIGpicG00X2xvYjsKZGVsZXRlIGZyb20gamJwbTRfZGVwbG95cHJvcDsKZGVsZXRlIGZyb20gamJwbTRfZGVwbG95bWVudDsKZGVsZXRlIGZyb20gamJwbTRfdmFyaWFibGU7CmRlbGV0ZSBmcm9tIGpicG00X2V4ZWN1dGlvbjsKZGVsZXRlIGZyb20gamJwbTRfaGlzdF9hY3RpbnN0OwpkZWxldGUgZnJvbSBqYnBtNF9oaXN0X2RldGFpbDsKZGVsZXRlIGZyb20gamJwbTRfaGlzdF9wcm9jaW5zdDsKZGVsZXRlIGZyb20gamJwbTRfaGlzdF90YXNrOwpkZWxldGUgZnJvbSBqYnBtNF9oaXN0X3ZhcjsKZGVsZXRlIGZyb20gamJwbTRfaWRfZ3JvdXA7CmRlbGV0ZSBmcm9tIGpicG00X2lkX21lbWJlcnNoaXA7CmRlbGV0ZSBmcm9tIGpicG00X2lkX3VzZXI7CmRlbGV0ZSBmcm9tIGpicG00X3BhcnRpY2lwYXRpb247CmRlbGV0ZSBmcm9tIGpicG00X3Byb3BlcnR5OwpkZWxldGUgZnJvbSBqYnBtNF9sb2I7CmRlbGV0ZSBmcm9tIGpicG00X3N3aW1sYW5lOwo=</text>
+      <register name="0" type="4">
+        <text>application</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICJkaXNjIgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">I2pkYmMudXJsPWpkYmM6cG9zdGdyZXNxbDovLzE5Mi4xNjguMi42OTo1NDMyL2poX3Byb2QK</text>
+      <register name="2" type="4">
+        <text>{
+          &quot;type&quot;: &quot;basic&quot;,
+          &quot;from&quot;: {
+            &quot;key_code&quot;: &quot;application&quot;,
+            &quot;modifiers&quot;: {
+              &quot;mandatory&quot;: [
+                &quot;left_shift&quot;
+              ]
+            }
+          },
+          &quot;to&quot;: [
+            {
+              &quot;key_code&quot;: &quot;end&quot;,
+              &quot;modifiers&quot;: [
+                &quot;left_shift&quot;
+              ]
+            }
+          ]
+        }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJsZWZ0X29wdGlvbiIsCiAgICAgICAgICAgICAgICAibGVmdF9jb21tYW5kIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJsZWZ0X2NvbnRyb2wiLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIAogICAgICogQGF1dGhvciBEeAogICAgICogQGRhdGUgMjAxNuW5tDbmnIgzMOaXpSAKICAgICAqIEBwYXJhbSBvcmRlcmlkCiAgICAgKiBAcmV0dXJuCiAgICAgKiBAdGhyb3dzIEV4Y2VwdGlvbgogICAgICogQHNpbmNlIDEuMAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAia2V5X2NvZGUiOiAicmV0dXJuX29yX2VudGVyIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICJkaXNjIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I2pkYmMudXJsPWpkYmM6cG9zdGdyZXNxbDovLzE5Mi4xNjguMi42OTo1NDMyL2poX3Byb2QK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>login</last-search>
+      <last-search>appli</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern>appli</last-pattern>
       <last-replace>pay.czbank.com\\:443</last-replace>
       <last-substitute>60.191.15.92\\:465</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>通过吗</entry>
         <entry>account</entry>
         <entry>物流</entry>
         <entry>java.lang.</entry>
@@ -820,6 +837,7 @@
         <entry encoding="base64">XDx0cmFuc0FjY291bnRcPg==</entry>
         <entry encoding="base64">XDxyZWNoYXJnZU5vXD4=</entry>
         <entry>login</entry>
+        <entry>appli</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
