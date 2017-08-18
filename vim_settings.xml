@@ -554,8 +554,8 @@
         <mark key="." line="129" column="0" />
         <mark key="^" line="116" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" timestamp="1502961787895">
-        <mark key="'" line="13" column="21" />
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" timestamp="1503022071159">
+        <mark key="'" line="8" column="0" />
         <mark key="[" line="13" column="17" />
         <mark key="]" line="13" column="22" />
         <mark key="." line="13" column="22" />
@@ -636,12 +636,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="4" filename="$USER_HOME$/workspace/jinhui/order-producer/app/models/NCOrderInfo.java" />
-      <jump line="90" column="14" filename="$USER_HOME$/workspace/jinhui/order-producer/app/models/NCOrderInfo.java" />
-      <jump line="24" column="12" filename="$USER_HOME$/workspace/jinhui/order-producer/app/models/NCOrderInfo.java" />
-      <jump line="92" column="31" filename="$USER_HOME$/workspace/jinhui/order-producer/app/models/NCOrderInfo.java" />
-      <jump line="46" column="12" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/APIServiceImpl.java" />
-      <jump line="94" column="11" filename="$USER_HOME$/workspace/jinhui/order-producer/app/models/NCOrderInfo.java" />
       <jump line="98" column="29" filename="$USER_HOME$/workspace/jinhui/order-producer/app/models/NCOrderInfo.java" />
       <jump line="8" column="17" filename="$USER_HOME$/workspace/jinhui/order-producer/app/models/NCOrderInfo.java" />
       <jump line="25" column="12" filename="$USER_HOME$/workspace/jinhui/order-producer/app/models/NCOrderInfo.java" />
@@ -736,6 +730,12 @@
       <jump line="78" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" />
       <jump line="13" column="21" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" />
       <jump line="254" column="12" filename="$USER_HOME$/folder/util/mactools/dotfiles/karabiner.mine.json" />
+      <jump line="24" column="26" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" />
+      <jump line="16" column="11" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" />
+      <jump line="112" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" />
+      <jump line="10" column="11" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" />
+      <jump line="8" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -748,7 +748,7 @@
         <text>p</text>
       </register>
       <register name="/" type="4">
-        <text>60.191.15.92\\:465</text>
+        <text encoding="base64">XDxjYWNlcnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICAgICJrZXlfY29kZSI6ICJwIiwKICAgICAgICAgICAgICAibW9kaWZpZXJzIjogWwogICAgICAgICAgICAgICAgImxlZnRfY29udHJvbCIsCiAgICAgICAgICAgICAgICAibGVmdF9zaGlmdCIsCiAgICAgICAgICAgICAgICAibGVmdF9vcHRpb24iLAogICAgICAgICAgICAgICAgImxlZnRfY29tbWFuZCIKICAgICAgICAgICAgICBdCiAgICAgICAgICAgIH0K</text>
@@ -785,17 +785,16 @@
       </register>
     </registers>
     <search>
-      <last-search>60.191.15.92\\:465</last-search>
+      <last-search encoding="base64">XDxjYWNlcnRcPg==</last-search>
       <last-offset />
-      <last-pattern>60.191.15.92\\:465</last-pattern>
+      <last-pattern encoding="base64">XDxjYWNlcnRcPg==</last-pattern>
       <last-replace>pay.czbank.com\\:443</last-replace>
       <last-substitute>60.191.15.92\\:465</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>display</entry>
         <entry>finance</entry>
         <entry>商家金额</entry>
         <entry>通过吗</entry>
@@ -815,6 +814,7 @@
         <entry>login</entry>
         <entry>papernew</entry>
         <entry>60.191.15.92\\:465</entry>
+        <entry encoding="base64">XDxjYWNlcnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
