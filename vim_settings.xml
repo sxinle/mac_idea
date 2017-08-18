@@ -412,12 +412,12 @@
         <mark key="." line="10" column="53" />
         <mark key="^" line="10" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/crm/conf/application.conf" timestamp="1502264914255">
-        <mark key="'" line="16" column="20" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
-        <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+      <file name="$USER_HOME$/workspace/jinhui/crm/conf/application.conf" timestamp="1503046685937">
+        <mark key="'" line="0" column="13" />
+        <mark key="[" line="37" column="12" />
+        <mark key="]" line="37" column="12" />
+        <mark key="^" line="34" column="16" />
+        <mark key="." line="37" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/public/statics/financeDetail.js" timestamp="1502509071082">
         <mark key="'" line="76" column="44" />
@@ -499,9 +499,6 @@
         <mark key="]" line="110" column="152" />
         <mark key="." line="110" column="152" />
         <mark key="^" line="110" column="152" />
-      </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/sql/user.xml" timestamp="1502951380979">
-        <mark key="." line="28" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/anti/app/service/impl/MakeCodeServiceImpl.java" timestamp="1501145918928">
         <mark key="'" line="641" column="0" />
@@ -647,7 +644,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="15" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/config.properties" />
       <jump line="9" column="14" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/config.properties" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/config.properties" />
       <jump line="52" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/config.properties" />
@@ -747,6 +743,7 @@
       <jump line="195" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/BankServiceImpl.java" />
       <jump line="5" column="20" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/jdbc.properties" />
       <jump line="155" column="110" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
+      <jump line="0" column="13" filename="$USER_HOME$/workspace/jinhui/crm/conf/application.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -756,7 +753,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>rechargeNo</text>
+        <text>INFO</text>
       </register>
       <register name="/" type="4">
         <text>login</text>
