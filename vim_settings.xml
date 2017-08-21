@@ -244,7 +244,7 @@
         <mark key="." line="96" column="39" />
         <mark key="^" line="96" column="29" />
       </file>
-      <file name="$USER_HOME$/folder/util/mactools/dotfiles/karabiner.mine.json" timestamp="1503303864085">
+      <file name="$USER_HOME$/folder/util/mactools/dotfiles/karabiner.mine.json" timestamp="1503307508764">
         <mark key="'" line="247" column="17" />
         <mark key="[" line="136" column="22" />
         <mark key="]" line="136" column="28" />
@@ -628,10 +628,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1503305998887">
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1503306596745">
         <mark key="'" line="289" column="0" />
-        <mark key="[" line="288" column="8" />
-        <mark key="]" line="288" column="29" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="21" />
         <mark key="." line="288" column="2" />
         <mark key="^" line="288" column="2" />
       </file>
@@ -669,7 +669,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="20" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/jdbc.properties" />
       <jump line="155" column="110" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
       <jump line="0" column="13" filename="$USER_HOME$/workspace/jinhui/crm/conf/application.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/bak/clear.sql" />
@@ -768,6 +767,7 @@
       <jump line="217" column="17" filename="$USER_HOME$/folder/util/mactools/dotfiles/karabiner.mine.json" />
       <jump line="247" column="17" filename="$USER_HOME$/folder/util/mactools/dotfiles/karabiner.mine.json" />
       <jump line="262" column="9" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
+      <jump line="54" column="7" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="289" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
     </jumps>
     <registers>
@@ -784,7 +784,7 @@
         <text encoding="base64">XDxsZWZ0X2NvbW1hbmRcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>propagation</text>
+        <text># This file defines al</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAidHlwZSI6ICJiYXNpYyIsCiAgICAgICAgICAiZnJvbSI6IHsKICAgICAgICAgICAgImtleV9jb2RlIjogImxlZnQiLAogICAgICAgICAgICAibW9kaWZpZXJzIjogewogICAgICAgICAgICAgICJtYW5kYXRvcnkiOiBbCiAgICAgICAgICAgICAgICAibGVmdF9jb250cm9sIgogICAgICAgICAgICAgIF0KICAgICAgICAgICAgfQogICAgICAgICAgfSwKICAgICAgICAgICJ0byI6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICJrZXlfY29kZSI6ICJsZWZ0IiwKICAgICAgICAgICAgICAibW9kaWZpZXJzIjogWwogICAgICAgICAgICAgICAgImxlZnRfY29tbWFuZCIKICAgICAgICAgICAgICBdCiAgICAgICAgICAgIH0KICAgICAgICAgIF0sCiAgICAgICAgICAiY29uZGl0aW9ucyI6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICJ0eXBlIjogImZyb250bW9zdF9hcHBsaWNhdGlvbl9pZiIsCiAgICAgICAgICAgICAgImJ1bmRsZV9pZGVudGlmaWVycyI6IFsKICAgICAgICAgICAgICAgICJjb20uZ29vZ2xlLkNocm9tZSIKICAgICAgICAgICAgICBdCiAgICAgICAgICAgIH0KICAgICAgICAgIF0KICAgICAgICB9Cg==</text>
@@ -824,7 +824,7 @@
       <last-replace>pay.czbank.com\\:443</last-replace>
       <last-substitute>60.191.15.92\\:465</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
