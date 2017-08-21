@@ -399,12 +399,11 @@
         <mark key="^" line="23" column="22" />
         <mark key="." line="23" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" timestamp="1503294305983">
-        <mark key="'" line="176" column="0" />
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="176" column="0" />
-        <mark key="^" line="176" column="0" />
-        <mark key="." line="176" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" timestamp="1503295414691">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="190" column="0" />
+        <mark key="]" line="190" column="0" />
+        <mark key="." line="190" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/jbpm/order.jpdl.xml" timestamp="1502505121647">
         <mark key="'" line="0" column="0" />
@@ -515,6 +514,11 @@
         <mark key="." line="110" column="152" />
         <mark key="^" line="110" column="152" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/Application.java" timestamp="1503295473467">
+        <mark key="[" line="1596" column="0" />
+        <mark key="]" line="1596" column="0" />
+        <mark key="." line="1596" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/anti/app/service/impl/MakeCodeServiceImpl.java" timestamp="1501145918928">
         <mark key="'" line="641" column="0" />
         <mark key="[" line="537" column="88" />
@@ -574,6 +578,9 @@
       <file name="$USER_HOME$/Desktop/银行/兴业银行/epaysdk_acquire_java_utf-8/src/com/cib/epay/sdk/EPay.java" timestamp="1502935243243">
         <mark key="'" line="58" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/pointshub/app/views/mobIndex.scala.html" timestamp="1503295487863">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" timestamp="1503283416736">
         <mark key="'" line="4" column="89" />
       </file>
@@ -591,7 +598,7 @@
         <mark key="^" line="2" column="22" />
         <mark key="." line="2" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503286831224">
+      <file name="/Dummy.txt" timestamp="1503295433719">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -667,11 +674,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="215" column="20" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
-      <jump line="216" column="45" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
-      <jump line="227" column="24" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
-      <jump line="231" column="24" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
-      <jump line="191" column="22" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
       <jump line="29" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
       <jump line="313" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
       <jump line="217" column="24" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
@@ -767,6 +769,11 @@
       <jump line="176" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/target/scala-2.10/classes/application.conf" />
       <jump line="155" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" />
       <jump line="176" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" />
+      <jump line="114" column="18" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" />
+      <jump line="188" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" />
+      <jump line="189" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/app/views/mobIndex.scala.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -784,58 +791,58 @@
       <register name="0" type="4">
         <text>http://ip.taobao.com/service/getIpInfo.php</text>
       </register>
-      <register name="1" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="1" type="2">
+        <text encoding="base64">CSAqIEBwYXJhbSBkb21haW4KCSAqIEByZXR1cm4K</text>
       </register>
-      <register name="2" type="8">
-        <text>//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//
-//</text>
+      <register name="2" type="2">
+        <text encoding="base64">CSAqIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CSAqIEBhdXRob3IgcG9wcHkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCiAqIEDpobnnm67lkI3np7A6IHBvaW50c2h1YgogKiBA5paH5Lu25ZCN56ewOiBTY2FuQ29kZUxvZy5qYXZhCiAqIEBEYXRlOiAyMDE15bm0MTLmnIg45pelCiAqIEBDb3B5cmlnaHQ6IDIwMTUtMjAxNSB3d3cubmV1bm4uY29tICBBbGwgcmlnaHRzIHJlc2VydmVkLgogKiDms6jmhI/vvJrmnKzlhoXlrrnku4XpmZDkuo7kuJznvZHnp5HmioDmnInpmZDlhazlj7jlhoXpg6jkvKDpmIXvvIznpoHmraLlpJbms4Tku6Xlj4rnlKjkuo7lhbbku5bnmoTllYbkuJrnm67nmoQKICovCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpbnQgbW9ubmV5ID0gKGludCkgKEZsb2F0LnBhcnNlRmxvYXQoc2QuZ2V0UHJpemUoKS5zcGxpdCgi5YWDIilbMF0pICogMTAwKTsK</text>
+      <register name="5" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcAo=</text>
+      <register name="6" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">LyoqCiAqIEDpobnnm67lkI3np7A6IHBvaW50c2h1YgogKiBA5paH5Lu25ZCN56ewOiBTY2FuQ29kZUxvZy5qYXZhCiAqIEBEYXRlOiAyMDE15bm0MTLmnIg45pelCiAqIEBDb3B5cmlnaHQ6IDIwMTUtMjAxNSB3d3cubmV1bm4uY29tICBBbGwgcmlnaHRzIHJlc2VydmVkLgogKiDms6jmhI/vvJrmnKzlhoXlrrnku4XpmZDkuo7kuJznvZHnp5HmioDmnInpmZDlhazlj7jlhoXpg6jkvKDpmIXvvIznpoHmraLlpJbms4Tku6Xlj4rnlKjkuo7lhbbku5bnmoTllYbkuJrnm67nmoQKICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IG1vbmV5ID0gbmV3IEJpZ0RlY2ltYWwoZUxvZy5nZXRQcml6ZSgpLnNwbGl0KCLlhYMiKVswXSk7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICBpbnQgbW9ubmV5ID0gKGludCkgKEZsb2F0LnBhcnNlRmxvYXQoc2QuZ2V0UHJpemUoKS5zcGxpdCgi5YWDIilbMF0pICogMTAwKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
