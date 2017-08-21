@@ -399,12 +399,12 @@
         <mark key="^" line="23" column="22" />
         <mark key="." line="23" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" timestamp="1503277110985">
-        <mark key="'" line="41" column="0" />
-        <mark key="[" line="15" column="54" />
-        <mark key="]" line="15" column="55" />
-        <mark key="^" line="15" column="55" />
-        <mark key="." line="15" column="55" />
+      <file name="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" timestamp="1503294305983">
+        <mark key="'" line="176" column="0" />
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="176" column="0" />
+        <mark key="^" line="176" column="0" />
+        <mark key="." line="176" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/jbpm/order.jpdl.xml" timestamp="1502505121647">
         <mark key="'" line="0" column="0" />
@@ -633,6 +633,13 @@
         <mark key="." line="288" column="2" />
         <mark key="^" line="288" column="2" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/pointshub/target/scala-2.10/classes/application.conf" timestamp="1503294296216">
+        <mark key="'" line="176" column="0" />
+        <mark key="[" line="176" column="0" />
+        <mark key="]" line="176" column="0" />
+        <mark key="." line="176" column="0" />
+        <mark key="^" line="176" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/jbpm/prizeorder.jpdl.xml" timestamp="1500387158656">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -660,15 +667,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="5" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
-      <jump line="13" column="13" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/form/XyyhForm.java" />
-      <jump line="95" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/form/XyyhForm.java" />
-      <jump line="152" column="15" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
-      <jump line="168" column="24" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
-      <jump line="169" column="80" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
-      <jump line="198" column="19" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
-      <jump line="170" column="46" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
-      <jump line="197" column="19" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
       <jump line="215" column="20" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
       <jump line="216" column="45" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
       <jump line="227" column="24" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
@@ -760,6 +758,15 @@
       <jump line="4" column="89" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/build.sbt" />
       <jump line="7" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/build.sbt" />
+      <jump line="89" column="10" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" />
+      <jump line="148" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" />
+      <jump line="174" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" />
+      <jump line="16" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" />
+      <jump line="46" column="13" filename="$USER_HOME$/workspace/jinhui/pointshub/target/scala-2.10/classes/application.conf" />
+      <jump line="176" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/target/scala-2.10/classes/application.conf" />
+      <jump line="155" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" />
+      <jump line="176" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -769,7 +776,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>money</text>
+        <text>failure</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25uZXlcPg==</text>
@@ -777,32 +784,58 @@
       <register name="0" type="4">
         <text>http://ip.taobao.com/service/getIpInfo.php</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIEDpobnnm67lkI3np7A6IHBvaW50c2h1YgogKiBA5paH5Lu25ZCN56ewOiBTY2FuQ29kZUxvZy5qYXZhCiAqIEBEYXRlOiAyMDE15bm0MTLmnIg45pelCiAqIEBDb3B5cmlnaHQ6IDIwMTUtMjAxNSB3d3cubmV1bm4uY29tICBBbGwgcmlnaHRzIHJlc2VydmVkLgogKiDms6jmhI/vvJrmnKzlhoXlrrnku4XpmZDkuo7kuJznvZHnp5HmioDmnInpmZDlhazlj7jlhoXpg6jkvKDpmIXvvIznpoHmraLlpJbms4Tku6Xlj4rnlKjkuo7lhbbku5bnmoTllYbkuJrnm67nmoQKICovCg==</text>
+      <register name="1" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICBpbnQgbW9ubmV5ID0gKGludCkgKEZsb2F0LnBhcnNlRmxvYXQoc2QuZ2V0UHJpemUoKS5zcGxpdCgi5YWDIilbMF0pICogMTAwKTsK</text>
+      <register name="2" type="8">
+        <text>//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IG1vbmV5ID0gbmV3IEJpZ0RlY2ltYWwoZUxvZy5nZXRQcml6ZSgpLnNwbGl0KCLlhYMiKVswXSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">LyoqCiAqIEDpobnnm67lkI3np7A6IHBvaW50c2h1YgogKiBA5paH5Lu25ZCN56ewOiBTY2FuQ29kZUxvZy5qYXZhCiAqIEBEYXRlOiAyMDE15bm0MTLmnIg45pelCiAqIEBDb3B5cmlnaHQ6IDIwMTUtMjAxNSB3d3cubmV1bm4uY29tICBBbGwgcmlnaHRzIHJlc2VydmVkLgogKiDms6jmhI/vvJrmnKzlhoXlrrnku4XpmZDkuo7kuJznvZHnp5HmioDmnInpmZDlhazlj7jlhoXpg6jkvKDpmIXvvIznpoHmraLlpJbms4Tku6Xlj4rnlKjkuo7lhbbku5bnmoTllYbkuJrnm67nmoQKICovCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICBpbnQgbW9ubmV5ID0gKGludCkgKEZsb2F0LnBhcnNlRmxvYXQoc2QuZ2V0UHJpemUoKS5zcGxpdCgi5YWDIilbMF0pICogMTAwKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcAo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB1c2VyT3BlbmlkIC0g55So5oi35qCH6K+GCiAgICAgKiBAcmV0dXJuCiAgICAgKiBAdGhyb3dzIEV4Y2VwdGlvbgogICAgICogQGF1dGhvciBEeAogICAgICogQGRhdGUgMjAxNeW5tDEw5pyIMjLml6UKICAgICAqIEBzaW5jZSAxLjAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW50IG1vbmV5ID0gbmV3IEJpZ0RlY2ltYWwoZUxvZy5nZXRQcml6ZSgpLnNwbGl0KCLlhYMiKVswXSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
