@@ -328,9 +328,9 @@
         <mark key="^" line="79" column="39" />
         <mark key="." line="79" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/bak/clear.sql" timestamp="1503048027310">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/bak/clear.sql" timestamp="1503312425418">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="25" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/crm/build.sbt" timestamp="1502264986466">
@@ -612,7 +612,6 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="167" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/CommonServiceImpl.java" timestamp="1503308511616" />
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/PaperNewServiceImpl.java" timestamp="1502952497029">
         <mark key="'" line="0" column="0" />
       </file>
@@ -670,7 +669,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="13" filename="$USER_HOME$/workspace/jinhui/crm/conf/application.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/bak/clear.sql" />
       <jump line="12" column="30" filename="$USER_HOME$/folder/util/mactools/dotfiles/karabiner.mine.json" />
       <jump line="23" column="52" filename="$USER_HOME$/workspace/jinhui/crm/conf/application-context.xml" />
@@ -770,6 +768,7 @@
       <jump line="54" column="7" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="289" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="206" column="40" filename="$USER_HOME$/folder/util/mactools/dotfiles/karabiner.mine.json" />
+      <jump line="7" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/bak/clear.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -785,7 +784,7 @@
         <text encoding="base64">XDxsZWZ0X2NvbW1hbmRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJjb20uamV0YnJhaW5zLldlYlN0b3JtIgo=</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gb3JkZXJfaW5mbzsKZGVsZXRlIGZyb20gb3JkZXJfZGV0YWlsOwpkZWxldGUgZnJvbSBvcmRlcl9kZWFsaW5mbzsKZGVsZXRlIGZyb20gbG9naXN0aWNzX2luZm87CmRlbGV0ZSBmcm9tIGxvZ2lzdGljc19kZXRhaWw7CmRlbGV0ZSBmcm9tIGFjY291bnRfbG9nOwoKZGVsZXRlIGZyb20gamJwbTRfdGFzazsKZGVsZXRlIGZyb20gamJwbTRfdmFyaWFibGU7CmRlbGV0ZSBmcm9tIGpicG00X2xvYjsKZGVsZXRlIGZyb20gamJwbTRfZGVwbG95cHJvcDsKZGVsZXRlIGZyb20gamJwbTRfZGVwbG95bWVudDsKZGVsZXRlIGZyb20gamJwbTRfdmFyaWFibGU7CmRlbGV0ZSBmcm9tIGpicG00X2V4ZWN1dGlvbjsKZGVsZXRlIGZyb20gamJwbTRfaGlzdF9hY3RpbnN0OwpkZWxldGUgZnJvbSBqYnBtNF9oaXN0X2RldGFpbDsKZGVsZXRlIGZyb20gamJwbTRfaGlzdF9wcm9jaW5zdDsKZGVsZXRlIGZyb20gamJwbTRfaGlzdF90YXNrOwpkZWxldGUgZnJvbSBqYnBtNF9oaXN0X3ZhcjsKZGVsZXRlIGZyb20gamJwbTRfaWRfZ3JvdXA7CmRlbGV0ZSBmcm9tIGpicG00X2lkX21lbWJlcnNoaXA7CmRlbGV0ZSBmcm9tIGpicG00X2lkX3VzZXI7CmRlbGV0ZSBmcm9tIGpicG00X3BhcnRpY2lwYXRpb247CmRlbGV0ZSBmcm9tIGpicG00X3Byb3BlcnR5OwpkZWxldGUgZnJvbSBqYnBtNF9sb2I7CmRlbGV0ZSBmcm9tIGpicG00X3N3aW1sYW5lOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAidHlwZSI6ICJiYXNpYyIsCiAgICAgICAgICAiZnJvbSI6IHsKICAgICAgICAgICAgImtleV9jb2RlIjogImxlZnQiLAogICAgICAgICAgICAibW9kaWZpZXJzIjogewogICAgICAgICAgICAgICJtYW5kYXRvcnkiOiBbCiAgICAgICAgICAgICAgICAibGVmdF9jb250cm9sIgogICAgICAgICAgICAgIF0KICAgICAgICAgICAgfQogICAgICAgICAgfSwKICAgICAgICAgICJ0byI6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICJrZXlfY29kZSI6ICJsZWZ0IiwKICAgICAgICAgICAgICAibW9kaWZpZXJzIjogWwogICAgICAgICAgICAgICAgImxlZnRfY29tbWFuZCIKICAgICAgICAgICAgICBdCiAgICAgICAgICAgIH0KICAgICAgICAgIF0sCiAgICAgICAgICAiY29uZGl0aW9ucyI6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICJ0eXBlIjogImZyb250bW9zdF9hcHBsaWNhdGlvbl9pZiIsCiAgICAgICAgICAgICAgImJ1bmRsZV9pZGVudGlmaWVycyI6IFsKICAgICAgICAgICAgICAgICJjb20uZ29vZ2xlLkNocm9tZSIKICAgICAgICAgICAgICBdCiAgICAgICAgICAgIH0KICAgICAgICAgIF0KICAgICAgICB9Cg==</text>
