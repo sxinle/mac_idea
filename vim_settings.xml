@@ -293,8 +293,8 @@
         <mark key="^" line="74" column="42" />
         <mark key="." line="74" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" timestamp="1503044233377">
-        <mark key="'" line="155" column="110" />
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" timestamp="1503297157107">
+        <mark key="'" line="123" column="87" />
         <mark key="[" line="155" column="106" />
         <mark key="]" line="155" column="105" />
         <mark key="." line="155" column="105" />
@@ -563,8 +563,8 @@
         <mark key="." line="129" column="0" />
         <mark key="^" line="116" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" timestamp="1503022071159">
-        <mark key="'" line="8" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" timestamp="1503296981503">
+        <mark key="'" line="112" column="0" />
         <mark key="[" line="13" column="17" />
         <mark key="]" line="13" column="22" />
         <mark key="." line="13" column="22" />
@@ -628,8 +628,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1502953929296">
-        <mark key="'" line="16" column="32" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1503296444860">
+        <mark key="'" line="253" column="6" />
         <mark key="[" line="288" column="8" />
         <mark key="]" line="288" column="29" />
         <mark key="." line="288" column="2" />
@@ -669,12 +669,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
-      <jump line="313" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
-      <jump line="217" column="24" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
-      <jump line="40" column="21" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
-      <jump line="247" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
-      <jump line="81" column="24" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/BankServiceImpl.java" />
       <jump line="215" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/BankServiceImpl.java" />
       <jump line="24" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/BankServiceImpl.java" />
       <jump line="202" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/BankServiceImpl.java" />
@@ -769,6 +763,12 @@
       <jump line="189" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/app/views/mobIndex.scala.html" />
+      <jump line="253" column="6" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
+      <jump line="17" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" />
+      <jump line="112" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" />
+      <jump line="20" column="6" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
+      <jump line="121" column="95" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
+      <jump line="123" column="87" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -781,10 +781,10 @@
         <text>failure</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb25uZXlcPg==</text>
+        <text>result</text>
       </register>
       <register name="0" type="4">
-        <text>http://ip.taobao.com/service/getIpInfo.php</text>
+        <text>/api/nc/sync_logistics</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CQkJcmV0dXJuIG9rKG1vYkluZGV4LnJlbmRlcihjb21wLCBnaWZ0cywgZ3R5cGVzLCBtZSwgcG9pbnRMZXZlbCkpOwo=</text>
@@ -844,18 +844,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtb25uZXlcPg==</last-search>
+      <last-search>result</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb25uZXlcPg==</last-pattern>
+      <last-pattern>result</last-pattern>
       <last-replace>pay.czbank.com\\:443</last-replace>
       <last-substitute>60.191.15.92\\:465</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>List</entry>
-        <entry>sleep</entry>
         <entry>xyyn</entry>
         <entry>jhpay</entry>
         <entry>gppay</entry>
@@ -874,6 +872,8 @@
         <entry>telEmp</entry>
         <entry>telEmpty</entry>
         <entry encoding="base64">XDxtb25uZXlcPg==</entry>
+        <entry>acc</entry>
+        <entry>result</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
