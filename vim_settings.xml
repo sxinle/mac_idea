@@ -310,8 +310,8 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" timestamp="1503373866825">
-        <mark key="'" line="12" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" timestamp="1503378499818">
+        <mark key="'" line="18" column="0" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="18" column="66" />
         <mark key="." line="15" column="0" />
@@ -674,10 +674,10 @@
         <mark key="]" line="87" column="68" />
         <mark key="." line="110" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/RegionalServiceImpl.java" timestamp="1503371284472">
-        <mark key="'" line="260" column="0" />
-        <mark key="[" line="214" column="4" />
-        <mark key="]" line="214" column="9" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/RegionalServiceImpl.java" timestamp="1503378912321">
+        <mark key="'" line="27" column="0" />
+        <mark key="[" line="61" column="52" />
+        <mark key="]" line="61" column="58" />
         <mark key="." line="214" column="9" />
         <mark key="^" line="214" column="9" />
       </file>
@@ -690,11 +690,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="83" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
-      <jump line="68" column="83" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
-      <jump line="69" column="83" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
-      <jump line="70" column="83" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
-      <jump line="71" column="83" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
       <jump line="72" column="83" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
       <jump line="73" column="83" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
       <jump line="74" column="83" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
@@ -781,7 +776,6 @@
       <jump line="11" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
       <jump line="32" column="16" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/RegionalServiceImpl.java" />
-      <jump line="260" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/RegionalServiceImpl.java" />
       <jump line="226" column="42" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/user/UserController.java" />
       <jump line="228" column="34" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/user/UserController.java" />
       <jump line="262" column="31" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/user/UserController.java" />
@@ -790,6 +784,12 @@
       <jump line="14" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
+      <jump line="17" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
+      <jump line="18" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
+      <jump line="41" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/RegionalServiceImpl.java" />
+      <jump line="46" column="6" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/RegionalServiceImpl.java" />
+      <jump line="260" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/RegionalServiceImpl.java" />
+      <jump line="27" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/RegionalServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -804,8 +804,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxyZW5kZXJcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">LS0g5L+u5pS5Y29tcGFueeihqO+8jOWwhk5D57O757uf5Lit55qESUTnu5Hlrprov5vmnaUKQUxURVIgVEFCTEUgImNybSIuImNvbXBhbnkiIEFERCBDT0xVTU4gbmNfaWQgdmFyY2hhcig2KSBERUZBVUxUIDAgQ09MTEFURSAiZGVmYXVsdCI7CkNPTU1FTlQgT04gQ09MVU1OICJjcm0iLiJjb21wYW55Ii4ibmNfaWQiIElTICdOQ+ezu+e7n+S4re+8jOWFrOWPuOeahOS4u+mUrklEJzsKdXBkYXRlIGNybS5jb21wYXkgc2V0IG5jX2lkPScwMTAxJyB3aGVyZSBjb21wYW55bmFtZT0n6YeR5b696YWS5YWw5bee6ZSA5ZSu5pyJ6ZmQ5YWs5Y+4JzsKdXBkYXRlIGNybS5jb21wYXkgc2V0IG5jX2lkPScwMTAyJyB3aGVyZSBjb21wYW55bmFtZT0n6YeR5b696YWS6ZmH5Y2X6ZSA5ZSu5pyJ6ZmQ5YWs5Y+4JzsKdXBkYXRlIGNybS5jb21wYXkgc2V0IG5jX2lkPScwMTAzJyB3aGVyZSBjb21wYW55bmFtZT0n6KW/6JeP6YeR5b695a6e5Lia5pyJ6ZmQ5YWs5Y+4JzsKdXBkYXRlIGNybS5jb21wYXkgc2V0IG5jX2lkPScwMTA0JyB3aGVyZSBjb21wYW55bmFtZT0n6YeR5b696YWS6ZSA5ZSu6KW/5a6J5pyJ6ZmQ5YWs5Y+4JzsK</text>
+      <register name="0" type="4">
+        <text>orderid</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>

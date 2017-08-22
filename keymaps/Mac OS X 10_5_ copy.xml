@@ -88,6 +88,7 @@
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
   <action id="OverrideMethods" />
+  <action id="PasteMultiple" />
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
     <keyboard-shortcut first-keystroke="ctrl left" />
@@ -154,6 +155,9 @@
   <action id="ToggleBookmark9">
     <keyboard-shortcut first-keystroke="shift ctrl 9" />
     <keyboard-shortcut first-keystroke="shift meta 9" />
+  </action>
+  <action id="Tool_External Tools_mvim">
+    <keyboard-shortcut first-keystroke="shift meta v" />
   </action>
   <action id="TypeHierarchy" />
   <action id="Vcs.RefreshStatuses">
