@@ -317,8 +317,8 @@
         <mark key="." line="107" column="80" />
         <mark key="^" line="107" column="80" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/UserServiceImpl.java" timestamp="1503380494655">
-        <mark key="'" line="87" column="80" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/UserServiceImpl.java" timestamp="1503384036874">
+        <mark key="'" line="50" column="4" />
         <mark key="[" line="136" column="9" />
         <mark key="]" line="137" column="7" />
         <mark key="^" line="137" column="7" />
@@ -699,16 +699,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="84" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
-      <jump line="88" column="79" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
-      <jump line="89" column="79" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
-      <jump line="90" column="79" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
-      <jump line="91" column="79" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
-      <jump line="92" column="79" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
-      <jump line="87" column="98" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
-      <jump line="338" column="107" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
-      <jump line="433" column="36" filename="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/WeixinPrizeController.java" />
-      <jump line="434" column="33" filename="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/WeixinPrizeController.java" />
       <jump line="435" column="33" filename="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/WeixinPrizeController.java" />
       <jump line="425" column="16" filename="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/WeixinPrizeController.java" />
       <jump line="426" column="36" filename="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/WeixinPrizeController.java" />
@@ -799,6 +789,16 @@
       <jump line="32" column="7" filename="$USER_HOME$/workspace/jinhui/order-producer/app/util/CommonUtils.java" />
       <jump line="55" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/util/CommonUtils.java" />
       <jump line="54" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/CommonService.java" />
+      <jump line="45" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/UserServiceImpl.java" />
+      <jump line="46" column="6" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/UserServiceImpl.java" />
+      <jump line="62" column="8" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/UserServiceImpl.java" />
+      <jump line="234" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/UserServiceImpl.java" />
+      <jump line="43" column="4" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/UserServiceImpl.java" />
+      <jump line="157" column="4" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/UserServiceImpl.java" />
+      <jump line="173" column="4" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/UserServiceImpl.java" />
+      <jump line="225" column="4" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/UserServiceImpl.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/UserServiceImpl.java" />
+      <jump line="50" column="4" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/UserServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -811,7 +811,7 @@
         <text>verifyCode</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZW5kZXJcPg==</text>
+        <text encoding="base64">XDxwdWJsaWNcPg==</text>
       </register>
       <register name="0" type="4">
         <text>userForm.getPass()</text>
@@ -848,9 +848,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZW5kZXJcPg==</last-search>
+      <last-search encoding="base64">XDxwdWJsaWNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZW5kZXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxwdWJsaWNcPg==</last-pattern>
       <last-replace>pay.czbank.com\\:443</last-replace>
       <last-substitute>60.191.15.92\\:465</last-substitute>
       <last-dir>1</last-dir>
@@ -858,8 +858,6 @@
     </search>
     <history>
       <history-search>
-        <entry>gppay</entry>
-        <entry encoding="base64">XDxNYWluRm9ybVw+</entry>
         <entry>status</entry>
         <entry>papernew</entry>
         <entry>60.191.15.92\\:465</entry>
@@ -878,6 +876,8 @@
         <entry>result</entry>
         <entry encoding="base64">XDxsZWZ0X2NvbW1hbmRcPg==</entry>
         <entry encoding="base64">XDxyZW5kZXJcPg==</entry>
+        <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
+        <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
