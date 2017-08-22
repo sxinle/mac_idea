@@ -310,12 +310,11 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" timestamp="1503369661483">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="11" column="67" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" timestamp="1503373866825">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="18" column="66" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/CartController.java" timestamp="1502460391141">
         <mark key="'" line="53" column="34" />
@@ -559,6 +558,11 @@
         <mark key="." line="9" column="68" />
         <mark key="^" line="9" column="92" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/user/UserController.java" timestamp="1503372703770">
+        <mark key="'" line="83" column="35" />
+        <mark key="[" line="226" column="42" />
+        <mark key="]" line="226" column="47" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/views/distributeConfirm.scala.html" timestamp="1500112374969">
         <mark key="'" line="96" column="82" />
         <mark key="[" line="96" column="80" />
@@ -686,14 +690,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="83" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
-      <jump line="60" column="83" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
-      <jump line="61" column="83" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
-      <jump line="62" column="83" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
-      <jump line="63" column="83" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
-      <jump line="64" column="83" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
-      <jump line="65" column="83" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
-      <jump line="66" column="83" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
       <jump line="67" column="83" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
       <jump line="68" column="83" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
       <jump line="69" column="83" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
@@ -786,6 +782,14 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
       <jump line="32" column="16" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/RegionalServiceImpl.java" />
       <jump line="260" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/RegionalServiceImpl.java" />
+      <jump line="226" column="42" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/user/UserController.java" />
+      <jump line="228" column="34" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/user/UserController.java" />
+      <jump line="262" column="31" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/user/UserController.java" />
+      <jump line="275" column="35" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/user/UserController.java" />
+      <jump line="83" column="35" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/user/UserController.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -795,57 +799,56 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>private</text>
+        <text>INT4 DEFAULT 0;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsZWZ0X2NvbW1hbmRcPg==</text>
+        <text encoding="base64">XDxyZW5kZXJcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVsZXRlIGZyb20gb3JkZXJfaW5mbzsKZGVsZXRlIGZyb20gb3JkZXJfZGV0YWlsOwpkZWxldGUgZnJvbSBvcmRlcl9kZWFsaW5mbzsKZGVsZXRlIGZyb20gbG9naXN0aWNzX2luZm87CmRlbGV0ZSBmcm9tIGxvZ2lzdGljc19kZXRhaWw7CmRlbGV0ZSBmcm9tIGFjY291bnRfbG9nOwoKZGVsZXRlIGZyb20gamJwbTRfdGFzazsKZGVsZXRlIGZyb20gamJwbTRfdmFyaWFibGU7CmRlbGV0ZSBmcm9tIGpicG00X2xvYjsKZGVsZXRlIGZyb20gamJwbTRfZGVwbG95cHJvcDsKZGVsZXRlIGZyb20gamJwbTRfZGVwbG95bWVudDsKZGVsZXRlIGZyb20gamJwbTRfdmFyaWFibGU7CmRlbGV0ZSBmcm9tIGpicG00X2V4ZWN1dGlvbjsKZGVsZXRlIGZyb20gamJwbTRfaGlzdF9hY3RpbnN0OwpkZWxldGUgZnJvbSBqYnBtNF9oaXN0X2RldGFpbDsKZGVsZXRlIGZyb20gamJwbTRfaGlzdF9wcm9jaW5zdDsKZGVsZXRlIGZyb20gamJwbTRfaGlzdF90YXNrOwpkZWxldGUgZnJvbSBqYnBtNF9oaXN0X3ZhcjsKZGVsZXRlIGZyb20gamJwbTRfaWRfZ3JvdXA7CmRlbGV0ZSBmcm9tIGpicG00X2lkX21lbWJlcnNoaXA7CmRlbGV0ZSBmcm9tIGpicG00X2lkX3VzZXI7CmRlbGV0ZSBmcm9tIGpicG00X3BhcnRpY2lwYXRpb247CmRlbGV0ZSBmcm9tIGpicG00X3Byb3BlcnR5OwpkZWxldGUgZnJvbSBqYnBtNF9sb2I7CmRlbGV0ZSBmcm9tIGpicG00X3N3aW1sYW5lOwo=</text>
+        <text encoding="base64">LS0g5L+u5pS5Y29tcGFueeihqO+8jOWwhk5D57O757uf5Lit55qESUTnu5Hlrprov5vmnaUKQUxURVIgVEFCTEUgImNybSIuImNvbXBhbnkiIEFERCBDT0xVTU4gbmNfaWQgdmFyY2hhcig2KSBERUZBVUxUIDAgQ09MTEFURSAiZGVmYXVsdCI7CkNPTU1FTlQgT04gQ09MVU1OICJjcm0iLiJjb21wYW55Ii4ibmNfaWQiIElTICdOQ+ezu+e7n+S4re+8jOWFrOWPuOeahOS4u+mUrklEJzsKdXBkYXRlIGNybS5jb21wYXkgc2V0IG5jX2lkPScwMTAxJyB3aGVyZSBjb21wYW55bmFtZT0n6YeR5b696YWS5YWw5bee6ZSA5ZSu5pyJ6ZmQ5YWs5Y+4JzsKdXBkYXRlIGNybS5jb21wYXkgc2V0IG5jX2lkPScwMTAyJyB3aGVyZSBjb21wYW55bmFtZT0n6YeR5b696YWS6ZmH5Y2X6ZSA5ZSu5pyJ6ZmQ5YWs5Y+4JzsKdXBkYXRlIGNybS5jb21wYXkgc2V0IG5jX2lkPScwMTAzJyB3aGVyZSBjb21wYW55bmFtZT0n6KW/6JeP6YeR5b695a6e5Lia5pyJ6ZmQ5YWs5Y+4JzsKdXBkYXRlIGNybS5jb21wYXkgc2V0IG5jX2lkPScwMTA0JyB3aGVyZSBjb21wYW55bmFtZT0n6YeR5b696YWS6ZSA5ZSu6KW/5a6J5pyJ6ZmQ5YWs5Y+4JzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAidHlwZSI6ICJiYXNpYyIsCiAgICAgICAgICAiZnJvbSI6IHsKICAgICAgICAgICAgImtleV9jb2RlIjogImxlZnQiLAogICAgICAgICAgICAibW9kaWZpZXJzIjogewogICAgICAgICAgICAgICJtYW5kYXRvcnkiOiBbCiAgICAgICAgICAgICAgICAibGVmdF9jb250cm9sIgogICAgICAgICAgICAgIF0KICAgICAgICAgICAgfQogICAgICAgICAgfSwKICAgICAgICAgICJ0byI6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICJrZXlfY29kZSI6ICJsZWZ0IiwKICAgICAgICAgICAgICAibW9kaWZpZXJzIjogWwogICAgICAgICAgICAgICAgImxlZnRfY29tbWFuZCIKICAgICAgICAgICAgICBdCiAgICAgICAgICAgIH0KICAgICAgICAgIF0sCiAgICAgICAgICAiY29uZGl0aW9ucyI6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICJ0eXBlIjogImZyb250bW9zdF9hcHBsaWNhdGlvbl9pZiIsCiAgICAgICAgICAgICAgImJ1bmRsZV9pZGVudGlmaWVycyI6IFsKICAgICAgICAgICAgICAgICJjb20uZ29vZ2xlLkNocm9tZSIKICAgICAgICAgICAgICBdCiAgICAgICAgICAgIH0KICAgICAgICAgIF0KICAgICAgICB9Cg==</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJjb20uZ29vZ2xlY29kZS5pdGVybTIiLAogICAgICAgICAgICAgICAgIm9yZy52aW0uTWFjVmltIiwKICAgICAgICAgICAgICAgICJjb20uamV0YnJhaW5zLmludGVsbGlqIiwKICAgICAgICAgICAgICAgICJjb20uZ29vZ2xlLmFuZHJvaWQuc3R1ZGlvIg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Ci0tIHhpdWdhaSA=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJcmV0dXJuIG9rKG1vYkluZGV4LnJlbmRlcihjb21wLCBnaWZ0cywgZ3R5cGVzLCBtZSwgcG9pbnRMZXZlbCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAidHlwZSI6ICJiYXNpYyIsCiAgICAgICAgICAiZnJvbSI6IHsKICAgICAgICAgICAgImtleV9jb2RlIjogImxlZnQiLAogICAgICAgICAgICAibW9kaWZpZXJzIjogewogICAgICAgICAgICAgICJtYW5kYXRvcnkiOiBbCiAgICAgICAgICAgICAgICAibGVmdF9jb250cm9sIgogICAgICAgICAgICAgIF0KICAgICAgICAgICAgfQogICAgICAgICAgfSwKICAgICAgICAgICJ0byI6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICJrZXlfY29kZSI6ICJsZWZ0IiwKICAgICAgICAgICAgICAibW9kaWZpZXJzIjogWwogICAgICAgICAgICAgICAgImxlZnRfY29tbWFuZCIKICAgICAgICAgICAgICBdCiAgICAgICAgICAgIH0KICAgICAgICAgIF0sCiAgICAgICAgICAiY29uZGl0aW9ucyI6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICJ0eXBlIjogImZyb250bW9zdF9hcHBsaWNhdGlvbl9pZiIsCiAgICAgICAgICAgICAgImJ1bmRsZV9pZGVudGlmaWVycyI6IFsKICAgICAgICAgICAgICAgICJjb20uZ29vZ2xlLkNocm9tZSIKICAgICAgICAgICAgICBdCiAgICAgICAgICAgIH0KICAgICAgICAgIF0KICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAqIEBwYXJhbSBkb21haW4KCSAqIEByZXR1cm4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">CSAqIAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJjb20uZ29vZ2xlY29kZS5pdGVybTIiLAogICAgICAgICAgICAgICAgIm9yZy52aW0uTWFjVmltIiwKICAgICAgICAgICAgICAgICJjb20uamV0YnJhaW5zLmludGVsbGlqIiwKICAgICAgICAgICAgICAgICJjb20uZ29vZ2xlLmFuZHJvaWQuc3R1ZGlvIg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CSAqIEBhdXRob3IgcG9wcHkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJcmV0dXJuIG9rKG1vYkluZGV4LnJlbmRlcihjb21wLCBnaWZ0cywgZ3R5cGVzLCBtZSwgcG9pbnRMZXZlbCkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsZWZ0X2NvbW1hbmRcPg==</last-search>
+      <last-search encoding="base64">XDxyZW5kZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsZWZ0X2NvbW1hbmRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxyZW5kZXJcPg==</last-pattern>
       <last-replace>pay.czbank.com\\:443</last-replace>
       <last-substitute>60.191.15.92\\:465</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>jhpay</entry>
         <entry>gppay</entry>
         <entry encoding="base64">XDxNYWluRm9ybVw+</entry>
         <entry>status</entry>
@@ -865,6 +868,7 @@
         <entry>acc</entry>
         <entry>result</entry>
         <entry encoding="base64">XDxsZWZ0X2NvbW1hbmRcPg==</entry>
+        <entry encoding="base64">XDxyZW5kZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
