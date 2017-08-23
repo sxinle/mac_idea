@@ -253,11 +253,11 @@
         <mark key="." line="96" column="39" />
         <mark key="^" line="96" column="29" />
       </file>
-      <file name="$USER_HOME$/folder/util/mactools/dotfiles/karabiner.mine.json" timestamp="1503418462610">
-        <mark key="'" line="146" column="0" />
-        <mark key="[" line="299" column="43" />
-        <mark key="]" line="299" column="43" />
-        <mark key="." line="299" column="43" />
+      <file name="$USER_HOME$/folder/util/mactools/dotfiles/karabiner.mine.json" timestamp="1503451839691">
+        <mark key="'" line="134" column="27" />
+        <mark key="[" line="50" column="27" />
+        <mark key="]" line="50" column="46" />
+        <mark key="." line="50" column="27" />
         <mark key="^" line="299" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/crm/conf/application-context.xml" timestamp="1503365430874">
@@ -473,6 +473,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/vertx-blueprint-microservice/shopping-ui/src/main/java/io/vertx/blueprint/microservice/shopping/ui/ShoppingUIVerticle.java" timestamp="1503451768665">
+        <mark key="'" line="22" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/anti/conf/config.properties" timestamp="1501143798523">
         <mark key="'" line="3" column="19" />
@@ -721,10 +724,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/app/util/ScanCodeLog.java" />
-      <jump line="4" column="89" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/build.sbt" />
-      <jump line="7" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/build.sbt" />
       <jump line="89" column="10" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" />
       <jump line="148" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" />
@@ -821,6 +820,10 @@
       <jump line="35" column="53" filename="$USER_HOME$/.sbt/boot/scala-2.10.2/lib/scala-library.jar!/scala/concurrent/forkjoin/ForkJoinPool.class" />
       <jump line="1086" column="0" filename="$USER_HOME$/.sbt/boot/scala-2.10.2/lib/scala-library.jar!/scala/concurrent/forkjoin/ForkJoinPool.class" />
       <jump line="146" column="0" filename="$USER_HOME$/folder/util/mactools/dotfiles/karabiner.mine.json" />
+      <jump line="22" column="40" filename="$USER_HOME$/workspace/demo/vertx-blueprint-microservice/shopping-ui/src/main/java/io/vertx/blueprint/microservice/shopping/ui/ShoppingUIVerticle.java" />
+      <jump line="50" column="27" filename="$USER_HOME$/folder/util/mactools/dotfiles/karabiner.mine.json" />
+      <jump line="104" column="27" filename="$USER_HOME$/folder/util/mactools/dotfiles/karabiner.mine.json" />
+      <jump line="134" column="27" filename="$USER_HOME$/folder/util/mactools/dotfiles/karabiner.mine.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -830,13 +833,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>financeForm</text>
+        <text>left_arrow</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwdWJsaWNcPg==</text>
+        <text>delete_or_backspace</text>
       </register>
       <register name="0" type="4">
-        <text>Form.form(FinanceOrderForm.class)</text>
+        <text>delete_or_backspace</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICoKICogQGF1dGhvciBoZWx5CiAqIEBkYXRlIDIwMTTlubQwOOaciDEx5pelCiAqIEBzaW5jZSAxLjAK</text>
@@ -870,17 +873,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwdWJsaWNcPg==</last-search>
+      <last-search>delete_or_backspace</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwdWJsaWNcPg==</last-pattern>
+      <last-pattern>delete_or_backspace</last-pattern>
       <last-replace>pay.czbank.com\\:443</last-replace>
       <last-substitute>60.191.15.92\\:465</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>status</entry>
         <entry>papernew</entry>
         <entry>60.191.15.92\\:465</entry>
         <entry encoding="base64">XDxjYWNlcnRcPg==</entry>
@@ -900,6 +902,7 @@
         <entry encoding="base64">XDxyZW5kZXJcPg==</entry>
         <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
         <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
+        <entry>delete_or_backspace</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
