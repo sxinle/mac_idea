@@ -498,8 +498,8 @@
         <mark key="." line="0" column="29" />
         <mark key="^" line="0" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/views/cart.scala.html" timestamp="1502459397609">
-        <mark key="'" line="28" column="34" />
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/views/cart.scala.html" timestamp="1503472065587">
+        <mark key="'" line="387" column="6" />
         <mark key="[" line="0" column="12" />
         <mark key="]" line="0" column="12" />
         <mark key="^" line="29" column="34" />
@@ -531,12 +531,12 @@
         <mark key="]" line="229" column="0" />
         <mark key="." line="229" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/CartServiceImpl.java" timestamp="1503471185640">
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/CartServiceImpl.java" timestamp="1503471579018">
         <mark key="'" line="219" column="25" />
-        <mark key="[" line="147" column="0" />
-        <mark key="]" line="147" column="0" />
-        <mark key="^" line="224" column="81" />
-        <mark key="." line="147" column="0" />
+        <mark key="[" line="376" column="10" />
+        <mark key="]" line="376" column="10" />
+        <mark key="^" line="376" column="10" />
+        <mark key="." line="376" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/account/AccountController.java" timestamp="1502468095267">
         <mark key="[" line="29" column="0" />
@@ -726,7 +726,7 @@
         <mark key="." line="7" column="49" />
         <mark key="^" line="7" column="49" />
       </file>
-      <file name="/fragment.java" timestamp="1503277847844">
+      <file name="/fragment.java" timestamp="1503471686093">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
@@ -753,8 +753,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="253" column="6" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
-      <jump line="17" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" />
       <jump line="112" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" />
       <jump line="20" column="6" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
       <jump line="121" column="95" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
@@ -853,6 +851,8 @@
       <jump line="42" column="20" filename="$USER_HOME$/workspace/cask/pom.xml" />
       <jump line="3" column="9" filename="$USER_HOME$/workspace/cask/pom.xml" />
       <jump line="208" column="0" filename="$USER_HOME$/workspace/cask/pom.xml" />
+      <jump line="1" column="15" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/views/cart.scala.html" />
+      <jump line="387" column="6" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/views/cart.scala.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -862,37 +862,37 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text>delete_or_backspace</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgIm9yZGVyIi4ib3JkZXJfaW5mbyIgQUREIENPTFVNTiBzYWxlc21hbiB2YXJjaGFyKDEwKSBDT0xMQVRFICJkZWZhdWx0IjsK</text>
+      <register name="0" type="4">
+        <text>salesman</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gdXNlcklkCiAgICAgKiBAcGFyYW0gcHJvICAgIOimgeabtOaWsOeahOWVhuWTgQogICAgICogQHJldHVybgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBuY19pZCB2YXJjaGFyKDYpIERFRkFVTFQgMCBDT0xMQVRFICJkZWZhdWx0IjsK</text>
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gdXNlcklkCiAgICAgKiBAcmV0dXJuCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QUwK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBwcm8gICAg6KaB5Yig6Zmk55qE5ZWG5ZOBCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gdXNlcklkCiAgICAgKiBAcGFyYW0gcHJvSWRzCiAgICAgKiBAcmV0dXJuCiAgICAgKiBAdGhyb3dzIEV4Y2VwdGlvbgogICAgICogQGF1dGhvciBQb3BweQogICAgICogQGRhdGUgMjAxNS03LTYKICAgICAqIEBzaW5jZSAxLjAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvamVjdC5idWlsZC5zb3VyY2VFbmNvZGluZz5VVEYtODwvcHJvamVjdC5idWlsZC5zb3VyY2VFbmNvZGluZz4K</text>
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gdXNlcmlkCiAgICAgKiBAcGFyYW0gb3JkZXJpZAogICAgICogQHRocm93cyBFeGNlcHRpb24K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8cHJvamVjdC5idWlsZC5zb3VyY2VFbmNvZGluZz5VVEYtODwvcHJvamVjdC5idWlsZC5zb3VyY2VFbmNvZGluZz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cHJvamVjdC5idWlsZC5zb3VyY2VFbmNvZGluZwo=</text>
+        <text encoding="base64">ICBuY19pZCB2YXJjaGFyKDYpIERFRkFVTFQgMCBDT0xMQVRFICJkZWZhdWx0IjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tIFRlc3QgZGVwZW5kZW5jaWVzIC0tPgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5pby52ZXJ0eDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+dmVydHgtdW5pdDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+anVuaXQ8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmp1bml0PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj40LjEyPC92ZXJzaW9uPgogICAgICAgICAgICA8c2NvcGU+dGVzdDwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXNzZXJ0ajwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+YXNzZXJ0ai1jb3JlPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4zLjYuMjwvdmVyc2lvbj4KICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmpheXdheS5hd2FpdGlsaXR5PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5hd2FpdGlsaXR5PC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjcuMDwvdmVyc2lvbj4KICAgICAgICAgICAgPHNjb3BlPnRlc3Q8L3Njb3BlPgogICAgICAgIDwvZGVwZW5kZW5jeT4KICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+aW8ucmVzdC1hc3N1cmVkPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5yZXN0LWFzc3VyZWQ8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjMuMC4yPC92ZXJzaW9uPgogICAgICAgICAgICA8c2NvcGU+dGVzdDwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
+        <text encoding="base64">QUwK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
