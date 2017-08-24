@@ -219,6 +219,12 @@
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/application-context.xml" timestamp="1502934583721">
         <mark key="'" line="74" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/cask/gateway/src/main/resources/webroot/index.html" timestamp="1503542735783">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="7" column="10" />
+        <mark key="^" line="7" column="10" />
+        <mark key="." line="7" column="10" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/paper/PaperNewController.java" timestamp="1502952846622">
         <mark key="'" line="290" column="0" />
       </file>
@@ -239,8 +245,8 @@
         <mark key="." line="192" column="0" />
         <mark key="^" line="178" column="47" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.4.1/vertx-core-3.4.1-sources.jar!/io/vertx/core/impl/ContextImpl.java" timestamp="1503482556451">
-        <mark key="'" line="213" column="20" />
+      <file name="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.4.1/vertx-core-3.4.1-sources.jar!/io/vertx/core/impl/ContextImpl.java" timestamp="1503543163171">
+        <mark key="'" line="56" column="29" />
         <mark key="[" line="41" column="20" />
         <mark key="]" line="41" column="34" />
       </file>
@@ -340,6 +346,9 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/vertx/vertx-web/3.4.1/vertx-web-3.4.1-sources.jar!/io/vertx/ext/web/handler/StaticHandler.java" timestamp="1503542795478">
+        <mark key="'" line="161" column="22" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" timestamp="1503474382732">
         <mark key="'" line="18" column="44" />
         <mark key="[" line="21" column="0" />
@@ -364,6 +373,7 @@
         <mark key="^" line="136" column="9" />
         <mark key="." line="193" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/vertx/vertx-web/3.4.1/vertx-web-3.4.1-sources.jar!/io/vertx/ext/web/handler/impl/StaticHandlerImpl.java" timestamp="1503543916473" />
       <file name="$USER_HOME$/workspace/jinhui/order-producer/public/statics/dispatchDetail.js" timestamp="1502504569971">
         <mark key="'" line="303" column="33" />
         <mark key="[" line="79" column="39" />
@@ -463,6 +473,9 @@
         <mark key="." line="10" column="53" />
         <mark key="^" line="10" column="53" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.4.1/vertx-core-3.4.1-sources.jar!/io/vertx/core/eventbus/impl/EventBusImpl.java" timestamp="1503544273292">
+        <mark key="'" line="124" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/crm/conf/application.conf" timestamp="1503046685937">
         <mark key="'" line="0" column="13" />
         <mark key="[" line="37" column="12" />
@@ -552,6 +565,7 @@
         <mark key="^" line="215" column="42" />
         <mark key="." line="215" column="42" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.4.1/vertx-core-3.4.1-sources.jar!/io/vertx/core/eventbus/EventBus.java" timestamp="1503544289126" />
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/account/AccountController.java" timestamp="1502468095267">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -562,6 +576,12 @@
         <mark key="]" line="79" column="30" />
         <mark key="^" line="79" column="30" />
         <mark key="." line="58" column="98" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/vertx-blueprint-microservice/api-gateway/src/main/java/io/vertx/blueprint/microservice/gateway/APIGatewayVerticle.java" timestamp="1503544878022">
+        <mark key="[" line="51" column="51" />
+        <mark key="]" line="51" column="51" />
+        <mark key="." line="51" column="51" />
+        <mark key="^" line="51" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/views/payment.scala.html" timestamp="1502944143855">
         <mark key="'" line="85" column="44" />
@@ -591,9 +611,6 @@
         <mark key="^" line="537" column="88" />
         <mark key="." line="537" column="88" />
       </file>
-      <file name="$USER_HOME$/workspace/cask/common/src/main/java/com/acenode/cloud/common/BaseMicroserviceVerticle.java" timestamp="1503480863194">
-        <mark key="[" line="30" column="46" />
-      </file>
       <file name="$USER_HOME$/workspace/zsyh/src/com/czb/mer/OrderCommit.java" timestamp="1501581542006">
         <mark key="'" line="130" column="19" />
         <mark key="[" line="137" column="32" />
@@ -622,11 +639,12 @@
         <mark key="." line="109" column="36" />
         <mark key="^" line="109" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" timestamp="1503541684034">
-        <mark key="'" line="137" column="47" />
-        <mark key="[" line="91" column="37" />
-        <mark key="]" line="91" column="37" />
-        <mark key="." line="91" column="37" />
+      <file name="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" timestamp="1503545277285">
+        <mark key="'" line="192" column="44" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="49" />
+        <mark key="." line="34" column="0" />
+        <mark key="^" line="42" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/sql/ApiService.xml" timestamp="1503477637545">
         <mark key="'" line="115" column="0" />
@@ -656,12 +674,12 @@
         <mark key="." line="129" column="0" />
         <mark key="^" line="116" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" timestamp="1503296981503">
-        <mark key="'" line="112" column="0" />
-        <mark key="[" line="13" column="17" />
-        <mark key="]" line="13" column="22" />
-        <mark key="." line="13" column="22" />
-        <mark key="^" line="13" column="22" />
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" timestamp="1503544774269">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="13" />
+        <mark key="." line="4" column="13" />
+        <mark key="^" line="4" column="13" />
       </file>
       <file name="$USER_HOME$/Desktop/银行/兴业银行/epaysdk_acquire_java_utf-8/src/com/cib/epay/sdk/EPay.java" timestamp="1502935243243">
         <mark key="'" line="58" column="23" />
@@ -676,18 +694,12 @@
       <file name="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" timestamp="1503283416736">
         <mark key="'" line="4" column="89" />
       </file>
-      <file name="/dummy.sql" timestamp="1503472838769">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/sql/Logistics.xml" timestamp="1502327458124">
         <mark key="'" line="189" column="76" />
         <mark key="[" line="211" column="18" />
         <mark key="]" line="211" column="25" />
         <mark key="." line="211" column="25" />
         <mark key="^" line="211" column="25" />
-      </file>
-      <file name="$USER_HOME$/workspace/cask/common/src/main/java/com/acenode/cloud/common/RestAPIVerticle.java" timestamp="1503480909976">
-        <mark key="[" line="27" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/config.properties" timestamp="1503038634176">
         <mark key="'" line="17" column="16" />
@@ -699,7 +711,7 @@
       <file name="$USER_HOME$/workspace/demo/vertx-blueprint-microservice/microservice-blueprint-common/src/main/java/io/vertx/blueprint/microservice/common/RestAPIVerticle.java" timestamp="1503481107518">
         <mark key="'" line="129" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503541670126">
+      <file name="/Dummy.txt" timestamp="1503544344657">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -772,7 +784,7 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="14" column="63" />
       </file>
-      <file name="/fragment.java" timestamp="1503539794414">
+      <file name="/fragment.java" timestamp="1503543944132">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
@@ -793,28 +805,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/crm/conf/application-context.xml" />
-      <jump line="12" column="0" filename="$USER_HOME$/workspace/jinhui/crm/conf/application-context.xml" />
-      <jump line="109" column="0" filename="$USER_HOME$/workspace/jinhui/crm/conf/application-context.xml" />
-      <jump line="397" column="8" filename="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/WeixinPrizeController.java" />
-      <jump line="223" column="6" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/RegionalServiceImpl.java" />
-      <jump line="10" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/bak/alterDB.sql" />
-      <jump line="11" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/bak/alterDB.sql" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/bak/alterDB.sql" />
-      <jump line="10" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
-      <jump line="7" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
-      <jump line="11" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
-      <jump line="32" column="16" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/RegionalServiceImpl.java" />
-      <jump line="226" column="42" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/user/UserController.java" />
-      <jump line="228" column="34" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/user/UserController.java" />
-      <jump line="262" column="31" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/user/UserController.java" />
-      <jump line="275" column="35" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/user/UserController.java" />
-      <jump line="83" column="35" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/user/UserController.java" />
-      <jump line="14" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
-      <jump line="12" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
-      <jump line="17" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
       <jump line="41" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/RegionalServiceImpl.java" />
       <jump line="46" column="6" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/RegionalServiceImpl.java" />
       <jump line="260" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/RegionalServiceImpl.java" />
@@ -886,13 +876,35 @@
       <jump line="74" column="2" filename="$USER_HOME$/workspace/demo/vertx-blueprint-microservice/microservice-blueprint-common/src/main/java/io/vertx/blueprint/microservice/common/rx/RestAPIRxVerticle.java" />
       <jump line="109" column="32" filename="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.8/log4j-core-2.8.jar!/org/apache/logging/log4j/core/config/Configurator.class" />
       <jump line="139" column="47" filename="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" />
-      <jump line="56" column="29" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.4.1/vertx-core-3.4.1-sources.jar!/io/vertx/core/impl/ContextImpl.java" />
       <jump line="69" column="133" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.4.1/vertx-core-3.4.1-sources.jar!/io/vertx/core/impl/ContextImpl.java" />
       <jump line="75" column="18" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.4.1/vertx-core-3.4.1-sources.jar!/io/vertx/core/impl/ContextImpl.java" />
       <jump line="213" column="20" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.4.1/vertx-core-3.4.1-sources.jar!/io/vertx/core/impl/ContextImpl.java" />
       <jump line="41" column="21" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.4.1/vertx-core-3.4.1-sources.jar!/io/vertx/core/DeploymentOptions.java" />
       <jump line="58" column="9" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.4.1/vertx-core-3.4.1-sources.jar!/io/vertx/core/DeploymentOptions.java" />
       <jump line="20" column="42" filename="$USER_HOME$/workspace/cask/gateway/pom.xml" />
+      <jump line="161" column="22" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-web/3.4.1/vertx-web-3.4.1-sources.jar!/io/vertx/ext/web/handler/StaticHandler.java" />
+      <jump line="214" column="11" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.4.1/vertx-core-3.4.1-sources.jar!/io/vertx/core/impl/ContextImpl.java" />
+      <jump line="56" column="29" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.4.1/vertx-core-3.4.1-sources.jar!/io/vertx/core/impl/ContextImpl.java" />
+      <jump line="82" column="50" filename="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" />
+      <jump line="84" column="11" filename="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" />
+      <jump line="85" column="14" filename="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" />
+      <jump line="54" column="43" filename="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" />
+      <jump line="59" column="11" filename="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" />
+      <jump line="62" column="50" filename="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" />
+      <jump line="77" column="49" filename="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" />
+      <jump line="124" column="18" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.4.1/vertx-core-3.4.1-sources.jar!/io/vertx/core/eventbus/impl/EventBusImpl.java" />
+      <jump line="162" column="54" filename="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" />
+      <jump line="73" column="30" filename="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" />
+      <jump line="75" column="42" filename="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" />
+      <jump line="256" column="21" filename="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" />
+      <jump line="257" column="46" filename="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" />
+      <jump line="36" column="20" filename="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" />
+      <jump line="37" column="15" filename="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" />
+      <jump line="60" column="41" filename="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" />
+      <jump line="16" column="21" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/zsyh/zsconf.properties" />
+      <jump line="39" column="52" filename="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" />
+      <jump line="192" column="44" filename="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -902,60 +914,56 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25maWdcPg==</text>
+        <text encoding="base64">XDxhdXRoVWFhSGFuZGxlclw+</text>
       </register>
-      <register name="0" type="4">
-        <text>http://tfox.org</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBLRVlfSE9TVCA9ICJnYXRld2F5Lmhvc3QiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBERUZBVUxUX1BPUlQgPSA4Nzg3Owo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICoKICogQGF1dGhvciBFcmljIFpoYW8K</text>
+        <text encoding="base64">ICAgICAgICAvLyBnZXQgSFRUUCBob3N0IGFuZCBwb3J0IGZyb20gY29uZmlndXJhdGlvbiwgb3IgdXNlIGRlZmF1bHQgdmFsdWUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLnZlcnR4LmJsdWVwcmludC5taWNyb3NlcnZpY2UuYWNjb3VudC5BY2NvdW50OwppbXBvcnQgaW8udmVydHguYmx1ZXByaW50Lm1pY3Jvc2VydmljZS5hY2NvdW50LkFjY291bnRTZXJ2aWNlOwppbXBvcnQgaW8udmVydHguYmx1ZXByaW50Lm1pY3Jvc2VydmljZS5jb21tb24uUmVzdEFQSVZlcnRpY2xlOwo=</text>
+        <text encoding="base64">ICAgICAgICByb3V0ZXIucG9zdCgiL2xvZ291dCIpLmhhbmRsZXIodGhpczo6bG9nb3V0SGFuZGxlcik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBzZXQgYXV0aCBjYWxsYmFjayBoYW5kbGVyCiAgICAgICAgcm91dGVyLnJvdXRlKCIvY2FsbGJhY2siKS5oYW5kbGVyKGNvbnRleHQgLT4gYXV0aENhbGxiYWNrKG9hdXRoMiwgaG9zdFVSSSwgY29udGV4dCkpOwogICAgICAgIHJvdXRlci5nZXQoIi91YWEiKS5oYW5kbGVyKHRoaXM6OmF1dGhVYWFIYW5kbGVyKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+aW8udmVydHguYmx1ZXByaW50PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5hY2NvdW50LW1pY3Jvc2VydmljZTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+JHtwcm9qZWN0LnZlcnNpb259PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSByb3V0ZXIgcm91dGVyIGluc3RhbmNlCiAgICAgKiBAcGFyYW0gaG9zdCAgIGh0dHAgaG9zdAogICAgICogQHBhcmFtIHBvcnQgICBodHRwIHBvcnQKICAgICAqIEByZXR1cm4gYXN5bmMgcmVzdWx0IG9mIHRoZSBwcm9jZWR1cmUK</text>
+        <text encoding="base64">LyoqCiAqIEEgdmVydGljbGUgZm9yIGdsb2JhbCBBUEkgZ2F0ZXdheS4KICogVGhpcyBBUEkgZ2F0ZXdheSB1c2VzIEhUVFAtSFRUUCBwYXR0ZXJuLiBJdCdzIGFsc28gcmVzcG9uc2libGUgZm9yCiAqIGxvYWQgYmFsYW5jZSBhbmQgZmFpbHVyZSBoYW5kbGluZy4KICovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIEFuIGFic3RyYWN0IGJhc2UgdmVydGljbGUgdGhhdCBwcm92aWRlcyBzZXZlcmFsIGhlbHBlciBtZXRob2RzIGZvciBSRVNUIEFQSS4KICoKICogQGF1dGhvciBFcmljIFpoYW8KICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8gcHVibGlzaCBsb2cKICAgICAgICAgICAgICAgICAgICAgICAgcHVibGlzaEdhdGV3YXlMb2coImFwaV9nYXRld2F5X2luaXRfc3VjY2VzczoiICsgcG9ydCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25maWdcPg==</last-search>
+      <last-search encoding="base64">XDxhdXRoVWFhSGFuZGxlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25maWdcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhdXRoVWFhSGFuZGxlclw+</last-pattern>
       <last-replace>pay.czbank.com\\:443</last-replace>
       <last-substitute>60.191.15.92\\:465</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWNoYXJnZU5vXD4=</entry>
-        <entry>login</entry>
-        <entry>appli</entry>
-        <entry>console</entry>
         <entry>weixin</entry>
         <entry>award</entry>
         <entry>telEmp</entry>
@@ -972,6 +980,10 @@
         <entry encoding="base64">XDxyZXN1bHRIYW5kbGVyXD4=</entry>
         <entry>project.version</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
+        <entry>create</entry>
+        <entry encoding="base64">XDxvYXV0aDJcPg==</entry>
+        <entry encoding="base64">XDxob3N0XD4=</entry>
+        <entry encoding="base64">XDxhdXRoVWFhSGFuZGxlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
