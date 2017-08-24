@@ -13,11 +13,11 @@
         <mark key="^" line="95" column="62" />
         <mark key="." line="95" column="62" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/api/APIController.java" timestamp="1503559077029">
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/api/APIController.java" timestamp="1503560318845">
         <mark key="'" line="21" column="29" />
         <mark key="[" line="133" column="45" />
-        <mark key="]" line="133" column="120" />
-        <mark key="^" line="137" column="78" />
+        <mark key="]" line="133" column="86" />
+        <mark key="^" line="133" column="147" />
         <mark key="." line="133" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/models/NCOrderDetail.java" timestamp="1502695007614">
@@ -303,7 +303,7 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/APIServiceImpl.java" timestamp="1503476500486">
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/APIServiceImpl.java" timestamp="1503559266444">
         <mark key="'" line="48" column="12" />
         <mark key="[" line="71" column="14" />
         <mark key="]" line="71" column="14" />
@@ -755,8 +755,8 @@
         <mark key="." line="14" column="20" />
         <mark key="^" line="21" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1503474506308">
-        <mark key="'" line="288" column="121" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1503559258451">
+        <mark key="'" line="288" column="16" />
         <mark key="[" line="288" column="16" />
         <mark key="]" line="288" column="29" />
         <mark key="." line="288" column="2" />
@@ -786,7 +786,7 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="14" column="63" />
       </file>
-      <file name="/fragment.java" timestamp="1503543944132">
+      <file name="/fragment.java" timestamp="1503559995852">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
@@ -850,7 +850,6 @@
       <jump line="387" column="6" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/views/cart.scala.html" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="18" column="44" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
-      <jump line="288" column="121" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="145" column="6" filename="$USER_HOME$/workspace/jinhui/order-producer/app/models/NCOrderInfo.java" />
       <jump line="73" column="45" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/CartServiceImpl.java" />
       <jump line="135" column="61" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/CartServiceImpl.java" />
@@ -907,6 +906,7 @@
       <jump line="129" column="26" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/api/APIController.java" />
       <jump line="18" column="21" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/api/APIController.java" />
       <jump line="21" column="29" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/api/APIController.java" />
+      <jump line="288" column="16" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -916,13 +916,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>http://example.com</text>
+        <text>http://1x81499w00.51mypc.cn/uapws/service/nc.itf.sows.ISaleInfoService?wsdl</text>
       </register>
       <register name="/" type="4">
         <text>sales</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTRUxFQ1QgRElTVElOQ1QgY29tcGFueWlkIGZyb20gcGNjcl9pbmZvIFdIRVJFIGNvbXBhbnlpZCBpbiAoCiAgICAgICAgU0VMRUNUIGNvbXBhbnlpZCBGUk9NIHBjY3JfaW5mbyBXSEVSRSBjdXN0b21lcmlkID0gJHt1c2VySWR9CiAgICAgICAgKSBBTkQgY3VzdG9tZXJpZCBpcyBudWxsIEFORCBwcm9kdWN0aWQgaW4KICAgICAgICA8Zm9yZWFjaCBpdGVtPSJpdGVtIiBjb2xsZWN0aW9uPSJwcm9JZHMiIG9wZW49IigiIHNlcGFyYXRvcj0iLCIgY2xvc2U9IikiPgogICAgICAgICAgICAke2l0ZW19CiAgICAgICAgPC9mb3JlYWNoPgo=</text>
+      <register name="0" type="4">
+        <text>sync_logistics</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
