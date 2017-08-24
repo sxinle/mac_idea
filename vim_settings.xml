@@ -111,7 +111,6 @@
         <mark key="." line="26" column="69" />
         <mark key="^" line="26" column="69" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/CartService.java" timestamp="1503472751580" />
       <file name="$USER_HOME$/.sbt/boot/scala-2.10.2/lib/scala-library.jar!/scala/concurrent/forkjoin/ForkJoinPool.class" timestamp="1503394387405">
         <mark key="'" line="1086" column="0" />
       </file>
@@ -154,6 +153,12 @@
         <mark key="]" line="40" column="0" />
         <mark key="^" line="23" column="33" />
         <mark key="." line="40" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/cask/gateway/src/main/resources/log4j2.xml" timestamp="1503540041140">
+        <mark key="[" line="19" column="21" />
+        <mark key="]" line="19" column="25" />
+        <mark key="." line="19" column="25" />
+        <mark key="^" line="19" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/config.properties" timestamp="1502446622005">
         <mark key="'" line="33" column="0" />
@@ -437,7 +442,6 @@
         <mark key="^" line="23" column="22" />
         <mark key="." line="23" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/vertx-blueprint-microservice/microservice-blueprint-common/pom.xml" timestamp="1503455620341" />
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/jbpm/order.jpdl.xml" timestamp="1502505121647">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -618,11 +622,11 @@
         <mark key="." line="109" column="36" />
         <mark key="^" line="109" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" timestamp="1503482401293">
+      <file name="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" timestamp="1503540205180">
         <mark key="'" line="137" column="47" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
+        <mark key="[" line="216" column="0" />
+        <mark key="]" line="216" column="0" />
+        <mark key="." line="216" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/sql/ApiService.xml" timestamp="1503477637545">
         <mark key="'" line="115" column="0" />
@@ -767,8 +771,7 @@
         <mark key="." line="14" column="63" />
         <mark key="^" line="14" column="63" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/vertx-blueprint-microservice/microservice-blueprint-common/src/main/java/io/vertx/blueprint/microservice/common/BaseMicroserviceVerticle.java" timestamp="1503478562673" />
-      <file name="/fragment.java" timestamp="1503481933148">
+      <file name="/fragment.java" timestamp="1503539794414">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="16" />
         <mark key="." line="0" column="16" />
@@ -898,7 +901,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>io.vertx.blueprint.microservice.gateway.APIGatewayVerticle</text>
+        <text>INFO</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25maWdcPg==</text>
@@ -907,31 +910,31 @@
         <text>http://tfox.org</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICoKICogQGF1dGhvciBFcmljIFpoYW8K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC4K</text>
+        <text encoding="base64">ICoKICogQGF1dGhvciBFcmljIFpoYW8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLnZlcnR4LmJsdWVwcmludC5taWNyb3NlcnZpY2UuYWNjb3VudC5BY2NvdW50OwppbXBvcnQgaW8udmVydHguYmx1ZXByaW50Lm1pY3Jvc2VydmljZS5hY2NvdW50LkFjY291bnRTZXJ2aWNlOwppbXBvcnQgaW8udmVydHguYmx1ZXByaW50Lm1pY3Jvc2VydmljZS5jb21tb24uUmVzdEFQSVZlcnRpY2xlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aW1wb3J0IGlvLnZlcnR4LmJsdWVwcmludC5taWNyb3NlcnZpY2UuYWNjb3VudC5BY2NvdW50OwppbXBvcnQgaW8udmVydHguYmx1ZXByaW50Lm1pY3Jvc2VydmljZS5hY2NvdW50LkFjY291bnRTZXJ2aWNlOwppbXBvcnQgaW8udmVydHguYmx1ZXByaW50Lm1pY3Jvc2VydmljZS5jb21tb24uUmVzdEFQSVZlcnRpY2xlOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+aW8udmVydHguYmx1ZXByaW50PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5hY2NvdW50LW1pY3Jvc2VydmljZTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+JHtwcm9qZWN0LnZlcnNpb259PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+aW8udmVydHguYmx1ZXByaW50PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5hY2NvdW50LW1pY3Jvc2VydmljZTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+JHtwcm9qZWN0LnZlcnNpb259PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSByb3V0ZXIgcm91dGVyIGluc3RhbmNlCiAgICAgKiBAcGFyYW0gaG9zdCAgIGh0dHAgaG9zdAogICAgICogQHBhcmFtIHBvcnQgICBodHRwIHBvcnQKICAgICAqIEByZXR1cm4gYXN5bmMgcmVzdWx0IG9mIHRoZSBwcm9jZWR1cmUK</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqCiAqIEFuIGFic3RyYWN0IGJhc2UgdmVydGljbGUgdGhhdCBwcm92aWRlcyBzZXZlcmFsIGhlbHBlciBtZXRob2RzIGZvciBSRVNUIEFQSS4KICoKICogQGF1dGhvciBFcmljIFpoYW8KICovCg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSByb3V0ZXIgcm91dGVyIGluc3RhbmNlCiAgICAgKiBAcGFyYW0gaG9zdCAgIGh0dHAgaG9zdAogICAgICogQHBhcmFtIHBvcnQgICBodHRwIHBvcnQKICAgICAqIEByZXR1cm4gYXN5bmMgcmVzdWx0IG9mIHRoZSBwcm9jZWR1cmUK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyoqCiAqIEFuIGFic3RyYWN0IGJhc2UgdmVydGljbGUgdGhhdCBwcm92aWRlcyBzZXZlcmFsIGhlbHBlciBtZXRob2RzIGZvciBSRVNUIEFQSS4KICoKICogQGF1dGhvciBFcmljIFpoYW8KICovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -944,7 +947,7 @@
       <last-replace>pay.czbank.com\\:443</last-replace>
       <last-substitute>60.191.15.92\\:465</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
