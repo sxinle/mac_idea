@@ -377,10 +377,10 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" timestamp="1503474382732">
-        <mark key="'" line="18" column="44" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="83" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" timestamp="1503638240939">
+        <mark key="'" line="18" column="11" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="21" column="84" />
         <mark key="." line="21" column="18" />
         <mark key="^" line="21" column="18" />
       </file>
@@ -859,8 +859,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="44" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
-      <jump line="145" column="6" filename="$USER_HOME$/workspace/jinhui/order-producer/app/models/NCOrderInfo.java" />
       <jump line="73" column="45" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/CartServiceImpl.java" />
       <jump line="135" column="61" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/CartServiceImpl.java" />
       <jump line="18" column="31" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql/ApiService.xml" />
@@ -959,6 +957,8 @@
       <jump line="129" column="43" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/api/APIController.java" />
       <jump line="127" column="56" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/api/APIController.java" />
       <jump line="125" column="53" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/api/APIController.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
+      <jump line="18" column="11" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -971,10 +971,10 @@
         <text>a111111</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFbnZlbG9wZVw+</text>
+        <text>compay</text>
       </register>
-      <register name="0" type="4">
-        <text>org.apache.axis.client.Call</text>
+      <register name="0" type="2">
+        <text encoding="base64">LS0g5L+u5pS5Y29tcGFueeihqO+8jOWwhk5D57O757uf5Lit55qESUTnu5Hlrprov5vmnaUKQUxURVIgVEFCTEUgImNybSIuImNvbXBhbnkiIEFERCBDT0xVTU4gbmNfaWQgdmFyY2hhcig2KSBERUZBVUxUIDAgQ09MTEFURSAiZGVmYXVsdCI7CkNPTU1FTlQgT04gQ09MVU1OICJjcm0iLiJjb21wYW55Ii4ibmNfaWQiIElTICdOQ+ezu+e7n+S4re+8jOWFrOWPuOeahOS4u+mUrklEJzsKdXBkYXRlIGNybS5jb21wYXkgc2V0IG5jX2lkPScwMTAxJyB3aGVyZSBjb21wYW55bmFtZT0n6YeR5b696YWS5YWw5bee6ZSA5ZSu5pyJ6ZmQ5YWs5Y+4JzsKdXBkYXRlIGNybS5jb21wYXkgc2V0IG5jX2lkPScwMTAyJyB3aGVyZSBjb21wYW55bmFtZT0n6YeR5b696YWS6ZmH5Y2X6ZSA5ZSu5pyJ6ZmQ5YWs5Y+4JzsKdXBkYXRlIGNybS5jb21wYXkgc2V0IG5jX2lkPScwMTAzJyB3aGVyZSBjb21wYW55bmFtZT0n6KW/6JeP6YeR5b695a6e5Lia5pyJ6ZmQ5YWs5Y+4JzsKdXBkYXRlIGNybS5jb21wYXkgc2V0IG5jX2lkPScwMTA0JyB3aGVyZSBjb21wYW55bmFtZT0n6YeR5b696YWS6ZSA5ZSu6KW/5a6J5pyJ6ZmQ5YWs5Y+4JzsKCi0tIOiuouWNlei/veWKoOWkp+WMuuS4muWKoe+8jE5D6ZyA6KaBCkFMVEVSIFRBQkxFICJvcmRlcnMiLiJvcmRlcl9pbmZvIiBBREQgQ09MVU1OIHNhbGVzbWFuIHZhcmNoYXIoMTApIENPTExBVEUgImRlZmF1bHQiOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8JICAgICAgICAJU3RyaW5nIHVybG5hbWUgPSAiaHR0cDovLzEyNy4wLjAuMS91YXB3cy9zZXJ2aWNlL25jLml0Zi5zb3dzLklTYWxlSW5mb1NlcnZpY2UiOwo=</text>
@@ -1008,17 +1008,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFbnZlbG9wZVw+</last-search>
+      <last-search>compay</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFbnZlbG9wZVw+</last-pattern>
-      <last-replace>pay.czbank.com\\:443</last-replace>
-      <last-substitute>60.191.15.92\\:465</last-substitute>
+      <last-pattern>compay</last-pattern>
+      <last-replace>company</last-replace>
+      <last-substitute>compay</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxtb25uZXlcPg==</entry>
         <entry>acc</entry>
         <entry>result</entry>
         <entry encoding="base64">XDxsZWZ0X2NvbW1hbmRcPg==</entry>
@@ -1038,9 +1037,9 @@
         <entry>sales</entry>
         <entry encoding="base64">XDxPTUVsZW1lbnRcPg==</entry>
         <entry encoding="base64">XDxFbnZlbG9wZVw+</entry>
+        <entry>compay</entry>
       </history-search>
       <history-cmd>
-        <entry>vsp</entry>
         <entry encoding="base64">JzwsJz5zL2h0dHBzL2h0dHAvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2h0dHAvaHR0cHMvZw==</entry>
         <entry>source ~/.ideavimrc</entry>
@@ -1059,6 +1058,7 @@
         <entry encoding="base64">JzwsJz5zL3B1YmxpYy9wcml2YXRlL2c=</entry>
         <entry encoding="base64">JzwsJz5zLzYwLjE5MS4xNS45MlxcOjQ2NS9wYXkuY3piYW5rLmNvbVxcOjQ0My9n</entry>
         <entry>action $Redo</entry>
+        <entry encoding="base64">JzwsJz5zL2NvbXBheS9jb21wYW55L2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
