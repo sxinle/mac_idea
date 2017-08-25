@@ -382,10 +382,10 @@
         <mark key="^" line="74" column="42" />
         <mark key="." line="74" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" timestamp="1503647213567">
-        <mark key="'" line="20" column="6" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" timestamp="1503650398801">
+        <mark key="'" line="156" column="112" />
+        <mark key="[" line="156" column="9" />
+        <mark key="]" line="156" column="27" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
@@ -882,7 +882,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="18" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.4.1/vertx-core-3.4.1-sources.jar!/io/vertx/core/impl/ContextImpl.java" />
       <jump line="213" column="20" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.4.1/vertx-core-3.4.1-sources.jar!/io/vertx/core/impl/ContextImpl.java" />
       <jump line="41" column="21" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.4.1/vertx-core-3.4.1-sources.jar!/io/vertx/core/DeploymentOptions.java" />
       <jump line="58" column="9" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.4.1/vertx-core-3.4.1-sources.jar!/io/vertx/core/DeploymentOptions.java" />
@@ -982,6 +981,7 @@
       <jump line="40" column="6" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
       <jump line="248" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
       <jump line="149" column="45" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
+      <jump line="156" column="112" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -997,7 +997,7 @@
         <text>compay</text>
       </register>
       <register name="0" type="4">
-        <text>BankUtil.zsCheckServerSignature(callback)</text>
+        <text>/jhpay/acceptResult</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
