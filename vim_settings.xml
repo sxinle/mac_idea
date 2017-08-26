@@ -37,6 +37,9 @@
       <file name="$USER_HOME$/workspace/jinhui/order-producer/logs/application.log" timestamp="1503655925999">
         <mark key="'" line="307" column="32123" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/public/statics/financeOrder.js" timestamp="1503723497272">
+        <mark key="'" line="85" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/sync_data/conf/application.conf" timestamp="1502072959605">
         <mark key="'" line="39" column="6" />
         <mark key="[" line="20" column="12" />
@@ -53,6 +56,10 @@
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/bak/alterDB.sql" timestamp="1503369608653">
         <mark key="'" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/clear.sql" timestamp="1503722950182">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/util/JAXBUtil.java" timestamp="1502952855569">
         <mark key="'" line="64" column="0" />
@@ -147,8 +154,12 @@
         <mark key="." line="26" column="69" />
         <mark key="^" line="26" column="69" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/CartService.java" timestamp="1503723156615" />
       <file name="$USER_HOME$/.sbt/boot/scala-2.10.2/lib/scala-library.jar!/scala/concurrent/forkjoin/ForkJoinPool.class" timestamp="1503394387405">
         <mark key="'" line="1086" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/public/statics/commonHeader.js" timestamp="1503723620554">
+        <mark key="'" line="148" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/addr/AddrController.java" timestamp="1502937980253">
         <mark key="'" line="358" column="0" />
@@ -222,6 +233,11 @@
         <mark key="." line="423" column="65" />
         <mark key="^" line="423" column="65" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/cust/CustomerController.java" timestamp="1503722785538">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/DistributeService.java" timestamp="1500786497411">
         <mark key="'" line="90" column="66" />
         <mark key="[" line="90" column="54" />
@@ -288,14 +304,6 @@
       <file name="$USER_HOME$/workspace/jinhui/order-producer/lib/axis.jar!/org/apache/axis/client/Service.class" timestamp="1503630223668">
         <mark key="'" line="335" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" timestamp="1503651461455">
-        <mark key="'" line="149" column="45" />
-        <mark key="[" line="167" column="0" />
-        <mark key="]" line="167" column="0" />
-        <mark key="^" line="160" column="11" />
-        <mark key="." line="167" column="0" />
-        <mark key="o" line="169" column="47" />
-      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/.idea/workspace.xml" timestamp="1500386877668">
         <mark key="'" line="116" column="11" />
         <mark key="[" line="117" column="41" />
@@ -338,7 +346,7 @@
         <mark key="." line="6" column="6" />
         <mark key="^" line="6" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/APIServiceImpl.java" timestamp="1503559266444">
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/APIServiceImpl.java" timestamp="1503722481927">
         <mark key="'" line="48" column="12" />
         <mark key="[" line="71" column="14" />
         <mark key="]" line="71" column="14" />
@@ -366,6 +374,7 @@
         <mark key="." line="92" column="7" />
         <mark key="^" line="92" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/views/financeOrder.scala.html" timestamp="1503723602462" />
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/finance/FinanceOrderController.java" timestamp="1502530857210">
         <mark key="'" line="441" column="0" />
         <mark key="[" line="158" column="0" />
@@ -380,12 +389,15 @@
         <mark key="^" line="74" column="42" />
         <mark key="." line="74" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" timestamp="1503656369039">
-        <mark key="'" line="156" column="9" />
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" timestamp="1503722761874">
+        <mark key="'" line="50" column="5" />
         <mark key="[" line="156" column="9" />
         <mark key="]" line="156" column="27" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/public/statics/orderHistory.js" timestamp="1503723599337">
+        <mark key="'" line="193" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/银行/兴业银行/epaysdk_acquire_java_utf-8/src/com/cib/epay/sdk/Example.java" timestamp="1502948384393">
         <mark key="'" line="421" column="0" />
@@ -410,6 +422,12 @@
         <mark key="]" line="107" column="80" />
         <mark key="." line="107" column="80" />
         <mark key="^" line="107" column="80" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/sql/FinanceOrder.xml" timestamp="1503724874454">
+        <mark key="[" line="77" column="78" />
+        <mark key="]" line="77" column="78" />
+        <mark key="^" line="77" column="78" />
+        <mark key="." line="77" column="78" />
       </file>
       <file name="$USER_HOME$/workspace/demo/vertx-blueprint-microservice/microservice-blueprint-common/src/main/java/io/vertx/blueprint/microservice/common/rx/RestAPIRxVerticle.java" timestamp="1503481111256">
         <mark key="'" line="74" column="2" />
@@ -525,8 +543,8 @@
         <mark key="^" line="34" column="16" />
         <mark key="." line="37" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/public/statics/financeDetail.js" timestamp="1502509071082">
-        <mark key="'" line="76" column="44" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/public/statics/financeDetail.js" timestamp="1503723689742">
+        <mark key="'" line="5" column="14" />
         <mark key="[" line="29" column="39" />
         <mark key="]" line="29" column="44" />
         <mark key="." line="29" column="44" />
@@ -552,6 +570,7 @@
         <mark key="." line="0" column="29" />
         <mark key="^" line="0" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/FinanceOrderService.java" timestamp="1503724819952" />
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/views/cart.scala.html" timestamp="1503472065587">
         <mark key="'" line="387" column="6" />
         <mark key="[" line="0" column="12" />
@@ -595,7 +614,7 @@
         <mark key="." line="93" column="48" />
         <mark key="^" line="93" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/CustomerService.java" timestamp="1503656390324">
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/CustomerService.java" timestamp="1503722792358">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
@@ -603,7 +622,7 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.8/log4j-core-2.8.jar!/org/apache/logging/log4j/core/config/Configurator.class" timestamp="1503481424048">
         <mark key="'" line="109" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/CartServiceImpl.java" timestamp="1503646956293">
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/CartServiceImpl.java" timestamp="1503723151497">
         <mark key="'" line="465" column="0" />
         <mark key="[" line="215" column="31" />
         <mark key="]" line="215" column="42" />
@@ -617,11 +636,11 @@
         <mark key="^" line="15" column="56" />
         <mark key="." line="15" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/sql/CartProductInfo.xml" timestamp="1503556572060">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="50" column="17" />
-        <mark key="^" line="79" column="30" />
-        <mark key="." line="58" column="98" />
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/sql/CartProductInfo.xml" timestamp="1503723305763">
+        <mark key="[" line="79" column="31" />
+        <mark key="]" line="79" column="32" />
+        <mark key="^" line="79" column="32" />
+        <mark key="." line="79" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/demo/vertx-blueprint-microservice/api-gateway/src/main/java/io/vertx/blueprint/microservice/gateway/APIGatewayVerticle.java" timestamp="1503544878022">
         <mark key="[" line="51" column="51" />
@@ -664,6 +683,9 @@
         <mark key="]" line="137" column="38" />
         <mark key="^" line="126" column="34" />
         <mark key="." line="126" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/views/financeDetail.scala.html" timestamp="1503723682994">
+        <mark key="'" line="43" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/util/Constants.java" timestamp="1502948916843">
         <mark key="'" line="283" column="0" />
@@ -763,7 +785,7 @@
       <file name="$USER_HOME$/workspace/demo/vertx-blueprint-microservice/microservice-blueprint-common/src/main/java/io/vertx/blueprint/microservice/common/RestAPIVerticle.java" timestamp="1503481107518">
         <mark key="'" line="129" column="40" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503656798972">
+      <file name="/Dummy.txt" timestamp="1503724820520">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -789,6 +811,7 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="167" column="31" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/CommonServiceImpl.java" timestamp="1503724494229" />
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/PaperNewServiceImpl.java" timestamp="1502952497029">
         <mark key="'" line="0" column="0" />
       </file>
@@ -822,6 +845,12 @@
       <file name="$USER_HOME$/workspace/demo/zest/src/main/java/src/nc/itf/sows/isaleinfoservice/ISaleInfoServiceStub.java" timestamp="1503561804639">
         <mark key="'" line="116" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/FinanceOrderServiceImpl.java" timestamp="1503724958969">
+        <mark key="[" line="202" column="30" />
+        <mark key="]" line="202" column="30" />
+        <mark key="." line="202" column="30" />
+        <mark key="^" line="202" column="33" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/pointshub/target/scala-2.10/classes/application.conf" timestamp="1503294296216">
         <mark key="'" line="176" column="0" />
         <mark key="[" line="176" column="0" />
@@ -846,6 +875,7 @@
         <mark key="." line="11" column="20" />
         <mark key="^" line="14" column="63" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/CustomerServiceImpl.java" timestamp="1503722884510" />
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/RegionalServiceImpl.java" timestamp="1503380604549">
         <mark key="'" line="27" column="0" />
         <mark key="[" line="50" column="0" />
@@ -859,6 +889,9 @@
         <mark key="." line="101" column="14" />
         <mark key="^" line="101" column="14" />
       </file>
+      <file name="/fragment.java" timestamp="1503724806179">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/CommonController.java" timestamp="1502457606927">
         <mark key="'" line="204" column="49" />
         <mark key="[" line="1" column="0" />
@@ -868,31 +901,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="20" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/api/APIController.java" />
-      <jump line="109" column="55" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/api/APIController.java" />
-      <jump line="22" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/api/APIController.java" />
-      <jump line="166" column="17" filename="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.10/srcs/play_2.10-2.2.3-sources.jar!/play/api/libs/ws/WS.scala" />
-      <jump line="107" column="10" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/api/APIController.java" />
-      <jump line="116" column="99" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/api/APIController.java" />
-      <jump line="100" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/views/addr.scala.html" />
-      <jump line="206" column="14" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/views/addr.scala.html" />
-      <jump line="0" column="48" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/views/addr.scala.html" />
-      <jump line="205" column="48" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/views/addr.scala.html" />
-      <jump line="145" column="27" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/api/APIController.java" />
-      <jump line="18" column="21" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/api/APIController.java" />
-      <jump line="21" column="29" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/api/APIController.java" />
-      <jump line="116" column="12" filename="$USER_HOME$/workspace/demo/zest/src/main/java/src/nc/itf/sows/isaleinfoservice/ISaleInfoServiceStub.java" />
-      <jump line="13" column="22" filename="$USER_HOME$/workspace/demo/zest/src/main/java/nc/ISaleInfoServiceCallbackHandler.java" />
-      <jump line="301" column="14" filename="$USER_HOME$/workspace/demo/zest/src/main/java/nc/ISaleInfoServiceStub.java" />
-      <jump line="138" column="39" filename="$USER_HOME$/workspace/demo/zest/src/main/java/nc/ISaleInfoServiceStub.java" />
-      <jump line="4" column="12" filename="$USER_HOME$/workspace/demo/zest/src/main/java/Axis.java" />
-      <jump line="6" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/Axis.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/Axis.java" />
-      <jump line="159" column="4" filename="$USER_HOME$/workspace/demo/zest/src/main/java/Axis.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/demo/zest/pom.xml" />
-      <jump line="50" column="18" filename="$USER_HOME$/workspace/demo/zest/src/main/java/Axis.java" />
-      <jump line="25" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/nc/itf/sows/isaleinfoservice/ISaleInfoServiceCallbackHandler.java" />
-      <jump line="263" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/nc/itf/sows/isaleinfoservice/ISaleInfoServiceStub.java" />
       <jump line="11" column="37" filename="$USER_HOME$/workspace/demo/zest/src/main/java/Axis.java" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/Axis.java" />
       <jump line="7" column="20" filename="$USER_HOME$/workspace/demo/zest/src/main/java/Axis.java" />
@@ -968,6 +976,31 @@
       <jump line="90" column="20" filename="$USER_HOME$/workspace/demo/zest/pom.xml" />
       <jump line="1" column="62" filename="$USER_HOME$/workspace/demo/zest/pom.xml" />
       <jump line="42" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/nc/APIHttpClient.java" />
+      <jump line="50" column="5" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/public/statics/financeOrder.js" />
+      <jump line="85" column="18" filename="$USER_HOME$/workspace/jinhui/order-producer/public/statics/financeOrder.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/public/statics/orderHistory.js" />
+      <jump line="31" column="26" filename="$USER_HOME$/workspace/jinhui/order-producer/public/statics/orderHistory.js" />
+      <jump line="193" column="18" filename="$USER_HOME$/workspace/jinhui/order-producer/public/statics/orderHistory.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/public/statics/commonHeader.js" />
+      <jump line="169" column="26" filename="$USER_HOME$/workspace/jinhui/order-producer/public/statics/commonHeader.js" />
+      <jump line="208" column="22" filename="$USER_HOME$/workspace/jinhui/order-producer/public/statics/commonHeader.js" />
+      <jump line="286" column="18" filename="$USER_HOME$/workspace/jinhui/order-producer/public/statics/commonHeader.js" />
+      <jump line="16" column="22" filename="$USER_HOME$/workspace/jinhui/order-producer/public/statics/commonHeader.js" />
+      <jump line="45" column="22" filename="$USER_HOME$/workspace/jinhui/order-producer/public/statics/commonHeader.js" />
+      <jump line="148" column="26" filename="$USER_HOME$/workspace/jinhui/order-producer/public/statics/commonHeader.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/financeDetail.scala.html" />
+      <jump line="31" column="17" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/financeDetail.scala.html" />
+      <jump line="33" column="27" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/financeDetail.scala.html" />
+      <jump line="39" column="33" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/financeDetail.scala.html" />
+      <jump line="43" column="32" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/financeDetail.scala.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/public/statics/financeDetail.js" />
+      <jump line="25" column="22" filename="$USER_HOME$/workspace/jinhui/order-producer/public/statics/financeDetail.js" />
+      <jump line="33" column="26" filename="$USER_HOME$/workspace/jinhui/order-producer/public/statics/financeDetail.js" />
+      <jump line="35" column="26" filename="$USER_HOME$/workspace/jinhui/order-producer/public/statics/financeDetail.js" />
+      <jump line="144" column="18" filename="$USER_HOME$/workspace/jinhui/order-producer/public/statics/financeDetail.js" />
+      <jump line="147" column="12" filename="$USER_HOME$/workspace/jinhui/order-producer/public/statics/financeDetail.js" />
+      <jump line="5" column="14" filename="$USER_HOME$/workspace/jinhui/order-producer/public/statics/financeDetail.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -977,49 +1010,49 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>26e67f66.ngrok.io</text>
+        <text encoding="base64">IHx8IHJlc3VsdC5nZXQoImV2ZW50IikgPT0gbnVsbA==</text>
       </register>
       <register name="/" type="4">
-        <text>client</text>
+        <text>alert</text>
       </register>
-      <register name="0" type="4">
-        <text>http://26e67f66.ngrok.io/api/nc/sync_logistics</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiByZXN1bHQgPSBjaGVja0JhbmtQYXlTdWNjZXNzKGZvcm0uZ2V0T3JkZXJJZCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWV0aG9kLnNldEhlYWRlcigiQWNjZXB0IiwgImFwcGxpY2F0aW9uL2pzb24iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTWFwPFN0cmluZywgU3RyaW5nPiByZXN1bHQgPSBjaGVja0JhbmtQYXlTdWNjZXNzKFN0cmluZy52YWx1ZU9mKGZvcm0uZ2V0T3JkZXJJZCgpKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTRUxFQ1QgaXNkaXJlY3QsIGFjY291bnQKICAgICAgICBGUk9NIGN1c3RvbWVyX2luZm8KICAgICAgICBXSEVSRSBjdXN0aWQgPSAje2N1c3RJZH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBib29sZWFuIG5leHQgPSBmYWxzZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobWV0aG9kICE9IG51bGwgJiBwYXJhbWV0ZXJzICE9IG51bGwgJiYgISIiLmVxdWFscyhwYXJhbWV0ZXJzLnRyaW0oKSkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiZXJyb3IiKTsKICAgICAgICAgICAgICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBib29sZWFuIG5leHQgPSBmYWxzZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV4dCA9IHRydWU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBBUElIdHRwQ2xpZW50IGFjID0gbmV3IEFQSUh0dHBDbGllbnQoImh0dHA6Ly9kNTQwODI3MS5uZ3Jvay5pby9hcGkvbmMvc3luY19sb2dpc3RpY3MiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV4dCA9IHRydWU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBBUElIdHRwQ2xpZW50IGFjID0gbmV3IEFQSUh0dHBDbGllbnQoYXBpVVJMKTsKCiAgICAgICAgU3RyaW5nIGJvZHkgPSAiIjsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYWMucG9zdChib2R5KSk7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETyDmo4Dmn6Xpk7booYzlm57osIPvvIzorqLljZXmmK/lkKbmlK/ku5jmiJDlip8K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>client</last-search>
+      <last-search>alert</last-search>
       <last-offset />
-      <last-pattern>client</last-pattern>
+      <last-pattern>alert</last-pattern>
       <last-replace>company</last-replace>
       <last-substitute>compay</last-substitute>
       <last-dir>1</last-dir>
@@ -1027,7 +1060,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
         <entry>delete_or_backspace</entry>
         <entry>addr</entry>
         <entry encoding="base64">XDxyZXN1bHRIYW5kbGVyXD4=</entry>
@@ -1044,9 +1076,10 @@
         <entry>compay</entry>
         <entry>orderInfo</entry>
         <entry>同步</entry>
-        <entry>login</entry>
         <entry>http</entry>
         <entry>client</entry>
+        <entry>login</entry>
+        <entry>alert</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2h0dHBzL2h0dHAvZw==</entry>
