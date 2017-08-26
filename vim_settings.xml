@@ -470,12 +470,12 @@
         <mark key="." line="10" column="53" />
         <mark key="^" line="10" column="53" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/crm/conf/application.conf" timestamp="1503046685937">
+      <file name="$USER_HOME$/workspace/jinhui/crm/conf/application.conf" timestamp="1503741919931">
         <mark key="'" line="0" column="13" />
-        <mark key="[" line="37" column="12" />
-        <mark key="]" line="37" column="12" />
-        <mark key="^" line="34" column="16" />
-        <mark key="." line="37" column="16" />
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="0" column="13" />
+        <mark key="^" line="0" column="13" />
+        <mark key="." line="0" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/public/statics/financeDetail.js" timestamp="1503723689742">
         <mark key="'" line="5" column="14" />
@@ -670,7 +670,7 @@
         <mark key="." line="15" column="42" />
         <mark key="^" line="15" column="42" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503739609472">
+      <file name="/Dummy.txt" timestamp="1503741935660">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -713,6 +713,12 @@
         <mark key="]" line="14" column="20" />
         <mark key="." line="14" column="20" />
         <mark key="^" line="21" column="7" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/application.conf" timestamp="1503741674806">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="16" />
+        <mark key="." line="0" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1503718924651">
         <mark key="'" line="257" column="55" />
@@ -768,7 +774,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="10" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/api/APIController.java" />
       <jump line="79" column="11" filename="$USER_HOME$/.ivy2/cache/xerces/xercesImpl/srcs/xercesImpl-2.11.0-sources.jar!/org/apache/xerces/xni/QName.java" />
       <jump line="141" column="43" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/api/APIController.java" />
       <jump line="137" column="47" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/api/APIController.java" />
@@ -868,6 +873,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
       <jump line="44" column="77" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
       <jump line="155" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/application.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -877,7 +883,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>:9001</text>
+        <text>009</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxNZXJjaGFudFVybFw+</text>
