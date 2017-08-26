@@ -245,8 +245,8 @@
         <mark key="." line="192" column="0" />
         <mark key="^" line="178" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" timestamp="1503739730193">
-        <mark key="'" line="149" column="45" />
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" timestamp="1503741631963">
+        <mark key="'" line="155" column="0" />
         <mark key="[" line="167" column="0" />
         <mark key="]" line="167" column="0" />
         <mark key="^" line="160" column="11" />
@@ -663,10 +663,10 @@
         <mark key="." line="211" column="25" />
         <mark key="^" line="211" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/config.properties" timestamp="1503739982773">
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/config.properties" timestamp="1503741458211">
         <mark key="'" line="16" column="22" />
-        <mark key="[" line="15" column="38" />
-        <mark key="]" line="15" column="42" />
+        <mark key="[" line="15" column="17" />
+        <mark key="]" line="15" column="61" />
         <mark key="." line="15" column="42" />
         <mark key="^" line="15" column="42" />
       </file>
@@ -768,7 +768,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="97" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/api/APIController.java" />
       <jump line="39" column="10" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/api/APIController.java" />
       <jump line="79" column="11" filename="$USER_HOME$/.ivy2/cache/xerces/xercesImpl/srcs/xercesImpl-2.11.0-sources.jar!/org/apache/xerces/xni/QName.java" />
       <jump line="141" column="43" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/api/APIController.java" />
@@ -868,6 +867,7 @@
       <jump line="15" column="58" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
       <jump line="44" column="77" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
+      <jump line="155" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -882,8 +882,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxNZXJjaGFudFVybFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Q1JFQVRFIFRBQkxFICJvcmRlcnMiLiJsb2dpc3RpY3NfY2FyIiAoCiAgImNhcmNvZGUiICAgICBWQVJDSEFSKDEwKSBDT0xMQVRFICJkZWZhdWx0IiwKICAic2VuZHBob25lIiAgIFZBUkNIQVIoMjApIENPTExBVEUgImRlZmF1bHQiLAogICJzZW5kbWFuIiAgICAgVkFSQ0hBUigxMCkgQ09MTEFURSAiZGVmYXVsdCIsCiAgInNlbmRjb21wYW55IiBWQVJDSEFSKDEwKSBDT0xMQVRFICJkZWZhdWx0IiwKICAic3RvcmVtYW5pZCIgIElOVDQsCiAgQ09OU1RSQUlOVCAibG9naXN0aWNzX2Nhcl9jYXJjb2RlX3N0b3JlbWFuaWRfa2V5IiBVTklRVUUgKCJjYXJjb2RlIiwgInN0b3JlbWFuaWQiKSBOT1QgREVGRVJSQUJMRSBJTklUSUFMTFkgSU1NRURJQVRFCikKV0lUSCAoT0lEUyA9IEZBTFNFKTsKQUxURVIgVEFCTEUgIm9yZGVycyIuImxvZ2lzdGljc19jYXIiIE9XTkVSIFRPICJqaF9wcm9kIjsKQ09NTUVOVCBPTiBDT0xVTU4gIm9yZGVycyIuImxvZ2lzdGljc19jYXIiLiJzdG9yZW1hbmlkIiBJUyAn5bqT566h5ZGYSUQnOwoKLS0g5L+u5pS5Y29tcGFueeihqO+8jOWwhk5D57O757uf5Lit55qESUTnu5Hlrprov5vmnaUKQUxURVIgVEFCTEUgImNybSIuImNvbXBhbnkiIEFERCBDT0xVTU4gbmNfaWQgdmFyY2hhcig2KSBERUZBVUxUIDAgQ09MTEFURSAiZGVmYXVsdCI7CkNPTU1FTlQgT04gQ09MVU1OICJjcm0iLiJjb21wYW55Ii4ibmNfaWQiIElTICdOQ+ezu+e7n+S4re+8jOWFrOWPuOeahOS4u+mUrklEJzsKdXBkYXRlIGNybS5jb21wYW55IHNldCBuY19pZD0nMDEwMScgd2hlcmUgY29tcGFueW5hbWU9J+mHkeW+vemFkuWFsOW3numUgOWUruaciemZkOWFrOWPuCc7CnVwZGF0ZSBjcm0uY29tcGFueSBzZXQgbmNfaWQ9JzAxMDInIHdoZXJlIGNvbXBhbnluYW1lPSfph5Hlvr3phZLpmYfljZfplIDllK7mnInpmZDlhazlj7gnOwp1cGRhdGUgY3JtLmNvbXBhbnkgc2V0IG5jX2lkPScwMTAzJyB3aGVyZSBjb21wYW55bmFtZT0n6KW/6JeP6YeR5b695a6e5Lia5pyJ6ZmQ5YWs5Y+4JzsKdXBkYXRlIGNybS5jb21wYW55IHNldCBuY19pZD0nMDEwNCcgd2hlcmUgY29tcGFueW5hbWU9J+mHkeW+vemFkumUgOWUruilv+WuieaciemZkOWFrOWPuCc7CgotLSDorqLljZXov73liqDlpKfljLrkuJrliqHvvIxOQ+mcgOimgQpBTFRFUiBUQUJMRSAib3JkZXJzIi4ib3JkZXJfaW5mbyIgQUREIENPTFVNTiBzYWxlc21hbiB2YXJjaGFyKDEwKSBDT0xMQVRFICJkZWZhdWx0IjsKLS0g57uP6ZSA5ZWG5aKe5YqgZmluYW5jZWNvZGXvvIhOQ+eahOe7j+mUgOWVhmNvZGXvvIkKQUxURVIgVEFCTEUgImNybSIuImN1c3RvbWVyX2luZm8iIEFERCBDT0xVTU4gZmluYW5jZWNvZGUgdmFyY2hhcigyMCkgQ09MTEFURSAiZGVmYXVsdCI7Ci0tIOWHuuW6k+WNleS7k+W6k0lE5pS55Li6dmFyY2hhcgphbHRlciB0YWJsZSAib3JkZXJzIi4ibG9naXN0aWNzX2luZm8iIGFsdGVyICBzdG9yZWlkICB0eXBlIHZhcmNoYXIoMjApIENPTExBVEUgImRlZmF1bHQiIDsK</text>
+      <register name="0" type="4">
+        <text>http://59.110.161.129:9001/jhpay/acceptResult</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
