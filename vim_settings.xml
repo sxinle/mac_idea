@@ -13,7 +13,7 @@
         <mark key="^" line="95" column="62" />
         <mark key="." line="95" column="62" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/api/APIController.java" timestamp="1503656137610">
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/api/APIController.java" timestamp="1503718958751">
         <mark key="'" line="94" column="0" />
         <mark key="[" line="94" column="32" />
         <mark key="]" line="94" column="31" />
@@ -381,8 +381,8 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" timestamp="1503655794344">
-        <mark key="'" line="24" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" timestamp="1503718715711">
+        <mark key="'" line="1" column="0" />
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="86" />
         <mark key="." line="23" column="86" />
@@ -597,7 +597,6 @@
         <mark key="^" line="215" column="42" />
         <mark key="." line="215" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/BankService.java" timestamp="1503654397345" />
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/sql/CartProductInfo.xml" timestamp="1503556572060">
         <mark key="[" line="45" column="0" />
         <mark key="]" line="50" column="17" />
@@ -786,8 +785,8 @@
         <mark key="." line="14" column="20" />
         <mark key="^" line="21" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1503656101592">
-        <mark key="'" line="1" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1503718924651">
+        <mark key="'" line="257" column="55" />
         <mark key="[" line="289" column="14" />
         <mark key="]" line="289" column="40" />
         <mark key="." line="288" column="3" />
@@ -842,8 +841,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="14" filename="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" />
-      <jump line="54" column="43" filename="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" />
       <jump line="59" column="11" filename="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" />
       <jump line="62" column="50" filename="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" />
       <jump line="77" column="49" filename="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" />
@@ -933,8 +930,6 @@
       <jump line="248" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
       <jump line="149" column="45" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
       <jump line="20" column="15" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
-      <jump line="24" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/logs/application.log" />
       <jump line="9588" column="132" filename="$USER_HOME$/workspace/jinhui/order-producer/logs/application.log" />
       <jump line="454" column="478" filename="$USER_HOME$/workspace/jinhui/order-producer/logs/application.log" />
@@ -942,6 +937,10 @@
       <jump line="156" column="9" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
       <jump line="22" column="4" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/sql/customer.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/sql/customer.xml" />
+      <jump line="15" column="39" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
+      <jump line="24" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
+      <jump line="257" column="55" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -956,8 +955,8 @@
       <register name="/" type="4">
         <text>login</text>
       </register>
-      <register name="0" type="4">
-        <text>/api/nc/testPushNc/:orderid</text>
+      <register name="0" type="2">
+        <text encoding="base64">QUxURVIgVEFCTEUgImNybSIuImN1c3RvbWVyX2luZm8iIEFERCBDT0xVTU4gZmluYW5jZWNvZGUgdmFyY2hhcigyMCkgQ09MTEFURSAiZGVmYXVsdCI7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIFdIRVJFIGRpLmN1c3RpZD1jaS5jdXN0aWQKICAgIEFORCBkaS5waWQgSVMgTlVMTAogICAgQU5EIGRpLmxldiA9IDEK</text>
@@ -997,7 +996,7 @@
       <last-replace>company</last-replace>
       <last-substitute>compay</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
