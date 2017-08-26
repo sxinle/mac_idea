@@ -341,6 +341,9 @@
         <mark key="." line="50" column="27" />
         <mark key="^" line="299" column="43" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/crm/conf/routes" timestamp="1503726869902">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/crm/conf/application-context.xml" timestamp="1503365430874">
         <mark key="'" line="109" column="0" />
         <mark key="[" line="6" column="6" />
@@ -904,7 +907,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/result.xml" />
       <jump line="19" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/result.xml" />
       <jump line="20" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/result.xml" />
       <jump line="8" column="42" filename="$USER_HOME$/workspace/jinhui/order-producer/result.xml" />
@@ -1004,6 +1006,7 @@
       <jump line="145" column="18" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/api/APIController.java" />
       <jump line="211" column="34" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/FinanceOrderServiceImpl.java" />
       <jump line="21" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/api/APIController.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/crm/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1016,7 +1019,7 @@
         <text>// 财务之后的流程，在用友NC系统里走</text>
       </register>
       <register name="/" type="4">
-        <text>alert</text>
+        <text>user</text>
       </register>
       <register name="0" type="4">
         <text>useNextDeptInOrder</text>
@@ -1053,9 +1056,9 @@
       </register>
     </registers>
     <search>
-      <last-search>alert</last-search>
+      <last-search>user</last-search>
       <last-offset />
-      <last-pattern>alert</last-pattern>
+      <last-pattern>user</last-pattern>
       <last-replace>company</last-replace>
       <last-substitute>compay</last-substitute>
       <last-dir>1</last-dir>
@@ -1063,7 +1066,6 @@
     </search>
     <history>
       <history-search>
-        <entry>delete_or_backspace</entry>
         <entry>addr</entry>
         <entry encoding="base64">XDxyZXN1bHRIYW5kbGVyXD4=</entry>
         <entry>project.version</entry>
@@ -1083,6 +1085,7 @@
         <entry>client</entry>
         <entry>login</entry>
         <entry>alert</entry>
+        <entry>user</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2h0dHBzL2h0dHAvZw==</entry>
