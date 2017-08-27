@@ -296,6 +296,7 @@
         <mark key="." line="224" column="0" />
         <mark key="^" line="135" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/DisOrderService.java" timestamp="1503817893566" />
       <file name="$USER_HOME$/folder/util/mactools/dotfiles/karabiner.mine.json" timestamp="1503451839691">
         <mark key="'" line="134" column="27" />
         <mark key="[" line="50" column="27" />
@@ -338,7 +339,6 @@
         <mark key="." line="92" column="7" />
         <mark key="^" line="92" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/views/financeOrder.scala.html" timestamp="1503813519872" />
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/finance/FinanceOrderController.java" timestamp="1502530857210">
         <mark key="'" line="441" column="0" />
         <mark key="[" line="158" column="0" />
@@ -353,8 +353,8 @@
         <mark key="^" line="74" column="42" />
         <mark key="." line="74" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" timestamp="1503730705699">
-        <mark key="'" line="15" column="115" />
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" timestamp="1503817874595">
+        <mark key="'" line="21" column="49" />
         <mark key="[" line="156" column="9" />
         <mark key="]" line="156" column="27" />
         <mark key="." line="21" column="0" />
@@ -441,12 +441,6 @@
         <mark key="^" line="1" column="7" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" timestamp="1503811878356">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="7" column="23" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/application.conf" timestamp="1502467070336">
         <mark key="'" line="14" column="2" />
         <mark key="[" line="18" column="19" />
@@ -454,7 +448,7 @@
         <mark key="." line="18" column="22" />
         <mark key="^" line="18" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/order/DisOrderController.java" timestamp="1503746180325">
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/order/DisOrderController.java" timestamp="1503818069513">
         <mark key="[" line="97" column="34" />
         <mark key="]" line="97" column="33" />
         <mark key="." line="97" column="33" />
@@ -465,6 +459,12 @@
         <mark key="]" line="130" column="31" />
         <mark key="." line="130" column="31" />
         <mark key="^" line="130" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/util/UpLoadImageUtil.java" timestamp="1503818626806">
+        <mark key="[" line="189" column="42" />
+        <mark key="]" line="189" column="48" />
+        <mark key="^" line="189" column="48" />
+        <mark key="." line="189" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/MyOrderServiceImpl.java" timestamp="1502500750816">
         <mark key="'" line="191" column="0" />
@@ -717,14 +717,14 @@
         <mark key="." line="211" column="25" />
         <mark key="^" line="211" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/config.properties" timestamp="1503810303347">
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/config.properties" timestamp="1503819228852">
         <mark key="'" line="17" column="37" />
-        <mark key="[" line="1" column="17" />
-        <mark key="]" line="1" column="61" />
-        <mark key="." line="1" column="42" />
-        <mark key="^" line="1" column="42" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="38" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503816573602">
+      <file name="/Dummy.txt" timestamp="1503819240280">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -828,7 +828,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/nc/APIHttpClient.java" />
       <jump line="49" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/nc/APIHttpClient.java" />
       <jump line="20" column="93" filename="$USER_HOME$/workspace/demo/zest/src/main/java/nc/APIHttpClient.java" />
       <jump line="48" column="7" filename="$USER_HOME$/workspace/demo/zest/src/main/java/nc/APIHttpClient.java" />
@@ -928,6 +927,7 @@
       <jump line="47" column="58" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/sql/DisOrderOnline.xml" />
       <jump line="62" column="52" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/sql/DisOrderOnline.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/sql/DisOrderOnline.xml" />
+      <jump line="21" column="49" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -937,49 +937,49 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>box</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>box</text>
+        <text>orderOnline</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gImh0dHA6Ly8iICsgQ29uZmlnVXRpbC5nZXRTeXNDZmdQcm9wKCJhcGFjaGUuaG9zdG5hbWUiKSArICIvIiArIENvbnN0YW50cy5GVFBfUFJPRFVDVF9QSE9UT19ERVJFQ1RPUlkgKyAiYm94LyI7Cg==</text>
+      <register name="0" type="4">
+        <text>103.39.107.180</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnRwLmhvc3RuYW1lPTEwMy4zOS4xMDcuMTgwCmZ0cC5wb3J0PTIxCmZ0cC51c2VybmFtZT1mdHB1c2VyCmZ0cC5wYXNzd29yZD1mdHB1c2VyMTIzCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I2pkYmMudXJsPWpkYmM6cG9zdGdyZXNxbDovLzE5Mi4xNjguMi42OTo1NDMyL2poX3Byb2QK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">amRiYy5kcml2ZXJDbGFzc05hbWU9b3JnLnBvc3RncmVzcWwuRHJpdmVyCmpkYmMudXJsPWpkYmM6cG9zdGdyZXNxbDovLzEyNy4wLjAuMTo1NDMyL2poX3Byb2QKamRiYy51c2VybmFtZT1qaF9wcm9kCmpkYmMucGFzc3dvcmQ9amhfcHJvZAo=</text>
+        <text encoding="base64">I2pkYmMudXJsPWpkYmM6cG9zdGdyZXNxbDovLzE5Mi4xNjguMi42OTo1NDMyL2poX3Byb2QK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqCg==</text>
+        <text encoding="base64">amRiYy5kcml2ZXJDbGFzc05hbWU9b3JnLnBvc3RncmVzcWwuRHJpdmVyCmpkYmMudXJsPWpkYmM6cG9zdGdyZXNxbDovLzEyNy4wLjAuMTo1NDMyL2poX3Byb2QKamRiYy51c2VybmFtZT1qaF9wcm9kCmpkYmMucGFzc3dvcmQ9amhfcHJvZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBwcm9JZAogICAgICogQHJldHVybgogICAgICogQGF1dGhvciBoZWx5IDIwMTQtMDctMzEK</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBwcm9JZAogICAgICogQHJldHVybgogICAgICogQGF1dGhvciBoZWx5IDIwMTQtMDctMzEK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I0ZUUOacjeWKoeWZqOmFjee9ruS/oeaBryDnur/kuIrnjq/looMKI2Z0cC5ob3N0bmFtZT0xMjcuMC4wLjEKI2Z0cC5wb3J0PTIxCiNmdHAudXNlcm5hbWU9ZnRwdXNlcgojZnRwLnBhc3N3b3JkPUExMV8yZU5kZTMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I0ZUUOacjeWKoeWZqOmFjee9ruS/oeaBryDnur/kuIrnjq/looMKI2Z0cC5ob3N0bmFtZT0xMjcuMC4wLjEKI2Z0cC5wb3J0PTIxCiNmdHAudXNlcm5hbWU9ZnRwdXNlcgojZnRwLnBhc3N3b3JkPUExMV8yZU5kZTMK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>box</last-search>
+      <last-search>orderOnline</last-search>
       <last-offset />
-      <last-pattern>box</last-pattern>
+      <last-pattern>orderOnline</last-pattern>
       <last-replace>company</last-replace>
       <last-substitute>compay</last-substitute>
       <last-dir>1</last-dir>
@@ -996,7 +996,6 @@
         <entry>user</entry>
         <entry>业务员：</entry>
         <entry>业务员</entry>
-        <entry>orderOnline</entry>
         <entry>product</entry>
         <entry>productInfo</entry>
         <entry encoding="base64">XDx1YmtleVw+</entry>
@@ -1007,6 +1006,7 @@
         <entry>piclist</entry>
         <entry>apache</entry>
         <entry>box</entry>
+        <entry>orderOnline</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2h0dHBzL2h0dHAvZw==</entry>
