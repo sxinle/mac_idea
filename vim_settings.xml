@@ -737,7 +737,7 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="38" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503833020790">
+      <file name="/Dummy.txt" timestamp="1503835848761">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -798,10 +798,12 @@
         <mark key="." line="288" column="3" />
         <mark key="^" line="288" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/FinanceOrderServiceImpl.java" timestamp="1503832923673">
-        <mark key="[" line="214" column="0" />
-        <mark key="]" line="214" column="0" />
-        <mark key="." line="214" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/FinanceOrderServiceImpl.java" timestamp="1503835597872">
+        <mark key="'" line="220" column="46" />
+        <mark key="[" line="208" column="39" />
+        <mark key="]" line="208" column="64" />
+        <mark key="." line="208" column="39" />
+        <mark key="^" line="208" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/pointshub/target/scala-2.10/classes/application.conf" timestamp="1503294296216">
         <mark key="'" line="176" column="0" />
@@ -845,7 +847,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="90" column="20" filename="$USER_HOME$/workspace/demo/zest/pom.xml" />
       <jump line="1" column="62" filename="$USER_HOME$/workspace/demo/zest/pom.xml" />
       <jump line="42" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/nc/APIHttpClient.java" />
       <jump line="50" column="5" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
@@ -945,6 +946,7 @@
       <jump line="207" column="61" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/FinanceOrderServiceImpl.java" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/config.properties" />
       <jump line="7" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" />
+      <jump line="220" column="46" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/FinanceOrderServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -954,7 +956,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ID09IDA=</text>
+        <text>logMap.get(&quot;successflag&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>account</text>
