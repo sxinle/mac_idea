@@ -410,10 +410,11 @@
         <mark key="." line="123" column="41" />
         <mark key="^" line="123" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/sql/FinanceOrder.xml" timestamp="1503832788231">
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/sql/FinanceOrder.xml" timestamp="1503906713380">
         <mark key="[" line="77" column="58" />
-        <mark key="]" line="77" column="58" />
-        <mark key="." line="77" column="58" />
+        <mark key="]" line="77" column="75" />
+        <mark key="." line="77" column="75" />
+        <mark key="^" line="77" column="75" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/UserServiceImpl.java" timestamp="1503384988498">
         <mark key="'" line="234" column="0" />
@@ -761,7 +762,7 @@
         <mark key="." line="39" column="0" />
         <mark key="^" line="38" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503903240499">
+      <file name="/Dummy.txt" timestamp="1503906799481">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -825,12 +826,12 @@
         <mark key="." line="288" column="3" />
         <mark key="^" line="288" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/FinanceOrderServiceImpl.java" timestamp="1503901738998">
-        <mark key="'" line="220" column="46" />
-        <mark key="[" line="208" column="39" />
-        <mark key="]" line="208" column="64" />
-        <mark key="." line="208" column="39" />
-        <mark key="^" line="208" column="38" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/FinanceOrderServiceImpl.java" timestamp="1503906763542">
+        <mark key="'" line="213" column="46" />
+        <mark key="[" line="206" column="21" />
+        <mark key="]" line="206" column="22" />
+        <mark key="^" line="206" column="26" />
+        <mark key="." line="206" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/pointshub/target/scala-2.10/classes/application.conf" timestamp="1503294296216">
         <mark key="'" line="176" column="0" />
@@ -991,32 +992,35 @@
       <register name="0" type="2">
         <text encoding="base64">ZGVsZXRlIGZyb20gb3JkZXJfaW5mbzsKZGVsZXRlIGZyb20gb3JkZXJfZGV0YWlsOwpkZWxldGUgZnJvbSBvcmRlcl9kZWFsaW5mbzsKZGVsZXRlIGZyb20gbG9naXN0aWNzX2luZm87CmRlbGV0ZSBmcm9tIGxvZ2lzdGljc19kZXRhaWw7CmRlbGV0ZSBmcm9tIGFjY291bnRfbG9nOwoKZGVsZXRlIGZyb20gamJwbTRfdGFzazsKZGVsZXRlIGZyb20gamJwbTRfdmFyaWFibGU7CmRlbGV0ZSBmcm9tIGpicG00X2xvYjsKZGVsZXRlIGZyb20gamJwbTRfZGVwbG95cHJvcDsKZGVsZXRlIGZyb20gamJwbTRfZGVwbG95bWVudDsKZGVsZXRlIGZyb20gamJwbTRfdmFyaWFibGU7CmRlbGV0ZSBmcm9tIGpicG00X2V4ZWN1dGlvbjsKZGVsZXRlIGZyb20gamJwbTRfaGlzdF9hY3RpbnN0OwpkZWxldGUgZnJvbSBqYnBtNF9oaXN0X2RldGFpbDsKZGVsZXRlIGZyb20gamJwbTRfaGlzdF9wcm9jaW5zdDsKZGVsZXRlIGZyb20gamJwbTRfaGlzdF90YXNrOwpkZWxldGUgZnJvbSBqYnBtNF9oaXN0X3ZhcjsKZGVsZXRlIGZyb20gamJwbTRfaWRfZ3JvdXA7CmRlbGV0ZSBmcm9tIGpicG00X2lkX21lbWJlcnNoaXA7CmRlbGV0ZSBmcm9tIGpicG00X2lkX3VzZXI7CmRlbGV0ZSBmcm9tIGpicG00X3BhcnRpY2lwYXRpb247CmRlbGV0ZSBmcm9tIGpicG00X3Byb3BlcnR5OwpkZWxldGUgZnJvbSBqYnBtNF9sb2I7CmRlbGV0ZSBmcm9tIGpicG00X3N3aW1sYW5lOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvYXV0aDIgPSBLZXljbG9ha0F1dGguY3JlYXRlKHZlcnR4LCBPQXV0aDJGbG93VHlwZS5BVVRIX0NPREUsIGNvbmZpZygpKTsK</text>
+      <register name="1" type="4">
+        <text>else {
+                Logger.error(&quot;orderId：&quot; + form.getOrderId() + &quot;没有收到银行回调&quot;);
+                throw new Exception(&quot;没收到银行回调&quot;);
+            }</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLnZlcnR4LmNvcmUubG9nZ2luZy5Mb2dnZXI7CmltcG9ydCBpby52ZXJ0eC5jb3JlLmxvZ2dpbmcuTG9nZ2VyRmFjdG9yeTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBERUZBVUxUX1BPUlQgPSA4Nzg3Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIAogICAgICogQGF1dGhvciBQb3BweQogICAgICogQGRhdGUgMjAxNS0xLTI4CiAgICAgKiBAcmV0dXJuCiAgICAgKiBAc2luY2UgMS4wCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvciAoTWFwPFN0cmluZywgU3RyaW5nPiBsb2dNYXAgOiByZXN1bHQpIHsKICAgICAgICAgICAgICAgICAgICBpZiAoU3RyaW5nLnZhbHVlT2YobG9nTWFwLmdldCgic3VjY2Vzc2ZsYWciKSkuZXF1YWxzKCIwIikpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvYXV0aDIgPSBLZXljbG9ha0F1dGguY3JlYXRlKHZlcnR4LCBPQXV0aDJGbG93VHlwZS5BVVRIX0NPREUsIGNvbmZpZygpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IGlvLnZlcnR4LmNvcmUubG9nZ2luZy5Mb2dnZXI7CmltcG9ydCBpby52ZXJ0eC5jb3JlLmxvZ2dpbmcuTG9nZ2VyRmFjdG9yeTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZ2dlci5lcnJvcigib3JkZXJJZO+8miIgKyBmb3JtLmdldE9yZGVySWQoKSArICLmsqHmnInmlLbliLDpk7booYzlm57osIMiKTsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oIuayoeaUtuWIsOmTtuihjOWbnuiwgyIpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBERUZBVUxUX1BPUlQgPSA4Nzg3Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAqIAogICAgICogQGF1dGhvciBQb3BweQogICAgICogQGRhdGUgMjAxNS0xLTI4CiAgICAgKiBAcmV0dXJuCiAgICAgKiBAc2luY2UgMS4wCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcmFtLnB1dCgicmVjaGFyZ2VObyIsIHJlY2hhcmdlTm8pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
