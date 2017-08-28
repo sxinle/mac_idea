@@ -59,6 +59,11 @@
         <mark key="." line="118" column="53" />
         <mark key="^" line="37" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/clear.sql" timestamp="1503899053084">
+        <mark key="'" line="29" column="29" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/sql/Distribute.xml" timestamp="1503837551356">
         <mark key="[" line="16" column="47" />
         <mark key="]" line="16" column="47" />
@@ -695,12 +700,12 @@
         <mark key="." line="109" column="36" />
         <mark key="^" line="109" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" timestamp="1503885663788">
+      <file name="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" timestamp="1503898459609">
         <mark key="'" line="163" column="70" />
-        <mark key="[" line="193" column="52" />
-        <mark key="]" line="193" column="55" />
-        <mark key="^" line="193" column="55" />
-        <mark key="." line="193" column="55" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="1" />
+        <mark key="^" line="8" column="1" />
+        <mark key="." line="8" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/sql/ApiService.xml" timestamp="1503833027444">
         <mark key="'" line="111" column="0" />
@@ -868,7 +873,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/public/statics/financeDetail.js" />
       <jump line="25" column="22" filename="$USER_HOME$/workspace/jinhui/order-producer/public/statics/financeDetail.js" />
       <jump line="33" column="26" filename="$USER_HOME$/workspace/jinhui/order-producer/public/statics/financeDetail.js" />
       <jump line="35" column="26" filename="$USER_HOME$/workspace/jinhui/order-producer/public/statics/financeDetail.js" />
@@ -968,6 +972,7 @@
       <jump line="633" column="45" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.4.1/vertx-core-3.4.1-sources.jar!/io/vertx/core/VertxOptions.java" />
       <jump line="640" column="48" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.4.1/vertx-core-3.4.1-sources.jar!/io/vertx/core/VertxOptions.java" />
       <jump line="196" column="50" filename="$USER_HOME$/workspace/cask/common/src/main/java/com/acenode/cloud/common/RestVerticle.java" />
+      <jump line="29" column="29" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/clear.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -982,35 +987,35 @@
       <register name="/" type="4">
         <text>config</text>
       </register>
-      <register name="0" type="4">
-        <text>http://60.164.207.111:9081/uapws/service/nc.itf.sows.ISaleInfoService</text>
+      <register name="0" type="2">
+        <text encoding="base64">ZGVsZXRlIGZyb20gb3JkZXJfaW5mbzsKZGVsZXRlIGZyb20gb3JkZXJfZGV0YWlsOwpkZWxldGUgZnJvbSBvcmRlcl9kZWFsaW5mbzsKZGVsZXRlIGZyb20gbG9naXN0aWNzX2luZm87CmRlbGV0ZSBmcm9tIGxvZ2lzdGljc19kZXRhaWw7CmRlbGV0ZSBmcm9tIGFjY291bnRfbG9nOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBERUZBVUxUX1BPUlQgPSA4Nzg3Owo=</text>
+        <text encoding="base64">aW1wb3J0IGlvLnZlcnR4LmNvcmUubG9nZ2luZy5Mb2dnZXI7CmltcG9ydCBpby52ZXJ0eC5jb3JlLmxvZ2dpbmcuTG9nZ2VyRmFjdG9yeTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIAogICAgICogQGF1dGhvciBQb3BweQogICAgICogQGRhdGUgMjAxNS0xLTI4CiAgICAgKiBAcmV0dXJuCiAgICAgKiBAc2luY2UgMS4wCg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBERUZBVUxUX1BPUlQgPSA4Nzg3Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIAogICAgICogQGF1dGhvciBQb3BweQogICAgICogQGRhdGUgMjAxNS0xLTI4CiAgICAgKiBAcmV0dXJuCiAgICAgKiBAc2luY2UgMS4wCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZ2dlci5lcnJvcigib3JkZXJJZO+8miIgKyBmb3JtLmdldE9yZGVySWQoKSArICLmsqHmnInmlLbliLDpk7booYzlm57osIMiKTsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oIuayoeaUtuWIsOmTtuihjOWbnuiwgyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExvZ2dlci5lcnJvcigib3JkZXJJZO+8miIgKyBmb3JtLmdldE9yZGVySWQoKSArICLmsqHmnInmlLbliLDpk7booYzlm57osIMiKTsKICAgICAgICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oIuayoeaUtuWIsOmTtuihjOWbnuiwgyIpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcmFtLnB1dCgicmVjaGFyZ2VObyIsIHJlY2hhcmdlTm8pOwo=</text>
+        <text encoding="base64">CQkgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ZnRwLmhvc3RuYW1lPTEwMy4zOS4xMDcuMTgwCmZ0cC5wb3J0PTIxCmZ0cC51c2VybmFtZT1mdHB1c2VyCmZ0cC5wYXNzd29yZD1mdHB1c2VyMTIzCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhcmFtLnB1dCgicmVjaGFyZ2VObyIsIHJlY2hhcmdlTm8pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnRwLmhvc3RuYW1lPTEwMy4zOS4xMDcuMTgwCmZ0cC5wb3J0PTIxCmZ0cC51c2VybmFtZT1mdHB1c2VyCmZ0cC5wYXNzd29yZD1mdHB1c2VyMTIzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
