@@ -188,10 +188,10 @@
         <mark key="^" line="23" column="33" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/config.properties" timestamp="1503832751126">
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/config.properties" timestamp="1503888144850">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="23" />
+        <mark key="[" line="12" column="14" />
+        <mark key="]" line="12" column="82" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
@@ -966,8 +966,8 @@
       <register name="/" type="4">
         <text>配货</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGludCBPUkRFUl9TVEFUVVNfUEFZX09WRVIgICAgPSAxMTsgLy8g6K6i5Y2V5LuY5qy+5oiQ5YqfCg==</text>
+      <register name="0" type="4">
+        <text>http://60.164.207.111:9081/uapws/service/nc.itf.sows.ISaleInfoService</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBERUZBVUxUX1BPUlQgPSA4Nzg3Owo=</text>
