@@ -59,10 +59,10 @@
         <mark key="." line="118" column="53" />
         <mark key="^" line="37" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/clear.sql" timestamp="1503899053084">
-        <mark key="'" line="29" column="29" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/clear.sql" timestamp="1503899493450">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="23" />
+        <mark key="]" line="25" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/sql/Distribute.xml" timestamp="1503837551356">
         <mark key="[" line="16" column="47" />
@@ -873,7 +873,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="22" filename="$USER_HOME$/workspace/jinhui/order-producer/public/statics/financeDetail.js" />
       <jump line="33" column="26" filename="$USER_HOME$/workspace/jinhui/order-producer/public/statics/financeDetail.js" />
       <jump line="35" column="26" filename="$USER_HOME$/workspace/jinhui/order-producer/public/statics/financeDetail.js" />
       <jump line="144" column="18" filename="$USER_HOME$/workspace/jinhui/order-producer/public/statics/financeDetail.js" />
@@ -940,7 +939,6 @@
       <jump line="6" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" />
       <jump line="12" column="23" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/config.properties" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/clear.sql" />
       <jump line="149" column="39" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/sql/DisOrderOnline.xml" />
       <jump line="201" column="87" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/sql/DisOrderOnline.xml" />
       <jump line="47" column="58" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/sql/DisOrderOnline.xml" />
@@ -973,6 +971,8 @@
       <jump line="640" column="48" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.4.1/vertx-core-3.4.1-sources.jar!/io/vertx/core/VertxOptions.java" />
       <jump line="196" column="50" filename="$USER_HOME$/workspace/cask/common/src/main/java/com/acenode/cloud/common/RestVerticle.java" />
       <jump line="29" column="29" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/clear.sql" />
+      <jump line="18" column="26" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/clear.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/clear.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -988,7 +988,7 @@
         <text>config</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZGVsZXRlIGZyb20gb3JkZXJfaW5mbzsKZGVsZXRlIGZyb20gb3JkZXJfZGV0YWlsOwpkZWxldGUgZnJvbSBvcmRlcl9kZWFsaW5mbzsKZGVsZXRlIGZyb20gbG9naXN0aWNzX2luZm87CmRlbGV0ZSBmcm9tIGxvZ2lzdGljc19kZXRhaWw7CmRlbGV0ZSBmcm9tIGFjY291bnRfbG9nOwo=</text>
+        <text encoding="base64">ZGVsZXRlIGZyb20gb3JkZXJfaW5mbzsKZGVsZXRlIGZyb20gb3JkZXJfZGV0YWlsOwpkZWxldGUgZnJvbSBvcmRlcl9kZWFsaW5mbzsKZGVsZXRlIGZyb20gbG9naXN0aWNzX2luZm87CmRlbGV0ZSBmcm9tIGxvZ2lzdGljc19kZXRhaWw7CmRlbGV0ZSBmcm9tIGFjY291bnRfbG9nOwoKZGVsZXRlIGZyb20gamJwbTRfdGFzazsKZGVsZXRlIGZyb20gamJwbTRfdmFyaWFibGU7CmRlbGV0ZSBmcm9tIGpicG00X2xvYjsKZGVsZXRlIGZyb20gamJwbTRfZGVwbG95cHJvcDsKZGVsZXRlIGZyb20gamJwbTRfZGVwbG95bWVudDsKZGVsZXRlIGZyb20gamJwbTRfdmFyaWFibGU7CmRlbGV0ZSBmcm9tIGpicG00X2V4ZWN1dGlvbjsKZGVsZXRlIGZyb20gamJwbTRfaGlzdF9hY3RpbnN0OwpkZWxldGUgZnJvbSBqYnBtNF9oaXN0X2RldGFpbDsKZGVsZXRlIGZyb20gamJwbTRfaGlzdF9wcm9jaW5zdDsKZGVsZXRlIGZyb20gamJwbTRfaGlzdF90YXNrOwpkZWxldGUgZnJvbSBqYnBtNF9oaXN0X3ZhcjsKZGVsZXRlIGZyb20gamJwbTRfaWRfZ3JvdXA7CmRlbGV0ZSBmcm9tIGpicG00X2lkX21lbWJlcnNoaXA7CmRlbGV0ZSBmcm9tIGpicG00X2lkX3VzZXI7CmRlbGV0ZSBmcm9tIGpicG00X3BhcnRpY2lwYXRpb247CmRlbGV0ZSBmcm9tIGpicG00X3Byb3BlcnR5OwpkZWxldGUgZnJvbSBqYnBtNF9sb2I7CmRlbGV0ZSBmcm9tIGpicG00X3N3aW1sYW5lOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">aW1wb3J0IGlvLnZlcnR4LmNvcmUubG9nZ2luZy5Mb2dnZXI7CmltcG9ydCBpby52ZXJ0eC5jb3JlLmxvZ2dpbmcuTG9nZ2VyRmFjdG9yeTsK</text>
