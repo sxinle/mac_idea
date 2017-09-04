@@ -119,6 +119,13 @@
         <mark key="^" line="19" column="3" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" timestamp="1504519867311">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="73" />
+        <mark key="." line="26" column="24" />
+        <mark key="^" line="26" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace/cask/common/src/main/java/com/acenode/cloud/common/bean/Resp.java" timestamp="1504178146731">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -139,8 +146,8 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/wdemo/src/main/java/com/example/demo/Controller.java" timestamp="1504518843938">
-        <mark key="'" line="52" column="16" />
+      <file name="$USER_HOME$/workspace/demo/wdemo/src/main/java/com/example/demo/Controller.java" timestamp="1504519948671">
+        <mark key="'" line="61" column="6" />
         <mark key="[" line="36" column="67" />
         <mark key="]" line="37" column="40" />
         <mark key="." line="37" column="40" />
@@ -161,8 +168,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="633" column="45" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.4.1/vertx-core-3.4.1-sources.jar!/io/vertx/core/VertxOptions.java" />
-      <jump line="640" column="48" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.4.1/vertx-core-3.4.1-sources.jar!/io/vertx/core/VertxOptions.java" />
       <jump line="196" column="50" filename="$USER_HOME$/workspace/cask/common/src/main/java/com/acenode/cloud/common/RestVerticle.java" />
       <jump line="29" column="29" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/clear.sql" />
       <jump line="18" column="26" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/clear.sql" />
@@ -261,6 +266,8 @@
       <jump line="28" column="0" filename="$USER_HOME$/workspace/demo/wdemo/src/main/java/com/example/demo/Body.java" />
       <jump line="52" column="16" filename="$USER_HOME$/workspace/demo/wdemo/src/main/java/com/example/demo/Controller.java" />
       <jump line="151" column="25" filename="$USER_HOME$/workspace/demo/wdemo/src/main/java/com/example/demo/HttpSender.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
+      <jump line="61" column="6" filename="$USER_HOME$/workspace/demo/wdemo/src/main/java/com/example/demo/Controller.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -275,8 +282,8 @@
       <register name="/" type="4">
         <text>httpclient</text>
       </register>
-      <register name="0" type="4">
-        <text>http://www.soso.com/</text>
+      <register name="0" type="2">
+        <text encoding="base64">YWx0ZXIgdGFibGUgYWNjb3VudF9sb2cgYWRkIGNvbHVtbiAidXBkYXRlX2F0IiB0aW1lc3RhbXAoNikgZGVmYXVsdCBub3coKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
