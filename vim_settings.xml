@@ -16,27 +16,15 @@
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" timestamp="1504666308244">
         <mark key="'" line="3" column="3" />
       </file>
-      <file name="/a.dummy" timestamp="1503909915354">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/form/CustomerForm.java" timestamp="1504666146042" />
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/jbpm/order.jpdl.xml" timestamp="1504668186429" />
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/order/SalesOrderController.java" timestamp="1504667156151" />
-      <file name="/fluentGetter" timestamp="1504079687900">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/sql/bank.xml" timestamp="1504520022542">
         <mark key="'" line="22" column="22" />
         <mark key="[" line="32" column="27" />
         <mark key="]" line="32" column="48" />
         <mark key="^" line="32" column="48" />
         <mark key="." line="32" column="48" />
-      </file>
-      <file name="/ActionScript File Header.txt.ft" timestamp="1504079892281">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/IntelliJ Default" timestamp="1504079687894">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/cask/micros-account/src/main/java/com/acenode/cloud/account/api/AccountAPIVerticle.java" timestamp="1504177763021">
         <mark key="'" line="27" column="12" />
@@ -60,16 +48,14 @@
         <mark key="." line="13" column="37" />
         <mark key="^" line="13" column="37" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/CartService.java" timestamp="1504676954126" />
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/CartService.java" timestamp="1504678655510" />
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/cart/CartController.java" timestamp="1504666227417" />
-      <file name="/Arquillian Deployment Method.txt.ft" timestamp="1504079593572">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/util/CommonUtils.java" timestamp="1504666833345" />
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/CartServiceImpl.java" timestamp="1504676727320">
-        <mark key="[" line="251" column="44" />
-        <mark key="]" line="251" column="44" />
-        <mark key="." line="251" column="44" />
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/CartServiceImpl.java" timestamp="1504678866861">
+        <mark key="[" line="449" column="29" />
+        <mark key="]" line="449" column="30" />
+        <mark key="." line="449" column="30" />
+        <mark key="^" line="436" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/config.properties" timestamp="1504666295004" />
       <file name="$USER_HOME$/workspace/demo/wdemo/src/main/java/com/example/demo/Controller.java" timestamp="1504519948671">
@@ -79,7 +65,12 @@
         <mark key="." line="37" column="40" />
         <mark key="^" line="37" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/sql/CartProductInfo.xml" timestamp="1504676532030" />
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/sql/CartProductInfo.xml" timestamp="1504678576150">
+        <mark key="[" line="157" column="71" />
+        <mark key="]" line="157" column="73" />
+        <mark key="^" line="157" column="73" />
+        <mark key="." line="157" column="73" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/views/cart.scala.html" timestamp="1504667604698">
         <mark key="'" line="0" column="2" />
       </file>
@@ -98,11 +89,10 @@
         <mark key="^" line="47" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/cart/CartController.java" timestamp="1504666761524" />
-      <file name="/HTML File.txt.ft" timestamp="1504079892241">
+      <file name="/Dummy.txt" timestamp="1504678656316">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1504676960557">
-        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" timestamp="1504666746693">
         <mark key="'" line="138" column="113" />
@@ -120,9 +110,6 @@
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/models/CustomerEntity.java" timestamp="1504666154292" />
       <file name="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/ScanController.java" timestamp="1504663896994">
         <mark key="'" line="65" column="13" />
-      </file>
-      <file name="/fragment.java" timestamp="1504177590688">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/RegionalServiceImpl.java" timestamp="1504668090631" />
     </filemarks>
@@ -236,7 +223,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>.valueOf(pro.get(PRODUCT_ID));</text>
+        <text>companyId</text>
       </register>
       <register name="/" type="4">
         <text>region</text>
@@ -245,31 +232,31 @@
         <text encoding="base64">YWx0ZXIgdGFibGUgYWNjb3VudF9sb2cgYWRkIGNvbHVtbiAidXBkYXRlX2F0IiB0aW1lc3RhbXAoNikgZGVmYXVsdCBub3coKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgcHJvZHVjdCA9IGNhcnQuZ2V0Q2FydCgpLmdldChpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgcHJvZHVjdCA9IGNhcnQuZ2V0Q2FydCgpLmdldChpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQm9keSBib2R5ID0gbmV3IEJvZHkoKTsKICAgICAgICAgICAgLyoqCiAgICAgICAgICAgICAqIOi/meS4quaYr+S7juWFrOS8l+WPt+mHjOaJvueahOS4gOS4quaooeadvwogICAgICAgICAgICAgKiBodHRwczovL21wLndlaXhpbi5xcS5jb20vYWR2YW5jZWQvdG1wbG1zZz9hY3Rpb249ZWRpdCZpZD0xUFh2VV9Ea0xNMl9EbmhuWUdQU1RYVGMwbE02UjFRdjYxUEVTSVBLaEl3JnRva2VuPTE5MTgyMDE1MDMmbGFuZz16aF9DTgogICAgICAgICAgICAgKi8KICAgICAgICAgICAgYm9keS5zZXRUZW1wbGF0ZV9pZCgiMVBYdlVfRGtMTTJfRG5obllHUFNUWFRjMGxNNlIxUXY2MVBFU0lQS2hJdyIpOwogICAgICAgICAgICBib2R5LnNldFVybCgiaHR0cDovL3d3dy5iYWlkdS5jb20iKTsKICAgICAgICAgICAgYm9keS5zZXRUb3VzZXIoT1BFTklEKTsKCiAgICAgICAgICAgIEJvZHkuRGF0YUJlYW4gZGF0YSA9IG5ldyBCb2R5LkRhdGFCZWFuKCk7CiAgICAgICAgICAgIGRhdGEuc2V0Rmlyc3QoIuaCqOWlve+8jOaCqOi0puWNleW3sueUn+aIkOOAguS4iuacn+S9memine+8mi0x5YWDIik7CiAgICAgICAgICAgIGRhdGEuc2V0S2V5d29yZDEoIjIwMTQuMTAuMDktMjAxNS4wMS4wOSIpOwogICAgICAgICAgICBkYXRhLnNldEtleXdvcmQyKCIyOTAz5YWDIik7CiAgICAgICAgICAgIGRhdGEuc2V0S2V5d29yZDMoIjI0MDDlhYMrMjQw5YWDIik7CiAgICAgICAgICAgIGRhdGEuc2V0S2V5d29yZDQoIjEwMOWFgyIpOwogICAgICAgICAgICBkYXRhLnNldEtleXdvcmQ1KCIxNTXlhYMrOOWFgyIpOwogICAgICAgICAgICBkYXRhLnNldFJlbWFyaygiNeWFgyAgICDor7fkuo4xNC45LjMw57y057qzLuWmguacieeWkemXru+8jOivt+WSqOivouWuouacjeeUteivne+8mjAyOC04NjA2ODM4OC4iKTsKICAgICAgICAgICAgYm9keS5zZXREYXRhKGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFkZCgpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQm9keSBib2R5ID0gbmV3IEJvZHkoKTsKICAgICAgICAgICAgLyoqCiAgICAgICAgICAgICAqIOi/meS4quaYr+S7juWFrOS8l+WPt+mHjOaJvueahOS4gOS4quaooeadvwogICAgICAgICAgICAgKiBodHRwczovL21wLndlaXhpbi5xcS5jb20vYWR2YW5jZWQvdG1wbG1zZz9hY3Rpb249ZWRpdCZpZD0xUFh2VV9Ea0xNMl9EbmhuWUdQU1RYVGMwbE02UjFRdjYxUEVTSVBLaEl3JnRva2VuPTE5MTgyMDE1MDMmbGFuZz16aF9DTgogICAgICAgICAgICAgKi8KICAgICAgICAgICAgYm9keS5zZXRUZW1wbGF0ZV9pZCgiMVBYdlVfRGtMTTJfRG5obllHUFNUWFRjMGxNNlIxUXY2MVBFU0lQS2hJdyIpOwogICAgICAgICAgICBib2R5LnNldFVybCgiaHR0cDovL3d3dy5iYWlkdS5jb20iKTsKICAgICAgICAgICAgYm9keS5zZXRUb3VzZXIoT1BFTklEKTsKCiAgICAgICAgICAgIEJvZHkuRGF0YUJlYW4gZGF0YSA9IG5ldyBCb2R5LkRhdGFCZWFuKCk7CiAgICAgICAgICAgIGRhdGEuc2V0Rmlyc3QoIuaCqOWlve+8jOaCqOi0puWNleW3sueUn+aIkOOAguS4iuacn+S9memine+8mi0x5YWDIik7CiAgICAgICAgICAgIGRhdGEuc2V0S2V5d29yZDEoIjIwMTQuMTAuMDktMjAxNS4wMS4wOSIpOwogICAgICAgICAgICBkYXRhLnNldEtleXdvcmQyKCIyOTAz5YWDIik7CiAgICAgICAgICAgIGRhdGEuc2V0S2V5d29yZDMoIjI0MDDlhYMrMjQw5YWDIik7CiAgICAgICAgICAgIGRhdGEuc2V0S2V5d29yZDQoIjEwMOWFgyIpOwogICAgICAgICAgICBkYXRhLnNldEtleXdvcmQ1KCIxNTXlhYMrOOWFgyIpOwogICAgICAgICAgICBkYXRhLnNldFJlbWFyaygiNeWFgyAgICDor7fkuo4xNC45LjMw57y057qzLuWmguacieeWkemXru+8jOivt+WSqOivouWuouacjeeUteivne+8mjAyOC04NjA2ODM4OC4iKTsKICAgICAgICAgICAgYm9keS5zZXREYXRhKGRhdGEpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
