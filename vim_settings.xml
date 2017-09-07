@@ -13,10 +13,10 @@
         <mark key="." line="43" column="8" />
         <mark key="^" line="43" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" timestamp="1504666308244">
-        <mark key="'" line="3" column="3" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" timestamp="1504764344658">
+        <mark key="'" line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1504680188509">
+      <file name="/Dummy.txt" timestamp="1504764709778">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -75,9 +75,14 @@
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1504667903770">
         <mark key="'" line="42" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/JbpmManager.java" timestamp="1504764730548">
+        <mark key="'" line="227" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" timestamp="1504763181879">
         <mark key="'" line="42" column="44" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/FinanceOrderServiceImpl.java" timestamp="1504763940103" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/sql/FinanceOrder.xml" timestamp="1504763945368" />
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/CartServiceImpl.java" timestamp="1504680159258">
         <mark key="[" line="450" column="47" />
         <mark key="]" line="450" column="53" />
@@ -122,9 +127,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="30" filename="$USER_HOME$/workspace/demo/vertx-blueprint-microservice/account-microservice/src/main/java/io/vertx/blueprint/microservice/account/impl/JdbcAccountServiceImpl.java" />
-      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-dependencies/3.4.1/vertx-dependencies-3.4.1.pom" />
-      <jump line="461" column="32" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-dependencies/3.4.1/vertx-dependencies-3.4.1.pom" />
       <jump line="10" column="21" filename="$USER_HOME$/workspace/cask/micros-account/src/main/resources/config.json" />
       <jump line="127" column="10" filename="$USER_HOME$/workspace/cask/common/src/main/java/com/acenode/cloud/common/service/JdbcRepositoryWrapper.java" />
       <jump line="21" column="4" filename="$USER_HOME$/workspace/cask/micros-account/src/main/java/com/acenode/cloud/account/impl/AccountServiceImpl.java" />
@@ -222,6 +224,9 @@
       <jump line="59" column="16" filename="$USER_HOME$/workspace/demo/zest/src/main/java/YueChe.java" />
       <jump line="26" column="51" filename="$USER_HOME$/workspace/demo/zest/src/main/java/YueChe.java" />
       <jump line="42" column="44" filename="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/JbpmManager.java" />
+      <jump line="227" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/JbpmManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -231,7 +236,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text>对接NC系统推送订单</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdWNjZXNzXD4=</text>
@@ -277,7 +282,7 @@
       <last-replace>company</last-replace>
       <last-substitute>compay</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
