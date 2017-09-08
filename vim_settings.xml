@@ -36,12 +36,17 @@
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/JbpmManager.java" timestamp="1504764730548">
         <mark key="'" line="227" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/CommonService.java" timestamp="1504841912680" />
       <file name="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" timestamp="1504763181879">
         <mark key="'" line="42" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/user/UserController.java" timestamp="1504840673861" />
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/sql/Common.xml" timestamp="1504840958588" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/jbpm/order.jpdl.xml" timestamp="1504855061519" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/SalesOrderServiceImpl.java" timestamp="1504854817995" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/order/SalesOrderController.java" timestamp="1504854519211">
+        <mark key="'" line="53" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/service/impl/JbpmManagerImpl.java" timestamp="1504854195502">
+        <mark key="'" line="337" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/sql/bank.xml" timestamp="1504520022542">
         <mark key="'" line="22" column="22" />
         <mark key="[" line="32" column="27" />
@@ -54,7 +59,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/views/salesOrderSum.scala.html" timestamp="1504840606254" />
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" timestamp="1504666746693">
         <mark key="'" line="138" column="113" />
       </file>
@@ -68,7 +72,10 @@
         <mark key="." line="29" column="52" />
         <mark key="^" line="29" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/CommonServiceImpl.java" timestamp="1504840979090" />
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/service/JbpmManager.java" timestamp="1504854176489">
+        <mark key="'" line="197" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/CommonServiceImpl.java" timestamp="1504854449105" />
       <file name="$USER_HOME$/workspace/demo/wdemo/src/main/java/com/example/demo/Menu.java" timestamp="1504518816732">
         <mark key="'" line="97" column="0" />
         <mark key="[" line="21" column="59" />
@@ -90,25 +97,15 @@
         <mark key="." line="26" column="24" />
         <mark key="^" line="26" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/addr/AddrController.java" timestamp="1504680083531">
-        <mark key="[" line="69" column="19" />
-        <mark key="]" line="69" column="23" />
-        <mark key="." line="69" column="23" />
-        <mark key="^" line="69" column="23" />
-      </file>
       <file name="/FinanceOrderServiceImpl.java" timestamp="1504845105688">
         <mark key="[" line="205" column="0" />
         <mark key="]" line="209" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1504840666480">
-        <mark key="'" line="18" column="102" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1504854931901">
+        <mark key="'" line="109" column="97" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/CartServiceImpl.java" timestamp="1504680159258">
-        <mark key="[" line="450" column="47" />
-        <mark key="]" line="450" column="53" />
-        <mark key="." line="450" column="47" />
-        <mark key="^" line="450" column="46" />
-      </file>
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/order/OrderDetailContoller.java" timestamp="1504854266079" />
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/service/impl/OrderDetailServiceImpl.java" timestamp="1504854339755" />
       <file name="$USER_HOME$/workspace/demo/zest/src/main/java/YueChe.java" timestamp="1504775914762">
         <mark key="'" line="39" column="43" />
         <mark key="[" line="12" column="38" />
@@ -126,32 +123,15 @@
         <mark key="." line="37" column="40" />
         <mark key="^" line="37" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/sql/CartProductInfo.xml" timestamp="1504679758439">
-        <mark key="[" line="158" column="0" />
-        <mark key="]" line="158" column="0" />
-        <mark key="^" line="158" column="0" />
-        <mark key="." line="158" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/views/cart.scala.html" timestamp="1504667604698">
         <mark key="'" line="0" column="2" />
       </file>
       <file name="/fragment.java" timestamp="1504775303816">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/RegionalServiceImpl.java" timestamp="1504854961493" />
     </filemarks>
     <jumps>
-      <jump line="39" column="0" filename="$USER_HOME$/workspace/cask/micros-account/src/main/java/com/acenode/cloud/account/Account.java" />
-      <jump line="74" column="0" filename="$USER_HOME$/workspace/cask/micros-account/src/main/java/com/acenode/cloud/account/Account.java" />
-      <jump line="19" column="12" filename="$USER_HOME$/workspace/cask/micros-account/src/main/java/com/acenode/cloud/account/Account.java" />
-      <jump line="1149" column="18" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.7.4/jackson-databind-2.7.4.jar!/com/fasterxml/jackson/databind/ObjectMapper.class" />
-      <jump line="1077" column="17" filename="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.7.4/jackson-databind-2.7.4.jar!/com/fasterxml/jackson/databind/ObjectMapper.class" />
-      <jump line="50" column="0" filename="$USER_HOME$/workspace/cask/micros-account/src/main/java/com/acenode/cloud/account/Account.java" />
-      <jump line="68" column="3" filename="$USER_HOME$/workspace/cask/micros-account/src/main/java/com/acenode/cloud/account/Account.java" />
-      <jump line="30" column="12" filename="$USER_HOME$/workspace/cask/micros-account/src/main/java/com/acenode/cloud/account/Account.java" />
-      <jump line="64" column="0" filename="$USER_HOME$/workspace/demo/vertx-blueprint-microservice/account-microservice/src/main/java/io/vertx/blueprint/microservice/account/Account.java" />
-      <jump line="78" column="0" filename="$USER_HOME$/workspace/demo/vertx-blueprint-microservice/account-microservice/src/main/java/io/vertx/blueprint/microservice/account/Account.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/demo/vertx-blueprint-microservice/account-microservice/src/main/java/io/vertx/blueprint/microservice/account/Account.java" />
-      <jump line="33" column="23" filename="$USER_HOME$/workspace/cask/micros-account/src/main/java/com/acenode/cloud/account/Account.java" />
       <jump line="78" column="4" filename="$USER_HOME$/workspace/cask/micros-account/src/main/java/com/acenode/cloud/account/Account.java" />
       <jump line="44" column="0" filename="$USER_HOME$/workspace/cask/micros-account/src/main/java/com/acenode/cloud/account/impl/AccountServiceImpl.java" />
       <jump line="12" column="24" filename="$USER_HOME$/workspace/cask/micros-account/src/main/java/com/acenode/cloud/account/impl/AccountServiceImpl.java" />
@@ -232,7 +212,6 @@
       <jump line="46" column="46" filename="$USER_HOME$/workspace/demo/zest/src/main/java/YueChe.java" />
       <jump line="40" column="43" filename="$USER_HOME$/workspace/demo/zest/src/main/java/YueChe.java" />
       <jump line="159" column="12" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="48" column="21" filename="$USER_HOME$/workspace/jinhui/order-producer/public/statics/orderHistory.js" />
       <jump line="14" column="37" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="16" column="102" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
@@ -240,6 +219,19 @@
       <jump line="149" column="33" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/sql/CartProductInfo.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/sql/CartProductInfo.xml" />
       <jump line="172" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/sql/CartProductInfo.xml" />
+      <jump line="24" column="6" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/service/JbpmManager.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/service/JbpmManager.java" />
+      <jump line="197" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/service/JbpmManager.java" />
+      <jump line="80" column="63" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/service/impl/JbpmManagerImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/service/impl/JbpmManagerImpl.java" />
+      <jump line="337" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/service/impl/JbpmManagerImpl.java" />
+      <jump line="193" column="16" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
+      <jump line="51" column="20" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
+      <jump line="53" column="18" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/order/SalesOrderController.java" />
+      <jump line="26" column="127" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
+      <jump line="59" column="45" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
+      <jump line="109" column="97" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -252,7 +244,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>orderHistory</text>
+        <text>region</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Ly8gICAgICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IGxvZyA9IGNoZWNrQmFua1BheVN1Y2Nlc3MoZm9ybS5nZXRPcmRlcklkKCkpOwovLyAgICAgICAgICAgIGlmIChudWxsID09IGxvZykgewovLyAgICAgICAgICAgICAgICBMb2dnZXIuZXJyb3IoIm9yZGVySWTvvJoiICsgZm9ybS5nZXRPcmRlcklkKCkgKyAi5rKh5pyJ5pS25Yiw6ZO26KGM5Zue6LCDIik7Ci8vICAgICAgICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oIuayoeaUtuWIsOmTtuihjOWbnuiwgyIpOwovLyAgICAgICAgICAgIH0K</text>
@@ -289,9 +281,9 @@
       </register>
     </registers>
     <search>
-      <last-search>orderHistory</last-search>
+      <last-search>region</last-search>
       <last-offset />
-      <last-pattern>orderHistory</last-pattern>
+      <last-pattern>region</last-pattern>
       <last-replace>company</last-replace>
       <last-substitute>compay</last-substitute>
       <last-dir>1</last-dir>
@@ -299,8 +291,6 @@
     </search>
     <history>
       <history-search>
-        <entry>配货</entry>
-        <entry encoding="base64">XDxjb25maWdcPg==</entry>
         <entry>config</entry>
         <entry>Resource</entry>
         <entry>jdbc</entry>
@@ -314,11 +304,13 @@
         <entry encoding="base64">XDxhY2NvdW50X2xvZ1w+</entry>
         <entry encoding="base64">XDxwcm9kdWN0c1w+</entry>
         <entry>cart</entry>
-        <entry>region</entry>
         <entry encoding="base64">XDxzdWNjZXNzXD4=</entry>
-        <entry>order</entry>
         <entry>user</entry>
         <entry>orderHistory</entry>
+        <entry>业务员</entry>
+        <entry>审核</entry>
+        <entry>order</entry>
+        <entry>region</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2h0dHBzL2h0dHAvZw==</entry>
