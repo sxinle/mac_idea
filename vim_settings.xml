@@ -39,13 +39,14 @@
       <file name="$USER_HOME$/workspace/cask/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" timestamp="1504763181879">
         <mark key="'" line="42" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/jbpm/order.jpdl.xml" timestamp="1504855061519" />
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/SalesOrderServiceImpl.java" timestamp="1504854817995" />
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/order/SalesOrderController.java" timestamp="1504854519211">
         <mark key="'" line="53" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/service/impl/JbpmManagerImpl.java" timestamp="1504854195502">
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/service/impl/JbpmManagerImpl.java" timestamp="1504856906652">
         <mark key="'" line="337" column="0" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/sql/bank.xml" timestamp="1504520022542">
         <mark key="'" line="22" column="22" />
@@ -75,7 +76,6 @@
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/service/JbpmManager.java" timestamp="1504854176489">
         <mark key="'" line="197" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/CommonServiceImpl.java" timestamp="1504854449105" />
       <file name="$USER_HOME$/workspace/demo/wdemo/src/main/java/com/example/demo/Menu.java" timestamp="1504518816732">
         <mark key="'" line="97" column="0" />
         <mark key="[" line="21" column="59" />
@@ -104,8 +104,6 @@
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1504854931901">
         <mark key="'" line="109" column="97" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/order/OrderDetailContoller.java" timestamp="1504854266079" />
-      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/service/impl/OrderDetailServiceImpl.java" timestamp="1504855088086" />
       <file name="$USER_HOME$/workspace/demo/zest/src/main/java/YueChe.java" timestamp="1504775914762">
         <mark key="'" line="39" column="43" />
         <mark key="[" line="12" column="38" />
@@ -129,7 +127,6 @@
       <file name="/fragment.java" timestamp="1504775303816">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/RegionalServiceImpl.java" timestamp="1504854961493" />
     </filemarks>
     <jumps>
       <jump line="78" column="4" filename="$USER_HOME$/workspace/cask/micros-account/src/main/java/com/acenode/cloud/account/Account.java" />
@@ -250,31 +247,31 @@
         <text encoding="base64">Ly8gICAgICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IGxvZyA9IGNoZWNrQmFua1BheVN1Y2Nlc3MoZm9ybS5nZXRPcmRlcklkKCkpOwovLyAgICAgICAgICAgIGlmIChudWxsID09IGxvZykgewovLyAgICAgICAgICAgICAgICBMb2dnZXIuZXJyb3IoIm9yZGVySWTvvJoiICsgZm9ybS5nZXRPcmRlcklkKCkgKyAi5rKh5pyJ5pS25Yiw6ZO26KGM5Zue6LCDIik7Ci8vICAgICAgICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oIuayoeaUtuWIsOmTtuihjOWbnuiwgyIpOwovLyAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHRpbWVzID0gOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXBvc2l0b3J5U2VydmljZS5jCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih0b21vcnJvdygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHRpbWVzID0gOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbih0b21vcnJvdygpKTsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIExpc3Q8U3RyaW5nPiBmYWlsZWQgPSBuZXcgQXJyYXlMaXN0PFN0cmluZz4oKSB7ewogICAgICAgIGFkZCgi5b2T5YmN5pe26Ze05q615LiN6IO957qm6L2mIik7CiAgICAgICAgYWRkKCLmraPlnKjlpITnkIbvvIzor7fnqI3lgJnliLfmlrAiKTsKICAgIH19Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIExpc3Q8U3RyaW5nPiBmYWlsZWQgPSBuZXcgQXJyYXlMaXN0PFN0cmluZz4oKSB7ewogICAgICAgIGFkZCgi5b2T5YmN5pe26Ze05q615LiN6IO957qm6L2mIik7CiAgICAgICAgYWRkKCLmraPlnKjlpITnkIbvvIzor7fnqI3lgJnliLfmlrAiKTsKICAgIH19Owo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBmaW5kID0gZmFsc2U7CiAgICAgICAgICAgIGZvciAoU3RyaW5nIHMgOiBmYWlsZWQpIHsKICAgICAgICAgICAgICAgIHJlc3VsdC5jb250YWlucyhzKTsKICAgICAgICAgICAgICAgIGZpbmQgPSB0cnVlOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBib29sZWFuIG5leHQgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBmaW5kID0gZmFsc2U7CiAgICAgICAgICAgIGZvciAoU3RyaW5nIHMgOiBmYWlsZWQpIHsKICAgICAgICAgICAgICAgIHJlc3VsdC5jb250YWlucyhzKTsKICAgICAgICAgICAgICAgIGZpbmQgPSB0cnVlOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -287,7 +284,7 @@
       <last-replace>company</last-replace>
       <last-substitute>compay</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
