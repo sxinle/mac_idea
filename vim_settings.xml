@@ -86,12 +86,12 @@
       <file name="$USER_HOME$/workspace/jinhui/order-producer/public/statics/orderHistory.js" timestamp="1504840649926">
         <mark key="'" line="48" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/bpmn.scala.html" timestamp="1505031282275">
-        <mark key="'" line="89" column="0" />
-        <mark key="[" line="31" column="20" />
-        <mark key="]" line="31" column="20" />
-        <mark key="." line="31" column="20" />
-        <mark key="^" line="31" column="30" />
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/bpmn.scala.html" timestamp="1505034882222">
+        <mark key="'" line="51" column="16" />
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="15" />
+        <mark key="^" line="6" column="15" />
+        <mark key="." line="45" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/util/CommonUtils.java" timestamp="1505026105649">
         <mark key="'" line="107" column="0" />
@@ -134,12 +134,12 @@
       <file name="$USER_HOME$/.ivy2/cache/com.typesafe.play/play-json_2.10/srcs/play-json_2.10-2.2.3-sources.jar!/play/libs/Json.java" timestamp="1504962383327">
         <mark key="'" line="27" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/public/javascripts/bpmn/bpmn-order.js" timestamp="1505031019822">
-        <mark key="'" line="36" column="42" />
-        <mark key="[" line="60" column="21" />
-        <mark key="]" line="60" column="23" />
-        <mark key="." line="60" column="23" />
-        <mark key="^" line="60" column="23" />
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/public/javascripts/bpmn/bpmn-order.js" timestamp="1505034762182">
+        <mark key="'" line="26" column="26" />
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+        <mark key="^" line="71" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" timestamp="1505025589101">
         <mark key="'" line="263" column="66" />
@@ -181,9 +181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/YueChe.java" />
-      <jump line="61" column="23" filename="$USER_HOME$/workspace/demo/zest/src/main/java/YueChe.java" />
-      <jump line="22" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/YueChe.java" />
       <jump line="52" column="16" filename="$USER_HOME$/workspace/demo/zest/src/main/java/YueChe.java" />
       <jump line="53" column="16" filename="$USER_HOME$/workspace/demo/zest/src/main/java/YueChe.java" />
       <jump line="59" column="16" filename="$USER_HOME$/workspace/demo/zest/src/main/java/YueChe.java" />
@@ -281,6 +278,9 @@
       <jump line="141" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/BPMNServiceImpl.java" />
       <jump line="1" column="14" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/bpmn.scala.html" />
       <jump line="90" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/bpmn.scala.html" />
+      <jump line="26" column="26" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/public/javascripts/bpmn/bpmn-order.js" />
+      <jump line="49" column="24" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/bpmn.scala.html" />
+      <jump line="50" column="16" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/bpmn.scala.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -290,40 +290,42 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>width:100%;</text>
+        <text encoding="base64">dmFyIA==</text>
       </register>
       <register name="/" type="4">
         <text>icons</text>
       </register>
       <register name="0" type="4">
-        <text>new BpmnViewer({container: '#canvas'})</text>
+        <text>companySel</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zdW4ub3JnLmFwYWNoZS5iY2VsLmludGVybmFsLmdlbmVyaWMuSUNPTlNUOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JChkb2N1bWVudCkucmVhZHkoZnVuY3Rpb24oKXsKICAgIGFsZXJ0KCQoJyNjb21wYW55U2VsJykuY2hpbGRyZW4oJ29wdGlvbjpzZWxlY3RlZCcpLnZhbCgpKTsKICAgICQoJyNjb21wYW55U2VsJykuY2hhbmdlKGZ1bmN0aW9uICgpIHsKICAgICAgICAkKHRoaXMpLmNoaWxkcmVuKCdvcHRpb246c2VsZWN0ZWQnKS52YWwoKQogICAgfSk7Cn0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEB7CiAgICAgICAgICAgICAgICAgICAgZm9yKGVsZW0gPC0gY29tcHMpIHsKICAgICAgICAgICAgICAgICAgICAgICAgPG9wdGlvbiB2YWx1ZT0iIj48L29wdGlvbj4KICAgICAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">JChmdW5jdGlvbigpewp9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICQoJyNjb21wYW55U2VsJykuY2hhbmdlKGZ1bmN0aW9uICgpIHsKICAgICAgICAkKHRoaXMpLmNoaWxkcmVuKCdvcHRpb246c2VsZWN0ZWQnKS52YWwoKQogICAgfSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JCgnI2NvbXBhbnlTZWwnKS5jaGFuZ2UoZnVuY3Rpb24gKCkgewogICAgJCh0aGlzKS5jaGlsZHJlbignb3B0aW9uOnNlbGVjdGVkJykudmFsKCkKfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB2aWV3ZXIgPSBuZXcgQnBtblZpZXdlcih7Y29udGFpbmVyOiAnI2NhbnZhcyd9KTsK</text>
+        <text encoding="base64">ICAgIGFsZXJ0KHRoaXMudmFsKQo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB2aWV3ZXIgPSBuZXcgQnBtblZpZXdlcih7Y29udGFpbmVyOiAnI2NhbnZhcyd9KTsK</text>
+      <register name="9" type="4">
+        <text>.change(function () {
+    alert(this.val);
+});</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
