@@ -163,6 +163,11 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/pointshub/conf/routes" timestamp="1505099243656">
+        <mark key="'" line="16" column="61" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="102" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/application-beans.xml" timestamp="1505093940014">
         <mark key="[" line="4" column="65" />
         <mark key="]" line="4" column="66" />
@@ -234,7 +239,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/FinanceOrderServiceImpl.java" />
       <jump line="83" column="12" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/BPMNServiceImpl.java" />
       <jump line="9" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/BPMNServiceImpl.java" />
       <jump line="130" column="70" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/BPMNServiceImpl.java" />
@@ -334,6 +338,7 @@
       <jump line="293" column="31" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
       <jump line="64" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/public/statics/salesorder.js" />
+      <jump line="16" column="61" filename="$USER_HOME$/workspace/jinhui/Bitbucket/pointshub/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -348,8 +353,8 @@
       <register name="/" type="4">
         <text>order</text>
       </register>
-      <register name="0" type="4">
-        <text>Form.form(SalesOrderForm.class)</text>
+      <register name="0" type="2">
+        <text encoding="base64">R0VUICAgICAvJHFyY29kZTxbMC05XSs+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGNvbnRyb2xsZXJzLkFwcGxpY2F0aW9uLnRvU2NhbkNvZGUocXJjb2RlKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB1c2VyLmdldAo=</text>
