@@ -101,7 +101,7 @@
         <mark key="]" line="249" column="0" />
         <mark key="." line="249" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505106027181">
+      <file name="/Dummy.txt" timestamp="1505188101933">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -340,7 +340,7 @@
         <text>opt</text>
       </register>
       <register name="/" type="4">
-        <text>order</text>
+        <text>订单状态</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBuZXcgQ2hyb21lT3B0aW9ucygpLgo=</text>
@@ -377,9 +377,9 @@
       </register>
     </registers>
     <search>
-      <last-search>order</last-search>
+      <last-search>订单状态</last-search>
       <last-offset />
-      <last-pattern>order</last-pattern>
+      <last-pattern>订单状态</last-pattern>
       <last-replace>3.1</last-replace>
       <last-substitute>3.2</last-substitute>
       <last-dir>1</last-dir>
@@ -387,7 +387,6 @@
     </search>
     <history>
       <history-search>
-        <entry>user</entry>
         <entry>orderHistory</entry>
         <entry>业务员</entry>
         <entry>审核</entry>
@@ -407,6 +406,7 @@
         <entry>modify</entry>
         <entry>get(&quot;ok&quot;</entry>
         <entry>order</entry>
+        <entry>订单状态</entry>
       </history-search>
       <history-cmd>
         <entry>source ~/.ideavimrc</entry>
