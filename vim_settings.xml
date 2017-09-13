@@ -103,7 +103,7 @@
         <mark key="^" line="96" column="52" />
         <mark key="." line="96" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/BPMNService.java" timestamp="1505273781273">
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/BPMNService.java" timestamp="1505274644688">
         <mark key="[" line="39" column="37" />
         <mark key="]" line="39" column="53" />
         <mark key="." line="39" column="53" />
@@ -194,7 +194,7 @@
         <mark key="^" line="204" column="7" />
         <mark key="." line="204" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505273781745">
+      <file name="/Dummy.txt" timestamp="1505274645206">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -223,12 +223,12 @@
         <mark key="." line="121" column="0" />
         <mark key="^" line="152" column="62" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/sql/BPMNMapper.xml" timestamp="1505273847612">
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/sql/BPMNMapper.xml" timestamp="1505274660082">
         <mark key="'" line="59" column="31" />
-        <mark key="[" line="22" column="87" />
-        <mark key="]" line="22" column="87" />
+        <mark key="[" line="22" column="128" />
+        <mark key="]" line="22" column="128" />
         <mark key="^" line="22" column="87" />
-        <mark key="." line="22" column="87" />
+        <mark key="." line="22" column="128" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/service/JbpmManager.java" timestamp="1505202743217">
         <mark key="'" line="196" column="0" />
@@ -411,7 +411,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>operlog</text>
+        <text>, #{vars}</text>
       </register>
       <register name="/" type="4">
         <text>getOrderTask</text>
