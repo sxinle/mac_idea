@@ -13,12 +13,12 @@
         <mark key="^" line="2" column="51" />
         <mark key="." line="2" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/BPMNServiceImpl.java" timestamp="1505273645234">
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/BPMNServiceImpl.java" timestamp="1505277023475">
         <mark key="'" line="72" column="30" />
-        <mark key="[" line="168" column="51" />
-        <mark key="]" line="168" column="51" />
-        <mark key="." line="168" column="51" />
-        <mark key="^" line="168" column="41" />
+        <mark key="[" line="182" column="47" />
+        <mark key="]" line="182" column="77" />
+        <mark key="^" line="182" column="77" />
+        <mark key="." line="182" column="77" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/application-common.xml" timestamp="1505209078772">
         <mark key="'" line="21" column="41" />
@@ -31,12 +31,12 @@
         <mark key="]" line="170" column="0" />
         <mark key="." line="170" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/SalesOrderServiceImpl.java" timestamp="1505271888806">
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/SalesOrderServiceImpl.java" timestamp="1505276867320">
         <mark key="'" line="32" column="39" />
-        <mark key="[" line="61" column="86" />
-        <mark key="]" line="61" column="103" />
-        <mark key="^" line="61" column="85" />
-        <mark key="." line="61" column="86" />
+        <mark key="[" line="68" column="119" />
+        <mark key="]" line="68" column="120" />
+        <mark key="^" line="68" column="120" />
+        <mark key="." line="68" column="120" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/public/statics/salesorder.js" timestamp="1505211735515">
         <mark key="'" line="45" column="55" />
@@ -103,7 +103,7 @@
         <mark key="^" line="96" column="52" />
         <mark key="." line="96" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/BPMNService.java" timestamp="1505274644688">
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/BPMNService.java" timestamp="1505276404209">
         <mark key="[" line="39" column="37" />
         <mark key="]" line="39" column="53" />
         <mark key="." line="39" column="53" />
@@ -194,7 +194,7 @@
         <mark key="^" line="204" column="7" />
         <mark key="." line="204" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1505274645206">
+      <file name="/Dummy.txt" timestamp="1505276404655">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
@@ -255,11 +255,11 @@
         <mark key="]" line="209" column="0" />
         <mark key="." line="209" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/models/TaskFLowBean.java" timestamp="1505271403816">
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="16" column="29" />
-        <mark key="." line="16" column="29" />
-        <mark key="^" line="16" column="29" />
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/models/TaskFLowBean.java" timestamp="1505276670597">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="21" column="50" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/util/IContents.java" timestamp="1505213888016">
         <mark key="'" line="16" column="6" />
@@ -294,7 +294,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1505273485313">
+      <file name="/fragment.java" timestamp="1505276919471">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
@@ -411,7 +411,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>, #{vars}</text>
+        <text>task.get</text>
       </register>
       <register name="/" type="4">
         <text>getOrderTask</text>
@@ -420,31 +420,31 @@
         <text>1276815901</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgTWFwIG9yZyA9IEpzb24uZnJvbUpzb24oSnNvbi50b0pzb24oY3VycmVudFRhc2suZ2V0KCJ2YXJzIikpLCBNYXAuY2xhc3MpOwogICAgICAgIE1hcCBpbnB1dFZhciA9IEpzb24uZnJvbUpzb24oYmVhbi52YXJzLCBNYXAuY2xhc3MpOwogICAgICAgIG9yZy5wdXRBbGwoaW5wdXRWYXIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gSnNvbi50b0pzb24ob3JnVmFycyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdmFycy5nZXQoa2V5KS50b1N0cmluZygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvcmdWYXJzLnB1dEFsbChuZXdWYXJzKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBNYXAgb3JnID0gSnNvbi5mcm9tSnNvbihvcmdWYXJzLCBNYXAuY2xhc3MpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiAqIOmHkeW+veiQpemUgOeuoeeQhuezu+e7nwoKICoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiAqIE1vZHVsZU1hbmFnZUNvbnRyb2xsZXIuamF2YQogKi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICogKEMpIOayiOmYs+WFq+e7tOaXtuepuuenkeaKgOWPkeWxlQogKiAgICAgU0hFTllBTkcgRUlHSFRTUEFDRSBURUNITk9MT0dZIERFVkVMT1BNRU5UIENPLixMVEQuICAyMDE0CiAqLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogKiBWZXJzaW9uICAgIERhdGUgICAgICAgQnkgICAgICAgICAgICBDb21tZW50CiAqIDEuMCAgICAgICAgMjAxNOW5tDjmnIgxM+aXpSAgICBoZWx5ICAgICAgICAgIOaWsOW7ugogKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKiovCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db250cm9sbGVyCg==</text>
+        <text encoding="base64">CiAgICAgICAgTWFwIG9yZyA9IEpzb24uZnJvbUpzb24oSnNvbi50b0pzb24oY3VycmVudFRhc2suZ2V0KCJ2YXJzIikpLCBNYXAuY2xhc3MpOwogICAgICAgIE1hcCBpbnB1dFZhciA9IEpzb24uZnJvbUpzb24oYmVhbi52YXJzLCBNYXAuY2xhc3MpOwogICAgICAgIG9yZy5wdXRBbGwoaW5wdXRWYXIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqCiAqIHNpbXBsZSBpbnRyb2R1Y3Rpb24KICoKICogQGF1dGhvciBseWRpYQogKiBAZGF0ZSAyMDE0LTctMjIKICogQHNpbmNlIDEuMAo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
