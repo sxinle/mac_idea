@@ -30,10 +30,12 @@
         <mark key="]" line="170" column="0" />
         <mark key="." line="170" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/SalesOrderServiceImpl.java" timestamp="1505267193832">
-        <mark key="[" line="87" column="8" />
-        <mark key="]" line="87" column="63" />
-        <mark key="." line="86" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/SalesOrderServiceImpl.java" timestamp="1505268473289">
+        <mark key="'" line="32" column="39" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="^" line="67" column="36" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/public/statics/salesorder.js" timestamp="1505211735515">
         <mark key="'" line="45" column="55" />
@@ -115,12 +117,11 @@
         <mark key="." line="85" column="7" />
         <mark key="^" line="85" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/controllers/order/SalesOrderController.java" timestamp="1505267188335">
-        <mark key="'" line="156" column="41" />
-        <mark key="[" line="150" column="0" />
-        <mark key="]" line="150" column="71" />
-        <mark key="^" line="155" column="28" />
-        <mark key="." line="155" column="28" />
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/controllers/order/SalesOrderController.java" timestamp="1505268560432">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="136" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/demo/spider/src/main/java/com/acenode/spider/util/HttpSender.java" timestamp="1505183023049">
         <mark key="'" line="159" column="97" />
@@ -243,11 +244,11 @@
         <mark key="]" line="209" column="0" />
         <mark key="." line="209" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/models/TaskFLowBean.java" timestamp="1505267276965">
-        <mark key="[" line="14" column="13" />
-        <mark key="]" line="13" column="39" />
-        <mark key="^" line="13" column="39" />
-        <mark key="." line="13" column="39" />
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/models/TaskFLowBean.java" timestamp="1505268394508">
+        <mark key="[" line="13" column="11" />
+        <mark key="]" line="13" column="18" />
+        <mark key="." line="13" column="18" />
+        <mark key="^" line="13" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/util/IContents.java" timestamp="1505213888016">
         <mark key="'" line="16" column="6" />
@@ -279,8 +280,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="144" column="6" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/service/impl/JbpmManagerImpl.java" />
-      <jump line="32" column="13" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/service/impl/JbpmManagerImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/service/impl/JbpmManagerImpl.java" />
       <jump line="336" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/service/impl/JbpmManagerImpl.java" />
       <jump line="21" column="22" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/service/JbpmManager.java" />
@@ -379,6 +378,8 @@
       <jump line="89" column="18" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" />
       <jump line="189" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" />
+      <jump line="70" column="7" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/SalesOrderServiceImpl.java" />
+      <jump line="31" column="39" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/SalesOrderServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -388,40 +389,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>fromJson(vars, Map.class);</text>
+        <text>Bean</text>
       </register>
       <register name="/" type="4">
         <text>getOrderTask</text>
       </register>
-      <register name="0" type="4">
-        <text>7d7e421a576fd776de298d4670b53890</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBSZXNvdXJjZShuYW1lID0gImNvbW1vblNlcnZpY2VJbXBsIikKICAgIHByaXZhdGUgQ29tbW9uU2VydmljZSBjb21tU2VydmljZTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gZm9ybQogICAgICogQHJldHVybgogICAgICogQHRocm93cyBFeGNlcHRpb24KICAgICAqIEBhdXRob3IgbHlkaWEKICAgICAqIEBkYXRlIDIwMTTlubQ35pyIMjTml6UKICAgICAqIEBzaW5jZSAxLjAK</text>
+        <text encoding="base64">ICovCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9qYnBtTWFwLnB1dChJQ29udGVudHMuUkVHSU9OQUxNQU4sIElDb250ZW50cy5ST0xFX0lOU1RSVU1FTlQrIi0iK3VzZXIuZ2V0RGVwdElkKCkpOwo=</text>
+        <text encoding="base64">QG9yZy5zcHJpbmdmcmFtZXdvcmsuc3RlcmVvdHlwZS5Db250cm9sbGVyCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHBhcmFtID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIHBhcmFtLnB1dCgiY3VzdElkIiwgZm9ybS5nZXRDdXN0SWQoKSk7CiAgICAgICAgcGFyYW0ucHV0KCJvcmRlcmlkIiwgZm9ybS5nZXRPcmRlcklkKCkpOwo=</text>
+        <text encoding="base64">LyoqCiAqIHNpbXBsZSBpbnRyb2R1Y3Rpb24KICoKICogQGF1dGhvciBseWRpYQogKiBAZGF0ZSAyMDE0LTctMjIKICogQHNpbmNlIDEuMAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcmV0dXJuCiAgICAgKiBAYXV0aG9yIGx5ZGlhCiAgICAgKiBAZGF0ZSAyMDE05bm0OOaciDTml6UKICAgICAqIEBzaW5jZSAxLjAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQlhbmQgICAgZC5kZXB0Y29kZSAhPSAnc2FsZXMnCg==</text>
+        <text encoding="base64">CiAgICAgICAgLy9NYXA8U3RyaW5nLCBPYmplY3Q+IGpicG1NYXAgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgLy9pZiAocGFzcykgewogICAgICAgIC8vICAgIGlmIChFbXB0eVV0aWwuaXNFbXB0eShnZXRTYWxlc01hbkRhdGEoZm9ybSkpKSByZXR1cm4gZmFsc2U7CiAgICAgICAgLy8gICAgamJwbU1hcC5wdXQoImlzUmVqZWN0IiwgIjEiKTsKICAgICAgICAvLyAgICBqYnBtTWFwLnB1dChJQ29udGVudHMuUkVHSU9OQUxNQU4sIGZvcm0uZ2V0U2FsZXNtYW4oKSk7CiAgICAgICAgLy8gICAgamJwbU1hbmFnZXIuY29tcGxhdGVCeVZhckFuZFJlcyhmb3JtLmdldFRhc2tJZCgpLCAi5om55YeGIiwgamJwbU1hcCk7CiAgICAgICAgLy99IGVsc2UgewogICAgICAgIC8vICAgIGpicG1NYXAucHV0KCJpc1JlamVjdCIsICIwIik7CiAgICAgICAgLy8gICAgamJwbU1hbmFnZXIuY29tcGxhdGVCeVZhckFuZFJlcyhmb3JtLmdldFRhc2tJZCgpLCAi6amz5ZueIiwgamJwbU1hcCk7CiAgICAgICAgLy99Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8IS0tCiAgICAgICBhdXRob3I6IHd4CiAgICAgICBkZXNjIDog6I635b6X5Lia5Yqh5ZGY5LiL5ouJ5qGG5pWw5o2uCiAgIC0tPgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIEBSZXNvdXJjZShuYW1lID0gImpicG1NYW5hZ2VyIikKICAgIHByaXZhdGUgSmJwbU1hbmFnZXIgamJwbU1hbmFnZXI7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBCUE1OU2VydmljZS50YQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
