@@ -280,8 +280,8 @@
         <mark key="^" line="69" column="67" />
         <mark key="." line="69" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" timestamp="1505466988851">
-        <mark key="'" line="50" column="133" />
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" timestamp="1505469620571">
+        <mark key="'" line="252" column="8" />
         <mark key="[" line="178" column="1" />
         <mark key="]" line="178" column="1" />
         <mark key="^" line="55" column="0" />
@@ -293,11 +293,11 @@
         <mark key="." line="50" column="0" />
         <mark key="^" line="55" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/service/impl/OrderDetailServiceImpl.java" timestamp="1505468605565">
-        <mark key="[" line="138" column="70" />
-        <mark key="]" line="138" column="78" />
-        <mark key="." line="138" column="78" />
-        <mark key="^" line="138" column="78" />
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/service/impl/OrderDetailServiceImpl.java" timestamp="1505469504509">
+        <mark key="[" line="138" column="58" />
+        <mark key="]" line="138" column="58" />
+        <mark key="." line="138" column="58" />
+        <mark key="^" line="138" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/models/TaskFLowBean.java" timestamp="1505287342495">
         <mark key="[" line="21" column="40" />
@@ -331,7 +331,7 @@
         <mark key="." line="65" column="17" />
         <mark key="^" line="65" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1505458667745">
+      <file name="/fragment.java" timestamp="1505469505183">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
@@ -339,7 +339,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="53" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/public/statics/financeOrder.js" />
       <jump line="66" column="10" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/public/statics/financeOrder.js" />
       <jump line="67" column="9" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/public/statics/financeOrder.js" />
       <jump line="393" column="34" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/controllers/finance/FinanceOrderController.java" />
@@ -439,6 +438,7 @@
       <jump line="175" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/public/static/commonHeader.js" />
       <jump line="128" column="50" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/routes" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/routes" />
+      <jump line="252" column="8" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -448,7 +448,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>.toString();</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>orderDetail\/modify</text>
