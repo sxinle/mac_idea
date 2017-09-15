@@ -138,17 +138,17 @@
         <mark key="." line="225" column="82" />
         <mark key="^" line="225" column="82" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/routes" timestamp="1505457808944">
-        <mark key="'" line="81" column="66" />
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/routes" timestamp="1505464705090">
+        <mark key="'" line="138" column="123" />
         <mark key="[" line="156" column="14" />
         <mark key="]" line="156" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/service/impl/CommonServiceImpl.java" timestamp="1505300699983">
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/service/impl/CommonServiceImpl.java" timestamp="1505465149110">
         <mark key="'" line="250" column="0" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
         <mark key="^" line="85" column="19" />
-        <mark key="." line="36" column="0" />
+        <mark key="." line="133" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/controllers/bpmn/BpmnController.java" timestamp="1505282194920">
         <mark key="'" line="67" column="0" />
@@ -282,14 +282,20 @@
         <mark key="^" line="69" column="55" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" timestamp="1505453808262">
-        <mark key="'" line="48" column="22" />
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" timestamp="1505464693075">
+        <mark key="'" line="29" column="19" />
         <mark key="[" line="178" column="1" />
         <mark key="]" line="178" column="1" />
         <mark key="^" line="55" column="0" />
         <mark key="." line="178" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/service/impl/OrderDetailServiceImpl.java" timestamp="1505460405566">
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/order/OrderDetailContoller.java" timestamp="1505465108945">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="55" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/service/impl/OrderDetailServiceImpl.java" timestamp="1505465124935">
         <mark key="[" line="218" column="39" />
         <mark key="]" line="218" column="44" />
         <mark key="." line="218" column="44" />
@@ -338,10 +344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="73" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/regionalOrder.scala.html" />
-      <jump line="137" column="33" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/regionalOrder.scala.html" />
-      <jump line="94" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/RegionalServiceImpl.java" />
-      <jump line="14" column="9" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/routes" />
       <jump line="36" column="123" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
       <jump line="111" column="38" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/controllers/dispatch/DispatchOrderController.java" />
       <jump line="10" column="68" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/dispatchDetail.scala.html" />
@@ -412,7 +414,6 @@
       <jump line="85" column="97" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/routes" />
       <jump line="267" column="41" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/views/addr.scala.html" />
       <jump line="31" column="39" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
-      <jump line="48" column="22" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
       <jump line="301" column="32" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/regionalOrderModify.scala.html" />
       <jump line="70" column="8" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/regionalOrderModify.scala.html" />
       <jump line="530" column="51" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/regionalOrderModify.scala.html" />
@@ -438,6 +439,11 @@
       <jump line="180" column="37" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/models/Order.java" />
       <jump line="94" column="16" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/views/my_order.scala.html" />
       <jump line="169" column="29" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/views/my_order.scala.html" />
+      <jump line="48" column="134" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
+      <jump line="267" column="12" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
+      <jump line="29" column="19" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
+      <jump line="138" column="123" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -447,49 +453,49 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>箱</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IG1hcCA9IEpzb24uZnJvbUpzb24oSnNvbi5wYXJzZShyZXQuZ2V0KCJ2YXJzIikudG9TdHJpbmcoKSksIE1hcC5jbGFzcyk7</text>
       </register>
       <register name="/" type="4">
-        <text>modifyFlag</text>
+        <text>orderDetail</text>
       </register>
       <register name="0" type="4">
-        <text>http://sentsin.com/jquery/layer</text>
+        <text encoding="base64">TWFwPFN0cmluZywgT2JqZWN0Pg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wdXQoImFjdGl2aXR5TmFtZSIsICLorqLljZXnoa7orqQiKTsK</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IG9yZGVyTWFwID0gbmV3IEhhc2hNYXA8PigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wdXQoImFjdGl2aXR5TmFtZSIsICLorqLljZXnoa7orqQiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoaXNFYXJseUVuZC5lcXVhbHMoIjAiKSkgewogICAgICAgICAgICAgICAgICAgICAgICBvLnNldElzRWFybHlFbmQoIjAiKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBvLnNldElzRWFybHlFbmQoIjEiKTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAoaXNFYXJseUVuZC5lcXVhbHMoIjAiKSkgewogICAgICAgICAgICAgICAgICAgICAgICBvLnNldElzRWFybHlFbmQoIjAiKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBvLnNldElzRWFybHlFbmQoIjEiKTsKICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB1c2VySWQK</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBST0xFXwo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB1c2VySWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wdXQoImN1c3RpZCIsIGN1c3QpCg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBST0xFXwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQucHV0KCJvcmRlcnRpbWUiLCB0ZW1wRGF0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5wdXQoImN1c3RpZCIsIGN1c3QpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN1bi5pbnZva2UuZW1wdHkuRW1wdHk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQucHV0KCJvcmRlcnRpbWUiLCB0ZW1wRGF0ZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>modifyFlag</last-search>
+      <last-search>orderDetail</last-search>
       <last-offset />
-      <last-pattern>modifyFlag</last-pattern>
+      <last-pattern>orderDetail</last-pattern>
       <last-replace>id</last-replace>
       <last-substitute>taskid</last-substitute>
       <last-dir>1</last-dir>
@@ -497,8 +503,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0YXNrXD4=</entry>
-        <entry>user</entry>
         <entry>finance</entry>
         <entry>taskid</entry>
         <entry>early</entry>
@@ -517,6 +521,8 @@
         <entry>myorder</entry>
         <entry>重新确认</entry>
         <entry>modifyFlag</entry>
+        <entry>orderDetail\/init</entry>
+        <entry>orderDetail</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvXG4vZw==</entry>
