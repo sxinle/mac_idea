@@ -112,7 +112,12 @@
         <mark key="^" line="192" column="33" />
         <mark key="." line="202" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/public/statics/salesorderDetail.js" timestamp="1505703652275" />
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/public/statics/salesorderDetail.js" timestamp="1505706274661">
+        <mark key="[" line="59" column="30" />
+        <mark key="]" line="59" column="31" />
+        <mark key="^" line="59" column="32" />
+        <mark key="." line="59" column="31" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/DispatchOrderServiceImpl.java" timestamp="1505299396844">
         <mark key="'" line="206" column="31" />
         <mark key="[" line="206" column="65" />
@@ -144,7 +149,10 @@
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/public/static/commonHeader.js" timestamp="1505467047062">
         <mark key="'" line="175" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/salesOrderDetail.scala.html" timestamp="1505703586403" />
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/salesOrderDetail.scala.html" timestamp="1505706079871">
+        <mark key="[" line="110" column="32" />
+        <mark key="]" line="110" column="43" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/spider/src/main/java/com/acenode/spider/domain/Shop.java" timestamp="1505632071726">
         <mark key="'" line="29" column="30" />
         <mark key="[" line="11" column="29" />
@@ -616,40 +624,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>assigner</text>
+        <text>regionalMan</text>
       </register>
       <register name="/" type="4">
         <text>order\/detail</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;订单修改成功 业务员进行审核&quot;</text>
+        <text>regionalMan</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsX3NhbGVzTWFuCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBHT19SRUdJT05BTCA9ICLorqLljZXov5vlhaXnpajmja7kuK3lv4PnrYnlvoXlj5HotKciOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBHT19SRUdJT05BTCA9ICLorqLljZXov5vlhaXnpajmja7kuK3lv4PnrYnlvoXlj5HotKciOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBHT19TQUxFTUFOID0gIuiuouWNleS/ruaUueaIkOWKnyDkuJrliqHlkZjov5vooYzlrqHmoLgiOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9jb21tb25TZXJ2aWNlLm1vZE9yZGVyU3RhdHVzKG9yZGVySWQsIHNhbGVzTW9kaWZ5ID8gQ29uc3RhbnRzLkdPX1NBTEVNQU4gOiBDb25zdGFudHMuR09fUkVHSU9OQUwsIHJlcXVlc3QpOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gcHJvZHVjdEluZm8g5ZWG5ZOB5L+h5oGvCiAgICAgKiBAcGFyYW0gb3JkZXJJZCAgICAg6K6i5Y2VaWQKICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uCiAgICAgKiBAYXV0aG9yIGx5ZGlhCiAgICAgKiBAZGF0ZSAyMDE05bm0OOaciDEy5pelCiAgICAgKiBAc2luY2UgMS4wCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFN0cmluZyBHT19TQUxFTUFOID0gIuiuouWNleS/ruaUueaIkOWKnyDkuJrliqHlkZjov5vooYzlrqHmoLgiOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9jb21tb25TZXJ2aWNlLm1vZE9yZGVyU3RhdHVzKG9yZGVySWQsIHNhbGVzTW9kaWZ5ID8gQ29uc3RhbnRzLkdPX1NBTEVNQU4gOiBDb25zdGFudHMuR09fUkVHSU9OQUwsIHJlcXVlc3QpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gcHJvZHVjdEluZm8g5ZWG5ZOB5L+h5oGvCiAgICAgKiBAcGFyYW0gb3JkZXJJZCAgICAg6K6i5Y2VaWQKICAgICAqIEB0aHJvd3MgRXhjZXB0aW9uCiAgICAgKiBAYXV0aG9yIGx5ZGlhCiAgICAgKiBAZGF0ZSAyMDE05bm0OOaciDEy5pelCiAgICAgKiBAc2luY2UgMS4wCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL+WGmeatuyDop5LoibJpZC3lpKfljLppZAogICAgICAgIC8vIOivtOaYjuaYr+S4muWKoeWRmOmps+WbngogICAgICAgIC8vaWYgKCLnlJ/miJDorqLljZUiLmVxdWFscyhvcmRlck1hcC5nZXQoImFjdGl2aXR5TmFtZSIpKSkgewogICAgICAgIC8vICAgIGpicG1NYW5hZ2VyLmNvbXBsYXRlQnlWYXJBbmRSZXModGFza0lkLCAi5Lia5Yqh5ZGY5a6h5qC4IiwgamJwbU1hcCk7CiAgICAgICAgLy99IGVsc2UgewogICAgICAgIC8vICAgIFN0cmluZyBuZXh0VGFzayA9IG9yZGVyTWFwLmdldCgib3BlcmF0b3IiKS5lcXVhbHMoInNhbGVzIikgPyAi5aSn5Yy65Lia5Yqh5a6h5qC4IiA6ICLlpKfljLrnpajmja7lrqHmoLgiOwogICAgICAgIC8vICAgIGpicG1NYW5hZ2VyLmNvbXBsYXRlQnlWYXJBbmRSZXModGFza0lkLCBuZXh0VGFzaywgamJwbU1hcCk7CiAgICAgICAgLy99Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgVGhyZWFkLnNsZWVwKDEwMDApOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL+WGmeatuyDop5LoibJpZC3lpKfljLppZAogICAgICAgIC8vIOivtOaYjuaYr+S4muWKoeWRmOmps+WbngogICAgICAgIC8vaWYgKCLnlJ/miJDorqLljZUiLmVxdWFscyhvcmRlck1hcC5nZXQoImFjdGl2aXR5TmFtZSIpKSkgewogICAgICAgIC8vICAgIGpicG1NYW5hZ2VyLmNvbXBsYXRlQnlWYXJBbmRSZXModGFza0lkLCAi5Lia5Yqh5ZGY5a6h5qC4IiwgamJwbU1hcCk7CiAgICAgICAgLy99IGVsc2UgewogICAgICAgIC8vICAgIFN0cmluZyBuZXh0VGFzayA9IG9yZGVyTWFwLmdldCgib3BlcmF0b3IiKS5lcXVhbHMoInNhbGVzIikgPyAi5aSn5Yy65Lia5Yqh5a6h5qC4IiA6ICLlpKfljLrnpajmja7lrqHmoLgiOwogICAgICAgIC8vICAgIGpicG1NYW5hZ2VyLmNvbXBsYXRlQnlWYXJBbmRSZXModGFza0lkLCBuZXh0VGFzaywgamJwbU1hcCk7CiAgICAgICAgLy99Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
