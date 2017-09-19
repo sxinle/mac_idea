@@ -248,10 +248,10 @@
       <file name="$USER_HOME$/.ideaLibSources/camunda-xml-model-7.7.0-sources.jar!/org/camunda/bpm/model/xml/impl/util/DomUtil.java" timestamp="1505796854321">
         <mark key="'" line="240" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/BPMNServiceImpl.java" timestamp="1505796782445">
-        <mark key="'" line="220" column="0" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/BPMNServiceImpl.java" timestamp="1505801113519">
+        <mark key="'" line="93" column="4" />
+        <mark key="[" line="30" column="15" />
+        <mark key="]" line="30" column="38" />
         <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/InterFlowServiceImp.java" timestamp="1505792774284">
@@ -555,7 +555,6 @@
       <file name="$USER_HOME$/workspace/jinhui/crm/public/statics/app/view/panel/pccr/PccrListView.js" timestamp="1505792182360" />
     </filemarks>
     <jumps>
-      <jump line="310" column="42" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/views/orderDetail.scala.html" />
       <jump line="89" column="14" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/views/orderDetail.scala.html" />
       <jump line="319" column="99" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/views/orderDetail.scala.html" />
       <jump line="167" column="16" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/orderDetail.scala.html" />
@@ -655,6 +654,7 @@
       <jump line="67" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/sql_update/alterDB.sql" />
       <jump line="53" column="4" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/controllers/regional/RegionalController.java" />
       <jump line="30" column="43" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/controllers/regional/RegionalController.java" />
+      <jump line="93" column="4" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/BPMNServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -669,35 +669,35 @@
       <register name="/" type="4">
         <text>jbpm</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9PYmplY3Qgb2JqRWFybHlFbmQgPSBjb21tU2VydmljZS5nZXRUYXNrUGFyYW0odGFza2lkLCBwYXJhbVNldCkuZ2V0KCJpc0Vhcmx5RW5kIik7Cg==</text>
+      <register name="0" type="4">
+        <text>Bpmn.readModelFromStream</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCEtLS0tPgo=</text>
+        <text encoding="base64">ICAgICAgICBCcG1uLklOU1RBTkNFLmdldEJwbW5Nb2RlbEJ1aWxkZXIoKS4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCEtLS0tPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICog5aSn5Yy654mp5rWBCiAgICAgKgogICAgICogQHJldHVybgogICAgICogQGF1dGhvciBseWRpYQogICAgICogQGRhdGUgMjAxNOW5tDjmnIg35pelCiAgICAgKiBAc2luY2UgMS4wCiAgICAgKi8KICAgIHB1YmxpYyBSZXN1bHQgbGFyZ2VBcmVhKCkgewogICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gcmV0dXJuTWFwID0gbmV3IEhhc2hNYXA8U3RyaW5nLCBPYmplY3Q+KCk7CgogICAgICAgIEZvcm08RGlzcGF0Y2hPcmRlckZvcm0+IGRpc3BhdGNoRm9ybSA9IEZvcm0uZm9ybShEaXNwYXRjaE9yZGVyRm9ybS5jbGFzcyk7CiAgICAgICAgRGlzcGF0Y2hPcmRlckZvcm0gZm9ybSA9IGRpc3BhdGNoRm9ybS5iaW5kRnJvbVJlcXVlc3QoKS5nZXQoKTsKICAgICAgICB0cnkgewoKICAgICAgICAgICAgc2VydmljZS5zZW5kVG9MYXJnZUFyZWEoZm9ybSwgcmVxdWVzdCgpKTsKCiAgICAgICAgICAgIHJldHVybk1hcC5wdXQoSUNvbnRlbnRzLlNUQVRVUywgSUNvbnRlbnRzLlNVQ0NFU1NfU1RBVFVTKTsKICAgICAgICAgICAgcmV0dXJuIG9rKEpzb24udG9Kc29uKHJldHVybk1hcCkpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHJldHVybk1hcC5wdXQoSUNvbnRlbnRzLlNUQVRVUywgSUNvbnRlbnRzLkZBSUxfU1RBVFVTKTsKICAgICAgICAgICAgTG9nZ2VyLmVycm9yKCJEaXNwYXRjaE9yZGVyQ29udHJvbGxlci5jaGVja++8muabtOaWsOiuouWNleeKtuaAgeS/oeaBr+W8guW4uCIsIGUpOwogICAgICAgICAgICByZXR1cm4gb2soSnNvbi50b0pzb24ocmV0dXJuTWFwKSk7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICoKICogQGF1dGhvciBseWRpYQogKiBAZGF0ZSAyMDE15bm0MeaciDI55pelCiAqIEBzaW5jZSAxLjAK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog5aSn5Yy654mp5rWBCiAgICAgKgogICAgICogQHJldHVybgogICAgICogQGF1dGhvciBseWRpYQogICAgICogQGRhdGUgMjAxNOW5tDjmnIg35pelCiAgICAgKiBAc2luY2UgMS4wCiAgICAgKi8KICAgIHB1YmxpYyBSZXN1bHQgbGFyZ2VBcmVhKCkgewogICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gcmV0dXJuTWFwID0gbmV3IEhhc2hNYXA8U3RyaW5nLCBPYmplY3Q+KCk7CgogICAgICAgIEZvcm08RGlzcGF0Y2hPcmRlckZvcm0+IGRpc3BhdGNoRm9ybSA9IEZvcm0uZm9ybShEaXNwYXRjaE9yZGVyRm9ybS5jbGFzcyk7CiAgICAgICAgRGlzcGF0Y2hPcmRlckZvcm0gZm9ybSA9IGRpc3BhdGNoRm9ybS5iaW5kRnJvbVJlcXVlc3QoKS5nZXQoKTsKICAgICAgICB0cnkgewoKICAgICAgICAgICAgc2VydmljZS5zZW5kVG9MYXJnZUFyZWEoZm9ybSwgcmVxdWVzdCgpKTsKCiAgICAgICAgICAgIHJldHVybk1hcC5wdXQoSUNvbnRlbnRzLlNUQVRVUywgSUNvbnRlbnRzLlNVQ0NFU1NfU1RBVFVTKTsKICAgICAgICAgICAgcmV0dXJuIG9rKEpzb24udG9Kc29uKHJldHVybk1hcCkpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIHJldHVybk1hcC5wdXQoSUNvbnRlbnRzLlNUQVRVUywgSUNvbnRlbnRzLkZBSUxfU1RBVFVTKTsKICAgICAgICAgICAgTG9nZ2VyLmVycm9yKCJEaXNwYXRjaE9yZGVyQ29udHJvbGxlci5jaGVja++8muabtOaWsOiuouWNleeKtuaAgeS/oeaBr+W8guW4uCIsIGUpOwogICAgICAgICAgICByZXR1cm4gb2soSnNvbi50b0pzb24ocmV0dXJuTWFwKSk7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CSAqCg==</text>
+        <text encoding="base64">ICoKICogQGF1dGhvciBseWRpYQogKiBAZGF0ZSAyMDE15bm0MeaciDI55pelCiAqIEBzaW5jZSAxLjAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CSAqCgkgKiBAYXV0aG9yIGx5ZGlhCgkgKiBAZGF0ZSAyMDE15bm0MeaciDI55pelCgkgKiBAcGFyYW0gZm9ybQoJICogQHBhcmFtIHVzZXIKCSAqIEBwYXJhbSByZXF1ZXN0CgkgKiBAdGhyb3dzIEV4Y2VwdGlvbgoJICogQHNpbmNlIDEuMAo=</text>
+        <text encoding="base64">CSAqCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gZm9ybQogICAgICogQHBhcmFtIHVzZXIKICAgICAqIEBwYXJhbSByZXF1ZXN0CiAgICAgKiBAdGhyb3dzIEV4Y2VwdGlvbgogICAgICogQGF1dGhvciBseWRpYQogICAgICogQGRhdGUgMjAxNeW5tDHmnIgyOeaXpQogICAgICogQHNpbmNlIDEuMAo=</text>
+        <text encoding="base64">CSAqCgkgKiBAYXV0aG9yIGx5ZGlhCgkgKiBAZGF0ZSAyMDE15bm0MeaciDI55pelCgkgKiBAcGFyYW0gZm9ybQoJICogQHBhcmFtIHVzZXIKCSAqIEBwYXJhbSByZXF1ZXN0CgkgKiBAdGhyb3dzIEV4Y2VwdGlvbgoJICogQHNpbmNlIDEuMAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHNlcnZpY2UuSmJwbU1hbmFnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gZm9ybQogICAgICogQHBhcmFtIHVzZXIKICAgICAqIEBwYXJhbSByZXF1ZXN0CiAgICAgKiBAdGhyb3dzIEV4Y2VwdGlvbgogICAgICogQGF1dGhvciBseWRpYQogICAgICogQGRhdGUgMjAxNeW5tDHmnIgyOeaXpQogICAgICogQHNpbmNlIDEuMAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBCcG1uLnJlYWRNb2RlbEZyb21GaWxlKCkK</text>
+        <text encoding="base64">aW1wb3J0IHNlcnZpY2UuSmJwbU1hbmFnZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
