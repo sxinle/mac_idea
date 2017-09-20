@@ -257,6 +257,9 @@
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/public/javascripts/bpmn/bpmn-modeler.js" timestamp="1505805081640">
         <mark key="'" line="14942" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/pay/BankController.java" timestamp="1505892466656">
+        <mark key="'" line="249" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/crm/public/statics/app.js" timestamp="1505791941464">
         <mark key="'" line="7" column="4" />
       </file>
@@ -409,7 +412,6 @@
         <mark key="." line="22" column="24" />
         <mark key="^" line="22" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/service/impl/BankServiceImpl.java" timestamp="1505890254177" />
       <file name="$MAVEN_REPOSITORY$/cn/wanghaomiao/JsoupXpath/0.3.2/JsoupXpath-0.3.2-sources.jar!/cn/wanghaomiao/xpath/model/JXDocument.java" timestamp="1505576326428">
         <mark key="'" line="65" column="11" />
       </file>
@@ -426,7 +428,6 @@
         <mark key="." line="13" column="34" />
         <mark key="^" line="11" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/crm/public/statics/app/store/customer/CusTreeStore.js" timestamp="1505873262412" />
       <file name="$USER_HOME$/workspace/demo/spider/src/main/java/com/acenode/spider/util/HttpSender.java" timestamp="1505632038987">
         <mark key="'" line="47" column="6" />
         <mark key="[" line="159" column="86" />
@@ -462,7 +463,6 @@
         <mark key="." line="26" column="38" />
         <mark key="^" line="26" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/crm/public/statics/app/store/customer/CustomerStore.js" timestamp="1505872897774" />
       <file name="$USER_HOME$/.ivy2/cache/xerces/xercesImpl/srcs/xercesImpl-2.11.0-sources.jar!/org/apache/xerces/impl/XMLNSDocumentScannerImpl.java" timestamp="1505806374417">
         <mark key="'" line="123" column="22" />
       </file>
@@ -546,12 +546,12 @@
         <mark key="." line="20" column="137" />
         <mark key="^" line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/order/OrderDetailContoller.java" timestamp="1505871812117">
-        <mark key="'" line="53" column="26" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
-        <mark key="^" line="54" column="31" />
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/order/OrderDetailContoller.java" timestamp="1505892481385">
+        <mark key="'" line="159" column="0" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="3" />
+        <mark key="." line="36" column="3" />
+        <mark key="^" line="36" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/demo/spider/src/main/resources/application.properties" timestamp="1505627403755">
         <mark key="'" line="0" column="0" />
@@ -597,13 +597,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="307" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/controllers/regional/RegionalController.java" />
-      <jump line="323" column="4" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/CommonService.java" />
-      <jump line="107" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/src.zip!/java/lang/String.java" />
-      <jump line="217" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/CommonService.java" />
-      <jump line="965" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/CommonServiceImpl.java" />
-      <jump line="12" column="12" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/LogisticsService.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/LogisticsService.java" />
       <jump line="167" column="4" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/LogisticsServiceImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/LogisticsServiceImpl.java" />
       <jump line="25" column="13" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/controllers/logistics/LogisticsController.java" />
@@ -697,6 +690,13 @@
       <jump line="55" column="12" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/CommonServiceImpl.java" />
       <jump line="44" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/CommonServiceImpl.java" />
       <jump line="1094" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/CommonServiceImpl.java" />
+      <jump line="124" column="53" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/pay/BankController.java" />
+      <jump line="48" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/pay/BankController.java" />
+      <jump line="249" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/pay/BankController.java" />
+      <jump line="112" column="19" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/order/OrderDetailContoller.java" />
+      <jump line="160" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/order/OrderDetailContoller.java" />
+      <jump line="37" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/order/OrderDetailContoller.java" />
+      <jump line="159" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/order/OrderDetailContoller.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -706,7 +706,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>详情</text>
@@ -752,7 +752,7 @@
       <last-replace>id</last-replace>
       <last-substitute>taskid</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
