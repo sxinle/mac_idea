@@ -13,6 +13,9 @@
         <mark key="^" line="2" column="51" />
         <mark key="." line="2" column="51" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/crm/public/statics/app/view/panel/customer/CusTreeView.js" timestamp="1505873406244">
+        <mark key="'" line="43" column="26" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/spider/src/main/java/com/acenode/spider/util/ExceptionHandler.java" timestamp="1505632323380">
         <mark key="[" line="17" column="13" />
         <mark key="]" line="17" column="18" />
@@ -422,6 +425,7 @@
         <mark key="." line="13" column="34" />
         <mark key="^" line="11" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/crm/public/statics/app/store/customer/CusTreeStore.js" timestamp="1505873262412" />
       <file name="$USER_HOME$/workspace/demo/spider/src/main/java/com/acenode/spider/util/HttpSender.java" timestamp="1505632038987">
         <mark key="'" line="47" column="6" />
         <mark key="[" line="159" column="86" />
@@ -461,6 +465,7 @@
         <mark key="." line="26" column="38" />
         <mark key="^" line="26" column="38" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/crm/public/statics/app/store/customer/CustomerStore.js" timestamp="1505872897774" />
       <file name="$USER_HOME$/.ivy2/cache/xerces/xercesImpl/srcs/xercesImpl-2.11.0-sources.jar!/org/apache/xerces/impl/XMLNSDocumentScannerImpl.java" timestamp="1505806374417">
         <mark key="'" line="123" column="22" />
       </file>
@@ -599,11 +604,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/util/Global.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/PaperNewServiceImpl.java" />
-      <jump line="5" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/PaperNewServiceImpl.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/PaperNewServiceImpl.java" />
-      <jump line="223" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/PaperNewServiceImpl.java" />
       <jump line="9" column="14" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/PaperServiceImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/PaperServiceImpl.java" />
       <jump line="215" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/PaperServiceImpl.java" />
@@ -699,6 +699,11 @@
       <jump line="167" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/order/OrderDetailContoller.java" />
       <jump line="35" column="26" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/order/OrderDetailContoller.java" />
       <jump line="54" column="26" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/order/OrderDetailContoller.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/crm/public/statics/app/view/panel/customer/CusTreeView.js" />
+      <jump line="617" column="50" filename="$USER_HOME$/workspace/jinhui/Bitbucket/crm/public/statics/app/view/panel/customer/CusTreeView.js" />
+      <jump line="7" column="18" filename="$USER_HOME$/workspace/jinhui/Bitbucket/crm/public/statics/app/view/panel/customer/CusTreeView.js" />
+      <jump line="14" column="19" filename="$USER_HOME$/workspace/jinhui/Bitbucket/crm/public/statics/app/view/panel/customer/CusTreeView.js" />
+      <jump line="43" column="26" filename="$USER_HOME$/workspace/jinhui/Bitbucket/crm/public/statics/app/view/panel/customer/CusTreeView.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -711,7 +716,7 @@
         <text>j</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21tU2VydmljZVw+</text>
+        <text>详情</text>
       </register>
       <register name="0" type="4">
         <text>http://www.omg.org/spec/BPMN/20100524/MODEL</text>
@@ -748,9 +753,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb21tU2VydmljZVw+</last-search>
+      <last-search>详情</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21tU2VydmljZVw+</last-pattern>
+      <last-pattern>详情</last-pattern>
       <last-replace>id</last-replace>
       <last-substitute>taskid</last-substitute>
       <last-dir>1</last-dir>
@@ -758,8 +763,6 @@
     </search>
     <history>
       <history-search>
-        <entry>orderDetail\/modifyOrder</entry>
-        <entry>订单被修改</entry>
         <entry>orderDetail\/modify</entry>
         <entry>servlet</entry>
         <entry>logback</entry>
@@ -778,6 +781,8 @@
         <entry>jbpm</entry>
         <entry encoding="base64">XDxhZGRfdXNlcmlkXD4=</entry>
         <entry encoding="base64">XDxjb21tU2VydmljZVw+</entry>
+        <entry>grid</entry>
+        <entry>详情</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvXHIsL2c=</entry>
