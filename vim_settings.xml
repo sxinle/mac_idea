@@ -48,7 +48,6 @@
         <mark key="." line="132" column="40" />
         <mark key="^" line="132" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/crm/app/controllers/user/UserManageController.java" timestamp="1506302597774" />
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/SalesOrderServiceImpl.java" timestamp="1505711620324">
         <mark key="'" line="63" column="18" />
         <mark key="[" line="74" column="34" />
@@ -166,6 +165,12 @@
         <mark key="^" line="9" column="55" />
         <mark key="." line="9" column="55" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/crm/public/statics/app/view/panel/customer/CusTreeView.js" timestamp="1506397283642">
+        <mark key="[" line="666" column="61" />
+        <mark key="]" line="666" column="65" />
+        <mark key="." line="666" column="65" />
+        <mark key="^" line="666" column="65" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/public/statics/orderHistory.js" timestamp="1505368972713">
         <mark key="'" line="34" column="45" />
       </file>
@@ -273,8 +278,10 @@
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/pay/BankController.java" timestamp="1505892466656">
         <mark key="'" line="249" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/crm/public/statics/app.js" timestamp="1506307706663">
+      <file name="$USER_HOME$/workspace/jinhui/crm/public/statics/app.js" timestamp="1506397143872">
         <mark key="'" line="7" column="4" />
+        <mark key="[" line="28" column="24" />
+        <mark key="]" line="28" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/controllers/dispatch/DispatchOrderController.java" timestamp="1505795929164">
         <mark key="'" line="91" column="15" />
@@ -312,6 +319,7 @@
         <mark key="]" line="193" column="33" />
         <mark key="." line="193" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/crm/app/service/UserService.java" timestamp="1506397311683" />
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/public/statics/salesorder.js" timestamp="1505211735515">
         <mark key="'" line="45" column="55" />
         <mark key="[" line="46" column="61" />
@@ -419,6 +427,7 @@
         <mark key="." line="88" column="55" />
         <mark key="^" line="88" column="55" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/crm/app/controllers/user/UserController.java" timestamp="1506397256947" />
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/BPMNService.java" timestamp="1505701476507">
         <mark key="[" line="22" column="34" />
         <mark key="]" line="22" column="60" />
@@ -532,7 +541,7 @@
         <mark key="^" line="204" column="7" />
         <mark key="." line="204" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506307799143">
+      <file name="/Dummy.txt" timestamp="1506397312156">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -631,7 +640,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="974" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/InterFlowServiceImp.java" />
       <jump line="49" column="40" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/InterFlowServiceImp.java" />
       <jump line="70" column="6" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
       <jump line="77" column="128" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
@@ -729,8 +737,9 @@
       <jump line="380" column="52" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app/controller/CusTreeController.js" />
       <jump line="62" column="41" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app/controller/CusTreeController.js" />
       <jump line="137" column="25" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app/view/panel/customer/CusTreeView.js" />
-      <jump line="7" column="4" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app.js" />
       <jump line="3" column="11" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/ext/plugins/LabelEditor.js" />
+      <jump line="31" column="20" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app.js" />
+      <jump line="7" column="4" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -740,13 +749,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>customerForm</text>
+        <text>remove</text>
       </register>
       <register name="/" type="4">
-        <text>*</text>
+        <text encoding="base64">XDxwZXJtaXNzaW9uX3Nob3dcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>Form.form(CustomerForm.class)</text>
+        <text>user/authority</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBGb3JtPEN1c3RvbWVyRm9ybT4gY3VzdG9tZXJGb3JtID0gRm9ybS5mb3JtKEN1c3RvbWVyRm9ybS5jbGFzcyk7Cg==</text>
@@ -780,9 +789,9 @@
       </register>
     </registers>
     <search>
-      <last-search>*</last-search>
+      <last-search encoding="base64">XDxwZXJtaXNzaW9uX3Nob3dcPg==</last-search>
       <last-offset />
-      <last-pattern>*</last-pattern>
+      <last-pattern encoding="base64">XDxwZXJtaXNzaW9uX3Nob3dcPg==</last-pattern>
       <last-replace />
       <last-substitute>*</last-substitute>
       <last-dir>1</last-dir>
@@ -794,7 +803,6 @@
         <entry>order\/detail</entry>
         <entry>myorder</entry>
         <entry>regional</entry>
-        <entry encoding="base64">XDxwZXJtaXNzaW9uX3Nob3dcPg==</entry>
         <entry>large</entry>
         <entry>notice</entry>
         <entry>jbpm</entry>
@@ -810,6 +818,7 @@
         <entry>手机</entry>
         <entry>start</entry>
         <entry>*</entry>
+        <entry encoding="base64">XDxwZXJtaXNzaW9uX3Nob3dcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2phdmEudXRpbC4vL2c=</entry>
