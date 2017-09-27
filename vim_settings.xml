@@ -165,9 +165,12 @@
         <mark key="^" line="9" column="55" />
         <mark key="." line="9" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/crm/app/service/impl/CustomerServiceImpl.java" timestamp="1506503358751">
+      <file name="$USER_HOME$/workspace/jinhui/crm/app/service/impl/CustomerServiceImpl.java" timestamp="1506507199530">
         <mark key="'" line="73" column="13" />
-        <mark key="." line="559" column="56" />
+        <mark key="[" line="537" column="65" />
+        <mark key="]" line="537" column="65" />
+        <mark key="." line="537" column="65" />
+        <mark key="^" line="537" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/public/statics/orderHistory.js" timestamp="1505368972713">
         <mark key="'" line="34" column="45" />
@@ -424,6 +427,7 @@
         <mark key="." line="88" column="55" />
         <mark key="^" line="88" column="55" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/crm/app/controllers/user/UserController.java" timestamp="1506504384851" />
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/BPMNService.java" timestamp="1505701476507">
         <mark key="[" line="22" column="34" />
         <mark key="]" line="22" column="60" />
@@ -537,7 +541,7 @@
         <mark key="^" line="204" column="7" />
         <mark key="." line="204" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1506503240324">
+      <file name="/Dummy.txt" timestamp="1506507219477">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -582,7 +586,7 @@
         <mark key="." line="20" column="137" />
         <mark key="^" line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/crm/app/service/CustomerService.java" timestamp="1506503237517" />
+      <file name="$USER_HOME$/workspace/jinhui/crm/app/service/CustomerService.java" timestamp="1506505767640" />
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/order/OrderDetailContoller.java" timestamp="1505892481385">
         <mark key="'" line="159" column="0" />
         <mark key="[" line="36" column="0" />
@@ -603,7 +607,7 @@
         <mark key="." line="202" column="41" />
         <mark key="^" line="202" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/crm/conf/sql/Customer.xml" timestamp="1506503193766" />
+      <file name="$USER_HOME$/workspace/jinhui/crm/conf/sql/Customer.xml" timestamp="1506505803592" />
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/regionalOrder.scala.html" timestamp="1505452953824">
         <mark key="'" line="15" column="38" />
         <mark key="[" line="130" column="55" />
@@ -630,7 +634,7 @@
       <file name="$USER_HOME$/workspace/jinhui/crm/public/statics/ext/plugins/LabelEditor.js" timestamp="1506307839282">
         <mark key="'" line="3" column="11" />
       </file>
-      <file name="/fragment.java" timestamp="1505816254882">
+      <file name="/fragment.java" timestamp="1506505253676">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="29" />
         <mark key="^" line="0" column="29" />
@@ -747,40 +751,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>remove</text>
+        <text>_size</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwZXJtaXNzaW9uX3Nob3dcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>user/authority</text>
+        <text>productList.size()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBGb3JtPEN1c3RvbWVyRm9ybT4gY3VzdG9tZXJGb3JtID0gRm9ybS5mb3JtKEN1c3RvbWVyRm9ybS5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBGb3JtPEN1c3RvbWVyRm9ybT4gY3VzdG9tZXJGb3JtID0gRm9ybS5mb3JtKEN1c3RvbWVyRm9ybS5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDlj4LmlbBtYXAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIAogICAgICogQGF1dGhvciBhbmR5CiAgICAgKiBAZGF0ZSAyMDE05bm0NeaciDE55pelCiAgICAgKiBAcGFyYW0gY3VzdG9tZXJGb3JtCiAgICAgKiBAcmV0dXJuIExpc3Q8Q3VzdG9tZXJGb3JtPgogICAgICogQHNpbmNlIDEuMAo=</text>
+        <text encoding="base64">ICAgICAgICBpbnQgX3NpemUgPSBwcm9kdWN0TGlzdC5zaXplKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIEdFVAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBoZWx5IDIwMTQtMDctMTcg5re75YqgIOWinuWKoOWVhuWTgeS7t+agvAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtZXRob2Q6ICdHRVQnLAogICAgICAgIHRpbWVvdXQ6IDMwMDAwMDAsCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDnu5Pmnpzpm4blkIgK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGF1dG9Mb2FkOiBmYWxzZSwK</text>
+        <text encoding="base64">ICAgICAgICAvLyBmb3IgKEludGVnZXIgcHJvZHVjdElkIDogcHJvZHVjdExpc3QpIHsKICAgICAgICAvLyBmb3IgKEludGVnZXIgZGlzdHJpYnV0b3JJZCA6IGRpc3RyaWJ1dG9yTGlzdCkgewogICAgICAgIC8vIE1hcDxTdHJpbmcsIE9iamVjdD4gZGlzdHJpYnV0b3JQcm9kdWN0TWFwID0gbmV3IEhhc2hNYXA8U3RyaW5nLAogICAgICAgIC8vIE9iamVjdD4oKTsKICAgICAgICAvLyBkaXN0cmlidXRvclByb2R1Y3RNYXAucHV0KCJwcm9kdWN0aWQiLCBwcm9kdWN0SWQpOwogICAgICAgIC8vIGRpc3RyaWJ1dG9yUHJvZHVjdE1hcC5wdXQoImRpc3RyaWJ1dG9yaWQiLCBkaXN0cmlidXRvcklkKTsKICAgICAgICAvLyBpZiAoIWV4aXN0TGlzdC5jb250YWlucyhkaXN0cmlidXRvclByb2R1Y3RNYXApKSB7CiAgICAgICAgLy8gZGlzdHJpYnV0b3JQcm9kdWN0TGlzdC5hZGQoZGlzdHJpYnV0b3JQcm9kdWN0TWFwKTsKICAgICAgICAvLyB9CiAgICAgICAgLy8gfQogICAgICAgIC8vIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lb3V0amprago=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1vZGVsOiAnbXlNb2RlbCcsCg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IGN1c3RvbWVycy5sZW5ndGg7IGkrKykgewogICAgICAgICAgICBjdXN0b21lckxpc3QuYWRkKGN1c3RvbWVyc1tpXSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
