@@ -269,12 +269,12 @@
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/CommonService.java" timestamp="1505783966257">
         <mark key="'" line="217" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/ScanController.java" timestamp="1506672823897">
-        <mark key="'" line="273" column="24" />
-        <mark key="[" line="455" column="26" />
-        <mark key="]" line="455" column="34" />
-        <mark key="^" line="454" column="12" />
-        <mark key="." line="455" column="26" />
+      <file name="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/ScanController.java" timestamp="1506674510878">
+        <mark key="'" line="281" column="21" />
+        <mark key="[" line="332" column="90" />
+        <mark key="]" line="332" column="90" />
+        <mark key="^" line="443" column="12" />
+        <mark key="." line="332" column="90" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/sql_update/alterDB.sql" timestamp="1505796239141">
         <mark key="'" line="67" column="0" />
@@ -448,8 +448,8 @@
         <mark key="." line="85" column="7" />
         <mark key="^" line="85" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/pointshub/target/scala-2.10/src_managed/main/views/html/mobCalls.template.scala" timestamp="1506671964926">
-        <mark key="'" line="631" column="32" />
+      <file name="$USER_HOME$/workspace/jinhui/pointshub/target/scala-2.10/src_managed/main/views/html/mobCalls.template.scala" timestamp="1506674018488">
+        <mark key="'" line="1148" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/demo/spider/src/main/java/com/acenode/spider/mapping/ShopMapper.java" timestamp="1505631017649">
         <mark key="[" line="11" column="7" />
@@ -657,10 +657,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="68" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app/view/form/customer/addCustomerForm.js" />
-      <jump line="125" column="84" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app/view/form/customer/addCustomerForm.js" />
-      <jump line="137" column="68" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app/view/form/customer/addCustomerForm.js" />
-      <jump line="185" column="68" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app/view/form/customer/addCustomerForm.js" />
       <jump line="192" column="90" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app/view/form/customer/addCustomerForm.js" />
       <jump line="7" column="53" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/application-beans.xml" />
       <jump line="14942" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/public/javascripts/bpmn/bpmn-modeler.js" />
@@ -757,6 +753,10 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/target/scala-2.10/src_managed/main/views/html/mobCalls.template.scala" />
       <jump line="631" column="32" filename="$USER_HOME$/workspace/jinhui/pointshub/target/scala-2.10/src_managed/main/views/html/mobCalls.template.scala" />
       <jump line="278" column="24" filename="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/ScanController.java" />
+      <jump line="1148" column="4" filename="$USER_HOME$/workspace/jinhui/pointshub/target/scala-2.10/src_managed/main/views/html/mobCalls.template.scala" />
+      <jump line="418" column="46" filename="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/ScanController.java" />
+      <jump line="436" column="29" filename="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/ScanController.java" />
+      <jump line="281" column="21" filename="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/ScanController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -766,10 +766,10 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>asecode</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzY2FuUHJpemVcPg==</text>
+        <text encoding="base64">XDxpbWFnZXNcPg==</text>
       </register>
       <register name="0" type="4">
         <text>basecode</text>
@@ -806,9 +806,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzY2FuUHJpemVcPg==</last-search>
+      <last-search encoding="base64">XDxpbWFnZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzY2FuUHJpemVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxpbWFnZXNcPg==</last-pattern>
       <last-replace />
       <last-substitute>*</last-substitute>
       <last-dir>1</last-dir>
@@ -816,7 +816,6 @@
     </search>
     <history>
       <history-search>
-        <entry>myorder</entry>
         <entry>regional</entry>
         <entry>large</entry>
         <entry>notice</entry>
@@ -836,6 +835,7 @@
         <entry encoding="base64">XDxwZXJtaXNzaW9uX3Nob3dcPg==</entry>
         <entry encoding="base64">XDxkYnJcPg==</entry>
         <entry encoding="base64">XDxzY2FuUHJpemVcPg==</entry>
+        <entry encoding="base64">XDxpbWFnZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2phdmEudXRpbC4vL2c=</entry>
