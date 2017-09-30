@@ -200,6 +200,7 @@
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/JbpmManagerImpl.java" timestamp="1505783377017">
         <mark key="'" line="386" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/dd_service/neunner_service/app/controllers/api/UserController.java" timestamp="1506739524214" />
       <file name="$USER_HOME$/workspace/demo/spider/pom.xml" timestamp="1505630861289">
         <mark key="'" line="131" column="0" />
         <mark key="[" line="77" column="64" />
@@ -207,6 +208,7 @@
         <mark key="^" line="78" column="25" />
         <mark key="." line="78" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/dd_service/neunner_service/conf/application.conf" timestamp="1506739077812" />
       <file name="$USER_HOME$/workspace/demo/spider/src/main/resources/log4j2.xml" timestamp="1505629694462">
         <mark key="'" line="53" column="0" />
         <mark key="[" line="5" column="33" />
@@ -514,6 +516,9 @@
       <file name="$USER_HOME$/workspace/jinhui/crm/public/statics/app/controller/UserInfoController.js" timestamp="1506302479942">
         <mark key="'" line="18" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/dd_service/neunner_service/conf/routes" timestamp="1506739514268">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/.ivy2/cache/xerces/xercesImpl/srcs/xercesImpl-2.11.0-sources.jar!/org/apache/xerces/impl/XMLNSDocumentScannerImpl.java" timestamp="1505806374417">
         <mark key="'" line="123" column="22" />
       </file>
@@ -595,6 +600,13 @@
         <mark key="^" line="79" column="3" />
         <mark key="." line="79" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/dd_service/neunner_service/build.sbt" timestamp="1506739317872">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="56" />
+        <mark key="^" line="21" column="0" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/spider/src/main/java/com/acenode/spider/mapping/TianMaoProductMapper.java" timestamp="1505636311228">
         <mark key="[" line="20" column="136" />
         <mark key="]" line="20" column="24" />
@@ -655,8 +667,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="26" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/order/OrderDetailContoller.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/crm/public/statics/app/view/panel/customer/CusTreeView.js" />
       <jump line="617" column="50" filename="$USER_HOME$/workspace/jinhui/Bitbucket/crm/public/statics/app/view/panel/customer/CusTreeView.js" />
       <jump line="7" column="18" filename="$USER_HOME$/workspace/jinhui/Bitbucket/crm/public/statics/app/view/panel/customer/CusTreeView.js" />
       <jump line="14" column="19" filename="$USER_HOME$/workspace/jinhui/Bitbucket/crm/public/statics/app/view/panel/customer/CusTreeView.js" />
@@ -755,6 +765,8 @@
       <jump line="270" column="15" filename="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/ScanController.java" />
       <jump line="350" column="20" filename="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/ScanController.java" />
       <jump line="273" column="24" filename="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/ScanController.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/ddParse/dd_service/neunner_service/build.sbt" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/ddParse/dd_service/neunner_service/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -767,7 +779,7 @@
         <text>g</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzY2FuUHJpemVcPg==</text>
+        <text>app_version</text>
       </register>
       <register name="0" type="4">
         <text>basecode</text>
@@ -804,19 +816,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzY2FuUHJpemVcPg==</last-search>
+      <last-search>app_version</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzY2FuUHJpemVcPg==</last-pattern>
+      <last-pattern>app_version</last-pattern>
       <last-replace />
       <last-substitute>*</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>jbpm</entry>
-        <entry encoding="base64">XDxhZGRfdXNlcmlkXD4=</entry>
-        <entry encoding="base64">XDxjb21tU2VydmljZVw+</entry>
         <entry>grid</entry>
         <entry>cusTree</entry>
         <entry>tree</entry>
@@ -834,6 +843,9 @@
         <entry>提示</entry>
         <entry encoding="base64">XDx2ZXJpZnlTdHJcPg==</entry>
         <entry encoding="base64">XDxzY2FuUHJpemVcPg==</entry>
+        <entry>login</entry>
+        <entry>appversion</entry>
+        <entry>app_version</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2phdmEudXRpbC4vL2c=</entry>
