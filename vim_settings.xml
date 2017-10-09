@@ -164,6 +164,7 @@
       <file name="$USER_HOME$/workspace/jinhui/crm/app/form/UserForm.java" timestamp="1506302625388">
         <mark key="'" line="208" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/console/PrizeManager.java" timestamp="1507525210020" />
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/controllers/order/SalesOrderController.java" timestamp="1505710003898">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="96" column="0" />
@@ -594,8 +595,8 @@
         <mark key="." line="20" column="46" />
         <mark key="^" line="20" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" timestamp="1506670095046">
-        <mark key="'" line="14" column="50" />
+      <file name="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" timestamp="1507525128842">
+        <mark key="'" line="4" column="90" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/salesOrderSum.scala.html" timestamp="1505281680392">
         <mark key="[" line="10" column="38" />
@@ -706,6 +707,9 @@
         <mark key="." line="76" column="77" />
         <mark key="^" line="76" column="77" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/pointshub/app/views/console/scanEventStatistics.scala.html" timestamp="1507525283420">
+        <mark key="'" line="0" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/jbpm.spring.default.cfg.xml" timestamp="1505796171480">
         <mark key="'" line="69" column="0" />
       </file>
@@ -720,9 +724,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/pay/BankController.java" />
-      <jump line="249" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/pay/BankController.java" />
-      <jump line="112" column="19" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/order/OrderDetailContoller.java" />
       <jump line="160" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/order/OrderDetailContoller.java" />
       <jump line="37" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/order/OrderDetailContoller.java" />
       <jump line="159" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/order/OrderDetailContoller.java" />
@@ -820,6 +821,9 @@
       <jump line="81" column="10" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
       <jump line="61" column="27" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/app/commonutil/FileCommonUtil.java" />
       <jump line="15" column="25" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/app/commonutil/ConfMongo.java" />
+      <jump line="4" column="90" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
+      <jump line="349" column="98" filename="$USER_HOME$/workspace/jinhui/pointshub/app/views/console/scanEventStatistics.scala.html" />
+      <jump line="0" column="15" filename="$USER_HOME$/workspace/jinhui/pointshub/app/views/console/scanEventStatistics.scala.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -832,7 +836,7 @@
         <text>sys</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXJ2aWNlQ29sbFw+</text>
+        <text encoding="base64">XDxzY2FuSWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmaWxlUGF0aC5wdXQoImdsb2JhbEZpbGUiLCBnbG9iYWxGaWxlKTsKICAgICAgICBmaWxlUGF0aC5wdXQoImxvY2FsRmlsZSIsIGxvY2FsRmlsZSk7Cg==</text>
@@ -869,9 +873,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXJ2aWNlQ29sbFw+</last-search>
+      <last-search encoding="base64">XDxzY2FuSWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXJ2aWNlQ29sbFw+</last-pattern>
+      <last-pattern encoding="base64">XDxzY2FuSWRcPg==</last-pattern>
       <last-replace />
       <last-substitute>*</last-substitute>
       <last-dir>1</last-dir>
@@ -879,8 +883,6 @@
     </search>
     <history>
       <history-search>
-        <entry>新增</entry>
-        <entry encoding="base64">XDxoYW5kbGVyXD4=</entry>
         <entry>详情</entry>
         <entry>addCus</entry>
         <entry>手机</entry>
@@ -899,6 +901,8 @@
         <entry>app_version</entry>
         <entry encoding="base64">XDxtYXJrZWRXb3Jkc1w+</entry>
         <entry encoding="base64">XDxzZXJ2aWNlQ29sbFw+</entry>
+        <entry>stati</entry>
+        <entry encoding="base64">XDxzY2FuSWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2phdmEudXRpbC4vL2c=</entry>
