@@ -142,6 +142,13 @@
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/jdbc.properties" timestamp="1505790234698">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" timestamp="1507532414086">
+        <mark key="'" line="77" column="128" />
+        <mark key="[" line="27" column="12" />
+        <mark key="]" line="27" column="28" />
+        <mark key="^" line="55" column="0" />
+        <mark key="." line="178" column="1" />
+      </file>
       <file name="$USER_HOME$/workspace/ddParse/base_service/mbp_server/app/commonutil/OnlineUtil.java" timestamp="1507517743949" />
       <file name="$USER_HOME$/workspace/ddParse/base_service/mbp_server/app/controllers/filters/CommonHeaderParser.java" timestamp="1507520544539" />
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/application-beans.xml" timestamp="1505804665450">
@@ -192,6 +199,7 @@
         <mark key="^" line="59" column="32" />
         <mark key="." line="59" column="31" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/salesOrderDetail.scala.html" timestamp="1507532474619" />
       <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/src.zip!/java/lang/String.java" timestamp="1505783883802">
         <mark key="'" line="107" column="19" />
       </file>
@@ -274,6 +282,7 @@
         <mark key="." line="26" column="38" />
         <mark key="^" line="26" column="38" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/SalesOrderService.java" timestamp="1507532540360" />
       <file name="$USER_HOME$/workspace/jinhui/crm/public/statics/app/controller/UserInfoController.js" timestamp="1506302479942">
         <mark key="'" line="18" column="21" />
       </file>
@@ -325,7 +334,7 @@
         <mark key="^" line="204" column="7" />
         <mark key="." line="204" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507527234114">
+      <file name="/Dummy.txt" timestamp="1507532544255">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -501,8 +510,8 @@
       <register name="/" type="4">
         <text>version</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaWxlUGF0aC5wdXQoImdsb2JhbEZpbGUiLCBnbG9iYWxGaWxlKTsKICAgICAgICBmaWxlUGF0aC5wdXQoImxvY2FsRmlsZSIsIGxvY2FsRmlsZSk7Cg==</text>
+      <register name="0" type="4">
+        <text>/order/detailInit</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAqIAo=</text>
