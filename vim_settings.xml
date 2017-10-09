@@ -58,6 +58,9 @@
         <mark key="." line="74" column="41" />
         <mark key="^" line="74" column="41" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/base_service/mbp_server/app/commonutil/ConfMongo.java" timestamp="1507519053985">
+        <mark key="'" line="15" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/crm/public/statics/app/controller/PccrController.js" timestamp="1505792482287">
         <mark key="'" line="66" column="47" />
       </file>
@@ -260,6 +263,7 @@
         <mark key="." line="13" column="30" />
         <mark key="^" line="13" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/base_service/mbp_server/app/commonutil/OnlineUtil.java" timestamp="1507517743949" />
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/application-beans.xml" timestamp="1505804665450">
         <mark key="'" line="7" column="53" />
       </file>
@@ -537,8 +541,12 @@
       <file name="$USER_HOME$/workspace/ddParse/dd_service/neunner_service/conf/routes" timestamp="1506739514268">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/base_service/mbp_server/app/commonutil/FileCommonUtil.java" timestamp="1506742028287">
-        <mark key="'" line="26" column="30" />
+      <file name="$USER_HOME$/workspace/ddParse/base_service/mbp_server/app/commonutil/FileCommonUtil.java" timestamp="1507518315633">
+        <mark key="'" line="61" column="27" />
+        <mark key="[" line="61" column="17" />
+        <mark key="]" line="61" column="20" />
+        <mark key="." line="61" column="26" />
+        <mark key="^" line="61" column="20" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/xerces/xercesImpl/srcs/xercesImpl-2.11.0-sources.jar!/org/apache/xerces/impl/XMLNSDocumentScannerImpl.java" timestamp="1505806374417">
         <mark key="'" line="123" column="22" />
@@ -694,8 +702,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1094" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/CommonServiceImpl.java" />
-      <jump line="124" column="53" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/pay/BankController.java" />
       <jump line="48" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/pay/BankController.java" />
       <jump line="249" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/pay/BankController.java" />
       <jump line="112" column="19" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/order/OrderDetailContoller.java" />
@@ -794,6 +800,8 @@
       <jump line="394" column="24" filename="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/ScanController.java" />
       <jump line="397" column="24" filename="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/ScanController.java" />
       <jump line="81" column="10" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
+      <jump line="61" column="27" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/app/commonutil/FileCommonUtil.java" />
+      <jump line="15" column="25" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/app/commonutil/ConfMongo.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -803,57 +811,56 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>EGSZfOwX</text>
+        <text>global</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXJrZWRXb3Jkc1w+</text>
+        <text encoding="base64">XDxzZXJ2aWNlQ29sbFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>mbpServerCfg.properties</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBmaWxlUGF0aC5wdXQoImdsb2JhbEZpbGUiLCBnbG9iYWxGaWxlKTsKICAgICAgICBmaWxlUGF0aC5wdXQoImxvY2FsRmlsZSIsIGxvY2FsRmlsZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybgogICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICBmaWxlUGF0aC5wdXQoImdsbyIpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIAo=</text>
+        <text encoding="base64">ICAgICAgICBmaWxlUGF0aC5wdXQoImdsb2JhbEZpbGUiLCApCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBzZXJpYWxDb2RlIOeJqea1geeggQogICAgICogQHBhcmFtIGNvZGUg566x55qE5LqM57u056CBCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybgogICAgICovCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBkb21haW4KICAgICAqIEBwYXJhbSBhdXRoQ29kZQogICAgICogQHBhcmFtIHR3b0RpbWVuc2lvbkNvZGUK</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBzZXJpYWxDb2RlIOeJqea1geeggQogICAgICogQHBhcmFtIGNvZGUg566x55qE5LqM57u056CBCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VzID0gbmV3IEFycmF5TGlzdDxTdHJpbmc+KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb21wLCBtZSwgcXJDb2RlLCBzY2FuUHJpemUsIHNlLCB2ZXJpZnlTdHIsIGVQcm8sIHBQcm8sIHBvaW50U3RyLCBtYXJrZWRXb3JkcyxpbWFnZXMsc2VyaWFsY29kZSxiYXNlY29kZQo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBkb21haW4KICAgICAqIEBwYXJhbSBhdXRoQ29kZQogICAgICogQHBhcmFtIHR3b0RpbWVuc2lvbkNvZGUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW1hZ2VzID0gbmV3IEFycmF5TGlzdDxTdHJpbmc+KCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDlj4LmlbBtYXAK</text>
+        <text encoding="base64">ICAgICAgICBjb21wLCBtZSwgcXJDb2RlLCBzY2FuUHJpemUsIHNlLCB2ZXJpZnlTdHIsIGVQcm8sIHBQcm8sIHBvaW50U3RyLCBtYXJrZWRXb3JkcyxpbWFnZXMsc2VyaWFsY29kZSxiYXNlY29kZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXJrZWRXb3Jkc1w+</last-search>
+      <last-search encoding="base64">XDxzZXJ2aWNlQ29sbFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXJrZWRXb3Jkc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxzZXJ2aWNlQ29sbFw+</last-pattern>
       <last-replace />
       <last-substitute>*</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tree</entry>
         <entry>新增</entry>
         <entry encoding="base64">XDxoYW5kbGVyXD4=</entry>
         <entry>详情</entry>
@@ -873,6 +880,7 @@
         <entry encoding="base64">XDxtYnBHbG9iYWxDZmdQcm9wXD4=</entry>
         <entry>app_version</entry>
         <entry encoding="base64">XDxtYXJrZWRXb3Jkc1w+</entry>
+        <entry encoding="base64">XDxzZXJ2aWNlQ29sbFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2phdmEudXRpbC4vL2c=</entry>
