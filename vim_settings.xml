@@ -52,6 +52,13 @@
         <mark key="." line="102" column="60" />
         <mark key="^" line="102" column="60" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/pointshub/app/models/ScanPrizeDetail.java" timestamp="1507613674339">
+        <mark key="'" line="434" column="29" />
+        <mark key="[" line="25" column="4" />
+        <mark key="]" line="35" column="4" />
+        <mark key="." line="35" column="4" />
+        <mark key="^" line="35" column="4" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/crm/public/statics/app/controller/PccrController.js" timestamp="1505792482287">
         <mark key="'" line="66" column="47" />
       </file>
@@ -157,12 +164,11 @@
       <file name="$USER_HOME$/workspace/jinhui/crm/app/form/UserForm.java" timestamp="1506302625388">
         <mark key="'" line="208" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/console/PrizeManager.java" timestamp="1507612431785">
-        <mark key="'" line="417" column="86" />
-        <mark key="[" line="417" column="59" />
-        <mark key="]" line="417" column="59" />
-        <mark key="." line="417" column="59" />
-        <mark key="^" line="417" column="61" />
+      <file name="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/console/PrizeManager.java" timestamp="1507613759393">
+        <mark key="[" line="424" column="39" />
+        <mark key="]" line="424" column="39" />
+        <mark key="^" line="424" column="36" />
+        <mark key="." line="424" column="70" />
       </file>
       <file name="$USER_HOME$/workspace/demo/spider/src/main/java/com/acenode/spider/mapping/ShopMapper.java" timestamp="1505631017649">
         <mark key="[" line="11" column="7" />
@@ -400,10 +406,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="10" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
-      <jump line="61" column="27" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/app/commonutil/FileCommonUtil.java" />
-      <jump line="15" column="25" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/app/commonutil/ConfMongo.java" />
-      <jump line="4" column="90" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
       <jump line="349" column="98" filename="$USER_HOME$/workspace/jinhui/pointshub/app/views/console/scanEventStatistics.scala.html" />
       <jump line="0" column="15" filename="$USER_HOME$/workspace/jinhui/pointshub/app/views/console/scanEventStatistics.scala.html" />
       <jump line="11" column="0" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
@@ -500,6 +502,10 @@
       <jump line="61" column="136" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
       <jump line="15" column="28" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
       <jump line="417" column="86" filename="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/console/PrizeManager.java" />
+      <jump line="410" column="30" filename="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/console/PrizeManager.java" />
+      <jump line="443" column="20" filename="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/console/PrizeManager.java" />
+      <jump line="39" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/app/models/ScanPrizeDetail.java" />
+      <jump line="419" column="29" filename="$USER_HOME$/workspace/jinhui/pointshub/app/models/ScanPrizeDetail.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -509,57 +515,56 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>productPri</text>
+        <text encoding="base64">XDxiYXNpY1NjYW5Qcml6ZURldGFpbFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>oneBoxPrizeCnt</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW50aXR5LnNldEFkZEZsYWcoMCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGVudGl0eS5zZXRMZXZlbChwSW5mby5nZXRMZXZlbCgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgZW50aXR5LnNldFByaXplKHBJbmZvLmdldFByaXplKCkpOwogICAgICAgICAgICAgICAgICAgICAgICBlbnRpdHkuc2V0U2NhbklkKHBJbmZvLmdldFNjYW5JZCgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgZW50aXR5LnNldFNlbmRUeXBlKHBJbmZvLmdldFNlbmRUeXBlKCkpOwogICAgICAgICAgICAgICAgICAgICAgICBlbnRpdHkuc2V0U2NhbkZsYWcoMCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGVudGl0eS5zZXRSZWNlaXZlRmxhZygwKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW50ZWdlciBib3hOdW0gPSBwSW5mby5nZXRCb3hOdW0oKTsvLyDnrrHmlbAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZW50aXR5LnNldEFkZEZsYWcoMCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGVudGl0eS5zZXRMZXZlbChwSW5mby5nZXRMZXZlbCgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgZW50aXR5LnNldFByaXplKHBJbmZvLmdldFByaXplKCkpOwogICAgICAgICAgICAgICAgICAgICAgICBlbnRpdHkuc2V0U2NhbklkKHBJbmZvLmdldFNjYW5JZCgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgZW50aXR5LnNldFNlbmRUeXBlKHBJbmZvLmdldFNlbmRUeXBlKCkpOwogICAgICAgICAgICAgICAgICAgICAgICBlbnRpdHkuc2V0U2NhbkZsYWcoMCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGVudGl0eS5zZXRSZWNlaXZlRmxhZygwKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy/nrrHmlbAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy/kuK3lpZbkuKrmlbAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSBweiDlpZblk4Fqc29uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU2NhblByaXplRGV0YWlsIGVuCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g6L+Z5Liq57q/56iL5piv5byC5q2l5ZOS5aW95LyQ77yB77yB77yB5Y+v5py65pm65LqGfuaIkeaYr+e6v+eoi+Wwj+iDveaJi++8ge+8ge+8gQo=</text>
+        <text encoding="base64">LyoqCiAqIEBhdXRob3IgZGVsbAogKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8qKgogICAgICAgICAgICAgICAgICogcnVu5pa55rOVCiAgICAgICAgICAgICAgICAgKiAKICAgICAgICAgICAgICAgICAqIEBhdXRob3IgUG9wcHkKICAgICAgICAgICAgICAgICAqIEBkYXRlIDIwMTUtNC0yNAogICAgICAgICAgICAgICAgICogQHNpbmNlIDEuMAogICAgICAgICAgICAgICAgICovCg==</text>
+        <text encoding="base64">ICAgICAgICAvLz09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PVsg5aSE55CG5q+P566x5b+F5Lit5aWW55qEcHJpemVJbmZvIF09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL3N1cGVyLnJ1bigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgZ3JvdXBOdW0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICDkvZnmlbAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>productPri</last-search>
+      <last-search encoding="base64">XDxiYXNpY1NjYW5Qcml6ZURldGFpbFw+</last-search>
       <last-offset />
-      <last-pattern>productPri</last-pattern>
+      <last-pattern encoding="base64">XDxiYXNpY1NjYW5Qcml6ZURldGFpbFw+</last-pattern>
       <last-replace />
       <last-substitute>*</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>提示</entry>
         <entry encoding="base64">XDx2ZXJpZnlTdHJcPg==</entry>
         <entry encoding="base64">XDxzY2FuUHJpemVcPg==</entry>
         <entry>login</entry>
@@ -579,6 +584,7 @@
         <entry>awa</entry>
         <entry>level</entry>
         <entry>productPri</entry>
+        <entry encoding="base64">XDxiYXNpY1NjYW5Qcml6ZURldGFpbFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2phdmEudXRpbC4vL2c=</entry>
@@ -597,9 +603,9 @@
         <entry encoding="base64">JzwsJz5zL3Rhc2tpZC9pZC9n</entry>
         <entry encoding="base64">dnNwIA==</entry>
         <entry>vsp</entry>
-        <entry>action $Redo</entry>
         <entry encoding="base64">JzwsJz5zLyovL2c=</entry>
         <entry>nohl</entry>
+        <entry>action $Redo</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
