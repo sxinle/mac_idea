@@ -136,8 +136,8 @@
         <mark key="." line="17" column="34" />
         <mark key="^" line="17" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" timestamp="1507774839721">
-        <mark key="'" line="499" column="0" />
+      <file name="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" timestamp="1507777677326">
+        <mark key="'" line="437" column="32" />
         <mark key="[" line="433" column="27" />
         <mark key="]" line="433" column="37" />
       </file>
@@ -306,7 +306,12 @@
       <file name="$USER_HOME$/workspace/jinhui/anti/app/views/areaInfo.scala.html" timestamp="1507537277611">
         <mark key="'" line="84" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/base_service/mbp_server/app/service/AndroidService.java" timestamp="1507775628363" />
+      <file name="$USER_HOME$/workspace/ddParse/base_service/mbp_server/app/service/AndroidService.java" timestamp="1507777601996">
+        <mark key="[" line="2722" column="55" />
+        <mark key="]" line="2722" column="56" />
+        <mark key="." line="2722" column="56" />
+        <mark key="^" line="2721" column="30" />
+      </file>
       <file name="$USER_HOME$/workspace/ddParse/base_service/mbp_server/app/commonutil/R.java" timestamp="1507519135123">
         <mark key="[" line="131" column="46" />
         <mark key="]" line="131" column="47" />
@@ -368,7 +373,7 @@
         <mark key="^" line="204" column="7" />
         <mark key="." line="204" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507776135525">
+      <file name="/Dummy.txt" timestamp="1507777585437">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -408,6 +413,12 @@
         <mark key="." line="202" column="41" />
         <mark key="^" line="202" column="41" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/base_service/mbp_server/app/dao/AppServiceHandler.java" timestamp="1507777238741">
+        <mark key="[" line="30" column="52" />
+        <mark key="]" line="30" column="54" />
+        <mark key="." line="30" column="54" />
+        <mark key="^" line="30" column="54" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/sql/Distribute.xml" timestamp="1505458443117">
         <mark key="[" line="76" column="76" />
         <mark key="]" line="76" column="77" />
@@ -435,11 +446,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="292" column="32" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
-      <jump line="324" column="147" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
-      <jump line="325" column="147" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
-      <jump line="330" column="150" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
-      <jump line="336" column="137" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
       <jump line="337" column="137" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
       <jump line="338" column="137" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
       <jump line="339" column="187" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
@@ -459,7 +465,6 @@
       <jump line="432" column="143" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
       <jump line="435" column="138" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
       <jump line="436" column="141" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
-      <jump line="437" column="138" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
       <jump line="438" column="142" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
       <jump line="439" column="143" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
       <jump line="441" column="138" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
@@ -535,6 +540,12 @@
       <jump line="484" column="144" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
       <jump line="494" column="129" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
       <jump line="499" column="0" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
+      <jump line="509" column="0" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
+      <jump line="549" column="133" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
+      <jump line="476" column="148" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
+      <jump line="545" column="135" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
+      <jump line="16" column="131" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
+      <jump line="437" column="32" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -544,49 +555,49 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>del_</text>
+        <text>login</text>
       </register>
-      <register name="0" type="4">
-        <text>app_version</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCQkJcmV0dXJuIHJlc3BvbnNlVXRpbC5yZXR1cm5NYXAoIiIsIDAsICLmraPluLgiLCByZXN1bHRNYXApOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBpZigpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIExpc3Q8U2NhblByaXplRGV0YWlsPiBvbmVCb3hQcml6ZXMgPSBhbGxCb3hzTWFwLmdldChyYW5kb21JZHgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yIChpbnQgaWR4ID0gMDsgaWR4IDwgb25lQm94UHJpemVzLnNpemUoKTsgaWR4KyspIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoMTAgPT0gb25lQm94UHJpemVzLmdldChpZHgpLmdldExldmVsKCkpIHsvLyDmib7liLAi6LCi6LCi5ZOB5bCdIueahOmFku+8jOiuvue9ruWllumhuQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByaWdodElkeCA9IGlkeDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIExpc3Q8U2NhblByaXplRGV0YWlsPiBvbmVCb3hQcml6ZXMgPSBhbGxCb3hzTWFwLmdldChyYW5kb21JZHgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgZm9yIChpbnQgaWR4ID0gMDsgaWR4IDwgb25lQm94UHJpemVzLnNpemUoKTsgaWR4KyspIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoMTAgPT0gb25lQm94UHJpemVzLmdldChpZHgpLmdldExldmVsKCkpIHsvLyDmib7liLAi6LCi6LCi5ZOB5bCdIueahOmFku+8jOiuvue9ruWllumhuQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByaWdodElkeCA9IGlkeDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL2ZvciAoSXRlcmF0b3I8SW50ZWdlcj4gaXQgPSBhbGxCb3hzTWFwLmtleVNldCgpLml0ZXJhdG9yKCk7IGl0Lmhhc05leHQoKTsgKSB7CiAgICAgICAgLy8gICAgcmV0dXJuTGlzdC5hZGRBbGwoYWxsQm94c01hcC5nZXQoaXQubmV4dCgpKSk7CiAgICAgICAgLy99Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2ZvciAoSXRlcmF0b3I8SW50ZWdlcj4gaXQgPSBhbGxCb3hzTWFwLmtleVNldCgpLml0ZXJhdG9yKCk7IGl0Lmhhc05leHQoKTsgKSB7CiAgICAgICAgLy8gICAgcmV0dXJuTGlzdC5hZGRBbGwoYWxsQm94c01hcC5nZXQoaXQubmV4dCgpKSk7CiAgICAgICAgLy99Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>del_</last-search>
+      <last-search>login</last-search>
       <last-offset />
-      <last-pattern>del_</last-pattern>
+      <last-pattern>login</last-pattern>
       <last-replace>source</last-replace>
       <last-substitute>bPrize</last-substitute>
       <last-dir>1</last-dir>
@@ -594,9 +605,6 @@
     </search>
     <history>
       <history-search>
-        <entry>stati</entry>
-        <entry encoding="base64">XDxzY2FuSWRcPg==</entry>
-        <entry>api</entry>
         <entry>api\/version</entry>
         <entry>version</entry>
         <entry>insert</entry>
@@ -614,6 +622,9 @@
         <entry>needPay</entry>
         <entry>del</entry>
         <entry>del_</entry>
+        <entry>service_roue</entry>
+        <entry>service_route</entry>
+        <entry>login</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0AgL0AvZw==</entry>
