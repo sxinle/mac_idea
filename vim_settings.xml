@@ -340,8 +340,8 @@
       <file name="$USER_HOME$/workspace/jinhui/crm/public/statics/app/controller/UserInfoController.js" timestamp="1506302479942">
         <mark key="'" line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/dd_service/neunner_service/conf/routes" timestamp="1507779926691">
-        <mark key="'" line="52" column="0" />
+      <file name="$USER_HOME$/workspace/ddParse/dd_service/neunner_service/conf/routes" timestamp="1507782225293">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ddParse/base_service/mbp_server/app/commonutil/FileCommonUtil.java" timestamp="1507518315633">
         <mark key="'" line="61" column="27" />
@@ -456,14 +456,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="342" column="137" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
-      <jump line="348" column="184" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
-      <jump line="351" column="143" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
-      <jump line="359" column="143" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
-      <jump line="363" column="126" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
-      <jump line="364" column="126" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
-      <jump line="365" column="126" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
-      <jump line="419" column="32" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
       <jump line="421" column="144" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
       <jump line="422" column="144" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
       <jump line="423" column="142" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
@@ -556,6 +548,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/build.sbt" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_token_service/build.sbt" />
       <jump line="52" column="0" filename="$USER_HOME$/workspace/ddParse/dd_service/neunner_service/conf/routes" />
+      <jump line="75" column="5" filename="$USER_HOME$/workspace/ddParse/dd_service/neunner_service/conf/routes" />
+      <jump line="81" column="9" filename="$USER_HOME$/workspace/ddParse/dd_service/neunner_service/conf/routes" />
+      <jump line="91" column="9" filename="$USER_HOME$/workspace/ddParse/dd_service/neunner_service/conf/routes" />
+      <jump line="93" column="9" filename="$USER_HOME$/workspace/ddParse/dd_service/neunner_service/conf/routes" />
+      <jump line="33" column="77" filename="$USER_HOME$/workspace/ddParse/dd_service/neunner_service/conf/routes" />
+      <jump line="64" column="76" filename="$USER_HOME$/workspace/ddParse/dd_service/neunner_service/conf/routes" />
+      <jump line="71" column="9" filename="$USER_HOME$/workspace/ddParse/dd_service/neunner_service/conf/routes" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/ddParse/dd_service/neunner_service/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -568,7 +568,7 @@
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>cloud_service</text>
+        <text>del</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">amF2YWNPcHRpb25zICsrPSBTZXEoIi1zb3VyY2UiLCAiMS43IiwgIi10YXJnZXQiLCAiMS43IikK</text>
@@ -605,9 +605,9 @@
       </register>
     </registers>
     <search>
-      <last-search>cloud_service</last-search>
+      <last-search>del</last-search>
       <last-offset />
-      <last-pattern>cloud_service</last-pattern>
+      <last-pattern>del</last-pattern>
       <last-replace>source</last-replace>
       <last-substitute>bPrize</last-substitute>
       <last-dir>1</last-dir>
@@ -628,13 +628,13 @@
         <entry encoding="base64">XDxwSW5mb3NcPg==</entry>
         <entry encoding="base64">XDxwcml6ZUluZm9zXD4=</entry>
         <entry>needPay</entry>
-        <entry>del</entry>
         <entry>del_</entry>
         <entry>service_roue</entry>
         <entry>service_route</entry>
         <entry>login</entry>
         <entry>cloud_servi</entry>
         <entry>cloud_service</entry>
+        <entry>del</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0AgL0AvZw==</entry>
