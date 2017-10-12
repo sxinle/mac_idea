@@ -568,7 +568,7 @@
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text>cloud_servi</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">amF2YWNPcHRpb25zICsrPSBTZXEoIi1zb3VyY2UiLCAiMS43IiwgIi10YXJnZXQiLCAiMS43IikK</text>
@@ -605,9 +605,9 @@
       </register>
     </registers>
     <search>
-      <last-search>login</last-search>
+      <last-search>cloud_servi</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern>cloud_servi</last-pattern>
       <last-replace>source</last-replace>
       <last-substitute>bPrize</last-substitute>
       <last-dir>1</last-dir>
@@ -615,7 +615,6 @@
     </search>
     <history>
       <history-search>
-        <entry>api\/version</entry>
         <entry>version</entry>
         <entry>insert</entry>
         <entry>INSERT</entry>
@@ -635,6 +634,7 @@
         <entry>service_roue</entry>
         <entry>service_route</entry>
         <entry>login</entry>
+        <entry>cloud_servi</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0AgL0AvZw==</entry>
