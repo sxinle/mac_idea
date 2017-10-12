@@ -568,7 +568,7 @@
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text>del</text>
+        <text>getKnow</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">amF2YWNPcHRpb25zICsrPSBTZXEoIi1zb3VyY2UiLCAiMS43IiwgIi10YXJnZXQiLCAiMS43IikK</text>
@@ -605,9 +605,9 @@
       </register>
     </registers>
     <search>
-      <last-search>del</last-search>
+      <last-search>getKnow</last-search>
       <last-offset />
-      <last-pattern>del</last-pattern>
+      <last-pattern>getKnow</last-pattern>
       <last-replace>source</last-replace>
       <last-substitute>bPrize</last-substitute>
       <last-dir>1</last-dir>
@@ -615,8 +615,6 @@
     </search>
     <history>
       <history-search>
-        <entry>insert</entry>
-        <entry>INSERT</entry>
         <entry>prize</entry>
         <entry>awa</entry>
         <entry>level</entry>
@@ -635,6 +633,8 @@
         <entry>cloud_servi</entry>
         <entry>cloud_service</entry>
         <entry>del</entry>
+        <entry>getkno</entry>
+        <entry>getKnow</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0AgL0AvZw==</entry>
