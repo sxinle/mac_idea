@@ -81,6 +81,12 @@
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/controllers/logistics/LogisticsController.java" timestamp="1505784398717">
         <mark key="'" line="225" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/dd_service/neunner_service/app/controllers/api/KnowledgeController.java" timestamp="1507786605288">
+        <mark key="[" line="46" column="22" />
+        <mark key="]" line="46" column="22" />
+        <mark key="^" line="46" column="22" />
+        <mark key="." line="46" column="22" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/sql/OrderDetail.xml" timestamp="1505285553390">
         <mark key="[" line="21" column="16" />
         <mark key="]" line="21" column="24" />
@@ -140,6 +146,12 @@
         <mark key="]" line="17" column="34" />
         <mark key="." line="17" column="34" />
         <mark key="^" line="17" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/ddParse/dd_service/neunner_service/app/filters/Auth.java" timestamp="1507786728481">
+        <mark key="[" line="56" column="65" />
+        <mark key="]" line="56" column="74" />
+        <mark key="." line="55" column="14" />
+        <mark key="^" line="55" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" timestamp="1507777677326">
         <mark key="'" line="437" column="32" />
@@ -340,8 +352,8 @@
       <file name="$USER_HOME$/workspace/jinhui/crm/public/statics/app/controller/UserInfoController.js" timestamp="1506302479942">
         <mark key="'" line="18" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/dd_service/neunner_service/conf/routes" timestamp="1507782225293">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/ddParse/dd_service/neunner_service/conf/routes" timestamp="1507786296057">
+        <mark key="'" line="49" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/ddParse/base_service/mbp_server/app/commonutil/FileCommonUtil.java" timestamp="1507518315633">
         <mark key="'" line="61" column="27" />
@@ -383,7 +395,7 @@
         <mark key="^" line="204" column="7" />
         <mark key="." line="204" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507778812921">
+      <file name="/Dummy.txt" timestamp="1507786336899">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -450,13 +462,8 @@
         <mark key="^" line="0" column="29" />
         <mark key="." line="0" column="29" />
       </file>
-      <file name="/PrizeManager.java" timestamp="1507623142989">
-        <mark key="[" line="422" column="0" />
-        <mark key="]" line="564" column="4" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="421" column="144" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
       <jump line="422" column="144" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
       <jump line="423" column="142" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
       <jump line="432" column="143" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
@@ -556,6 +563,7 @@
       <jump line="64" column="76" filename="$USER_HOME$/workspace/ddParse/dd_service/neunner_service/conf/routes" />
       <jump line="71" column="9" filename="$USER_HOME$/workspace/ddParse/dd_service/neunner_service/conf/routes" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/ddParse/dd_service/neunner_service/conf/routes" />
+      <jump line="49" column="35" filename="$USER_HOME$/workspace/ddParse/dd_service/neunner_service/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -565,13 +573,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>EmptyUtil.isNotEmpty(token)</text>
       </register>
       <register name="/" type="4">
-        <text>getKnow</text>
+        <text>get_kn</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">amF2YWNPcHRpb25zICsrPSBTZXEoIi1zb3VyY2UiLCAiMS43IiwgIi10YXJnZXQiLCAiMS43IikK</text>
+      <register name="0" type="4">
+        <text>token_auth</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -605,9 +613,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getKnow</last-search>
+      <last-search>get_kn</last-search>
       <last-offset />
-      <last-pattern>getKnow</last-pattern>
+      <last-pattern>get_kn</last-pattern>
       <last-replace>source</last-replace>
       <last-substitute>bPrize</last-substitute>
       <last-dir>1</last-dir>
@@ -615,8 +623,6 @@
     </search>
     <history>
       <history-search>
-        <entry>prize</entry>
-        <entry>awa</entry>
         <entry>level</entry>
         <entry>productPri</entry>
         <entry encoding="base64">XDxiYXNpY1NjYW5Qcml6ZURldGFpbFw+</entry>
@@ -635,6 +641,8 @@
         <entry>del</entry>
         <entry>getkno</entry>
         <entry>getKnow</entry>
+        <entry>getKno</entry>
+        <entry>get_kn</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0AgL0AvZw==</entry>
