@@ -174,6 +174,10 @@
         <mark key="[" line="433" column="27" />
         <mark key="]" line="433" column="37" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/base_service/mbp_token_service/app/filters/TokenAuth.java" timestamp="1507790756173">
+        <mark key="[" line="68" column="45" />
+        <mark key="]" line="68" column="53" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/JbpmManagerImpl.java" timestamp="1505783377017">
         <mark key="'" line="386" column="0" />
       </file>
@@ -219,6 +223,9 @@
         <mark key="^" line="21" column="47" />
         <mark key="." line="21" column="47" />
       </file>
+      <file name="$USER_HOME$/.ivy2/cache/uk.co.panaxiom/play-jongo_2.10/srcs/play-jongo_2.10-0.6.0-jongo1.0-sources.jar!/uk/co/panaxiom/playjongo/PlayJongo.java" timestamp="1507790494552">
+        <mark key="'" line="89" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/CommonService.java" timestamp="1505783966257">
         <mark key="'" line="217" column="0" />
       </file>
@@ -249,10 +256,12 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="27" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/dd_service/neunner_service/conf/conf.properties" timestamp="1507788462954">
+      <file name="$USER_HOME$/workspace/ddParse/dd_service/neunner_service/conf/conf.properties" timestamp="1507790251137">
         <mark key="'" line="4" column="7" />
-        <mark key="[" line="4" column="39" />
-        <mark key="]" line="4" column="43" />
+        <mark key="[" line="5" column="35" />
+        <mark key="]" line="5" column="40" />
+        <mark key="." line="5" column="40" />
+        <mark key="^" line="5" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/jbpm.cfg.xml" timestamp="1505796153884">
         <mark key="'" line="1" column="0" />
@@ -422,7 +431,7 @@
         <mark key="^" line="204" column="7" />
         <mark key="." line="204" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1507788150639">
+      <file name="/Dummy.txt" timestamp="1507790141809">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -491,7 +500,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="445" column="141" filename="$USER_HOME$/workspace/ddParse/base_service/mbp_server/conf/routes" />
       <jump line="148" column="15" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/sql/AwardOrder.xml" />
       <jump line="42" column="64" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
       <jump line="179" column="51" filename="$USER_HOME$/workspace/jinhui/pointshub/app/views/console/scanEvent.scala.html" />
@@ -591,6 +599,7 @@
       <jump line="65" column="56" filename="$USER_HOME$/workspace/ddParse/dd_service/neunner_service/app/filters/Auth.java" />
       <jump line="4" column="7" filename="$USER_HOME$/workspace/ddParse/dd_service/neunner_service/conf/conf.properties" />
       <jump line="503" column="0" filename="$USER_HOME$/workspace/ddParse/dd_service/neunner_service/app/utils/RestRequest.java" />
+      <jump line="89" column="34" filename="$USER_HOME$/.ivy2/cache/uk.co.panaxiom/play-jongo_2.10/srcs/play-jongo_2.10-0.6.0-jongo1.0-sources.jar!/uk/co/panaxiom/playjongo/PlayJongo.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -600,13 +609,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IFJlc3BvbnNlSGFuZGxlcjxEQk9iamVjdD4oKSB7</text>
+        <text>groverconfig185938829795527555</text>
       </register>
       <register name="/" type="4">
         <text>token</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">bmV3IFJlc3BvbnNlSGFuZGxlcjxEQk9iamVjdD4oKSB7CgkJCQlwdWJsaWMgREJPYmplY3QgaGFuZGxlUmVzcG9uc2UoSHR0cFJlc3BvbnNlIHJlc3BvbnNlKSB0aHJvd3MgSU9FeGNlcHRpb24gewoJCQkJCWlmIChyZXNwb25zZS5nZXRTdGF0dXNMaW5lKCkuZ2V0U3RhdHVzQ29kZSgpID09IE9LX0NPREUpIHsKCQkJCQkJSHR0cEVudGl0eSBlbnRpdHkgPSByZXNwb25zZS5nZXRFbnRpdHkoKTsKCQkJCQkJaWYgKGVudGl0eSAhPSBudWxsKSB7CgkJCQkJCQlyZXR1cm4gKERCT2JqZWN0KSBKU09OLnBhcnNlKEVudGl0eVV0aWxzLnRvU3RyaW5nKGVudGl0eSkpOwoJCQkJCQl9CgkJCQkJfQoJCQkJCXJldHVybiBudWxsOwoJCQkJfQoJCQl9Ow==</text>
+        <text>ldap_auth</text>
       </register>
       <register name="1" type="4">
         <text encoding="base64">bmV3IFJlc3BvbnNlSGFuZGxlcjxEQk9iamVjdD4oKSB7CiAgICAgICAgICAgICAgICBwdWJsaWMgREJPYmplY3QgaGFuZGxlUmVzcG9uc2UoSHR0cFJlc3BvbnNlIHJlc3BvbnNlKSB0aHJvd3MgQ2xpZW50UHJvdG9jb2xFeGNlcHRpb24sIElPRXhjZXB0aW9uIHsKICAgICAgICAgICAgICAgICAgICBpZiAocmVzcG9uc2UuZ2V0U3RhdHVzTGluZSgpLmdldFN0YXR1c0NvZGUoKSA9PSBPS19DT0RFKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIEh0dHBFbnRpdHkgZW50aXR5ID0gcmVzcG9uc2UuZ2V0RW50aXR5KCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChlbnRpdHkgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIChEQk9iamVjdCkgSlNPTi5wYXJzZShFbnRpdHlVdGlscy50b1N0cmluZyhlbnRpdHkpKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfTs=</text>
