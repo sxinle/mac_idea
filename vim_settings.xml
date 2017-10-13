@@ -21,6 +21,12 @@
         <mark key="." line="17" column="18" />
         <mark key="^" line="17" column="18" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/server/neunner_service/app/utils/RestRequest.java" timestamp="1507883138928">
+        <mark key="[" line="254" column="0" />
+        <mark key="]" line="254" column="0" />
+        <mark key="." line="254" column="0" />
+        <mark key="^" line="254" column="52" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/zest/src/main/java/http/Test.java" timestamp="1505811863929">
         <mark key="[" line="9" column="8" />
         <mark key="]" line="9" column="18" />
@@ -122,6 +128,11 @@
       </file>
       <file name="$USER_HOME$/workspace/jinhui/anti/conf/application.conf" timestamp="1506301557642">
         <mark key="'" line="23" column="40" />
+      </file>
+      <file name="$USER_HOME$/workspace/ddParse/server/neunner_service/app/clients/moa/MoaServiceFactory.java" timestamp="1507883301335">
+        <mark key="[" line="21" column="50" />
+        <mark key="]" line="21" column="50" />
+        <mark key="." line="21" column="50" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/crm/app/form/UserForm.java" timestamp="1506302625388">
         <mark key="'" line="208" column="33" />
@@ -251,7 +262,7 @@
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/pay/BankController.java" timestamp="1505892466656">
         <mark key="'" line="249" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/server/neunner_service/app/services/api/UserService.java" timestamp="1507880301601">
+      <file name="$USER_HOME$/workspace/ddParse/server/neunner_service/app/services/api/UserService.java" timestamp="1507882959362">
         <mark key="'" line="444" column="60" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jcalaBlog/build.gradle" timestamp="1505630080956">
@@ -538,12 +549,12 @@
         <mark key="^" line="0" column="13" />
         <mark key="." line="0" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/server/mbp_token_service/conf/application.conf" timestamp="1507804418225">
+      <file name="$USER_HOME$/workspace/ddParse/server/mbp_token_service/conf/application.conf" timestamp="1507883054097">
         <mark key="'" line="6" column="22" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="13" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
         <mark key="^" line="0" column="13" />
-        <mark key="." line="0" column="13" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/sql/Distribute.xml" timestamp="1505458443117">
         <mark key="[" line="76" column="76" />
@@ -677,7 +688,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>clearImmediate</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1c2VySW5mb1w+</text>
@@ -686,31 +697,31 @@
         <text>api/owncloud/status</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CQkJCQo=</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IGhlYWRlciA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJVXNlclNlcnZpY2UgdXNlclNlcnZpY2UgPSBuZXcgVXNlclNlcnZpY2UoKTsKCQkJTWFwPFN0cmluZywgT2JqZWN0PiB1c2VySW5mbyA9IHVzZXJTZXJ2aWNlLmdldFNlbGZJbmZvKGNpZCwgZG9tYWluLCB1c2VySWQpOwoJCQl1c2VySW5mbyA9IChNYXA8U3RyaW5nLCBPYmplY3Q+KSB1c2VySW5mby5nZXQoInJlc3BvbnNlIik7CgkJCXVzZXJJbmZvID0gKE1hcDxTdHJpbmcsIE9iamVjdD4pIHVzZXJJbmZvLmdldCgidXNlckluZm8iKTsK</text>
+        <text encoding="base64">cGxheWpvbmdvLnVyaT0ibW9uZ29kYjovLzEwLjIwLjAuMjQ3OjI3MDE3L2NvbW1vbl9kYiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">CQkJVXNlclNlcnZpY2UgdXNlclNlcnZpY2UgPSBuZXcgVXNlclNlcnZpY2UoKTsKCQkJTWFwPFN0cmluZywgT2JqZWN0PiB1c2VySW5mbyA9IHVzZXJTZXJ2aWNlLmdldFNlbGZJbmZvKGNpZCwgZG9tYWluLCB1c2VySWQpOwoJCQl1c2VySW5mbyA9IChNYXA8U3RyaW5nLCBPYmplY3Q+KSB1c2VySW5mby5nZXQoInJlc3BvbnNlIik7CgkJCXVzZXJJbmZvID0gKE1hcDxTdHJpbmcsIE9iamVjdD4pIHVzZXJJbmZvLmdldCgidXNlckluZm8iKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICogQGF1dGhvciBFcmljLlN1bmcKICogQGRhdGUgMjAxNS4xMS41Cg==</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQGF1dGhvciBFcmljLlN1bmcKICogQGRhdGUgMjAxNS4xMS41Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN0eC5hcmdzLnB1dCgidXJsIiwgdXJsKTsKICAgICAgICAgICAgICAgIGN0eC5hcmdzLnB1dCgiZG9tYWluIiwgZG9tYWluKTsKICAgICAgICAgICAgICAgIGN0eC5hcmdzLnB1dCgidWlkIiwgdWlkKTsKICAgICAgICAgICAgICAgIGN0eC5hcmdzLnB1dCgicHdkIiwgcHdkKTsKICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJUb2tlbkF1dGggRW5kIik7CiAgICAgICAgICAgICAgICByZXR1cm4gZGVsZWdhdGUuY2FsbChjdHgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
