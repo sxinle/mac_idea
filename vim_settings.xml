@@ -55,11 +55,12 @@
       <file name="$USER_HOME$/workspace/jinhui/pointshub/app/util/CommonSend.java" timestamp="1506670980935">
         <mark key="'" line="143" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/server/neunner_service/app/services/api/KnowledgeService.java" timestamp="1507803837075">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="174" column="18" />
-        <mark key="." line="48" column="0" />
+      <file name="$USER_HOME$/workspace/ddParse/server/neunner_service/app/services/api/KnowledgeService.java" timestamp="1507880490217">
+        <mark key="'" line="143" column="32" />
+        <mark key="[" line="74" column="21" />
+        <mark key="]" line="74" column="30" />
+        <mark key="^" line="74" column="30" />
+        <mark key="." line="74" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/ddParse/base_service/mbp_token_service/build.sbt" timestamp="1507791452126">
         <mark key="'" line="10" column="53" />
@@ -250,7 +251,7 @@
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/pay/BankController.java" timestamp="1505892466656">
         <mark key="'" line="249" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/server/neunner_service/app/services/api/UserService.java" timestamp="1507803883198">
+      <file name="$USER_HOME$/workspace/ddParse/server/neunner_service/app/services/api/UserService.java" timestamp="1507880301601">
         <mark key="'" line="444" column="60" />
       </file>
       <file name="$USER_HOME$/workspace/demo/jcalaBlog/build.gradle" timestamp="1505630080956">
@@ -567,8 +568,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="260" column="29" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/sql/AwardOrder.xml" />
-      <jump line="265" column="20" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/sql/AwardOrder.xml" />
       <jump line="276" column="60" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/sql/AwardOrder.xml" />
       <jump line="277" column="29" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/sql/AwardOrder.xml" />
       <jump line="483" column="33" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/sql/AwardOrder.xml" />
@@ -667,6 +666,8 @@
       <jump line="5" column="22" filename="$USER_HOME$/workspace/ddParse/server/mbp_token_service/conf/application.conf" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/ddParse/server/neunn_ldap_service/conf/application.conf" />
       <jump line="7" column="21" filename="$USER_HOME$/workspace/ddParse/server/mbp_cloudservice_router/config.yaml" />
+      <jump line="78" column="65" filename="$USER_HOME$/workspace/ddParse/server/neunner_service/app/services/api/KnowledgeService.java" />
+      <jump line="143" column="32" filename="$USER_HOME$/workspace/ddParse/server/neunner_service/app/services/api/KnowledgeService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -679,54 +680,53 @@
         <text>clearImmediate</text>
       </register>
       <register name="/" type="4">
-        <text>publish</text>
+        <text encoding="base64">XDx1c2VySW5mb1w+</text>
       </register>
       <register name="0" type="4">
         <text>api/owncloud/status</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogCg==</text>
+        <text encoding="base64">CQkJCQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">CQkJVXNlclNlcnZpY2UgdXNlclNlcnZpY2UgPSBuZXcgVXNlclNlcnZpY2UoKTsKCQkJTWFwPFN0cmluZywgT2JqZWN0PiB1c2VySW5mbyA9IHVzZXJTZXJ2aWNlLmdldFNlbGZJbmZvKGNpZCwgZG9tYWluLCB1c2VySWQpOwoJCQl1c2VySW5mbyA9IChNYXA8U3RyaW5nLCBPYmplY3Q+KSB1c2VySW5mby5nZXQoInJlc3BvbnNlIik7CgkJCXVzZXJJbmZvID0gKE1hcDxTdHJpbmcsIE9iamVjdD4pIHVzZXJJbmZvLmdldCgidXNlckluZm8iKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogQGF1dGhvciBFcmljLlN1bmcKICogQGRhdGUgMjAxNS4xMS41Cg==</text>
+        <text encoding="base64">ICogCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICogQGF1dGhvciBFcmljLlN1bmcKICogQGRhdGUgMjAxNS4xMS41Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN0eC5hcmdzLnB1dCgidXJsIiwgdXJsKTsKICAgICAgICAgICAgICAgIGN0eC5hcmdzLnB1dCgiZG9tYWluIiwgZG9tYWluKTsKICAgICAgICAgICAgICAgIGN0eC5hcmdzLnB1dCgidWlkIiwgdWlkKTsKICAgICAgICAgICAgICAgIGN0eC5hcmdzLnB1dCgicHdkIiwgcHdkKTsKICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJUb2tlbkF1dGggRW5kIik7CiAgICAgICAgICAgICAgICByZXR1cm4gZGVsZWdhdGUuY2FsbChjdHgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN0eC5hcmdzLnB1dCgidXJsIiwgdXJsKTsKICAgICAgICAgICAgICAgIGN0eC5hcmdzLnB1dCgiZG9tYWluIiwgZG9tYWluKTsKICAgICAgICAgICAgICAgIGN0eC5hcmdzLnB1dCgidWlkIiwgdWlkKTsKICAgICAgICAgICAgICAgIGN0eC5hcmdzLnB1dCgicHdkIiwgcHdkKTsKICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJUb2tlbkF1dGggRW5kIik7CiAgICAgICAgICAgICAgICByZXR1cm4gZGVsZWdhdGUuY2FsbChjdHgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>publish</last-search>
+      <last-search encoding="base64">XDx1c2VySW5mb1w+</last-search>
       <last-offset />
-      <last-pattern>publish</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VySW5mb1w+</last-pattern>
       <last-replace>source</last-replace>
       <last-substitute>bPrize</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>bPrize</entry>
         <entry encoding="base64">XDxiUHJpemVcPg==</entry>
         <entry>check</entry>
         <entry encoding="base64">XDxwSW5mb3NcPg==</entry>
@@ -746,6 +746,7 @@
         <entry>token</entry>
         <entry>ldap</entry>
         <entry>publish</entry>
+        <entry encoding="base64">XDx1c2VySW5mb1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0AgL0AvZw==</entry>
