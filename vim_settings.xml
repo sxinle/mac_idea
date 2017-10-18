@@ -177,7 +177,9 @@
         <mark key="." line="16" column="33" />
         <mark key="^" line="16" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/dd_web_service/saas/app/controllers/company/CompanyOrgController.java" timestamp="1508298250331" />
+      <file name="$USER_HOME$/workspace/ddParse/dd_web_service/saas/app/controllers/company/CompanyOrgController.java" timestamp="1508303721930">
+        <mark key="'" line="139" column="12" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/spider/src/main/java/com/acenode/spider/util/FluentMap.java" timestamp="1505621724183">
         <mark key="[" line="4" column="40" />
         <mark key="]" line="7" column="7" />
@@ -494,9 +496,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="27" filename="$USER_HOME$/workspace/ddParse/dd_web_service/saas/app/controllers/company/ServiceNoManageController.java" />
-      <jump line="4" column="0" filename="$USER_HOME$/s/services/company/ServiceNoManageService.class" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/ddParse/dd_web_service/saas/app/services/company/ServiceNoManageService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/ddParse/dd_web_service/saas/app/services/company/ServiceNoManageService.java" />
       <jump line="25" column="43" filename="$USER_HOME$/s/daos/site/CompanyServiceHandler.class" />
       <jump line="5" column="0" filename="$USER_HOME$/s/daos/site/CompanyServiceHandler.class" />
@@ -594,6 +593,9 @@
       <jump line="899" column="12" filename="$USER_HOME$/workspace/ddParse/dd_web_service/saas/public/javascripts/company/org.js" />
       <jump line="27" column="47" filename="$USER_HOME$/workspace/ddParse/dd_web_service/saas/conf/routes" />
       <jump line="7" column="11" filename="$USER_HOME$/workspace/ddParse/dd_web_service/saas/public/javascripts/util/message.js" />
+      <jump line="107" column="43" filename="$USER_HOME$/workspace/ddParse/dd_web_service/saas/app/controllers/company/CompanyOrgController.java" />
+      <jump line="137" column="16" filename="$USER_HOME$/workspace/ddParse/dd_web_service/saas/app/controllers/company/CompanyOrgController.java" />
+      <jump line="139" column="12" filename="$USER_HOME$/workspace/ddParse/dd_web_service/saas/app/controllers/company/CompanyOrgController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -606,7 +608,7 @@
         <text>08a0bfd52638c4e5f5e926d2b8ab5c3e-3e8e63707cd68c2907ad1cdcf0d4613b-3f128f29f375aca2cf046a3cac92e752</text>
       </register>
       <register name="/" type="4">
-        <text>org_direct</text>
+        <text>edita</text>
       </register>
       <register name="0" type="4">
         <text>userpager</text>
@@ -644,9 +646,9 @@
       </register>
     </registers>
     <search>
-      <last-search>org_direct</last-search>
+      <last-search>edita</last-search>
       <last-offset />
-      <last-pattern>org_direct</last-pattern>
+      <last-pattern>edita</last-pattern>
       <last-replace>addProperty</last-replace>
       <last-substitute>put</last-substitute>
       <last-dir>1</last-dir>
@@ -654,7 +656,6 @@
     </search>
     <history>
       <history-search>
-        <entry>toggl</entry>
         <entry>toog</entry>
         <entry>tot</entry>
         <entry>too</entry>
@@ -674,6 +675,7 @@
         <entry>compoany</entry>
         <entry>company\/org</entry>
         <entry>org_direct</entry>
+        <entry>edita</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2luc2VydC91cGRhdGUvZw==</entry>
