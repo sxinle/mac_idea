@@ -276,6 +276,9 @@
         <mark key="." line="131" column="47" />
         <mark key="^" line="131" column="36" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/dd_web_service/neunn_ldap_service/conf/conf.properties" timestamp="1508410537799">
+        <mark key="'" line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ddParse/dd_web_service/saas/public/javascripts/util/message.js" timestamp="1508298206527">
         <mark key="'" line="7" column="11" />
       </file>
@@ -298,6 +301,12 @@
         <mark key="]" line="26" column="38" />
         <mark key="." line="26" column="38" />
         <mark key="^" line="26" column="38" />
+      </file>
+      <file name="$USER_HOME$/workspace/ddParse/dd_push/mbp_server/conf/application.conf" timestamp="1508410912759">
+        <mark key="[" line="90" column="28" />
+        <mark key="]" line="90" column="29" />
+        <mark key="." line="90" column="29" />
+        <mark key="^" line="90" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/ddParse/dd_web_service/saas/app/models/site/OwnUserEntity.java" timestamp="1508233498084">
         <mark key="'" line="69" column="0" />
@@ -354,6 +363,9 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="5" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/dd_web_service/neunn_ldap_service/conf/application.conf" timestamp="1508410528840">
+        <mark key="'" line="69" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/ddParse/all_service/saas/conf/application.conf" timestamp="1508221309806">
         <mark key="[" line="16" column="32" />
         <mark key="]" line="16" column="33" />
@@ -387,7 +399,7 @@
         <mark key="^" line="204" column="7" />
         <mark key="." line="204" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508396992668">
+      <file name="/Dummy.txt" timestamp="1508410670224">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -439,12 +451,16 @@
         <mark key="." line="24" column="34" />
         <mark key="^" line="19" column="33" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/dd_web_service/mbp_token_service/app/services/UserService.java" timestamp="1508410682646" />
       <file name="$USER_HOME$/workspace/ddParse/dd_web_service/neunn_ldap_service/build.sbt" timestamp="1508293757297">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="10" column="29" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
+      </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/src.zip!/javax/naming/directory/Attributes.java" timestamp="1508410793530">
+        <mark key="'" line="70" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/service/impl/OrderDetailServiceImpl.java" timestamp="1505710849571">
         <mark key="[" line="202" column="34" />
@@ -509,11 +525,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/s/daos/site/CompanyServiceHandler.class" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/ddParse/dd_web_service/saas/app/daos/site/CompanyServiceHandler.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/ddParse/dd_web_service/saas/app/daos/site/CompanyServiceHandler.java" />
-      <jump line="4" column="0" filename="$USER_HOME$/s/models/site/CompanyServiceEntity.class" />
-      <jump line="0" column="19" filename="$USER_HOME$/workspace/ddParse/dd_web_service/saas/app/models/site/CompanyServiceEntity.java" />
       <jump line="26" column="36" filename="$USER_HOME$/s/daos/ServiceNoHandler.class" />
       <jump line="53" column="34" filename="$USER_HOME$/workspace/ddParse/dd_web_service/saas/app/daos/ServiceNoHandler.java" />
       <jump line="5" column="21" filename="$USER_HOME$/s/models/record/ServiceNo.class" />
@@ -609,6 +620,11 @@
       <jump line="139" column="12" filename="$USER_HOME$/workspace/ddParse/dd_web_service/saas/app/controllers/company/CompanyOrgController.java" />
       <jump line="13" column="3" filename="$USER_HOME$/workspace/ddParse/dd_web_service/neunner_service/conf/routes" />
       <jump line="49" column="15" filename="$USER_HOME$/workspace/ddParse/dd_web_service/neunner_service/conf/routes" />
+      <jump line="41" column="28" filename="$USER_HOME$/workspace/ddParse/dd_web_service/neunn_ldap_service/conf/application.conf" />
+      <jump line="69" column="0" filename="$USER_HOME$/workspace/ddParse/dd_web_service/neunn_ldap_service/conf/application.conf" />
+      <jump line="14" column="31" filename="$USER_HOME$/workspace/ddParse/dd_web_service/neunn_ldap_service/conf/conf.properties" />
+      <jump line="45" column="0" filename="$USER_HOME$/workspace/ddParse/dd_web_service/neunn_ldap_service/conf/conf.properties" />
+      <jump line="70" column="17" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/src.zip!/javax/naming/directory/Attributes.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -618,7 +634,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>20001</text>
+        <text>10.20.0.167</text>
       </register>
       <register name="/" type="4">
         <text>auth</text>
