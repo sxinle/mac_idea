@@ -30,6 +30,11 @@
         <mark key="." line="132" column="40" />
         <mark key="^" line="132" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/dd_web_service/neunner_service/app/filters/Auth.java" timestamp="1508398600424">
+        <mark key="[" line="49" column="17" />
+        <mark key="]" line="49" column="46" />
+        <mark key="." line="49" column="17" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/controllers/Test.java" timestamp="1505810380056">
         <mark key="[" line="8" column="69" />
         <mark key="]" line="8" column="69" />
@@ -47,6 +52,11 @@
         <mark key="]" line="9" column="52" />
         <mark key="^" line="9" column="52" />
         <mark key="." line="9" column="52" />
+      </file>
+      <file name="$USER_HOME$/workspace/ddParse/dd_web_service/neunn_ldap_service/app/controllers/UserController.java" timestamp="1508488668069">
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ddParse/dd_push/mbp_server/app/controllers/filters/Auth.java" timestamp="1508477221942" />
       <file name="$USER_HOME$/workspace/ddParse/dd_service/neunner_service/app/controllers/api/KnowledgeController.java" timestamp="1507788088406">
@@ -189,6 +199,11 @@
         <mark key="." line="26" column="27" />
         <mark key="^" line="22" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/sql_update/alterDB.sql" timestamp="1508469940395">
+        <mark key="[" line="21" column="62" />
+        <mark key="]" line="21" column="63" />
+        <mark key="." line="21" column="63" />
+      </file>
       <file name="$USER_HOME$/workspace/ddParse/dd_web_service/neunner_service/conf/conf.properties" timestamp="1508482936530">
         <mark key="[" line="14" column="37" />
         <mark key="]" line="14" column="41" />
@@ -228,6 +243,10 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="109" column="45" />
+      </file>
+      <file name="$USER_HOME$/workspace/ddParse/dd_web_service/mbp_token_service/conf/conf.properties" timestamp="1508488465023">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="8" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/sql/user.xml" timestamp="1505890539852">
         <mark key="[" line="62" column="16" />
@@ -293,6 +312,9 @@
       </file>
       <file name="$USER_HOME$/workspace/ddParse/dd_web_service/neunn_ldap_service/conf/conf.properties" timestamp="1508410537799">
         <mark key="'" line="45" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ddParse/dd_web_service/neunn_ldap_service/app/services/UserService.java" timestamp="1508488833910">
+        <mark key="'" line="26" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/spider/src/main/java/com/acenode/spider/controller/ApiController.java" timestamp="1505637043584">
         <mark key="[" line="26" column="36" />
@@ -418,9 +440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="0" filename="$USER_HOME$/workspace/ddParse/dd_web_service/saas/app/controllers/api/OwnCloudController.java" />
-      <jump line="5" column="23" filename="$USER_HOME$/s/controllers/api/UploadController.class" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/ddParse/dd_web_service/saas/app/controllers/api/UploadController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/ddParse/dd_web_service/saas/app/controllers/api/UploadController.java" />
       <jump line="5" column="20" filename="$USER_HOME$/s/services/api/UploadService.class" />
       <jump line="0" column="20" filename="$USER_HOME$/workspace/ddParse/dd_web_service/saas/app/services/api/UploadService.java" />
@@ -518,6 +537,9 @@
       <jump line="457" column="56" filename="$USER_HOME$/workspace/ddParse/dd_push/mbp_server/conf/routes" />
       <jump line="549" column="108" filename="$USER_HOME$/workspace/ddParse/dd_push/mbp_server/conf/routes" />
       <jump line="49" column="76" filename="$USER_HOME$/workspace/ddParse/dd_web_service/neunner_service/conf/routes" />
+      <jump line="219" column="4" filename="$USER_HOME$/workspace/ddParse/dd_web_service/neunn_ldap_service/app/services/UserService.java" />
+      <jump line="423" column="0" filename="$USER_HOME$/workspace/ddParse/dd_web_service/neunn_ldap_service/app/services/UserService.java" />
+      <jump line="26" column="0" filename="$USER_HOME$/workspace/ddParse/dd_web_service/neunn_ldap_service/app/services/UserService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -533,34 +555,34 @@
         <text>login</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0TWFwLnB1dCgiaXBfcG9ydCIsIGlwICsgIjoiICsgcG9ydCk7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiByZXNwb25zZVV0aWwucmV0dXJuTWFwKCIiLCAwLCAi5q2j5bi4IiwgcmVzdWx0TWFwKTsK</text>
+        <text encoding="base64">IyDnrqHnkIblkZgKTERBUF9BRE1JTiA9IGFkbWluCiMg5a+G56CBCkxEQVBfUFdEID0gTmV1bm4yMDE2QCkhXgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlVXRpbC5yZXR1cm5NYXAoIiIsIDAsICLmraPluLgiLCByZXN1bHRNYXApOwogICAgICAgICAgICAK</text>
+        <text encoding="base64">CQkJcmV0dXJuTWFwLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHRNYXAucHV0KCJpcF9wb3J0IiwgaXAgKyAiOiIgKyBwb3J0KTsKICAgICAgICByZXR1cm4gcmVzcG9uc2VVdGlsLnJldHVybk1hcCgiIiwgMCwgIuato+W4uCIsIHJlc3VsdE1hcCk7Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGlmICh0cnVlKSB7Ly8gaHNvbmcKICAgICAgICAgICAgICAgIHJlc3VsdE1hcC5wdXQoImlwX3BvcnQiLCAiMTI3LjAuMC4xOjkwMDIiKTsKICAgICAgICAgICAgICAgIHJldHVybiByZXNwb25zZVV0aWwucmV0dXJuTWFwKCIiLCAwLCAi5q2j5bi4IiwgcmVzdWx0TWFwKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3BvbnNlVXRpbC5yZXR1cm5NYXAoIiIsIDAsICLmraPluLgiLCByZXN1bHRNYXApOwogICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gcm91dGUocmVxLCByZXMsIG5leHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHRNYXAucHV0KCJpcF9wb3J0IiwgaXAgKyAiOiIgKyBwb3J0KTsKICAgICAgICByZXR1cm4gcmVzcG9uc2VVdGlsLnJldHVybk1hcCgiIiwgMCwgIuato+W4uCIsIHJlc3VsdE1hcCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGxvZ2dlci5kZWJ1Zygnc2Rmc2ZzJyk7Cg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIGlmICh0cnVlKSB7Ly8gaHNvbmcKICAgICAgICAgICAgICAgIHJlc3VsdE1hcC5wdXQoImlwX3BvcnQiLCAiMTI3LjAuMC4xOjkwMDIiKTsKICAgICAgICAgICAgICAgIHJldHVybiByZXNwb25zZVV0aWwucmV0dXJuTWFwKCIiLCAwLCAi5q2j5bi4IiwgcmVzdWx0TWFwKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
