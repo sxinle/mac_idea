@@ -501,7 +501,7 @@
         <mark key="^" line="204" column="7" />
         <mark key="." line="204" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508494175369">
+      <file name="/Dummy.txt" timestamp="1508495462160">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -707,7 +707,7 @@
         <text>&quot;pwd&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>get_user_</text>
+        <text>sale</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkJU3RyaW5nW10gdXNlckZpZWxkcyA9IHsgInVpZCIsICJkaXNwbGF5TmFtZSIsICJvdSIsICJvIiwgInBhZ2VyIiwgIm1vYmlsZSIsICJ0ZWxlcGhvbmVOdW1iZXIiLCAibWFpbCIsCgkJCQkJImxhYmVsZWRVUkkiLCAiZW1wbG95ZWVOdW1iZXIiLCAiZGVzY3JpcHRpb24iIH07Cg==</text>
@@ -744,9 +744,9 @@
       </register>
     </registers>
     <search>
-      <last-search>get_user_</last-search>
+      <last-search>sale</last-search>
       <last-offset />
-      <last-pattern>get_user_</last-pattern>
+      <last-pattern>sale</last-pattern>
       <last-replace>addProperty</last-replace>
       <last-substitute>put</last-substitute>
       <last-dir>1</last-dir>
@@ -754,9 +754,6 @@
     </search>
     <history>
       <history-search>
-        <entry>changePwd</entry>
-        <entry>site\/login</entry>
-        <entry>admin</entry>
         <entry>orgPager</entry>
         <entry>cloud</entry>
         <entry>contact</entry>
@@ -774,6 +771,9 @@
         <entry>get_user_service</entry>
         <entry>get_user</entry>
         <entry>get_user_</entry>
+        <entry>get_sales</entry>
+        <entry>get_sale</entry>
+        <entry>sale</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2luc2VydC91cGRhdGUvZw==</entry>
