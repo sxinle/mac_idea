@@ -77,6 +77,10 @@
         <mark key="." line="21" column="140" />
         <mark key="^" line="21" column="140" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/pointshub/app/util/CommonSend.java" timestamp="1508651642108">
+        <mark key="[" line="791" column="32" />
+        <mark key="]" line="791" column="44" />
+      </file>
       <file name="$USER_HOME$/pipeline/models/GroupEntity.class" timestamp="1508498047443">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -433,8 +437,8 @@
       <register name="/" type="4">
         <text>sale</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">Ly8KLy8gU291cmNlIGNvZGUgcmVjcmVhdGVkIGZyb20gYSAuY2xhc3MgZmlsZSBieSBJbnRlbGxpSiBJREVBCi8vIChwb3dlcmVkIGJ5IEZlcm5mbG93ZXIgZGVjb21waWxlcikKLy8KCnBhY2thZ2UgbW9kZWxzOwoKaW1wb3J0IGNvbS5mYXN0ZXJ4bWwuamFja3Nvbi5hbm5vdGF0aW9uLkpzb25Qcm9wZXJ0eTsKaW1wb3J0IGphdmEuaW8uU2VyaWFsaXphYmxlOwppbXBvcnQgamF2YS51dGlsLkxpc3Q7CmltcG9ydCBvcmcuYnNvbi50eXBlcy5PYmplY3RJZDsKaW1wb3J0IHBsYXkuY29yZS5lbmhhbmNlcnMuUHJvcGVydGllc0VuaGFuY2VyLkdlbmVyYXRlZEFjY2Vzc29yOwppbXBvcnQgcGxheS5jb3JlLmVuaGFuY2Vycy5Qcm9wZXJ0aWVzRW5oYW5jZXIuUmV3cml0dGVuQWNjZXNzb3I7CmltcG9ydCB1dGlscy5BRVM7CmltcG9ydCB1dGlscy5Db25mOwoKQEdlbmVyYXRlZEFjY2Vzc29yCkBSZXdyaXR0ZW5BY2Nlc3NvcgpwdWJsaWMgY2xhc3MgT0NHcm91cEVudGl0eSBpbXBsZW1lbnRzIFNlcmlhbGl6YWJsZSB7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBsb25nIHNlcmlhbFZlcnNpb25VSUQgPSA1ODg1NTg3NTI4MDQ1MDc2NDQyTDsKICAgIEBKc29uUHJvcGVydHkoIl9pZCIpCiAgICBwcml2YXRlIE9iamVjdElkIGlkOwogICAgcHJpdmF0ZSBTdHJpbmcgbmFtZTsKICAgIHByaXZhdGUgTGlzdDxTdHJpbmc+IHVzZXJzOwogICAgcHJpdmF0ZSBTdHJpbmcgb2NVcmw7CiAgICBwcml2YXRlIFN0cmluZyBvY1VzZXI7CiAgICBwcml2YXRlIFN0cmluZyBvY1Bhc3M7CiAgICBASnNvblByb3BlcnR5KCJfY3JlYXRlZEF0IikKICAgIHByaXZhdGUgTG9uZyBjcmVhdGVkQXQ7CiAgICBASnNvblByb3BlcnR5KCJfdXBkYXRlZEF0IikKICAgIHByaXZhdGUgTG9uZyB1cGRhdGVkQXQ7CgogICAgcHVibGljIE9DR3JvdXBFbnRpdHkoKSB7CiAgICB9CgogICAgcHVibGljIE9iamVjdElkIGdldElkKCkgewogICAgICAgIHJldHVybiB0aGlzLmlkOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldElkKE9iamVjdElkIGlkKSB7CiAgICAgICAgdGhpcy5pZCA9IGlkOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0TmFtZSgpIHsKICAgICAgICByZXR1cm4gdGhpcy5uYW1lOwogICAgfQoKICAgIHB1YmxpYyB2b2lkIHNldE5hbWUoU3RyaW5nIG5hbWUpIHsKICAgICAgICB0aGlzLm5hbWUgPSBuYW1lOwogICAgfQoKICAgIHB1YmxpYyBMaXN0PFN0cmluZz4gZ2V0VXNlcnMoKSB7CiAgICAgICAgcmV0dXJuIHRoaXMudXNlcnM7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0VXNlcnMoTGlzdDxTdHJpbmc+IHVzZXJzKSB7CiAgICAgICAgdGhpcy51c2VycyA9IHVzZXJzOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0T2NVcmwoKSB7CiAgICAgICAgcmV0dXJuIHRoaXMub2NVcmw7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0T2NVcmwoU3RyaW5nIG9jVXJsKSB7CiAgICAgICAgdGhpcy5vY1VybCA9IG9jVXJsOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0T2NVc2VyKCkgewogICAgICAgIHJldHVybiB0aGlzLm9jVXNlcjsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRPY1VzZXIoU3RyaW5nIG9jVXNlcikgewogICAgICAgIHRoaXMub2NVc2VyID0gb2NVc2VyOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0T2NQYXNzKCkgewogICAgICAgIHJldHVybiBBRVMuZGVjcnlwdCh0aGlzLm9jUGFzcywgQ29uZi5nZXRQcm9wZXJ0eSgiU0VDUkVUX0tFWSIpKTsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRPY1Bhc3MoU3RyaW5nIG9jUGFzcykgewogICAgICAgIHRoaXMub2NQYXNzID0gQUVTLmVuY3J5cHQob2NQYXNzLCBDb25mLmdldFByb3BlcnR5KCJTRUNSRVRfS0VZIikpOwogICAgfQoKICAgIHB1YmxpYyBMb25nIGdldENyZWF0ZWRBdCgpIHsKICAgICAgICByZXR1cm4gdGhpcy5jcmVhdGVkQXQ7CiAgICB9CgogICAgcHVibGljIHZvaWQgc2V0Q3JlYXRlZEF0KExvbmcgY3JlYXRlZEF0KSB7CiAgICAgICAgdGhpcy5jcmVhdGVkQXQgPSBjcmVhdGVkQXQ7CiAgICB9CgogICAgcHVibGljIExvbmcgZ2V0VXBkYXRlZEF0KCkgewogICAgICAgIHJldHVybiB0aGlzLnVwZGF0ZWRBdDsKICAgIH0KCiAgICBwdWJsaWMgdm9pZCBzZXRVcGRhdGVkQXQoTG9uZyB1cGRhdGVkQXQpIHsKICAgICAgICB0aGlzLnVwZGF0ZWRBdCA9IHVwZGF0ZWRBdDsKICAgIH0KfQo=</text>
+      <register name="0" type="4">
+        <text>ip.taobao.com</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">cGFja2FnZSBtb2RlbHM7CgpwdWJsaWMgY2xhc3MgT0NHcm91cEVudGl0eSB7Cn0K</text>
