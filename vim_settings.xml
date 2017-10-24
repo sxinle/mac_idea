@@ -52,6 +52,7 @@
         <mark key="." line="56" column="16" />
         <mark key="^" line="56" column="16" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/dd_web_service/saas/app/controllers/site/SiteController.java" timestamp="1508815432043" />
       <file name="$USER_HOME$/workspace/ddParse/dd_web_service/mbp_token_service/app/utils/CollectionFactory.java" timestamp="1508749892732">
         <mark key="[" line="25" column="37" />
         <mark key="]" line="25" column="45" />
@@ -83,10 +84,12 @@
         <mark key="." line="66" column="67" />
         <mark key="^" line="81" column="58" />
       </file>
-      <file name="/JavaScript Console" timestamp="1508750714356">
+      <file name="/JavaScript Console" timestamp="1508815913097">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/dd_web_service/saas/conf/routes" timestamp="1508811997137" />
+      <file name="$USER_HOME$/workspace/ddParse/dd_web_service/saas/conf/routes" timestamp="1508815902807">
+        <mark key="'" line="11" column="50" />
+      </file>
       <file name="$USER_HOME$/workspace/ddParse/dd_web_service/neunner_service/app/services/api/OwnCloudService.java" timestamp="1508723810053">
         <mark key="'" line="230" column="38" />
         <mark key="[" line="203" column="39" />
@@ -101,7 +104,7 @@
       <file name="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" timestamp="1508652203572">
         <mark key="'" line="306" column="133" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508813550885">
+      <file name="/Dummy.txt" timestamp="1508816230213">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -121,7 +124,9 @@
       <file name="$USER_HOME$/workspace/ddParse/dd_web_service/saas/target/scala-2.10/classes/Global.class" timestamp="1508747123290">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/dd_web_service/saas/app/controllers/api/AuthorizeController.java" timestamp="1508814636801" />
+      <file name="$USER_HOME$/workspace/ddParse/dd_web_service/saas/app/controllers/api/AuthorizeController.java" timestamp="1508815383994">
+        <mark key="'" line="129" column="33" />
+      </file>
       <file name="$USER_HOME$/workspace/ddParse/dd_web_service/neunner_service/app/services/api/OrgService.java" timestamp="1508724672077">
         <mark key="'" line="122" column="26" />
         <mark key="[" line="96" column="25" />
@@ -161,6 +166,7 @@
         <mark key="]" line="152" column="119" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/dd_web_service/saas/app/services/site/SiteService.java" timestamp="1508815442328" />
       <file name="$USER_HOME$/workspace/ddParse/dd_web_service/neunner_service/app/services/api/ServiceNumService.java" timestamp="1508726990740">
         <mark key="'" line="345" column="48" />
         <mark key="[" line="163" column="23" />
@@ -192,9 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="13" filename="$USER_HOME$/pipeline/daos/CompanyHandler.class" />
-      <jump line="0" column="0" filename="$USER_HOME$/pipeline/daos/CompanyHandler.class" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/ddParse/dd_web_service/neunner_service/app/daos/CompanyHandler.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/ddParse/dd_web_service/neunner_service/app/daos/CompanyHandler.java" />
       <jump line="27" column="30" filename="$USER_HOME$/pipeline/models/CompanyEntity.class" />
       <jump line="0" column="0" filename="$USER_HOME$/pipeline/models/CompanyEntity.class" />
@@ -292,6 +295,9 @@
       <jump line="39" column="60" filename="$USER_HOME$/workspace/ddParse/dd_web_service/neunner_service/conf/routes" />
       <jump line="31" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/app/models/ScanPrizeDetail.java" />
       <jump line="453" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/app/models/ScanPrizeDetail.java" />
+      <jump line="129" column="33" filename="$USER_HOME$/workspace/ddParse/dd_web_service/saas/app/controllers/api/AuthorizeController.java" />
+      <jump line="25" column="38" filename="$USER_HOME$/workspace/ddParse/dd_web_service/saas/conf/routes" />
+      <jump line="11" column="50" filename="$USER_HOME$/workspace/ddParse/dd_web_service/saas/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -304,7 +310,7 @@
         <text>neunnExist</text>
       </register>
       <register name="/" type="4">
-        <text>pip</text>
+        <text>site\/login</text>
       </register>
       <register name="0" type="4">
         <text>uuvalueExist</text>
@@ -341,17 +347,16 @@
       </register>
     </registers>
     <search>
-      <last-search>pip</last-search>
+      <last-search>site\/login</last-search>
       <last-offset />
-      <last-pattern>pip</last-pattern>
+      <last-pattern>site\/login</last-pattern>
       <last-replace>addProperty</last-replace>
       <last-substitute>put</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>compoany</entry>
         <entry>company\/org</entry>
         <entry>org_direct</entry>
         <entry>edita</entry>
@@ -371,6 +376,7 @@
         <entry>mod_online</entry>
         <entry>ldap</entry>
         <entry>pip</entry>
+        <entry>site\/login</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2luc2VydC91cGRhdGUvZw==</entry>
