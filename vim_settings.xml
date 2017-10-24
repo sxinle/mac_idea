@@ -26,11 +26,11 @@
       <file name="/a.dummy" timestamp="1508723805376">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/dd_web_service/saas/app/Global.java" timestamp="1508746852443">
-        <mark key="[" line="168" column="17" />
-        <mark key="]" line="168" column="18" />
-        <mark key="^" line="168" column="18" />
-        <mark key="." line="168" column="18" />
+      <file name="$USER_HOME$/workspace/ddParse/dd_web_service/saas/app/Global.java" timestamp="1508813156952">
+        <mark key="[" line="126" column="16" />
+        <mark key="]" line="126" column="28" />
+        <mark key="^" line="128" column="91" />
+        <mark key="." line="126" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/ddParse/dd_web_service/neunner_service/app/services/api/PipelineService.java" timestamp="1508754444168">
         <mark key="'" line="89" column="0" />
@@ -55,6 +55,9 @@
       <file name="$USER_HOME$/workspace/ddParse/dd_web_service/mbp_token_service/app/utils/CollectionFactory.java" timestamp="1508749892732">
         <mark key="[" line="25" column="37" />
         <mark key="]" line="25" column="45" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/pointshub/app/models/ScanPrizeDetail.java" timestamp="1508813172461">
+        <mark key="'" line="453" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" timestamp="1508648169286">
         <mark key="'" line="189" column="0" />
@@ -83,6 +86,7 @@
       <file name="/JavaScript Console" timestamp="1508750714356">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/dd_web_service/saas/conf/routes" timestamp="1508811997137" />
       <file name="$USER_HOME$/workspace/ddParse/dd_web_service/neunner_service/app/services/api/OwnCloudService.java" timestamp="1508723810053">
         <mark key="'" line="230" column="38" />
         <mark key="[" line="203" column="39" />
@@ -116,6 +120,7 @@
       <file name="$USER_HOME$/workspace/ddParse/dd_web_service/saas/target/scala-2.10/classes/Global.class" timestamp="1508747123290">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/ddParse/dd_web_service/saas/app/controllers/api/AuthorizeController.java" timestamp="1508812002494" />
       <file name="$USER_HOME$/workspace/ddParse/dd_web_service/neunner_service/app/services/api/OrgService.java" timestamp="1508724672077">
         <mark key="'" line="122" column="26" />
         <mark key="[" line="96" column="25" />
@@ -186,8 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/ddParse/dd_web_service/neunner_service/app/services/api/OrgService.java" />
-      <jump line="24" column="0" filename="$USER_HOME$/pipeline/daos/CompanyHandler.class" />
       <jump line="16" column="13" filename="$USER_HOME$/pipeline/daos/CompanyHandler.class" />
       <jump line="0" column="0" filename="$USER_HOME$/pipeline/daos/CompanyHandler.class" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/ddParse/dd_web_service/neunner_service/app/daos/CompanyHandler.java" />
@@ -286,6 +289,8 @@
       <jump line="13" column="12" filename="$USER_HOME$/workspace/ddParse/dd_web_service/neunner_service/conf/conf.properties" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/ddParse/dd_web_service/saas/target/scala-2.10/classes/Global.class" />
       <jump line="39" column="60" filename="$USER_HOME$/workspace/ddParse/dd_web_service/neunner_service/conf/routes" />
+      <jump line="31" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/app/models/ScanPrizeDetail.java" />
+      <jump line="453" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/app/models/ScanPrizeDetail.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -295,13 +300,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>log</text>
+        <text>neunnExist</text>
       </register>
       <register name="/" type="4">
         <text>pip</text>
       </register>
       <register name="0" type="4">
-        <text>DBObject obj =</text>
+        <text>uuvalueExist</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIERCT2JqZWN0IHJlcyA9IG5ldyBCYXNpY0RCT2JqZWN0KCk7CiAgICAgICAgICAgICAgICByZXMucHV0KCJjb2RlIiwgMCk7Cg==</text>
