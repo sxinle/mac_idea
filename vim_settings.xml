@@ -6,10 +6,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/pipeline/clients/moa/MoaService.class" timestamp="1508726617739">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="31" column="68" />
-      </file>
       <file name="$USER_HOME$/workspace/ddParse/dd_web_service/neunner_service/conf/conf.properties" timestamp="1508741213254">
         <mark key="'" line="13" column="12" />
         <mark key="[" line="19" column="19" />
@@ -57,15 +53,17 @@
         <mark key="." line="56" column="16" />
         <mark key="^" line="56" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/dd_web_service/mbp_token_service/app/utils/CollectionFactory.java" timestamp="1508749892732">
-        <mark key="[" line="25" column="37" />
-        <mark key="]" line="25" column="45" />
-      </file>
       <file name="$USER_HOME$/workspace/jinhui/pointshub/app/models/ScanPrizeDetail.java" timestamp="1508813172461">
         <mark key="'" line="453" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" timestamp="1508648169286">
         <mark key="'" line="189" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/ddParse/dd_web_service/neunner_service/app/controllers/api/UserController.java" timestamp="1508903419749">
+        <mark key="[" line="149" column="39" />
+        <mark key="]" line="149" column="41" />
+        <mark key="^" line="149" column="41" />
+        <mark key="." line="149" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/ddParse/dd_web_service/neunner_service/app/daos/OrgHandler.java" timestamp="1508729101654">
         <mark key="[" line="0" column="0" />
@@ -100,10 +98,6 @@
         <mark key="]" line="203" column="38" />
         <mark key="." line="203" column="38" />
         <mark key="^" line="203" column="38" />
-      </file>
-      <file name="$USER_HOME$/pipeline/services/api/GroupService.class" timestamp="1508725231300">
-        <mark key="[" line="291" column="0" />
-        <mark key="]" line="309" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" timestamp="1508652203572">
         <mark key="'" line="306" column="133" />
@@ -164,11 +158,12 @@
         <mark key="[" line="31" column="21" />
         <mark key="]" line="31" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/ddParse/dd_web_service/neunner_service/conf/routes" timestamp="1508903296168">
-        <mark key="'" line="138" column="68" />
-        <mark key="[" line="16" column="13" />
-        <mark key="]" line="16" column="27" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/workspace/ddParse/dd_web_service/neunner_service/conf/routes" timestamp="1508903376989">
+        <mark key="'" line="140" column="68" />
+        <mark key="[" line="18" column="131" />
+        <mark key="]" line="18" column="133" />
+        <mark key="." line="18" column="133" />
+        <mark key="^" line="18" column="133" />
       </file>
       <file name="$USER_HOME$/workspace/ddParse/dd_web_service/neunner_service/app/services/api/ServiceNumService.java" timestamp="1508726990740">
         <mark key="'" line="345" column="48" />
@@ -315,37 +310,37 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>9001</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>site\/login</text>
       </register>
-      <register name="0" type="4">
-        <text>change_password</text>
+      <register name="0" type="2">
+        <text encoding="base64">CUBXaXRoKHsgQXV0aC5jbGFzcyB9KQoJcHVibGljIHN0YXRpYyBSZXN1bHQgY2hhbmdlUGFzc3dvcmQoKSB7CgkJbG9nZ2VyLmluZm8oIlVzZXJDb250cm9sbGVyLmNoYW5nZVBhc3N3b3JkIHN0YXJ0ISIpOwoJCS8vIOWumuS5iei/lOWbnue7k+aenAoJCU1hcDxTdHJpbmcsIE9iamVjdD4gcmV0dXJuTWFwID0gbnVsbDsKCgkJSHR0cC5Db250ZXh0IGN0eCA9IEh0dHAuQ29udGV4dC5jdXJyZW50LmdldCgpOwoJCUpzb25Ob2RlIGpzb25Ob2RlID0gY3R4LnJlcXVlc3QoKS5ib2R5KCkuYXNKc29uKCk7CgoJCVN0cmluZyBjaWQgPSBqc29uTm9kZS5maW5kUGF0aCgiY2lkIikuYXNUZXh0KCk7CgkJU3RyaW5nIHRva2VuID0ganNvbk5vZGUuZmluZFBhdGgoInRva2VuIikuYXNUZXh0KCk7CgkJU3RyaW5nIG5ld19wd2QgPSBqc29uTm9kZS5maW5kUGF0aCgicGFzc3dvcmQiKS5hc1RleHQoKTsKCgkJdHJ5IHsKCQkJLy8g6I635Y+W5oiQ5Yqf57uT5p6cCgkJCXJldHVybk1hcCA9IG5ldyBVc2VyU2VydmljZSgpLmNoYW5nZVBhc3N3b3JkKGNpZCwgdG9rZW4sIG5ld19wd2QpOwoJCX0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CgkJCWxvZ2dlci5lcnJvcigi5L+u5pS55a+G56CB5o6l5Y+j5byC5bi477yaIiArIGUpOwoJCQkvLyDmiJDlip/nu5PmnpzpmYTlgLwKCQkJTWFwPFN0cmluZywgT2JqZWN0PiByZXN1bHRNYXAgPSBuZXcgSGFzaE1hcDxTdHJpbmcsIE9iamVjdD4oKTsKCQkJcmVzdWx0TWFwLnB1dCgicmVzdWx0IiwgMCk7CgkJCXJldHVybk1hcCA9IFJlc3BvbnNlVXRpbC5yZXR1cm5NYXAoY2lkLCAxMDEsICLlh7rnjrDlvILluLgiLCByZXN1bHRNYXApOwoJCX0KCgkJbG9nZ2VyLmluZm8oIlVzZXJDb250cm9sbGVyLmNoYW5nZVBhc3N3b3JkIGVuZCEiKTsKCQlyZXR1cm4gb2soSnNvbi50b0pzb24ocmV0dXJuTWFwKSk7Cgl9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">NCAgIG5ldW5uX2xkYXBfc2VydmljZTo5MDAzCg==</text>
+        <text encoding="base64">CSAqIAoJICogQHJldHVybiBSZXN1bHQKCSAqIEBhdXRob3IgYW5keQoJICogQGRhdGUgMjAxNS44LjEzCgkgKiBAc2luY2UgMS4wCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">NCAgIG5ldW5uX2xkYXBfc2VydmljZTo5MDAzCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJaW50IHV1dmFsdWVFeGlzdCA9IGFjY291bnRIYW5kbGVyLmZpbmRXaXRoVXNlcnR5cGVUb3RhbCgidXV2YWx1ZSIsIENvbnN0YW50LnVzZXIudXNlclR5cGVWYWx1ZS5DT01QQU5ZKTsKCQkJaWYgKHV1dmFsdWVFeGlzdCA9PSAwKSB7CgkJCQlTaXRlU2VydmljZSBzZXJ2aWNlID0gbmV3IFNpdGVTZXJ2aWNlKCk7CgkJCQlzZXJ2aWNlLnJlZ2lzdGVVc2VyKCJhZG1pbkB1dXZhbHVlLmNvbSIsIENvbnN0YW50LnNpdGUuREVGQVVMVF9QQVNTV09SRCwgIuWPi+WSjOWIqeW+tyIpOwoJCQl9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERCT2JqZWN0IHJlcyA9IG5ldyBCYXNpY0RCT2JqZWN0KCk7CiAgICAgICAgICAgICAgICByZXMucHV0KCJjb2RlIiwgMCk7Cg==</text>
+        <text encoding="base64">CQkJaW50IHV1dmFsdWVFeGlzdCA9IGFjY291bnRIYW5kbGVyLmZpbmRXaXRoVXNlcnR5cGVUb3RhbCgidXV2YWx1ZSIsIENvbnN0YW50LnVzZXIudXNlclR5cGVWYWx1ZS5DT01QQU5ZKTsKCQkJaWYgKHV1dmFsdWVFeGlzdCA9PSAwKSB7CgkJCQlTaXRlU2VydmljZSBzZXJ2aWNlID0gbmV3IFNpdGVTZXJ2aWNlKCk7CgkJCQlzZXJ2aWNlLnJlZ2lzdGVVc2VyKCJhZG1pbkB1dXZhbHVlLmNvbSIsIENvbnN0YW50LnNpdGUuREVGQVVMVF9QQVNTV09SRCwgIuWPi+WSjOWIqeW+tyIpOwoJCQl9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIERCT2JqZWN0IHJlcyA9IG5ldyBCYXNpY0RCT2JqZWN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERCT2JqZWN0IHJlcyA9IG5ldyBCYXNpY0RCT2JqZWN0KCk7CiAgICAgICAgICAgICAgICByZXMucHV0KCJjb2RlIiwgMCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIERCT2JqZWN0IHJlcyA9IG5ldyBCYXNpY0RCT2JqZWN0KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
