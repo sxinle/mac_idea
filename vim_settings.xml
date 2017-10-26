@@ -85,10 +85,13 @@
       <file name="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" timestamp="1508652203572">
         <mark key="'" line="306" column="133" />
       </file>
-      <file name="/Dummy.txt" timestamp="1508912907967">
+      <file name="/Dummy.txt" timestamp="1508999303531">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/dongdong/dd_web_service/neunner_service/conf/routes" timestamp="1508999273527">
+        <mark key="'" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ddParse/dd_web_service/neunner_service/app/models/PipelineEntity.java" timestamp="1508726101556">
         <mark key="[" line="11" column="23" />
@@ -172,7 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="159" column="25" filename="$USER_HOME$/pipeline/controllers/api/GroupController.class" />
       <jump line="84" column="45" filename="$USER_HOME$/workspace/ddParse/dd_web_service/neunner_service/app/services/api/GroupService.java" />
       <jump line="376" column="15" filename="$USER_HOME$/workspace/ddParse/dd_web_service/neunner_service/app/services/api/GroupService.java" />
       <jump line="104" column="0" filename="$USER_HOME$/workspace/ddParse/dd_web_service/neunner_service/app/services/api/GroupService.java" />
@@ -272,6 +274,7 @@
       <jump line="210" column="16" filename="$USER_HOME$/Desktop/ScanController.class" />
       <jump line="40" column="18" filename="$USER_HOME$/Desktop/ScanController.class" />
       <jump line="93" column="31" filename="$USER_HOME$/Desktop/ScanController.class" />
+      <jump line="19" column="0" filename="$USER_HOME$/workspace/dongdong/dd_web_service/neunner_service/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -284,7 +287,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>spend</text>
+        <text>get_kn</text>
       </register>
       <register name="0" type="4">
         <text>change_password_new</text>
@@ -321,9 +324,9 @@
       </register>
     </registers>
     <search>
-      <last-search>spend</last-search>
+      <last-search>get_kn</last-search>
       <last-offset />
-      <last-pattern>spend</last-pattern>
+      <last-pattern>get_kn</last-pattern>
       <last-replace>addProperty</last-replace>
       <last-substitute>put</last-substitute>
       <last-dir>1</last-dir>
@@ -331,8 +334,6 @@
     </search>
     <history>
       <history-search>
-        <entry>edita</entry>
-        <entry>auth</entry>
         <entry>sys_device</entry>
         <entry>service_auth</entry>
         <entry>login</entry>
@@ -351,6 +352,8 @@
         <entry>Cache</entry>
         <entry>no-ca</entry>
         <entry>spend</entry>
+        <entry>getKn</entry>
+        <entry>get_kn</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2luc2VydC91cGRhdGUvZw==</entry>
