@@ -63,6 +63,12 @@
         <mark key="^" line="15" column="40" />
         <mark key="." line="17" column="41" />
       </file>
+      <file name="$USER_HOME$/workspace/ddian_service/common/src/main/java/com/acenode/cloud/common/BaseVerticle.java" timestamp="1509420478163">
+        <mark key="'" line="23" column="22" />
+        <mark key="[" line="120" column="59" />
+        <mark key="]" line="120" column="59" />
+        <mark key="." line="120" column="59" />
+      </file>
       <file name="$USER_HOME$/workspace/ddian_service/common/src/main/java/com/acenode/cloud/common/RestVerticle.java" timestamp="1509359830814">
         <mark key="[" line="68" column="0" />
         <mark key="]" line="68" column="0" />
@@ -118,6 +124,7 @@
         <mark key="]" line="9" column="26" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/vertx-blueprint-microservice/shopping-cart-microservice/src/main/generated/io/vertx/blueprint/microservice/cart/ShoppingCartServiceVertxProxyHandler.java" timestamp="1509420255402" />
       <file name="$USER_HOME$/workspace/ddian_service/pom.xml" timestamp="1509343904063">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="19" column="27" />
@@ -195,7 +202,7 @@
       <file name="$USER_HOME$/workspace/cask/common/src/main/java/com/acenode/cloud/common/rx/BaseRxVerticle.java" timestamp="1509086331587">
         <mark key="'" line="2" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509418914584">
+      <file name="/Dummy.txt" timestamp="1509420153973">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -242,19 +249,16 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/vertx-blueprint-microservice/microservice-blueprint-common/src/main/java/io/vertx/blueprint/microservice/common/BaseMicroserviceVerticle.java" timestamp="1509416588397" />
-      <file name="/fragment.java" timestamp="1509418278181">
+      <file name="$USER_HOME$/workspace/demo/vertx-blueprint-microservice/microservice-blueprint-common/src/main/java/io/vertx/blueprint/microservice/common/BaseMicroserviceVerticle.java" timestamp="1509420082791">
+        <mark key="'" line="124" column="7" />
+      </file>
+      <file name="/fragment.java" timestamp="1509420340829">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="18" filename="$USER_HOME$/Desktop/ScanController.class" />
-      <jump line="93" column="31" filename="$USER_HOME$/Desktop/ScanController.class" />
-      <jump line="19" column="0" filename="$USER_HOME$/workspace/dongdong/dd_web_service/neunner_service/conf/routes" />
-      <jump line="551" column="6" filename="$USER_HOME$/workspace/dongdong/dd_push/mbp_server/app/controllers/api/SDKProcessor.java" />
-      <jump line="881" column="39" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/controllers/ScanController.java" />
       <jump line="437" column="32" filename="$USER_HOME$/workspace/dongdong/dd_push/mbp_server/conf/routes" />
       <jump line="14" column="68" filename="$USER_HOME$/workspace/dongdong/dd_push/mbp_server/conf/routes" />
       <jump line="65" column="92" filename="$USER_HOME$/workspace/dongdong/dd_push/mbp_server/conf/routes" />
@@ -350,6 +354,11 @@
       <jump line="26" column="0" filename="$USER_HOME$/workspace/ddian_service/pom.xml" />
       <jump line="103" column="0" filename="$USER_HOME$/workspace/ddian_service/gateway/src/main/java/com/acenode/cloud/gateway/GatewayVerticle.java" />
       <jump line="48" column="37" filename="$USER_HOME$/workspace/demo/vertx-blueprint-microservice/order-microservice/src/main/java/io/vertx/blueprint/microservice/order/api/RestOrderAPIVerticle.java" />
+      <jump line="124" column="7" filename="$USER_HOME$/workspace/demo/vertx-blueprint-microservice/microservice-blueprint-common/src/main/java/io/vertx/blueprint/microservice/common/BaseMicroserviceVerticle.java" />
+      <jump line="31" column="26" filename="$USER_HOME$/workspace/ddian_service/common/src/main/java/com/acenode/cloud/common/BaseVerticle.java" />
+      <jump line="97" column="16" filename="$USER_HOME$/workspace/ddian_service/common/src/main/java/com/acenode/cloud/common/BaseVerticle.java" />
+      <jump line="131" column="8" filename="$USER_HOME$/workspace/ddian_service/common/src/main/java/com/acenode/cloud/common/BaseVerticle.java" />
+      <jump line="23" column="22" filename="$USER_HOME$/workspace/ddian_service/common/src/main/java/com/acenode/cloud/common/BaseVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -359,10 +368,10 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>pub</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>mongo</text>
+        <text encoding="base64">XDxyZWdpc3RlcmVkUmVjb3Jkc1w+</text>
       </register>
       <register name="0" type="4">
         <text>context.getBodyAsJson().getString(&quot;token&quot;)</text>
@@ -399,17 +408,16 @@
       </register>
     </registers>
     <search>
-      <last-search>mongo</last-search>
+      <last-search encoding="base64">XDxyZWdpc3RlcmVkUmVjb3Jkc1w+</last-search>
       <last-offset />
-      <last-pattern>mongo</last-pattern>
+      <last-pattern encoding="base64">XDxyZWdpc3RlcmVkUmVjb3Jkc1w+</last-pattern>
       <last-replace>addProperty</last-replace>
       <last-substitute>put</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>site\/login</entry>
         <entry>Cache</entry>
         <entry>no-ca</entry>
         <entry>getKn</entry>
@@ -429,6 +437,7 @@
         <entry>postgre</entry>
         <entry>post</entry>
         <entry>mongo</entry>
+        <entry encoding="base64">XDxyZWdpc3RlcmVkUmVjb3Jkc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2luc2VydC91cGRhdGUvZw==</entry>
