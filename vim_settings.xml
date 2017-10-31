@@ -248,7 +248,7 @@
       <file name="$USER_HOME$/workspace/cask/common/src/main/java/com/acenode/cloud/common/rx/BaseRxVerticle.java" timestamp="1509086331587">
         <mark key="'" line="2" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509421423643">
+      <file name="/Dummy.txt" timestamp="1509432988312">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -430,7 +430,7 @@
         <text>gateway</text>
       </register>
       <register name="/" type="4">
-        <text>conf</text>
+        <text>published</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpIHsKICAgICAgICBMYXVuY2hlci5leGVjdXRlQ29tbWFuZCgicnVuIiwgR2F0ZXdheVZlcnRpY2xlLmNsYXNzLmdldE5hbWUoKSwKICAgICAgICAgICAgICAgICItY2x1c3RlciIsCiAgICAgICAgICAgICAgICAiLWNvbmYiLCAiL1VzZXJzL2hzb25nL3dvcmtzcGFjZS9kZGlhbl9zZXJ2aWNlL2dhdGV3YXkvc3JjL21haW4vcmVzb3VyY2VzL2NvbmZpZy5qc29uIik7CiAgICB9Cg==</text>
@@ -467,9 +467,9 @@
       </register>
     </registers>
     <search>
-      <last-search>conf</last-search>
+      <last-search>published</last-search>
       <last-offset />
-      <last-pattern>conf</last-pattern>
+      <last-pattern>published</last-pattern>
       <last-replace>addProperty</last-replace>
       <last-substitute>put</last-substitute>
       <last-dir>1</last-dir>
@@ -477,7 +477,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get_kn</entry>
         <entry>sdkpro</entry>
         <entry encoding="base64">XDxNamRlcHdCR1w+</entry>
         <entry>sdk</entry>
@@ -497,6 +496,7 @@
         <entry>no handler</entry>
         <entry>option</entry>
         <entry>conf</entry>
+        <entry>published</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2luc2VydC91cGRhdGUvZw==</entry>
