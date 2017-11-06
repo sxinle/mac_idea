@@ -13,6 +13,10 @@
         <mark key="[" line="62" column="16" />
         <mark key="]" line="62" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/application.conf" timestamp="1509936285594">
+        <mark key="[" line="68" column="13" />
+        <mark key="]" line="68" column="53" />
+      </file>
       <file name="$USER_HOME$/workspace/ddParse/dd_web_service/saas/app/Global.java" timestamp="1508813644996">
         <mark key="[" line="124" column="0" />
         <mark key="]" line="124" column="0" />
@@ -202,7 +206,7 @@
       <file name="$USER_HOME$/workspace/cask/common/src/main/java/com/acenode/cloud/common/rx/BaseRxVerticle.java" timestamp="1509086331587">
         <mark key="'" line="2" column="31" />
       </file>
-      <file name="/Dummy.txt" timestamp="1509680569870">
+      <file name="/Dummy.txt" timestamp="1509935961434">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -386,10 +390,10 @@
         <text>com.googlecode.iterm2</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcGlVcmxcPg==</text>
+        <text>话费</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAidHlwZSI6ICJiYXNpYyIsCiAgICAgICAgICAiZnJvbSI6IHsKICAgICAgICAgICAgImtleV9jb2RlIjogInUiLAogICAgICAgICAgICAibW9kaWZpZXJzIjogewogICAgICAgICAgICAgICJtYW5kYXRvcnkiOiBbCiAgICAgICAgICAgICAgICAibGVmdF9jb250cm9sIgogICAgICAgICAgICAgIF0KICAgICAgICAgICAgfQogICAgICAgICAgfSwKICAgICAgICAgICJ0byI6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICJrZXlfY29kZSI6ICJkZWxldGVfb3JfYmFja3NwYWNlIiwKICAgICAgICAgICAgICAibW9kaWZpZXJzIjogWwogICAgICAgICAgICAgICAgImxlZnRfY29tbWFuZCIKICAgICAgICAgICAgICBdCiAgICAgICAgICAgIH0KICAgICAgICAgIF0sCiAgICAgICAgICAiY29uZGl0aW9ucyI6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICJ0eXBlIjogImZyb250bW9zdF9hcHBsaWNhdGlvbl91bmxlc3MiLAogICAgICAgICAgICAgICJidW5kbGVfaWRlbnRpZmllcnMiOiBbCiAgICAgICAgICAgICAgICAiY29tLmdvb2dsZWNvZGUuaXRlcm0yIiwKICAgICAgICAgICAgICAgICJvcmcudmltLk1hY1ZpbSIsCiAgICAgICAgICAgICAgICAiY29tLmpldGJyYWlucy5pbnRlbGxpaiIsCiAgICAgICAgICAgICAgICAiY29tLmdvb2dsZS5hbmRyb2lkLnN0dWRpbyIKICAgICAgICAgICAgICBdCiAgICAgICAgICAgIH0KICAgICAgICAgIF0KICAgICAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text>http://119.145.12.180:899/mobile/Recharge</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICJvcmcudmltLk1hY1ZpbSIsCiAgICAgICAgICAgICAgICAiY29tLmpldGJyYWlucy5pbnRlbGxpaiIsCiAgICAgICAgICAgICAgICAiY29tLmdvb2dsZS5hbmRyb2lkLnN0dWRpbyIK</text>
@@ -423,18 +427,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcGlVcmxcPg==</last-search>
+      <last-search>话费</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcGlVcmxcPg==</last-pattern>
+      <last-pattern>话费</last-pattern>
       <last-replace>addProperty</last-replace>
       <last-substitute>put</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>find</entry>
-        <entry>exchange</entry>
         <entry>spend</entry>
         <entry encoding="base64">XDxoaW50XD4=</entry>
         <entry>veri</entry>
@@ -453,6 +455,8 @@
         <entry>send</entry>
         <entry>event</entry>
         <entry encoding="base64">XDxhcGlVcmxcPg==</entry>
+        <entry>话费充值</entry>
+        <entry>话费</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzMuMi8zLjEvZw==</entry>
