@@ -37,6 +37,13 @@
       <file name="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" timestamp="1508648169286">
         <mark key="'" line="189" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-parent/pom.xml" timestamp="1510556258596">
+        <mark key="'" line="220" column="16" />
+        <mark key="[" line="8" column="13" />
+        <mark key="]" line="8" column="13" />
+        <mark key="." line="8" column="13" />
+        <mark key="^" line="8" column="39" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.8/log4j-core-2.8.jar!/Log4j-config.xsd" timestamp="1510540420851">
         <mark key="'" line="84" column="30" />
       </file>
@@ -224,12 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="328" column="52" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/routes" />
-      <jump line="12" column="49" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/routes" />
-      <jump line="488" column="72" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/sql/AwardOrder.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/views/console/eventOrderList.scala.html" />
-      <jump line="27" column="18" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/sql/AwardOrder.xml" />
-      <jump line="92" column="18" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/sql/AwardOrder.xml" />
       <jump line="323" column="4" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/routes" />
       <jump line="223" column="152" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/routes" />
       <jump line="187" column="8" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/sql/AwardOrder.xml" />
@@ -324,6 +325,12 @@
       <jump line="45" column="26" filename="$USER_HOME$/workspace/micro-service/ddian_service/common/src/main/java/com/acenode/cloud/common/BaseVerticle.java" />
       <jump line="11" column="17" filename="$USER_HOME$/workspace/micro-service/common/pom.xml" />
       <jump line="17" column="20" filename="$USER_HOME$/workspace/micro-service/common/pom.xml" />
+      <jump line="218" column="34" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-parent/pom.xml" />
+      <jump line="25" column="16" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-parent/pom.xml" />
+      <jump line="42" column="24" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-parent/pom.xml" />
+      <jump line="57" column="24" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-parent/pom.xml" />
+      <jump line="216" column="17" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-parent/pom.xml" />
+      <jump line="220" column="16" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-parent/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -333,49 +340,49 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>world</text>
+        <text>SNAPSHOT-</text>
       </register>
       <register name="/" type="4">
-        <text>redeploy</text>
+        <text>example</text>
       </register>
       <register name="0" type="4">
         <text>Launcher.executeCommand</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxwYXJlbnQ+CiAgICAgICAgPGFydGlmYWN0SWQ+ZGRpYW5fc2VydmljZTwvYXJ0aWZhY3RJZD4KICAgIDwvcGFyZW50Pgo=</text>
+        <text encoding="base64">ICAgICAgICA8cmVwb3NpdG9yeT4KICAgICAgICAgICAgPGlkPm5leHVzLXJlbGVhc2VzPC9pZD4KICAgICAgICAgICAgPG5hbWU+TmV4dXMgUmVsZWFzZSBSZXBvc2l0b3J5PC9uYW1lPgogICAgICAgICAgICA8dXJsPmh0dHA6Ly8xMjcuMC4wLjE6ODA4MC9uZXh1cy9jb250ZW50L3JlcG9zaXRvcmllcy9yZWxlYXNlcy88L3VybD4KICAgICAgICA8L3JlcG9zaXRvcnk+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8Z3JvdXBJZD5jb20uYWNlbm9kZS5jbG91ZDwvZ3JvdXBJZD4KICAgICAgICA8dmVyc2lvbj4xLjAuMDwvdmVyc2lvbj4K</text>
+        <text encoding="base64">ICAgIDxyZXBvc2l0b3JpZXM+CiAgICAgICAgPHJlcG9zaXRvcnk+CiAgICAgICAgICAgIDxpZD5zbmFwc2hvdHMtcmVwbzwvaWQ+CiAgICAgICAgICAgIDx1cmw+aHR0cHM6Ly8xOTIuMTY4Ljk5LjEwMDo4MDgxL2NvbnRlbnQvcmVwb3NpdG9yaWVzL3NuYXBzaG90czwvdXJsPgogICAgICAgICAgICA8cmVsZWFzZXM+CiAgICAgICAgICAgICAgICA8ZW5hYmxlZD5mYWxzZTwvZW5hYmxlZD4KICAgICAgICAgICAgPC9yZWxlYXNlcz4KICAgICAgICAgICAgPHNuYXBzaG90cz4KICAgICAgICAgICAgICAgIDxlbmFibGVkPnRydWU8L2VuYWJsZWQ+CiAgICAgICAgICAgIDwvc25hcHNob3RzPgogICAgICAgIDwvcmVwb3NpdG9yeT4KICAgIDwvcmVwb3NpdG9yaWVzPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGVuYWxiZWQ+ZmFsc2U8L2VuYWxiZWQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+aW8udmVydHg8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmV4YW1wbGVzLXV0aWxzPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPAo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGVuYWxiZWQ+ZmFsc2U8L2VuYWxiZWQ+Cg==</text>
+        <text encoding="base64">ICAgIDxwYXJlbnQ+CiAgICAgICAgPGFydGlmYWN0SWQ+ZGRpYW5fc2VydmljZTwvYXJ0aWZhY3RJZD4KICAgIDwvcGFyZW50Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8Z3JvdXBJZD5jb20uYWNlbm9kZS5jbG91ZDwvZ3JvdXBJZD4KICAgICAgICA8dmVyc2lvbj4xLjAuMDwvdmVyc2lvbj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGVuYWxiZWQ+ZmFsc2U8L2VuYWxiZWQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxwYXJlbnQ+CiAgICAgICAgPGFydGlmYWN0SWQ+ZGRpYW5fc2VydmljZTwvYXJ0aWZhY3RJZD4KICAgICAgICA8Z3JvdXBJZD5jb20uYWNlbm9kZS5jbG91ZDwvZ3JvdXBJZD4KICAgICAgICA8dmVyc2lvbj4xLjAuMDwvdmVyc2lvbj4KICAgIDwvcGFyZW50Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoImhlbGxvb29vbyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGVuYWxiZWQ+ZmFsc2U8L2VuYWxiZWQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>redeploy</last-search>
+      <last-search>example</last-search>
       <last-offset />
-      <last-pattern>redeploy</last-pattern>
+      <last-pattern>example</last-pattern>
       <last-replace>addProperty</last-replace>
       <last-substitute>put</last-substitute>
       <last-dir>1</last-dir>
@@ -383,7 +390,6 @@
     </search>
     <history>
       <history-search>
-        <entry>话费</entry>
         <entry>回调</entry>
         <entry>receive</entry>
         <entry>正在发货</entry>
@@ -403,6 +409,7 @@
         <entry>log4j.ver</entry>
         <entry>time</entry>
         <entry>redeploy</entry>
+        <entry>example</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzMuMi8zLjEvZw==</entry>
