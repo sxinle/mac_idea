@@ -54,8 +54,8 @@
       <file name="$MAVEN_REPOSITORY$/org/apache/logging/log4j/log4j-core/2.8/log4j-core-2.8.jar!/Log4j-config.xsd" timestamp="1510540420851">
         <mark key="'" line="84" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/gateway/pom.xml" timestamp="1510558237637">
-        <mark key="'" line="11" column="19" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/gateway/pom.xml" timestamp="1510560084368">
+        <mark key="'" line="20" column="48" />
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="37" />
         <mark key="." line="12" column="0" />
@@ -115,6 +115,12 @@
         <mark key="]" line="134" column="21" />
         <mark key="^" line="118" column="36" />
         <mark key="." line="130" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" timestamp="1510560275107">
+        <mark key="'" line="159" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/cask/common/src/main/java/com/acenode/cloud/common/BaseVerticle.java" timestamp="1509075284465">
         <mark key="'" line="138" column="29" />
@@ -321,9 +327,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="6" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/util/RechargeUtil.java" />
-      <jump line="237" column="0" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/util/RechargeUtil.java" />
-      <jump line="2" column="18" filename="$USER_HOME$/workspace/demo/zest/src/main/java/zest/Test2.java" />
       <jump line="65" column="42" filename="$USER_HOME$/workspace/ddian_service/micros-auth/src/main/java/com/acenode/cloud/auth/AuthVerticle.java" />
       <jump line="10" column="49" filename="$USER_HOME$/workspace/demo/vertx-blueprint-microservice/payment-microservice/src/main/resources/log4j2.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/demo/vertx-blueprint-microservice/payment-microservice/src/main/resources/log4j2.xml" />
@@ -421,6 +424,9 @@
       <jump line="20" column="18" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/cloud/common/config/ConfigHelper.java" />
       <jump line="71" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/cloud/common/config/ConfigHelper.java" />
       <jump line="26" column="20" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/pom.xml" />
+      <jump line="20" column="48" filename="$USER_HOME$/workspace/micro-service/jh_sales/gateway/pom.xml" />
+      <jump line="43" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" />
+      <jump line="159" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -439,28 +445,28 @@
         <text encoding="base64">ICAgIDx2ZXJzaW9uPjEuMC4wLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxtb2RlbFZlcnNpb24+NC4wLjA8L21vZGVsVmVyc2lvbj4K</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hY2Vub2RlLmNsb3VkLmNvbW1vbi5SZXN0VmVydGljbGU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDxtb2RlbFZlcnNpb24+NC4wLjA8L21vZGVsVmVyc2lvbj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDx2ZXJzaW9uPjEuMC4wLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIDx2ZXJzaW9uPjEuMC4wLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtwcm9qZWN0LnZlcnNpb259PC92ZXJzaW9uPgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIDx2ZXJzaW9uPjEuMC4wLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtwcm9qZWN0LnZlcnNpb259PC92ZXJzaW9uPgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDx2ZXJzaW9uPjEuMC4wLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxtb2RlbFZlcnNpb24+NC4wLjA8L21vZGVsVmVyc2lvbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIDxtb2RlbFZlcnNpb24+NC4wLjA8L21vZGVsVmVyc2lvbj4K</text>
