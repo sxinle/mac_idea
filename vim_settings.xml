@@ -129,8 +129,14 @@
         <mark key="^" line="118" column="36" />
         <mark key="." line="130" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-user/src/main/java/com/acenode/micros/user/UserVerticle.java" timestamp="1510573117691">
-        <mark key="'" line="63" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-user/src/main/resources/cluster.xml" timestamp="1510583553876">
+        <mark key="[" line="63" column="34" />
+        <mark key="]" line="63" column="36" />
+        <mark key="." line="63" column="36" />
+        <mark key="^" line="63" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-user/src/main/java/com/acenode/micros/user/UserVerticle.java" timestamp="1510573222403">
+        <mark key="'" line="14" column="13" />
         <mark key="[" line="19" column="41" />
         <mark key="]" line="19" column="46" />
         <mark key="." line="19" column="46" />
@@ -379,8 +385,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="0" filename="$USER_HOME$/workspace/micro-service/ddian_service/pom.xml" />
-      <jump line="101" column="40" filename="$USER_HOME$/workspace/micro-service/ddian_service/pom.xml" />
       <jump line="102" column="24" filename="$USER_HOME$/workspace/micro-service/ddian_service/pom.xml" />
       <jump line="107" column="40" filename="$USER_HOME$/workspace/micro-service/ddian_service/pom.xml" />
       <jump line="108" column="24" filename="$USER_HOME$/workspace/micro-service/ddian_service/pom.xml" />
@@ -479,6 +483,8 @@
       <jump line="47" column="41" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/resources/cluster.xml" />
       <jump line="62" column="9" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/resources/cluster.xml" />
       <jump line="71" column="27" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/resources/cluster.xml" />
+      <jump line="25" column="60" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-user/src/main/java/com/acenode/micros/user/UserVerticle.java" />
+      <jump line="14" column="13" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-user/src/main/java/com/acenode/micros/user/UserVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -488,7 +494,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>127.0.0.1</text>
+        <text>106</text>
       </register>
       <register name="/" type="4">
         <text>inter</text>
@@ -534,7 +540,7 @@
       <last-replace>addProperty</last-replace>
       <last-substitute>put</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
