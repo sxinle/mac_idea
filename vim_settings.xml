@@ -83,9 +83,8 @@
         <mark key="." line="10" column="54" />
         <mark key="^" line="10" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/vertx-blueprint-microservice/pom.xml" timestamp="1510545173926">
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="133" column="16" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/java/com/acenode/cloud/auth/AuthVerticle.java" timestamp="1510559248527">
+        <mark key="'" line="50" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/cask/micros-account/src/main/java/com/acenode/cloud/account/api/AccountAPIVerticle.java" timestamp="1509330839054">
         <mark key="'" line="36" column="0" />
@@ -129,6 +128,13 @@
       </file>
       <file name="$USER_HOME$/workspace/demo/vertx-blueprint-microservice/api-gateway/src/main/java/io/vertx/blueprint/microservice/gateway/APIGatewayVerticle.java" timestamp="1509446938818">
         <mark key="'" line="298" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-user/pom.xml" timestamp="1510559203752">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="20" column="33" />
+        <mark key="]" line="20" column="38" />
+        <mark key="." line="20" column="38" />
+        <mark key="^" line="20" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/ddian_service/micros-user/src/main/java/com/acenode/cloud/user/impl/UserServiceImpl.java" timestamp="1509446435491">
         <mark key="'" line="27" column="53" />
@@ -212,6 +218,12 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
         <mark key="^" line="22" column="40" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/pom.xml" timestamp="1510558995146">
+        <mark key="'" line="30" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/vertx-blueprint-microservice/payment-microservice/src/main/resources/log4j2.xml" timestamp="1510214355131">
         <mark key="'" line="24" column="0" />
@@ -306,12 +318,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="402" column="12" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/sql/AwardOrder.xml" />
-      <jump line="429" column="12" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/sql/AwardOrder.xml" />
-      <jump line="455" column="12" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/sql/AwardOrder.xml" />
-      <jump line="475" column="12" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/sql/AwardOrder.xml" />
-      <jump line="28" column="19" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/sql/AwardOrder.xml" />
-      <jump line="93" column="19" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/sql/AwardOrder.xml" />
       <jump line="147" column="16" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/sql/AwardOrder.xml" />
       <jump line="194" column="15" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/sql/AwardOrder.xml" />
       <jump line="188" column="15" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/sql/AwardOrder.xml" />
@@ -406,6 +412,12 @@
       <jump line="16" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-parent/pom.xml" />
       <jump line="217" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-parent/pom.xml" />
       <jump line="11" column="19" filename="$USER_HOME$/workspace/micro-service/jh_sales/gateway/pom.xml" />
+      <jump line="9" column="19" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/pom.xml" />
+      <jump line="30" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/pom.xml" />
+      <jump line="4" column="11" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-user/pom.xml" />
+      <jump line="12" column="26" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-user/pom.xml" />
+      <jump line="45" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-user/pom.xml" />
+      <jump line="50" column="39" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/java/com/acenode/cloud/auth/AuthVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -415,7 +427,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>ddian_service</text>
+        <text>cloud</text>
       </register>
       <register name="/" type="4">
         <text>ddian</text>
@@ -427,28 +439,28 @@
         <text encoding="base64">ICAgIDxtb2RlbFZlcnNpb24+NC4wLjA8L21vZGVsVmVyc2lvbj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8dmVyc2lvbj4xLjAuMDwvdmVyc2lvbj4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+aW8udmVydHg8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmV4YW1wbGVzLXV0aWxzPC9hcnRpZmFjdElkPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgIDx2ZXJzaW9uPjEuMC4wLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDx2ZXJzaW9uPjEuMC4wLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxtb2R1bGVzPgogICAgICAgIDwhLS0g5Z+656GA5qih5Z2XIC0tPgogICAgICAgIDwhLS08bW9kdWxlPi4uL2NvbW1vbjwvbW9kdWxlPi0tPgogICAgICAgIDwhLS08bW9kdWxlPi4uL2dhdGV3YXk8L21vZHVsZT4tLT4KICAgICAgICA8IS0tPG1vZHVsZT4uLi9taWNyb3MtYXV0aDwvbW9kdWxlPi0tPgogICAgPC9tb2R1bGVzPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHZlcnNpb24+JHtwcm9qZWN0LnZlcnNpb259PC92ZXJzaW9uPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8cmVwb3NpdG9yeT4KICAgICAgICAgICAgPGlkPnJlbGVhc2VzPC9pZD4KICAgICAgICAgICAgPG5hbWU+UmVsZWFzZS1SZXBvc2l0b3J5PC9uYW1lPgogICAgICAgICAgICA8dXJsPmh0dHA6Ly8xOTIuMTY4LjMyLjEwNjo4MDgxL25leHVzL2NvbnRlbnQvcmVwb3NpdG9yaWVzL3JlbGVhc2VzLzwvdXJsPgogICAgICAgIDwvcmVwb3NpdG9yeT4K</text>
+        <text encoding="base64">ICAgIDx2ZXJzaW9uPjEuMC4wLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxncm91cElkPmNvbS5hY2Vub2RlLm1pY3JvczwvZ3JvdXBJZD4KICAgIDx2ZXJzaW9uPjEuMC4wLVNOQVBTSE9UPC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxkaXN0cmlidXRpb25NYW5hZ2VtZW50PgogICAgICAgIDxzbmFwc2hvdFJlcG9zaXRvcnk+CiAgICAgICAgICAgIDxpZD51c2VyLXNuYXBzaG90czwvaWQ+CiAgICAgICAgICAgIDxuYW1lPlVzZXIgUHJvamVjdCBTTkFQU0hPVFM8L25hbWU+CiAgICAgICAgICAgIDx1cmw+aHR0cDovL2xvY2FsaG9zdDo4MDgxL25leHVzL2NvbnRlbnQvcmVwb3NpdG9yaWVzL015VXNlclJlcG9zU25hcHNob3RzLzwvdXJsPgogICAgICAgIDwvc25hcHNob3RSZXBvc2l0b3J5PgogICAgICAgIDxyZXBvc2l0b3J5PgogICAgICAgICAgICA8aWQ+dXNlci1yZWxlYXNlczwvaWQ+CiAgICAgICAgICAgIDxuYW1lPlVzZXIgUHJvamVjdCBSZWxlYXNlPC9uYW1lPgogICAgICAgICAgICA8dXJsPmh0dHA6Ly9sb2NhbGhvc3Q6ODA4MS9uZXh1cy9jb250ZW50L3JlcG9zaXRvcmllcy9NeVVzZXJSZXBvc1JlbGVhc2UvPC91cmw+CiAgICAgICAgPC9yZXBvc2l0b3J5PgogICAgPC9kaXN0cmlidXRpb25NYW5hZ2VtZW50Pgo=</text>
+        <text encoding="base64">ICAgIDxtb2RlbFZlcnNpb24+NC4wLjA8L21vZGVsVmVyc2lvbj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxtb2RlbFZlcnNpb24+NC4wLjA8L21vZGVsVmVyc2lvbj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
