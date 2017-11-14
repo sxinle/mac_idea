@@ -39,18 +39,24 @@
         <mark key="." line="21" column="24" />
         <mark key="^" line="21" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/java/com/acenode/micros/auth/AuthVerticle.java" timestamp="1510628720675">
-        <mark key="'" line="23" column="34" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="^" line="26" column="19" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/java/com/acenode/micros/auth/AuthVerticle.java" timestamp="1510629162435">
+        <mark key="'" line="59" column="53" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="30" column="19" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/resources/log4j2.xml" timestamp="1510569645705">
         <mark key="[" line="23" column="21" />
         <mark key="]" line="23" column="25" />
         <mark key="." line="23" column="25" />
         <mark key="^" line="23" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/bean/Resp.java" timestamp="1510629311569">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="61" column="32" />
+        <mark key="." line="61" column="32" />
+        <mark key="^" line="61" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/gateway/pom.xml" timestamp="1510623799883">
         <mark key="'" line="24" column="0" />
@@ -279,7 +285,7 @@
       <file name="$USER_HOME$/workspace/demo/vertx-blueprint-microservice/microservice-blueprint-common/src/main/java/io/vertx/blueprint/microservice/common/RestAPIVerticle.java" timestamp="1510585019747">
         <mark key="'" line="60" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510627059845">
+      <file name="/Dummy.txt" timestamp="1510629392887">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -345,8 +351,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="16" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/resources/cluster.xml" />
-      <jump line="165" column="14" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/resources/cluster.xml" />
       <jump line="47" column="41" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/resources/cluster.xml" />
       <jump line="62" column="9" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/resources/cluster.xml" />
       <jump line="71" column="27" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/resources/cluster.xml" />
@@ -445,6 +449,8 @@
       <jump line="90" column="55" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/BaseVerticle.java" />
       <jump line="12" column="13" filename="$USER_HOME$/workspace/micro-service/jh_sales/const-coll/src/main/java/com/acenode/micros/constants/common/Const.java" />
       <jump line="24" column="34" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/java/com/acenode/micros/auth/AuthVerticle.java" />
+      <jump line="47" column="27" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/java/com/acenode/micros/auth/AuthVerticle.java" />
+      <jump line="61" column="53" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/java/com/acenode/micros/auth/AuthVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -454,40 +460,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Const.RawMsg.OK.toString()</text>
+        <text>{</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb25maWdcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmEudGV4dC5TaW1wbGVEYXRlRm9ybWF0OwoKcHVibGljIGNsYXNzIENvbnN0IHsKCiAgICBwdWJsaWMgZW51bSBDb21tYW5kIHsKICAgICAgICBFQl9TRVJWSUNFX0FVVEgsCiAgICAgICAgRUJfU0VSVklDRV9VU0VSCiAgICB9CgogICAgcHVibGljIGVudW0gUmF3TXNnIHsKICAgICAgICBFUlIsIE9LCiAgICB9CgogICAgcHVibGljIHN0YXRpYyBjbGFzcyBEYXRlRk1UIHsKICAgICAgICBwdWJsaWMgc3RhdGljIFNpbXBsZURhdGVGb3JtYXQgc21mID0gbmV3IFNpbXBsZURhdGVGb3JtYXQoInl5eXktTU0tZGQgSEg6bW06c3MiKTsKICAgIH0KCn0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBSZXNwKGludCBjb2RlLCBTdHJpbmcgbXNnKSB7CiAgICAgICAgdGhpcy5jb2RlID0gY29kZTsKICAgICAgICB0aGlzLm1zZyA9IG1zZzsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hY2Vub2RlLm1pY3Jvcy5jb21tb24udXRpbC5Db25zdDsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBKc29uT2JqZWN0IGdldERhdGEoKSB7CiAgICAgICAgcmV0dXJuIGRhdGE7CiAgICB9CgogICAgcHVibGljIFJlc3Agc2V0RGF0YShKc29uT2JqZWN0IGRhdGEpIHsKICAgICAgICB0aGlzLmRhdGEgPSBkYXRhOwogICAgICAgIHJldHVybiB0aGlzOwogICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYWNlbm9kZS5taWNyb3MuY29tbW9uLnV0aWwuQ29uc3QuQ29tbWFuZC5FQl9TRVJWSUNFX0FVVEg7CmltcG9ydCBzdGF0aWMgY29tLmFjZW5vZGUubWljcm9zLmNvbW1vbi51dGlsLkNvbnN0LkNvbW1hbmQuRUJfU0VSVklDRV9VU0VSOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hY2Vub2RlLm1pY3Jvcy5jb21tb24udXRpbC5Db25zdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIENvbnN0IHsKfQo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBSZXNwKEpzb25PYmplY3QganNvbk9iamVjdCkgewogICAgICAgIFJlc3BDb252ZXJ0ZXIuZnJvbUpzb24oanNvbk9iamVjdCwgdGhpcyk7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgU2VydmljZUJpbmRlcih2ZXJ0eCkuc2V0QWRkcmVzcyhTRVJWSUNFX0FERFJFU1MpLnJlZ2lzdGVyKFVzZXJTZXJ2aWNlLmNsYXNzLCB1c2VyU2VydmljZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9KTsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaXNoRXZlbnRCdXNTZXJ2aWNlKFNFUlZJQ0VfTkFNRSwgU0VSVklDRV9BRERSRVNTLCBVc2VyU2VydmljZS5jbGFzcykKICAgICAgICAgICAgICAgIC5jb21wb3NlKHNlcnZpY2VQdWJsaXNoZWQgLT4gZGVwbG95UmVzdFZlcnRpY2xlKCkpCiAgICAgICAgICAgICAgICAuc2V0SGFuZGxlcihmdXR1cmUuY29tcGxldGVyKCkpOwo=</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYWNlbm9kZS5taWNyb3MuY29uc3RhbnRzLmNvbW1vbi5Db25zdC5DTUQuRUJfU0VSVklDRV9BVVRIOwppbXBvcnQgc3RhdGljIGNvbS5hY2Vub2RlLm1pY3Jvcy5jb25zdGFudHMuY29tbW9uLkNvbnN0LkNNRC5FQl9TRVJWSUNFX1VTRVI7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYWNlbm9kZS5taWNyb3MudXNlci5Vc2VyU2VydmljZS5TRVJWSUNFX0FERFJFU1M7CmltcG9ydCBzdGF0aWMgY29tLmFjZW5vZGUubWljcm9zLnVzZXIuVXNlclNlcnZpY2UuU0VSVklDRV9OQU1FOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hY2Vub2RlLm1pY3Jvcy5jb21tb24udXRpbC5Db25zdDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
