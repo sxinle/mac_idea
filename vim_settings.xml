@@ -117,11 +117,12 @@
         <mark key="." line="63" column="31" />
         <mark key="^" line="63" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-user/src/main/java/com/acenode/micros/user/UserVerticle.java" timestamp="1510628037350">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="26" column="28" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-user/src/main/java/com/acenode/micros/user/UserVerticle.java" timestamp="1510630670417">
+        <mark key="'" line="56" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="27" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/java/com/acenode/micros/auth/AuthService.java" timestamp="1510627930990">
         <mark key="[" line="12" column="0" />
@@ -137,6 +138,11 @@
         <mark key="]" line="25" column="49" />
         <mark key="." line="25" column="49" />
         <mark key="^" line="25" column="49" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-user/src/main/java/com/acenode/micros/user/impl/UserServiceImpl.java" timestamp="1510631058011">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-hazelcast/hazelcast-cluster.xml" timestamp="1510592319269">
         <mark key="'" line="170" column="0" />
@@ -285,7 +291,7 @@
       <file name="$USER_HOME$/workspace/demo/vertx-blueprint-microservice/microservice-blueprint-common/src/main/java/io/vertx/blueprint/microservice/common/RestAPIVerticle.java" timestamp="1510585019747">
         <mark key="'" line="60" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510629392887">
+      <file name="/Dummy.txt" timestamp="1510630774665">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -296,6 +302,9 @@
         <mark key="]" line="6" column="30" />
         <mark key="^" line="6" column="30" />
         <mark key="." line="6" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-user/src/main/java/com/acenode/micros/user/api/UserAPIVerticle.java" timestamp="1510630627173">
+        <mark key="'" line="52" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/vertx/vertx-hazelcast/3.5.0/vertx-hazelcast-3.5.0.jar!/default-cluster.xml" timestamp="1510591921409">
         <mark key="'" line="0" column="0" />
@@ -351,10 +360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="41" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/resources/cluster.xml" />
-      <jump line="62" column="9" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/resources/cluster.xml" />
-      <jump line="71" column="27" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/resources/cluster.xml" />
-      <jump line="25" column="60" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-user/src/main/java/com/acenode/micros/user/UserVerticle.java" />
       <jump line="14" column="13" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-user/src/main/java/com/acenode/micros/user/UserVerticle.java" />
       <jump line="141" column="35" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-hazelcast/3.5.0/vertx-hazelcast-3.5.0.jar!/io/vertx/spi/cluster/hazelcast/HazelcastClusterManager.class" />
       <jump line="161" column="57" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-hazelcast/3.5.0/vertx-hazelcast-3.5.0.jar!/io/vertx/spi/cluster/hazelcast/HazelcastClusterManager.class" />
@@ -451,6 +456,10 @@
       <jump line="24" column="34" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/java/com/acenode/micros/auth/AuthVerticle.java" />
       <jump line="47" column="27" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/java/com/acenode/micros/auth/AuthVerticle.java" />
       <jump line="61" column="53" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/java/com/acenode/micros/auth/AuthVerticle.java" />
+      <jump line="25" column="50" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-user/src/main/java/com/acenode/micros/user/api/UserAPIVerticle.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-user/src/main/java/com/acenode/micros/user/api/UserAPIVerticle.java" />
+      <jump line="31" column="40" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-user/src/main/java/com/acenode/micros/user/UserVerticle.java" />
+      <jump line="56" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-user/src/main/java/com/acenode/micros/user/UserVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -469,31 +478,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyBSZXNwKGludCBjb2RlLCBTdHJpbmcgbXNnKSB7CiAgICAgICAgdGhpcy5jb2RlID0gY29kZTsKICAgICAgICB0aGlzLm1zZyA9IG1zZzsKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBKc29uT2JqZWN0IGdldERhdGEoKSB7CiAgICAgICAgcmV0dXJuIGRhdGE7CiAgICB9CgogICAgcHVibGljIFJlc3Agc2V0RGF0YShKc29uT2JqZWN0IGRhdGEpIHsKICAgICAgICB0aGlzLmRhdGEgPSBkYXRhOwogICAgICAgIHJldHVybiB0aGlzOwogICAgfQo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hY2Vub2RlLm1pY3Jvcy5jb21tb24udXRpbC5Db25zdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpczsK</text>
+        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYWNlbm9kZS5taWNyb3MuY29tbW9uLnV0aWwuQ29uc3QuQ29tbWFuZC5FQl9TRVJWSUNFX1VTRVI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hY2Vub2RlLm1pY3Jvcy5jb21tb24udXRpbC5Db25zdDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSZXNwKEpzb25PYmplY3QganNvbk9iamVjdCkgewogICAgICAgIFJlc3BDb252ZXJ0ZXIuZnJvbUpzb24oanNvbk9iamVjdCwgdGhpcyk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBKc29uT2JqZWN0IGdldERhdGEoKSB7CiAgICAgICAgcmV0dXJuIGRhdGE7CiAgICB9CgogICAgcHVibGljIFJlc3Agc2V0RGF0YShKc29uT2JqZWN0IGRhdGEpIHsKICAgICAgICB0aGlzLmRhdGEgPSBkYXRhOwogICAgICAgIHJldHVybiB0aGlzOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpczsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBSZXNwKEpzb25PYmplY3QganNvbk9iamVjdCkgewogICAgICAgIFJlc3BDb252ZXJ0ZXIuZnJvbUpzb24oanNvbk9iamVjdCwgdGhpcyk7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHN0YXRpYyBjb20uYWNlbm9kZS5taWNyb3MuY29uc3RhbnRzLmNvbW1vbi5Db25zdC5DTUQuRUJfU0VSVklDRV9BVVRIOwppbXBvcnQgc3RhdGljIGNvbS5hY2Vub2RlLm1pY3Jvcy5jb25zdGFudHMuY29tbW9uLkNvbnN0LkNNRC5FQl9TRVJWSUNFX1VTRVI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hY2Vub2RlLm1pY3Jvcy5jb21tb24udXRpbC5Db25zdDsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
