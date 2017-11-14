@@ -34,12 +34,12 @@
         <mark key="." line="21" column="24" />
         <mark key="^" line="21" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/java/com/acenode/micros/auth/AuthVerticle.java" timestamp="1510625543593">
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/java/com/acenode/micros/auth/AuthVerticle.java" timestamp="1510626014113">
         <mark key="'" line="27" column="21" />
-        <mark key="[" line="34" column="41" />
-        <mark key="]" line="34" column="41" />
-        <mark key="." line="34" column="41" />
-        <mark key="^" line="34" column="42" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+        <mark key="^" line="38" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/resources/log4j2.xml" timestamp="1510569645705">
         <mark key="[" line="23" column="21" />
@@ -140,12 +140,12 @@
         <mark key="." line="45" column="38" />
         <mark key="^" line="45" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/BaseVerticle.java" timestamp="1510625649528">
-        <mark key="'" line="164" column="0" />
-        <mark key="[" line="33" column="14" />
-        <mark key="]" line="33" column="14" />
-        <mark key="^" line="33" column="17" />
-        <mark key="." line="33" column="14" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/BaseVerticle.java" timestamp="1510626172947">
+        <mark key="'" line="153" column="0" />
+        <mark key="[" line="76" column="23" />
+        <mark key="]" line="76" column="23" />
+        <mark key="^" line="76" column="23" />
+        <mark key="." line="76" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/ddian_service/micros-user/src/main/java/com/acenode/cloud/user/impl/UserServiceImpl.java" timestamp="1509446435491">
         <mark key="'" line="27" column="53" />
@@ -442,28 +442,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBJbiBjdXJyZW50IGRlc2lnbiwgdGhlIHB1Ymxpc2hlciBpcyByZXNwb25zaWJsZSBmb3IgcmVtb3ZpbmcgdGhlIHNlcnZpY2UK</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBCYXNlVmVydGljbGUgYmluZEViU2VydmljZShTdHJpbmcgc2VydmljZU5hbWUpIHsKICAgICAgICAKICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCBIYW5kbAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLnZlcnR4LmNvcmUubG9nZ2luZy5Mb2dnZXJGYWN0b3J5Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLnZlcnR4LmNvcmUubG9nZ2luZy5Mb2dnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5iaW5kRWJTZXJ2aWNlKCk7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQSBoZWxwZXIgbWV0aG9kIHRoYXQgc2ltcGx5IHB1Ymxpc2ggbG9ncyBvbiB0aGUgZXZlbnQgYnVzLgogICAgICoKICAgICAqIEBwYXJhbSB0eXBlIGxvZyB0eXBlCiAgICAgKiBAcGFyYW0gZGF0YSBsb2cgbWVzc2FnZSBkYXRhCiAgICAgKi8KICAgIHByb3RlY3RlZCB2b2lkIHB1Ymxpc2hMb2dFdmVudChTdHJpbmcgdHlwZSwgSnNvbk9iamVjdCBkYXRhKSB7CiAgICAgICAgSnNvbk9iamVjdCBtc2cgPSBuZXcgSnNvbk9iamVjdCgpLnB1dCgidHlwZSIsIHR5cGUpLnB1dCgibWVzc2FnZSIsIGRhdGEpOwogICAgICAgIHZlcnR4LmV2ZW50QnVzKCkucHVibGlzaChMT0dfRVZFTlRfQUREUkVTUywgbXNnKTsKICAgIH0KCiAgICBwcm90ZWN0ZWQgdm9pZCBwdWJsaXNoTG9nRXZlbnQoU3RyaW5nIHR5cGUsIEpzb25PYmplY3QgZGF0YSwgYm9vbGVhbiBzdWNjZWVkZWQpIHsKICAgICAgICBKc29uT2JqZWN0IG1zZyA9IG5ldyBKc29uT2JqZWN0KCkucHV0KCJ0eXBlIiwgdHlwZSkucHV0KCJzdGF0dXMiLCBzdWNjZWVkZWQpLnB1dCgibWVzc2FnZSIsIGRhdGEpOwogICAgICAgIHZlcnR4LmV2ZW50QnVzKCkucHVibGlzaChMT0dfRVZFTlRfQUREUkVTUywgbXNnKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB2ZXJ0eC5ldmVudEJ1cygpLmNvbnN1bWVyKEVCX1NFUlZJQ0VfQVVUSC50b1N0cmluZygpLCB0aGlzOjpkaXNwYXRjaEV2ZW50KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwdWJsaXNoIHRoZSBzZXJ2aWNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
