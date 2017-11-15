@@ -182,8 +182,8 @@
       <file name="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.0/vertx-core-3.5.0-sources.jar!/io/vertx/core/impl/launcher/commands/RunCommand.java" timestamp="1510588377680">
         <mark key="'" line="418" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" timestamp="1510712221093">
-        <mark key="'" line="84" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" timestamp="1510713541328">
+        <mark key="'" line="39" column="44" />
         <mark key="[" line="71" column="0" />
         <mark key="]" line="71" column="0" />
         <mark key="." line="71" column="0" />
@@ -265,7 +265,8 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/api/UserAPIVerticle.java" timestamp="1510712202796">
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/api/UserAPIVerticle.java" timestamp="1510713453302">
+        <mark key="'" line="22" column="0" />
         <mark key="[" line="46" column="29" />
         <mark key="]" line="46" column="28" />
         <mark key="." line="46" column="28" />
@@ -365,7 +366,7 @@
       <file name="$USER_HOME$/workspace/demo/vertx-blueprint-microservice/microservice-blueprint-common/src/main/java/io/vertx/blueprint/microservice/common/RestAPIVerticle.java" timestamp="1510585019747">
         <mark key="'" line="60" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510711867056">
+      <file name="/Dummy.txt" timestamp="1510713493962">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -450,14 +451,14 @@
       <file name="$USER_HOME$/workspace/demo/vertx-blueprint-microservice/microservice-blueprint-common/src/main/java/io/vertx/blueprint/microservice/common/BaseMicroserviceVerticle.java" timestamp="1510585011347">
         <mark key="'" line="49" column="24" />
       </file>
-      <file name="/fragment.java" timestamp="1510711619568">
+      <file name="/fragment.java" timestamp="1510713437093">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/RestVerticle.java" timestamp="1510712150529">
-        <mark key="'" line="41" column="36" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/RestVerticle.java" timestamp="1510713570827">
+        <mark key="'" line="80" column="40" />
         <mark key="[" line="41" column="8" />
         <mark key="]" line="41" column="8" />
         <mark key="." line="41" column="8" />
@@ -465,10 +466,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="28" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.0/vertx-core-3.5.0-sources.jar!/io/vertx/core/impl/launcher/commands/RunCommand.java" />
-      <jump line="79" column="54" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.0/vertx-core-3.5.0-sources.jar!/io/vertx/core/impl/launcher/commands/RunCommand.java" />
-      <jump line="81" column="22" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.0/vertx-core-3.5.0-sources.jar!/io/vertx/core/impl/launcher/commands/RunCommand.java" />
-      <jump line="82" column="66" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.0/vertx-core-3.5.0-sources.jar!/io/vertx/core/impl/launcher/commands/RunCommand.java" />
       <jump line="52" column="16" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.0/vertx-core-3.5.0-sources.jar!/io/vertx/core/impl/launcher/commands/BareCommand.java" />
       <jump line="165" column="8" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.0/vertx-core-3.5.0-sources.jar!/io/vertx/core/impl/launcher/commands/BareCommand.java" />
       <jump line="82" column="46" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.0/vertx-core-3.5.0-sources.jar!/io/vertx/core/impl/launcher/commands/BareCommand.java" />
@@ -565,6 +562,10 @@
       <jump line="12" column="26" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/pom.xml" />
       <jump line="42" column="27" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/pom.xml" />
       <jump line="41" column="36" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/RestVerticle.java" />
+      <jump line="38" column="43" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/api/UserAPIVerticle.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/api/UserAPIVerticle.java" />
+      <jump line="39" column="44" filename="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" />
+      <jump line="80" column="40" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/RestVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
