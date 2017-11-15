@@ -39,8 +39,8 @@
         <mark key="." line="3" column="3" />
         <mark key="^" line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/routes" timestamp="1510741600743">
-        <mark key="'" line="44" column="84" />
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/routes" timestamp="1510742381583">
+        <mark key="'" line="143" column="146" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/resources/config.json" timestamp="1510656487493">
         <mark key="[" line="4" column="40" />
@@ -296,6 +296,12 @@
         <mark key="." line="47" column="40" />
         <mark key="^" line="47" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/controllers/console/BindPrizesController.java" timestamp="1510742068933">
+        <mark key="'" line="123" column="39" />
+        <mark key="[" line="38" column="41" />
+        <mark key="]" line="38" column="41" />
+        <mark key="." line="38" column="41" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/java/com/acenode/micros/auth/domain/RoleSource.java" timestamp="1510650880558">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -386,7 +392,7 @@
         <mark key="." line="7" column="7" />
         <mark key="^" line="7" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510741580368">
+      <file name="/Dummy.txt" timestamp="1510742343059">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -466,13 +472,9 @@
         <mark key="]" line="141" column="38" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/controllers/console/PrizeManager.java" timestamp="1510741517537" />
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/controllers/console/PrizeManager.java" timestamp="1510742396958" />
     </filemarks>
     <jumps>
-      <jump line="9" column="26" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/java/com/acenode/micros/auth/domain/User.java" />
-      <jump line="5" column="27" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/java/com/acenode/micros/auth/domain/UserSource.java" />
-      <jump line="27" column="32" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/java/com/acenode/micros/auth/domain/UserSource.java" />
-      <jump line="17" column="24" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/java/com/acenode/micros/auth/domain/Role.java" />
       <jump line="20" column="28" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/java/com/acenode/micros/auth/domain/Source.java" />
       <jump line="13" column="24" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/java/com/acenode/micros/auth/api/UserAPIVerticle.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/java/com/acenode/micros/auth/api/UserAPIVerticle.java" />
@@ -569,6 +571,10 @@
       <jump line="222" column="8" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/routes" />
       <jump line="1" column="15" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/routes" />
       <jump line="44" column="84" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/routes" />
+      <jump line="38" column="54" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/controllers/console/BindPrizesController.java" />
+      <jump line="123" column="39" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/controllers/console/BindPrizesController.java" />
+      <jump line="82" column="39" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/routes" />
+      <jump line="143" column="146" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -578,7 +584,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
         <text>report</text>
@@ -630,7 +636,6 @@
     </search>
     <history>
       <history-search>
-        <entry>options</entry>
         <entry>interface</entry>
         <entry>IPv</entry>
         <entry>IPv4</entry>
@@ -649,6 +654,7 @@
         <entry>死循环</entry>
         <entry>static</entry>
         <entry>statis</entry>
+        <entry encoding="base64">XDxjb2RlXD4=</entry>
         <entry>report</entry>
       </history-search>
       <history-cmd>
