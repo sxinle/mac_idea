@@ -39,8 +39,10 @@
         <mark key="." line="3" column="3" />
         <mark key="^" line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/routes" timestamp="1510742381583">
-        <mark key="'" line="143" column="146" />
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/routes" timestamp="1510743938621">
+        <mark key="'" line="65" column="136" />
+        <mark key="[" line="82" column="15" />
+        <mark key="]" line="82" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/resources/config.json" timestamp="1510656487493">
         <mark key="[" line="4" column="40" />
@@ -392,7 +394,7 @@
         <mark key="." line="7" column="7" />
         <mark key="^" line="7" column="7" />
       </file>
-      <file name="/Dummy.txt" timestamp="1510742343059">
+      <file name="/Dummy.txt" timestamp="1510743544632">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -475,8 +477,6 @@
       <file name="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/controllers/console/PrizeManager.java" timestamp="1510742396958" />
     </filemarks>
     <jumps>
-      <jump line="20" column="28" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/java/com/acenode/micros/auth/domain/Source.java" />
-      <jump line="13" column="24" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/java/com/acenode/micros/auth/api/UserAPIVerticle.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/java/com/acenode/micros/auth/api/UserAPIVerticle.java" />
       <jump line="52" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/java/com/acenode/micros/auth/api/UserAPIVerticle.java" />
       <jump line="11" column="12" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/java/com/acenode/micros/auth/domain/User.java" />
@@ -574,7 +574,9 @@
       <jump line="38" column="54" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/controllers/console/BindPrizesController.java" />
       <jump line="123" column="39" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/controllers/console/BindPrizesController.java" />
       <jump line="82" column="39" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/routes" />
+      <jump line="55" column="76" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/routes" />
       <jump line="143" column="146" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/routes" />
+      <jump line="65" column="136" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -590,9 +592,7 @@
         <text>report</text>
       </register>
       <register name="0" type="4">
-        <text>new Resp(ar.succeeded() ? 0 : -1,
-                            null,
-                            ar.result()</text>
+        <text>bindPrizes</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
