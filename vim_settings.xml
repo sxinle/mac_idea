@@ -40,12 +40,12 @@
         <mark key="." line="23" column="25" />
         <mark key="^" line="23" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/分布图.java" timestamp="1510934455721">
-        <mark key="'" line="53" column="0" />
-        <mark key="[" line="13" column="30" />
-        <mark key="]" line="13" column="34" />
-        <mark key="^" line="13" column="34" />
-        <mark key="." line="13" column="34" />
+      <file name="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/分布图.java" timestamp="1510979460173">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="^" line="42" column="19" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/resources/config.json" timestamp="1510654211592">
         <mark key="[" line="1" column="20" />
@@ -503,7 +503,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="17" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/RestVerticle.java" />
       <jump line="87" column="21" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/RestVerticle.java" />
       <jump line="93" column="29" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/RestVerticle.java" />
       <jump line="115" column="90" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/RestVerticle.java" />
@@ -603,6 +602,7 @@
       <jump line="86" column="24" filename="$USER_HOME$/workspace/demo/zest/pom.xml" />
       <jump line="85" column="25" filename="$USER_HOME$/workspace/demo/zest/pom.xml" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/换199到66.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/分布图.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -621,31 +621,31 @@
         <text>&quot;update scan_prize_detail set prize='66.66元' and level=3 where prizeid=&quot; + b.prizeid</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0ZXAgPSAoZW5kSWQgLSBzdGFydElEKSAvIDEwMDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5lcnIucHJpbnRsbihzdGVwKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcy5leGVjdXRlQmF0Y2goKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHN0ZXAgPSAoZW5kSWQgLSBzdGFydElEKSAvIDEwMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RhdGVtZW50IHMgPSBjb25uLmNyZWF0ZVN0YXRlbWVudCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcy5leGVjdXRlVXBkYXRlKCJ1cGRhdGUgc2Nhbl9wcml6ZV9kZXRhaWwgc2V0IHByaXplPSc2Ni42NuWFgycgYW5kIGxldmVsPTMgd2hlcmUgcHJpemVpZD0iICsgYi5wcml6ZWlkKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcy5leGVjdXRlQmF0Y2goKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RhdGVtZW50IHMgPSBjb25uLmNyZWF0ZVN0YXRlbWVudCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcy5leGVjdXRlVXBkYXRlKCJ1cGRhdGUgc2Nhbl9wcml6ZV9kZXRhaWwgc2V0IHByaXplPSc2Ni42NuWFgycgYW5kIGxldmVsPTMgd2hlcmUgcHJpemVpZD0iICsgYi5wcml6ZWlkKTsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGluZGV4KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
