@@ -402,11 +402,12 @@
         <mark key="." line="23" column="25" />
         <mark key="^" line="23" column="25" />
       </file>
-      <file name="$USER_HOME$/folder/util/mactools/dotfiles/karabiner.mine.json" timestamp="1509689205318">
-        <mark key="[" line="171" column="17" />
-        <mark key="]" line="171" column="44" />
-        <mark key="^" line="164" column="32" />
-        <mark key="." line="171" column="17" />
+      <file name="$USER_HOME$/folder/util/mactools/dotfiles/karabiner.mine.json" timestamp="1511448653646">
+        <mark key="'" line="15" column="11" />
+        <mark key="[" line="243" column="17" />
+        <mark key="]" line="243" column="33" />
+        <mark key="^" line="243" column="33" />
+        <mark key="." line="243" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/ddian_service/micros-auth/src/main/java/com/acenode/cloud/auth/AuthVerticle.java" timestamp="1510198326431">
         <mark key="'" line="62" column="42" />
@@ -543,7 +544,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="47" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/UserAuthVerticle.java" />
       <jump line="61" column="8" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/api/UserAuthAPIVerticle.java" />
       <jump line="54" column="21" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/BaseVerticle.java" />
       <jump line="13" column="13" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/api/UserAuthAPIVerticle.java" />
@@ -643,6 +643,7 @@
       <jump line="31" column="16" filename="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/_1大奖到小奖.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/_1大奖到小奖.java" />
       <jump line="172" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/_1大奖到小奖.java" />
+      <jump line="15" column="11" filename="$USER_HOME$/folder/util/mactools/dotfiles/karabiner.mine.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -652,40 +653,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>$USER_HOME$/884ids.txt</text>
+        <text>^org\\.vim\\..*</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxudW1cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBGaWxlIHNvdXJjZTg4MSA9IG5ldyBGaWxlKCIvVXNlcnMvaHNvbmcvRGVza3RvcC/lpZbljaHmlbDmja7muIXmtJcvODgxaWRzLnR4dCIpOwogICAgc3RhdGljIEZpbGUgc291cmNlODgyID0gbmV3IEZpbGUoIi9Vc2Vycy9oc29uZy9EZXNrdG9wL+WlluWNoeaVsOaNrua4hea0ly84ODJpZHMudHh0Iik7CiAgICBzdGF0aWMgRmlsZSBzb3VyY2U4ODMgPSBuZXcgRmlsZSgiL1VzZXJzL2hzb25nL0Rlc2t0b3Av5aWW5Y2h5pWw5o2u5riF5rSXLzg4M2lkcy50eHQiKTsKICAgIHN0YXRpYyBGaWxlIHNvdXJjZTg4NCA9IG5ldyBGaWxlKCIvVXNlcnMvaHNvbmcvRGVza3RvcC/lpZbljaHmlbDmja7muIXmtJcvODg0aWRzLnR4dCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAidHlwZSI6ICJiYXNpYyIsCiAgICAgICAgICAiZnJvbSI6IHsKICAgICAgICAgICAgImtleV9jb2RlIjogImgiLAogICAgICAgICAgICAibW9kaWZpZXJzIjogewogICAgICAgICAgICAgICJtYW5kYXRvcnkiOiBbCiAgICAgICAgICAgICAgICAibGVmdF9jb21tYW5kIgogICAgICAgICAgICAgIF0KICAgICAgICAgICAgfQogICAgICAgICAgfSwKICAgICAgICAgICJ0byI6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICJrZXlfY29kZSI6ICJoIiwKICAgICAgICAgICAgICAibW9kaWZpZXJzIjogWwogICAgICAgICAgICAgICAgImxlZnRfb3B0aW9uIgogICAgICAgICAgICAgIF0KICAgICAgICAgICAgfQogICAgICAgICAgXSwKICAgICAgICAgICJjb25kaXRpb25zIjogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgInR5cGUiOiAiZnJvbnRtb3N0X2FwcGxpY2F0aW9uX2lmIiwKICAgICAgICAgICAgICAiYnVuZGxlX2lkZW50aWZpZXJzIjogWwogICAgICAgICAgICAgICAgIl5vcmdcXC52aW1cXC4uKiIsCiAgICAgICAgICAgICAgICAiY29tLmpldGJyYWlucy5pbnRlbGxpaiIsCiAgICAgICAgICAgICAgICAiY29tLmdvb2dsZS5hbmRyb2lkLnN0dWRpbyIsCiAgICAgICAgICAgICAgICAiY29tLmpldGJyYWlucy5XZWJTdG9ybSIsCiAgICAgICAgICAgICAgICAiY29tLmdvb2dsZWNvZGUuaXRlcm0yIgogICAgICAgICAgICAgIF0KICAgICAgICAgICAgfQogICAgICAgICAgXQogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgInR5cGUiOiAiYmFzaWMiLAogICAgICAgICAgImZyb20iOiB7CiAgICAgICAgICAgICJrZXlfY29kZSI6ICJsIiwKICAgICAgICAgICAgIm1vZGlmaWVycyI6IHsKICAgICAgICAgICAgICAibWFuZGF0b3J5IjogWwogICAgICAgICAgICAgICAgImxlZnRfY29tbWFuZCIKICAgICAgICAgICAgICBdCiAgICAgICAgICAgIH0KICAgICAgICAgIH0sCiAgICAgICAgICAidG8iOiBbCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAia2V5X2NvZGUiOiAibCIsCiAgICAgICAgICAgICAgIm1vZGlmaWVycyI6IFsKICAgICAgICAgICAgICAgICJsZWZ0X29wdGlvbiIKICAgICAgICAgICAgICBdCiAgICAgICAgICAgIH0KICAgICAgICAgIF0sCiAgICAgICAgICAiY29uZGl0aW9ucyI6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICJ0eXBlIjogImZyb250bW9zdF9hcHBsaWNhdGlvbl9pZiIsCiAgICAgICAgICAgICAgImJ1bmRsZV9pZGVudGlmaWVycyI6IFsKICAgICAgICAgICAgICAgICJeb3JnXFwudmltXFwuLioiLAogICAgICAgICAgICAgICAgImNvbS5qZXRicmFpbnMuaW50ZWxsaWoiLAogICAgICAgICAgICAgICAgImNvbS5nb29nbGUuYW5kcm9pZC5zdHVkaW8iLAogICAgICAgICAgICAgICAgImNvbS5qZXRicmFpbnMuV2ViU3Rvcm0iLAogICAgICAgICAgICAgICAgImNvbS5nb29nbGVjb2RlLml0ZXJtMiIKICAgICAgICAgICAgICBdCiAgICAgICAgICAgIH0KICAgICAgICAgIF0KICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBGaWxlIHNvdXJjZTg4MSA9IG5ldyBGaWxlKCIvVXNlcnMvaHNvbmcvODgxaWRzLnR4dCIpOwogICAgc3RhdGljIEZpbGUgc291cmNlODgyID0gbmV3IEZpbGUoIi9Vc2Vycy9oc29uZy84ODJpZHMudHh0Iik7CiAgICBzdGF0aWMgRmlsZSBzb3VyY2U4ODMgPSBuZXcgRmlsZSgiL1VzZXJzL2hzb25nLzg4M2lkcy50eHQiKTsKICAgIHN0YXRpYyBGaWxlIHNvdXJjZTg4NCA9IG5ldyBGaWxlKCIvVXNlcnMvaHNvbmcvODg0aWRzLnR4dCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJjb20uamV0YnJhaW5zLmludGVsbGlqIiwKICAgICAgICAgICAgICAgICJjb20uZ29vZ2xlLmFuZHJvaWQuc3R1ZGlvIiwKICAgICAgICAgICAgICAgICJjb20uamV0YnJhaW5zLldlYlN0b3JtIiwKICAgICAgICAgICAgICAgICJjb20uZ29vZ2xlY29kZS5pdGVybTIiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib3R0bGUubGV2ZWwgPSBycy5nZXRJbnQoImxldmVsIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJjb20uamV0YnJhaW5zLmludGVsbGlqIiwKICAgICAgICAgICAgICAgICJjb20uZ29vZ2xlLmFuZHJvaWQuc3R1ZGlvIiwKICAgICAgICAgICAgICAgICJjb20uamV0YnJhaW5zLldlYlN0b3JtIiwKICAgICAgICAgICAgICAgICJjb20uZ29vZ2xlY29kZS5pdGVybTIiCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBpbnQgICAgICAgIHNjYW5JRCA9IDg4NDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vc3RhdGljIGZpbmFsIFN0cmluZyBwcml6ZU9uZSA9ICI5OS45OeWFgyI7CiAgICAvL3N0YXRpYyBmaW5hbCBTdHJpbmcgcHJpemVUb3cgPSAiNjYuNjblhYMiOwogICAgLy9zdGF0aWMgZmluYWwgaW50ICAgIGxldk9uZSAgID0gMjsKICAgIC8vc3RhdGljIGZpbmFsIGludCAgICBsZXZUb3cgICA9IDM7Cgo=</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBGaWxlIHNvdXJjZTg4MSA9IG5ldyBGaWxlKCIvVXNlcnMvaHNvbmcvODgxaWRzLnR4dCIpOwogICAgc3RhdGljIEZpbGUgc291cmNlODgyID0gbmV3IEZpbGUoIi9Vc2Vycy9oc29uZy84ODJpZHMudHh0Iik7CiAgICBzdGF0aWMgRmlsZSBzb3VyY2U4ODMgPSBuZXcgRmlsZSgiL1VzZXJzL2hzb25nLzg4M2lkcy50eHQiKTsKICAgIHN0YXRpYyBGaWxlIHNvdXJjZTg4NCA9IG5ldyBGaWxlKCIvVXNlcnMvaHNvbmcvODg0aWRzLnR4dCIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib3R0bGUubGV2ZWwgPSBycy5nZXRJbnQoImxldmVsIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbml0Q29ubigpOwo=</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBpbnQgICAgICAgIHNjYW5JRCA9IDg4NDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vc3RhdGljIGZpbmFsIFN0cmluZyBwcml6ZU9uZSA9ICI5OS45OeWFgyI7CiAgICAvL3N0YXRpYyBmaW5hbCBTdHJpbmcgcHJpemVUb3cgPSAiNjYuNjblhYMiOwogICAgLy9zdGF0aWMgZmluYWwgaW50ICAgIGxldk9uZSAgID0gMjsKICAgIC8vc3RhdGljIGZpbmFsIGludCAgICBsZXZUb3cgICA9IDM7Cgo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbml0Q29ubigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
