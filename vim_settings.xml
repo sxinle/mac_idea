@@ -108,6 +108,7 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="5" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/anti/app/controllers/tray/TrayController.java" timestamp="1511751807964" />
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/resources/log4j2.xml" timestamp="1510637058636">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="23" column="21" />
@@ -155,6 +156,9 @@
         <mark key="]" line="10" column="54" />
         <mark key="." line="10" column="54" />
         <mark key="^" line="10" column="54" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/anti/conf/routes" timestamp="1511751596180">
+        <mark key="'" line="256" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/java/com/acenode/micros/auth/UserService.java" timestamp="1510653344966">
         <mark key="[" line="22" column="61" />
@@ -243,6 +247,7 @@
         <mark key="." line="121" column="7" />
         <mark key="^" line="121" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/anti/app/Global.java" timestamp="1511751865958" />
       <file name="$USER_HOME$/workspace/ddian_service/micros-auth/src/main/java/com/acenode/cloud/auth/AuthService.java" timestamp="1509436152778">
         <mark key="'" line="10" column="8" />
         <mark key="[" line="16" column="0" />
@@ -541,7 +546,7 @@
         <mark key="." line="11" column="26" />
         <mark key="^" line="11" column="26" />
       </file>
-      <file name="/fragment.java" timestamp="1511488738948">
+      <file name="/fragment.java" timestamp="1511752257116">
         <mark key="'" line="0" column="107" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -554,9 +559,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="24" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/UserAuthVerticle.java" />
-      <jump line="66" column="8" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/UserAuthVerticle.java" />
-      <jump line="87" column="8" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/UserAuthVerticle.java" />
       <jump line="26" column="15" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/api/UserAuthAPIVerticle.java" />
       <jump line="78" column="54" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/api/UserAuthAPIVerticle.java" />
       <jump line="32" column="24" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/UserAuthVerticle.java" />
@@ -654,6 +656,9 @@
       <jump line="273" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
       <jump line="279" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
+      <jump line="245" column="0" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/conf/routes" />
+      <jump line="253" column="8" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/conf/routes" />
+      <jump line="256" column="66" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -666,7 +671,7 @@
         <text>^org\\.vim\\..*</text>
       </register>
       <register name="/" type="4">
-        <text>bpmn</text>
+        <text>check</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB7CiAgICAgICAgICAidHlwZSI6ICJiYXNpYyIsCiAgICAgICAgICAiZnJvbSI6IHsKICAgICAgICAgICAgImtleV9jb2RlIjogImgiLAogICAgICAgICAgICAibW9kaWZpZXJzIjogewogICAgICAgICAgICAgICJtYW5kYXRvcnkiOiBbCiAgICAgICAgICAgICAgICAibGVmdF9jb21tYW5kIgogICAgICAgICAgICAgIF0KICAgICAgICAgICAgfQogICAgICAgICAgfSwKICAgICAgICAgICJ0byI6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICJrZXlfY29kZSI6ICJoIiwKICAgICAgICAgICAgICAibW9kaWZpZXJzIjogWwogICAgICAgICAgICAgICAgImxlZnRfb3B0aW9uIgogICAgICAgICAgICAgIF0KICAgICAgICAgICAgfQogICAgICAgICAgXSwKICAgICAgICAgICJjb25kaXRpb25zIjogWwogICAgICAgICAgICB7CiAgICAgICAgICAgICAgInR5cGUiOiAiZnJvbnRtb3N0X2FwcGxpY2F0aW9uX2lmIiwKICAgICAgICAgICAgICAiYnVuZGxlX2lkZW50aWZpZXJzIjogWwogICAgICAgICAgICAgICAgIl5vcmdcXC52aW1cXC4uKiIsCiAgICAgICAgICAgICAgICAiY29tLmpldGJyYWlucy5pbnRlbGxpaiIsCiAgICAgICAgICAgICAgICAiY29tLmdvb2dsZS5hbmRyb2lkLnN0dWRpbyIsCiAgICAgICAgICAgICAgICAiY29tLmpldGJyYWlucy5XZWJTdG9ybSIsCiAgICAgICAgICAgICAgICAiY29tLmdvb2dsZWNvZGUuaXRlcm0yIgogICAgICAgICAgICAgIF0KICAgICAgICAgICAgfQogICAgICAgICAgXQogICAgICAgIH0sCiAgICAgICAgewogICAgICAgICAgInR5cGUiOiAiYmFzaWMiLAogICAgICAgICAgImZyb20iOiB7CiAgICAgICAgICAgICJrZXlfY29kZSI6ICJsIiwKICAgICAgICAgICAgIm1vZGlmaWVycyI6IHsKICAgICAgICAgICAgICAibWFuZGF0b3J5IjogWwogICAgICAgICAgICAgICAgImxlZnRfY29tbWFuZCIKICAgICAgICAgICAgICBdCiAgICAgICAgICAgIH0KICAgICAgICAgIH0sCiAgICAgICAgICAidG8iOiBbCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAia2V5X2NvZGUiOiAibCIsCiAgICAgICAgICAgICAgIm1vZGlmaWVycyI6IFsKICAgICAgICAgICAgICAgICJsZWZ0X29wdGlvbiIKICAgICAgICAgICAgICBdCiAgICAgICAgICAgIH0KICAgICAgICAgIF0sCiAgICAgICAgICAiY29uZGl0aW9ucyI6IFsKICAgICAgICAgICAgewogICAgICAgICAgICAgICJ0eXBlIjogImZyb250bW9zdF9hcHBsaWNhdGlvbl9pZiIsCiAgICAgICAgICAgICAgImJ1bmRsZV9pZGVudGlmaWVycyI6IFsKICAgICAgICAgICAgICAgICJeb3JnXFwudmltXFwuLioiLAogICAgICAgICAgICAgICAgImNvbS5qZXRicmFpbnMuaW50ZWxsaWoiLAogICAgICAgICAgICAgICAgImNvbS5nb29nbGUuYW5kcm9pZC5zdHVkaW8iLAogICAgICAgICAgICAgICAgImNvbS5qZXRicmFpbnMuV2ViU3Rvcm0iLAogICAgICAgICAgICAgICAgImNvbS5nb29nbGVjb2RlLml0ZXJtMiIKICAgICAgICAgICAgICBdCiAgICAgICAgICAgIH0KICAgICAgICAgIF0KICAgICAgICB9Cg==</text>
@@ -703,9 +708,9 @@
       </register>
     </registers>
     <search>
-      <last-search>bpmn</last-search>
+      <last-search>check</last-search>
       <last-offset />
-      <last-pattern>bpmn</last-pattern>
+      <last-pattern>check</last-pattern>
       <last-replace>addProperty</last-replace>
       <last-substitute>put</last-substitute>
       <last-dir>1</last-dir>
@@ -713,8 +718,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb25maWdcPg==</entry>
-        <entry>json</entry>
         <entry>mongo</entry>
         <entry>delete</entry>
         <entry encoding="base64">XDxhdXRoU2VydmljZVw+</entry>
@@ -733,6 +736,8 @@
         <entry>report</entry>
         <entry encoding="base64">XDxudW1cPg==</entry>
         <entry>bpmn</entry>
+        <entry>tray</entry>
+        <entry>check</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzMuMi8zLjEvZw==</entry>
