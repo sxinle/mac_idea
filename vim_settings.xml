@@ -182,8 +182,8 @@
         <mark key="." line="63" column="36" />
         <mark key="^" line="63" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/routes" timestamp="1511499924235">
-        <mark key="'" line="15" column="54" />
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/routes" timestamp="1511845767415">
+        <mark key="'" line="115" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/ddian_service/common/src/main/java/com/acenode/cloud/common/util/C.java" timestamp="1509416902995">
         <mark key="[" line="2" column="14" />
@@ -555,14 +555,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="22" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/models/PrizeInfo.java" />
-      <jump line="158" column="31" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/models/PrizeInfo.java" />
-      <jump line="159" column="13" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/models/PrizeInfo.java" />
-      <jump line="37" column="35" filename="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/_3分布图数据制作.java" />
-      <jump line="70" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/_1大奖到小奖.java" />
-      <jump line="21" column="69" filename="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/_1大奖到小奖.java" />
-      <jump line="25" column="40" filename="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/_4摇匀199和99.java" />
-      <jump line="90" column="3" filename="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/_4摇匀199和99.java" />
       <jump line="20" column="18" filename="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/_4摇匀199和99.java" />
       <jump line="92" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/_4摇匀199和99.java" />
       <jump line="83" column="36" filename="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/_4摇匀199和99.java" />
@@ -655,6 +647,14 @@
       <jump line="11" column="6" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
       <jump line="181" column="128" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
       <jump line="65" column="123" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
+      <jump line="120" column="9" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/routes" />
+      <jump line="13" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/routes" />
+      <jump line="160" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/routes" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/routes" />
+      <jump line="121" column="105" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/routes" />
+      <jump line="123" column="97" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/routes" />
+      <jump line="109" column="44" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/routes" />
+      <jump line="115" column="24" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -667,7 +667,7 @@
         <text>^org\\.vim\\..*</text>
       </register>
       <register name="/" type="4">
-        <text>userUpdate</text>
+        <text>rechargeInit</text>
       </register>
       <register name="0" type="4">
         <text>订单报表统计共通</text>
@@ -704,9 +704,9 @@
       </register>
     </registers>
     <search>
-      <last-search>userUpdate</last-search>
+      <last-search>rechargeInit</last-search>
       <last-offset />
-      <last-pattern>userUpdate</last-pattern>
+      <last-pattern>rechargeInit</last-pattern>
       <last-replace>addProperty</last-replace>
       <last-substitute>put</last-substitute>
       <last-dir>1</last-dir>
@@ -714,8 +714,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dispatchOrder</entry>
-        <entry encoding="base64">XDxkaXNwYXRjaE9yZGVyXD4=</entry>
         <entry>distribu</entry>
         <entry>fundInit</entry>
         <entry>index</entry>
@@ -734,6 +732,8 @@
         <entry>static</entry>
         <entry>statistic</entry>
         <entry>userUpdate</entry>
+        <entry>account</entry>
+        <entry>rechargeInit</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzMuMi8zLjEvZw==</entry>
