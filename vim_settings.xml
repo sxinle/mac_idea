@@ -285,11 +285,11 @@
         <mark key="." line="27" column="75" />
         <mark key="^" line="27" column="74" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/impl/AuthServiceImpl.java" timestamp="1512037465336">
-        <mark key="[" line="39" column="64" />
-        <mark key="]" line="39" column="67" />
-        <mark key="." line="39" column="67" />
-        <mark key="^" line="39" column="67" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/impl/AuthServiceImpl.java" timestamp="1512038880504">
+        <mark key="[" line="49" column="9" />
+        <mark key="]" line="49" column="14" />
+        <mark key="." line="49" column="14" />
+        <mark key="^" line="49" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/ddian_service/gateway/src/main/resources/log4j2.xml" timestamp="1510551147001">
         <mark key="'" line="0" column="0" />
@@ -330,6 +330,9 @@
         <mark key="]" line="28" column="20" />
         <mark key="^" line="12" column="26" />
         <mark key="." line="42" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/service/JdbcRepositoryWrapper.java" timestamp="1512038724110">
+        <mark key="'" line="171" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/docker-elk/docker-compose.yml" timestamp="1510223533795">
         <mark key="[" line="21" column="11" />
@@ -573,7 +576,6 @@
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/RestVerticle.java" timestamp="1512037035566" />
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
       <jump line="273" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
       <jump line="245" column="0" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/conf/routes" />
@@ -673,6 +675,7 @@
       <jump line="32" column="37" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/impl/AuthServiceImpl.java" />
       <jump line="30" column="45" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/impl/AuthServiceImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/resources/log4j2.xml" />
+      <jump line="171" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/service/JdbcRepositoryWrapper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -682,57 +685,56 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>error</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text>NC</text>
+        <text>compose</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY2xpZW50LmZpbmRPbmUoVXNlclNlcnZpY2UuY29sbCwgcGFyYW0sIG51bGwsIGZpbmQuY29tcGxldGVyKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEZ1dHVyZS5zdWNjZWVkZWRGdXR1cmUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZ1dHVyZS5mdXR1cmUoKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdEhhbmRsZXIuaGFuZGxlKHNhdmUuc2V0SGFuZGxlcihyZXN1bHRIYW5kbGUpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluZC5jb21wbGV0ZSgpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNhdmUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGlkID0gc2F2ZVJlc3VsdDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNhdmUuZmFpbChlLmdldENhdXNlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2F2ZVJlc3VsdAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdEhhbmRsZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICBzYXZlLmZhaWwoZS5nZXRDYXVzZSgpKTsKICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHNhdmU7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdEhhbmRsZXIuaGFuZGxlKEZ1dHVyZS5mYWlsZWRGdXR1cmUoZS5nZXRDYXVzZSgpKSk7Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">LmNvbXBvc2Uoc2F2ZVJlc3VsdCAtPiB7CiAgICAgICAgICAgIHJlc3VsdEhhbmRsZXIuaGFuZGxlKEZ1dHVyZS5zdWNjZWVkZWRGdXR1cmUoc2F2ZVJlc3VsdCkpOwogICAgICAgIH0pOw==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBzYXZlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG51bGwgIT0gc2F2ZVJlc3VsdCkgewoKICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgIHJlc3VsdEhhbmRsZXIuaGFuZGxlKCk7CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGY7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>NC</last-search>
+      <last-search>compose</last-search>
       <last-offset />
-      <last-pattern>NC</last-pattern>
+      <last-pattern>compose</last-pattern>
       <last-replace>addProperty</last-replace>
       <last-substitute>put</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>interFlow</entry>
         <entry>login</entry>
         <entry>logistic</entry>
         <entry>logisticOr</entry>
@@ -752,6 +754,7 @@
         <entry>bank</entry>
         <entry>charts</entry>
         <entry>NC</entry>
+        <entry>compose</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzMuMi8zLjEvZw==</entry>
