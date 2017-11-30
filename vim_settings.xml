@@ -285,10 +285,11 @@
         <mark key="." line="27" column="75" />
         <mark key="^" line="27" column="74" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/impl/AuthServiceImpl.java" timestamp="1512035763533">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/impl/AuthServiceImpl.java" timestamp="1512037465336">
+        <mark key="[" line="39" column="64" />
+        <mark key="]" line="39" column="67" />
+        <mark key="." line="39" column="67" />
+        <mark key="^" line="39" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/ddian_service/gateway/src/main/resources/log4j2.xml" timestamp="1510551147001">
         <mark key="'" line="0" column="0" />
@@ -555,6 +556,13 @@
         <mark key="." line="11" column="26" />
         <mark key="^" line="11" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/resources/log4j2.xml" timestamp="1512037443856">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="23" column="21" />
+        <mark key="]" line="23" column="25" />
+        <mark key="." line="23" column="25" />
+        <mark key="^" line="23" column="25" />
+      </file>
       <file name="/fragment.java" timestamp="1512034996882">
         <mark key="'" line="0" column="107" />
         <mark key="[" line="0" column="0" />
@@ -562,9 +570,9 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="6" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/RestVerticle.java" timestamp="1512037035566" />
     </filemarks>
     <jumps>
-      <jump line="15" column="54" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/routes" />
       <jump line="50" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
       <jump line="273" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
@@ -664,6 +672,7 @@
       <jump line="93" column="56" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/api/UserAuthAPIVerticle.java" />
       <jump line="32" column="37" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/impl/AuthServiceImpl.java" />
       <jump line="30" column="45" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/impl/AuthServiceImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/resources/log4j2.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -673,37 +682,37 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>error</text>
       </register>
       <register name="/" type="4">
         <text>NC</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQuZmluZE9uZShVc2VyU2VydmljZS5jb2xsLCBwYXJhbSwgbnVsbCwgYXIgLT4gewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50LmZpbmRPbmUoVXNlclNlcnZpY2UuY29sbCwgcGFyYW0sIG51bGwsIGZpbmQuY29tcGxldGVyKCkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXIuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEZ1dHVyZS5zdWNjZWVkZWRGdXR1cmUoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXIuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdEhhbmRsZXIuaGFuZGxlKHNhdmUuc2V0SGFuZGxlcihyZXN1bHRIYW5kbGUpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXIuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNhdmUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXIuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNhdmUuZmFpbChlLmdldENhdXNlKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXIuZ2V0Q2xhc3MoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQuZmluZE9uZShVc2VyU2VydmljZS5jb2xsLCBwYXJhbSwgbnVsbCwgYXIgLT4gewogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICBzYXZlLmZhaWwoZS5nZXRDYXVzZSgpKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGFyLnN1Y2NlZWRlZCgpKSB7CiAgICAgICAgICAgICAgICBKc29uT2JqZWN0IHVzZXIgPSBhci5yZXN1bHQoKTsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHRva2VuID0gRW5jcnlwQUVTLmVuY3J5dCh1c2VyLmdldFN0cmluZygidXNlck5hbWUiKSk7CiAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHVudGlsID0gQ29uc3QuRGF0ZUZNVC5zbWYuZm9ybWF0KG5ldyBEYXRlKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpICsgMTAwMCAqIDYwICogMzApKTsKICAgICAgICAgICAgICAgICAgICBzYXZlKGNvbGwsIG5ldyBKc29uT2JqZWN0KCkucHV0KCJ0b2tlbiIsIHRva2VuKS5wdXQoInVudGlsIiwgdW50aWwpLCBzYXZlQXIgLT4gewogICAgICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc2F2ZUFyLnJlc3VsdCgpKTsKICAgICAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICByZXN1bHRIYW5kbGVyLmhhbmRsZShGdXR1cmUuZmFpbGVkRnV0dXJlKGUuZ2V0Q2F1c2UoKSkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgcmVzdWx0SGFuZGxlci5oYW5kbGUoRnV0dXJlLmZhaWxlZEZ1dHVyZShhci5jYXVzZSgpKSk7CiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlc3VsdEhhbmRsZXIuaGFuZGxlKEZ1dHVyZS5mYWlsZWRGdXR1cmUoZS5nZXRDYXVzZSgpKSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBzYXZlOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
