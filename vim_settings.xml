@@ -283,11 +283,12 @@
         <mark key="." line="27" column="75" />
         <mark key="^" line="27" column="74" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/impl/AuthServiceImpl.java" timestamp="1512039426594">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="17" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="37" column="34" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/impl/AuthServiceImpl.java" timestamp="1512097909876">
+        <mark key="'" line="47" column="18" />
+        <mark key="[" line="53" column="48" />
+        <mark key="]" line="53" column="64" />
+        <mark key="." line="53" column="64" />
+        <mark key="^" line="53" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/ddian_service/gateway/src/main/resources/log4j2.xml" timestamp="1510551147001">
         <mark key="'" line="0" column="0" />
@@ -573,7 +574,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="273" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
       <jump line="245" column="0" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/conf/routes" />
       <jump line="253" column="8" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/conf/routes" />
@@ -673,6 +673,7 @@
       <jump line="30" column="45" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/impl/AuthServiceImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/resources/log4j2.xml" />
       <jump line="171" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/service/JdbcRepositoryWrapper.java" />
+      <jump line="49" column="18" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/impl/AuthServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -682,40 +683,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>String</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>compose</text>
       </register>
-      <register name="0" type="4">
-        <text>483019a2e9f460b76a5dc407a19c6284</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyB0b2tlbiA9IEVuY3J5cEFFUy5lbmNyeXQodXNlci5nZXRTdHJpbmcoIm5hbWUiKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNhdmUubWFwCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbGwuCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdG9rZW47Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsaWVudC51cGRhdGVDb2xsZWN0aW9uKGNvbGwsICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIEZ1dHVyZS5mdXR1cmUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vU3RyaW5nIHVudGlsID0gQ29uc3QuRGF0ZUZNVC5zbWYuZm9ybWF0KG5ldyBEYXRlKFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpICsgMTAwMCAqIDYwICogMzApKTsKICAgICAgICAgICAgICAgIC8vc2F2ZShjb2xsLCBuZXcgSnNvbk9iamVjdCgpLnB1dCgidG9rZW4iLCB0b2tlbikucHV0KCJ1bnRpbCIsIHVudGlsKSwgc2F2ZS5jb21wbGV0ZXIoKSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluZC5jb21wbGV0ZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGlkID0gc2F2ZVJlc3VsdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2F2ZVJlc3VsdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlc3VsdEhhbmRsZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -728,7 +729,7 @@
       <last-replace>addProperty</last-replace>
       <last-substitute>put</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
