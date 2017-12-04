@@ -53,6 +53,10 @@
       <file name="/a.dummy" timestamp="1512109576024">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/routes" timestamp="1512356864940">
+        <mark key="[" line="226" column="31" />
+        <mark key="]" line="226" column="46" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/controllers/ForgetController.java" timestamp="1512355030973">
         <mark key="'" line="152" column="0" />
       </file>
@@ -76,6 +80,7 @@
         <mark key="." line="24" column="44" />
         <mark key="^" line="24" column="44" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/service/impl/AwardOrderServiceImpl.java" timestamp="1512357136749" />
       <file name="$USER_HOME$/workspace/micro-service/common/pom.xml" timestamp="1510555133280">
         <mark key="'" line="19" column="20" />
         <mark key="[" line="3" column="108" />
@@ -105,6 +110,9 @@
         <mark key="]" line="63" column="36" />
         <mark key="." line="63" column="36" />
         <mark key="^" line="63" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/sql/AwardOrder.xml" timestamp="1512357174709">
+        <mark key="'" line="151" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-user/src/main/java/com/acenode/micros/user/package-info.java" timestamp="1510561206532">
         <mark key="[" line="3" column="67" />
@@ -211,7 +219,7 @@
         <mark key="." line="38" column="42" />
         <mark key="^" line="38" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/service/AwardOrderService.java" timestamp="1512355588317" />
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/service/AwardOrderService.java" timestamp="1512357293515" />
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/pom.xml" timestamp="1510560896267">
         <mark key="'" line="30" column="0" />
         <mark key="[" line="15" column="47" />
@@ -434,6 +442,12 @@
         <mark key="." line="12" column="3" />
         <mark key="^" line="12" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/controllers/ScanController.java" timestamp="1512357733096">
+        <mark key="'" line="36" column="12" />
+        <mark key="[" line="790" column="24" />
+        <mark key="]" line="790" column="24" />
+        <mark key="." line="790" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace/ddian_service/common/src/main/java/com/acenode/cloud/common/util/C.java" timestamp="1509416902995">
         <mark key="[" line="2" column="14" />
         <mark key="]" line="2" column="17" />
@@ -582,6 +596,9 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="6" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/models/ScanPrizeDetail.java" timestamp="1512357324155">
+        <mark key="'" line="335" column="14" />
+      </file>
       <file name="$USER_HOME$/workspace/ddian_service/micros-auth/src/main/java/com/acenode/cloud/auth/AuthVerticle.java" timestamp="1510198326431">
         <mark key="'" line="62" column="42" />
         <mark key="[" line="19" column="44" />
@@ -596,7 +613,7 @@
         <mark key="." line="36" column="82" />
         <mark key="^" line="36" column="82" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512356374417">
+      <file name="/Dummy.txt" timestamp="1512357293972">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="4" />
         <mark key="." line="0" column="4" />
@@ -677,34 +694,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="1" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
-      <jump line="11" column="6" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
-      <jump line="181" column="128" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
-      <jump line="65" column="123" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
-      <jump line="13" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/routes" />
-      <jump line="160" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/routes" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/routes" />
-      <jump line="121" column="105" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/routes" />
-      <jump line="123" column="97" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/routes" />
-      <jump line="109" column="44" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/routes" />
-      <jump line="115" column="24" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/routes" />
-      <jump line="120" column="1" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/routes" />
-      <jump line="153" column="118" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/routes" />
-      <jump line="195" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/FinanceOrderServiceImpl.java" />
-      <jump line="262" column="91" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/FinanceOrderServiceImpl.java" />
-      <jump line="87" column="69" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/service/impl/FinanceOrderServiceImpl.java" />
-      <jump line="239" column="54" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
-      <jump line="118" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/controllers/order/SalesOrderController.java" />
-      <jump line="27" column="6" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
-      <jump line="15" column="2" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
-      <jump line="3" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
-      <jump line="14" column="6" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
-      <jump line="23" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
-      <jump line="276" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
-      <jump line="42" column="13" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
-      <jump line="279" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
-      <jump line="37" column="8" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
-      <jump line="63" column="4" filename="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" />
       <jump line="36" column="21" filename="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" />
       <jump line="157" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" />
@@ -777,6 +766,34 @@
       <jump line="56" column="27" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/util/Recharge.java" />
       <jump line="75" column="34" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/util/Recharge.java" />
       <jump line="103" column="77" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/util/Recharge.java" />
+      <jump line="147" column="45" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/sql/AwardOrder.xml" />
+      <jump line="186" column="16" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/sql/AwardOrder.xml" />
+      <jump line="234" column="20" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/sql/AwardOrder.xml" />
+      <jump line="254" column="20" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/sql/AwardOrder.xml" />
+      <jump line="271" column="20" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/sql/AwardOrder.xml" />
+      <jump line="295" column="12" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/sql/AwardOrder.xml" />
+      <jump line="316" column="12" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/sql/AwardOrder.xml" />
+      <jump line="338" column="12" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/sql/AwardOrder.xml" />
+      <jump line="357" column="12" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/sql/AwardOrder.xml" />
+      <jump line="383" column="12" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/sql/AwardOrder.xml" />
+      <jump line="402" column="12" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/sql/AwardOrder.xml" />
+      <jump line="429" column="12" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/sql/AwardOrder.xml" />
+      <jump line="455" column="12" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/sql/AwardOrder.xml" />
+      <jump line="177" column="15" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/sql/AwardOrder.xml" />
+      <jump line="215" column="20" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/sql/AwardOrder.xml" />
+      <jump line="501" column="43" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/sql/AwardOrder.xml" />
+      <jump line="148" column="15" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/sql/AwardOrder.xml" />
+      <jump line="151" column="15" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/sql/AwardOrder.xml" />
+      <jump line="97" column="19" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/models/ScanPrizeDetail.java" />
+      <jump line="328" column="19" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/models/ScanPrizeDetail.java" />
+      <jump line="331" column="15" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/models/ScanPrizeDetail.java" />
+      <jump line="335" column="14" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/models/ScanPrizeDetail.java" />
+      <jump line="782" column="35" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/controllers/ScanController.java" />
+      <jump line="784" column="27" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/controllers/ScanController.java" />
+      <jump line="859" column="47" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/controllers/ScanController.java" />
+      <jump line="768" column="70" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/controllers/ScanController.java" />
+      <jump line="678" column="47" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/controllers/ScanController.java" />
+      <jump line="36" column="12" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/controllers/ScanController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -786,13 +803,13 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>!!!!!!!</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWNoYXJnZUZsYWdcPg==</text>
+        <text encoding="base64">XDxyZWNoYXJnZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>sendConfirm</text>
+        <text>addlogisticsInfo</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -826,9 +843,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWNoYXJnZUZsYWdcPg==</last-search>
+      <last-search encoding="base64">XDxyZWNoYXJnZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWNoYXJnZUZsYWdcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxyZWNoYXJnZVw+</last-pattern>
       <last-replace>addProperty</last-replace>
       <last-substitute>put</last-substitute>
       <last-dir>1</last-dir>
@@ -836,9 +853,6 @@
     </search>
     <history>
       <history-search>
-        <entry>logistic</entry>
-        <entry>logisticOr</entry>
-        <entry>orderDetail</entry>
         <entry>paper</entry>
         <entry>rebat</entry>
         <entry>recharge</entry>
@@ -856,6 +870,9 @@
         <entry>NC</entry>
         <entry>compose</entry>
         <entry encoding="base64">XDxyZWNoYXJnZUZsYWdcPg==</entry>
+        <entry>receiveflag = 1</entry>
+        <entry encoding="base64">XDxyZWNlaXZlRmxhZ1w+</entry>
+        <entry encoding="base64">XDxyZWNoYXJnZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzMuMi8zLjEvZw==</entry>
