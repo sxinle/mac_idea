@@ -105,12 +105,12 @@
         <mark key="^" line="118" column="36" />
         <mark key="." line="130" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/service/impl/RoleServiceImpl.java" timestamp="1512448291213">
-        <mark key="'" line="86" column="39" />
-        <mark key="[" line="71" column="33" />
-        <mark key="]" line="71" column="39" />
-        <mark key="." line="71" column="39" />
-        <mark key="^" line="71" column="39" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/service/impl/RoleServiceImpl.java" timestamp="1512450705445">
+        <mark key="'" line="96" column="39" />
+        <mark key="[" line="83" column="17" />
+        <mark key="]" line="84" column="27" />
+        <mark key="." line="84" column="27" />
+        <mark key="^" line="84" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/util/EncrypAES.java" timestamp="1512379387834">
         <mark key="[" line="46" column="32" />
@@ -118,12 +118,12 @@
         <mark key="." line="47" column="23" />
         <mark key="^" line="47" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/service/impl/UserServiceImpl.java" timestamp="1512402347413">
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/service/impl/UserServiceImpl.java" timestamp="1512450752766">
         <mark key="'" line="68" column="23" />
-        <mark key="[" line="91" column="38" />
-        <mark key="]" line="91" column="45" />
-        <mark key="." line="91" column="45" />
-        <mark key="^" line="91" column="45" />
+        <mark key="[" line="150" column="52" />
+        <mark key="]" line="150" column="52" />
+        <mark key="." line="150" column="52" />
+        <mark key="^" line="150" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/ddian_service/micros-auth/src/main/java/com/acenode/cloud/auth/AuthService.java" timestamp="1509436152778">
         <mark key="'" line="10" column="8" />
@@ -767,7 +767,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>.getString(&quot;$oid&quot;);</text>
       </register>
       <register name="/" type="4">
         <text>bindRes</text>
@@ -776,31 +776,33 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIG1lbnUucHV0KCJjaGlsZHMiLCBnZXRDaGlsZChtZW51LmdldFN0cmluZygiaWQiKSwgcm9vdE1lbnUsIHBpZHMpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGYuY29tcGxldGUoIiIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgT2JqZWN0IGRhdGE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBleGlzdHNSZXM7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluZChjb2xsLCBuZXcgSnNvbk9iamVjdCgpLnB1dChjb2xfcm9sZV9pZCwgcm9sZUlkKSwgZXhpc3RzUmVzLmNvbXBsZXRlcigpKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgT2JqZWN0IGdldERhdGEoKSB7CiAgICAgICAgcmV0dXJuIGRhdGE7CiAgICB9CgogICAgcHVibGljIFJlc3Agc2V0RGF0YShPYmplY3QgZGF0YSkgewogICAgICAgIHRoaXMuZGF0YSA9IGRhdGE7CiAgICAgICAgcmV0dXJuIHRoaXM7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGV4aXN0c1JlczsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSZXNwIHNldE1zZyhTdHJpbmcgbXNnKSB7CiAgICAgICAgdGhpcy5tc2cgPSBtc2c7CiAgICAgICAgcmV0dXJuIHRoaXM7CiAgICB9Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IGVsc2UgewoKICAgICAgICAgICAgfQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSZXNwIHNldENvZGUoaW50IGNvZGUpIHsKICAgICAgICB0aGlzLmNvZGUgPSBjb2RlOwogICAgICAgIHJldHVybiB0aGlzOwogICAgfQo=</text>
+      <register name="8" type="4">
+        <text>compose()
+
+        existsRes</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0Q29kZSgpIHsKICAgICAgICByZXR1cm4gY29kZTsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldE1zZygpIHsKICAgICAgICByZXR1cm4gbXNnOwogICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
