@@ -64,11 +64,11 @@
         <mark key="." line="21" column="24" />
         <mark key="^" line="21" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/resources/config.json" timestamp="1512720803648">
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/resources/config.json" timestamp="1512728955874">
         <mark key="'" line="6" column="20" />
-        <mark key="[" line="9" column="14" />
-        <mark key="]" line="9" column="17" />
-        <mark key="." line="9" column="17" />
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="14" />
+        <mark key="." line="7" column="14" />
         <mark key="^" line="7" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/service/RoleService.java" timestamp="1512627194517">
@@ -204,6 +204,10 @@
         <mark key="^" line="675" column="28" />
         <mark key="." line="675" column="28" />
       </file>
+      <file name="/RestVerticle.java" timestamp="1512729117052">
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="112" />
+      </file>
       <file name="$USER_HOME$/Desktop/pointshub/conf/routes" timestamp="1512701794679">
         <mark key="'" line="95" column="136" />
       </file>
@@ -320,12 +324,12 @@
       <file name="$USER_HOME$/Desktop/pointshub/conf/application-context.xml" timestamp="1512702391408">
         <mark key="'" line="53" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/RestVerticle.java" timestamp="1512728456460">
-        <mark key="'" line="152" column="46" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="46" column="119" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/RestVerticle.java" timestamp="1512729120059">
+        <mark key="'" line="153" column="46" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="113" />
+        <mark key="^" line="61" column="19" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/分布图.java" timestamp="1510983170454">
         <mark key="'" line="42" column="0" />
@@ -584,7 +588,7 @@
         <mark key="." line="41" column="59" />
         <mark key="^" line="41" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1512728688453">
+      <file name="/Dummy.txt" timestamp="1512729221896">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/java/com/acenode/micros/auth/domain/UserSource.java" timestamp="1510650903960">
@@ -740,40 +744,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>txt</text>
+        <text>postgres</text>
       </register>
       <register name="/" type="4">
         <text>\\&quot;</text>
       </register>
-      <register name="0" type="4">
-        <text>this.getClass().getResource(&quot;/&quot;).getPath() + &quot;api.md&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN4dC5yZXNwb25zZSgpLnB1dEhlYWRlcigiQ29udGVudC1UeXBlIiwgInRleHQvaHRtbDtjaGFyc2V0PXV0Zi04IikuZW5kKCIvcmVzb3VyY2VzL2FwaS5tZCDmsqHmib7liLAiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmlsZVJlYWRlciByOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN4dC4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHBhdGggPSB0aGlzLmdldENsYXNzKCkuZ2V0UmVzb3VyY2UoIi8iKS5nZXRQYXRoKCkgKyAiYXBpLm1kIjsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHBhdGgpOwogICAgICAgICAgICBGaWxlIGYgPSBuZXcgRmlsZShwYXRoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmlsZVJlYWRlciByOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFmLmV4aXN0cygpKSB7CiAgICAgICAgICAgICAgICBjeHQucmVzcG9uc2UoKS5wdXRIZWFkZXIoIkNvbnRlbnQtVHlwZSIsICJ0ZXh0L2h0bWw7Y2hhcnNldD11dGYtOCIpLmVuZCgiL3Jlc291cmNlcy9hcGkubWQg5rKh5om+5YiwIik7CiAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHBhdGggPSB0aGlzLmdldENsYXNzKCkuZ2V0UmVzb3VyY2UoIi8iKS5nZXRQYXRoKCkgKyAiYXBpLm1kIjsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHBhdGgpOwogICAgICAgICAgICBGaWxlIGYgPSBuZXcgRmlsZShwYXRoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBmaXggcG9pbnRzaHViIGhhbmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFmLmV4aXN0cygpKSB7CiAgICAgICAgICAgICAgICBjeHQucmVzcG9uc2UoKS5wdXRIZWFkZXIoIkNvbnRlbnQtVHlwZSIsICJ0ZXh0L2h0bWw7Y2hhcnNldD11dGYtOCIpLmVuZCgiL3Jlc291cmNlcy9hcGkubWQg5rKh5om+5YiwIik7CiAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBmaXggcG9pbnRzaHViIGhhbmcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2V0UHJveHkobmV3IEh0dHBIb3N0KCJteW90aGVycHJveHkiLCA4MDgwKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
