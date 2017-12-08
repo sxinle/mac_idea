@@ -13,6 +13,9 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/controllers/WeixinPrizeController.java" timestamp="1512723300946">
+        <mark key="'" line="177" column="33" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/zest/pom.xml" timestamp="1510916424428">
         <mark key="'" line="85" column="25" />
         <mark key="[" line="83" column="21" />
@@ -446,6 +449,12 @@
         <mark key="^" line="9" column="17" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/util/redpack/HttpUtil.java" timestamp="1512724021363">
+        <mark key="[" line="49" column="11" />
+        <mark key="]" line="49" column="16" />
+        <mark key="^" line="49" column="16" />
+        <mark key="." line="49" column="16" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-user/src/main/resources/cluster.xml" timestamp="1510585306928">
         <mark key="'" line="62" column="9" />
         <mark key="[" line="63" column="23" />
@@ -631,11 +640,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="35" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/service/impl/SQLServiceImpl.java" />
-      <jump line="25" column="78" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/service/impl/MongoServiceImpl.java" />
-      <jump line="18" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/ContactAPIVerticle.java" />
-      <jump line="17" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/ContactAPIVerticle.java" />
-      <jump line="27" column="4" filename="$USER_HOME$/workspace/demo/vertx-blueprint-microservice/microservice-blueprint-common/src/main/java/io/vertx/blueprint/microservice/common/service/JdbcRepositoryWrapper.java" />
       <jump line="175" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/service/impl/SQLServiceImpl.java" />
       <jump line="69" column="23" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/service/impl/SQLServiceImpl.java" />
       <jump line="174" column="38" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/service/impl/SQLServiceImpl.java" />
@@ -731,6 +735,11 @@
       <jump line="118" column="44" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/impl/CustomerServiceImpl.java" />
       <jump line="32" column="4" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/impl/CustomerServiceImpl.java" />
       <jump line="33" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/impl/CustomerServiceImpl.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/controllers/WeixinPrizeController.java" />
+      <jump line="317" column="31" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/controllers/WeixinPrizeController.java" />
+      <jump line="102" column="39" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/controllers/WeixinPrizeController.java" />
+      <jump line="128" column="8" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/controllers/WeixinPrizeController.java" />
+      <jump line="177" column="33" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/controllers/WeixinPrizeController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -740,40 +749,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>cloud</text>
+        <text>todo</text>
       </register>
       <register name="/" type="4">
         <text>\\&quot;</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWFyY2hldHlwZS1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4yLjI8L3ZlcnNpb24+CiAgICAgICAgICAgIDwvcGx1Z2luPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZml4IHBvaW50c2h1YiBoYW5nCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1hcmNoZXR5cGUtcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+Mi4yPC92ZXJzaW9uPgogICAgICAgICAgICA8L3BsdWdpbj4K</text>
+        <text encoding="base64">ICAgICAgICAvLyBmaXggcG9pbnRzaHViIGhhbmcK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1hcmNoZXR5cGUtcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+Mi4yPC92ZXJzaW9uPgogICAgICAgICAgICA8L3BsdWdpbj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWFyY2hldHlwZS1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4yLjI8L3ZlcnNpb24+CiAgICAgICAgICAgIDwvcGx1Z2luPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuc2V0UHJveHkobmV3IEh0dHBIb3N0KCJteW90aGVycHJveHkiLCA4MDgwKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8L3BsdWdpbnM+Cg==</text>
+        <text encoding="base64">ICAgICAgICAuc2V0RGVmYXVsdFJlcXVlc3RDb25maWcoZGVmYXVsdFJlcXVlc3RDb25maWcpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8cGx1Z2lucz4K</text>
+        <text encoding="base64">ICAgICAgICAvLyBmaXggcG9pbnRzaHViIGhhbmcKICAgICAgICBSZXF1ZXN0Q29uZmlnIGRlZmF1bHRSZXF1ZXN0Q29uZmlnID0gUmVxdWVzdENvbmZpZy5jdXN0b20oKQogICAgICAgICAgICAgICAgLnNldFNvY2tldFRpbWVvdXQoNTAwMCkKICAgICAgICAgICAgICAgIC5zZXRDb25uZWN0VGltZW91dCg1MDAwKQogICAgICAgICAgICAgICAgLnNldENvbm5lY3Rpb25SZXF1ZXN0VGltZW91dCg1MDAwKQogICAgICAgICAgICAgICAgLnNldFN0YWxlQ29ubmVjdGlvbkNoZWNrRW5hYmxlZCh0cnVlKQogICAgICAgICAgICAgICAgLmJ1aWxkKCk7CgogICAgICAgIC8vIGZpeCBwb2ludHNodWIgaGFuZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5jb25uZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Y3VybCAtaSAtWCBHRVQgXAogJ2h0dHA6Ly9sb2NhbGhvc3Q6ODA4Mi9jdXN0b21lci9nZXQ/bmFtZT0lRTUlQUUlQTIlRTYlODglQjcnCg==</text>
+        <text encoding="base64">CiAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1hcmNoZXR5cGUtcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+Mi4yPC92ZXJzaW9uPgogICAgICAgICAgICA8L3BsdWdpbj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL0xpc3Q8SnNvbk9iamVjdD4gcmVzdWx0cyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgICAgICAgICAgICAgIC8vTGlzdDxTdHJpbmc+IGNvbHMgPSBhci5yZXN1bHQoKS5nZXRDb2x1bW5OYW1lcygpOwogICAgICAgICAgICAgICAgICAgIC8vYXIucmVzdWx0KCkuZ2V0UmVzdWx0cygpLmZvckVhY2goYXJyIC0+IHsKICAgICAgICAgICAgICAgICAgICAvLyAgICBKc29uT2JqZWN0IG9uZVJvdyA9IG5ldyBKc29uT2JqZWN0KCk7CiAgICAgICAgICAgICAgICAgICAgLy8gICAgZm9yIChpbnQgaSA9IDA7IGkgPCBjb2xzLnNpemUoKTsgaSsrKSB7CiAgICAgICAgICAgICAgICAgICAgLy8gICAgICAgIFN0cmluZyBrZXkgPSBjb2xzLmdldChpKTsKICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgT2JqZWN0IHZhbCA9IGFyci5nZXRWYWx1ZShpKTsKICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgb25lUm93LnB1dChrZXksIHZhbCk7CiAgICAgICAgICAgICAgICAgICAgLy8gICAgfQogICAgICAgICAgICAgICAgICAgIC8vICAgIHJlc3VsdHMuYWRkKG9uZVJvdyk7CiAgICAgICAgICAgICAgICAgICAgLy99KTsK</text>
+        <text encoding="base64">CiAgICAgICAgICAgIDxwbHVnaW4+CiAgICAgICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLm1hdmVuLnBsdWdpbnM8L2dyb3VwSWQ+CiAgICAgICAgICAgICAgICA8YXJ0aWZhY3RJZD5tYXZlbi1hcmNoZXR5cGUtcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICAgICAgPHZlcnNpb24+Mi4yPC92ZXJzaW9uPgogICAgICAgICAgICA8L3BsdWdpbj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
