@@ -116,6 +116,12 @@
         <mark key="." line="63" column="36" />
         <mark key="^" line="63" column="36" />
       </file>
+      <file name="$USER_HOME$/workspace/order-docker/order-dealer/conf/jdbc.properties" timestamp="1513152327252">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="40" />
+        <mark key="." line="1" column="40" />
+        <mark key="^" line="1" column="40" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/controllers/bpmn/BpmnController.java" timestamp="1513070038251">
         <mark key="'" line="43" column="8" />
       </file>
@@ -225,6 +231,9 @@
       </file>
       <file name="$USER_HOME$/workspace/demo/vertx-blueprint-microservice/shopping-cart-microservice/src/main/java/io/vertx/blueprint/microservice/cart/impl/ShoppingCartServiceImpl.java" timestamp="1512728939966">
         <mark key="'" line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/order-docker/order-dealer/conf/application.conf" timestamp="1513151821707">
+        <mark key="'" line="69" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/UserAuthVerticle.java" timestamp="1512640786797">
         <mark key="'" line="61" column="21" />
@@ -409,7 +418,7 @@
         <mark key="." line="44" column="31" />
         <mark key="^" line="44" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/order-docker/order-dealer/app/util/UpLoadImageUtil.java" timestamp="1513151161511">
+      <file name="$USER_HOME$/workspace/order-docker/order-dealer/app/util/UpLoadImageUtil.java" timestamp="1513152448845">
         <mark key="'" line="189" column="0" />
         <mark key="[" line="189" column="0" />
         <mark key="]" line="189" column="0" />
@@ -520,6 +529,13 @@
         <mark key="]" line="25" column="33" />
         <mark key="." line="25" column="33" />
         <mark key="^" line="22" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspace/order-docker/order-dealer/conf/config.properties" timestamp="1513151847392">
+        <mark key="'" line="39" column="0" />
+        <mark key="[" line="42" column="13" />
+        <mark key="]" line="42" column="22" />
+        <mark key="." line="42" column="22" />
+        <mark key="^" line="42" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" timestamp="1512641437136">
         <mark key="'" line="138" column="4" />
@@ -669,9 +685,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/impl/CustomerServiceImpl.java" />
-      <jump line="35" column="12" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/service/impl/MongoServiceImpl.java" />
-      <jump line="19" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/service/impl/MongoServiceImpl.java" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/service/RoleService.java" />
       <jump line="61" column="4" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/UserAuthAPIVerticle.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/UserAuthAPIVerticle.java" />
@@ -769,6 +782,9 @@
       <jump line="8" column="0" filename="$USER_HOME$/workspace/order-docker/order-dealer/app/util/CommonUtils.java" />
       <jump line="189" column="0" filename="$USER_HOME$/workspace/order-docker/order-dealer/app/util/UpLoadImageUtil.java" />
       <jump line="77" column="16" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/cust/CustomerController.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/order-docker/order-dealer/conf/application.conf" />
+      <jump line="69" column="0" filename="$USER_HOME$/workspace/order-docker/order-dealer/conf/application.conf" />
+      <jump line="39" column="0" filename="$USER_HOME$/workspace/order-docker/order-dealer/conf/config.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -778,7 +794,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>127.0.0.1</text>
       </register>
       <register name="/" type="4">
         <text>cust\/login</text>
