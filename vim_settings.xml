@@ -140,6 +140,9 @@
         <mark key="." line="175" column="52" />
         <mark key="^" line="175" column="51" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/cust/CustomerController.java" timestamp="1513151728506">
+        <mark key="'" line="77" column="16" />
+      </file>
       <file name="$USER_HOME$/workspace/ddian_service/micros-auth/src/main/java/com/acenode/cloud/auth/AuthService.java" timestamp="1509436152778">
         <mark key="'" line="10" column="8" />
         <mark key="[" line="16" column="0" />
@@ -243,6 +246,9 @@
         <mark key="]" line="23" column="25" />
         <mark key="." line="23" column="25" />
         <mark key="^" line="23" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/order-docker/order-dealer/app/util/CommonUtils.java" timestamp="1513151130896">
+        <mark key="'" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/folder/util/mactools/dotfiles/karabiner.mine.json" timestamp="1511448653646">
         <mark key="'" line="15" column="11" />
@@ -402,6 +408,12 @@
         <mark key="]" line="44" column="31" />
         <mark key="." line="44" column="31" />
         <mark key="^" line="44" column="48" />
+      </file>
+      <file name="$USER_HOME$/workspace/order-docker/order-dealer/app/util/UpLoadImageUtil.java" timestamp="1513151161511">
+        <mark key="'" line="189" column="0" />
+        <mark key="[" line="189" column="0" />
+        <mark key="]" line="189" column="0" />
+        <mark key="." line="189" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/ddian_service/micros-user/src/main/java/com/acenode/cloud/user/api/UserAPIVerticle.java" timestamp="1509446596067">
         <mark key="'" line="46" column="0" />
@@ -657,11 +669,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="36" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/service/impl/AuthServiceImpl.java" />
-      <jump line="31" column="41" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/service/impl/MongoServiceImpl.java" />
-      <jump line="6" column="26" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/service/impl/MongoServiceImpl.java" />
-      <jump line="61" column="16" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/service/impl/SQLServiceImpl.java" />
-      <jump line="24" column="23" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/impl/CustomerServiceImpl.java" />
       <jump line="34" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/impl/CustomerServiceImpl.java" />
       <jump line="35" column="12" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/service/impl/MongoServiceImpl.java" />
       <jump line="19" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/service/impl/MongoServiceImpl.java" />
@@ -757,6 +764,11 @@
       <jump line="151" column="1" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/lib/camunda-xml-model-7.7.0.jar!/org/camunda/bpm/model/xml/impl/util/DomUtil.class" />
       <jump line="0" column="0" filename="$USER_HOME$/.ideaLibSources/camunda-xml-model-7.7.0-sources.jar!/org/camunda/bpm/model/xml/impl/util/DomUtil.java" />
       <jump line="116" column="33" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/src.zip!/javax/xml/parsers/DocumentBuilder.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/order-docker/order-dealer/app/util/CommonUtils.java" />
+      <jump line="268" column="0" filename="$USER_HOME$/workspace/order-docker/order-dealer/app/util/CommonUtils.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/workspace/order-docker/order-dealer/app/util/CommonUtils.java" />
+      <jump line="189" column="0" filename="$USER_HOME$/workspace/order-docker/order-dealer/app/util/UpLoadImageUtil.java" />
+      <jump line="77" column="16" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/cust/CustomerController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -775,31 +787,31 @@
         <text encoding="base64">UmVjaGFyZ2UgPSAiYWh0dHA6Ly8xMTkuMTQ1LjEyLjE4MDo4OTkvbW9iaWxlL1JlY2hhcmdlIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN4dC4K</text>
+        <text encoding="base64">ICAgICAgICBMb2dnZXIuRVJST1IK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmlsZVJlYWRlciByOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN4dC4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHBhdGggPSB0aGlzLmdldENsYXNzKCkuZ2V0UmVzb3VyY2UoIi8iKS5nZXRQYXRoKCkgKyAiYXBpLm1kIjsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHBhdGgpOwogICAgICAgICAgICBGaWxlIGYgPSBuZXcgRmlsZShwYXRoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmlsZVJlYWRlciByOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFmLmV4aXN0cygpKSB7CiAgICAgICAgICAgICAgICBjeHQucmVzcG9uc2UoKS5wdXRIZWFkZXIoIkNvbnRlbnQtVHlwZSIsICJ0ZXh0L2h0bWw7Y2hhcnNldD11dGYtOCIpLmVuZCgiL3Jlc291cmNlcy9hcGkubWQg5rKh5om+5YiwIik7CiAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHBhdGggPSB0aGlzLmdldENsYXNzKCkuZ2V0UmVzb3VyY2UoIi8iKS5nZXRQYXRoKCkgKyAiYXBpLm1kIjsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKHBhdGgpOwogICAgICAgICAgICBGaWxlIGYgPSBuZXcgRmlsZShwYXRoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBmaXggcG9pbnRzaHViIGhhbmcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFmLmV4aXN0cygpKSB7CiAgICAgICAgICAgICAgICBjeHQucmVzcG9uc2UoKS5wdXRIZWFkZXIoIkNvbnRlbnQtVHlwZSIsICJ0ZXh0L2h0bWw7Y2hhcnNldD11dGYtOCIpLmVuZCgiL3Jlc291cmNlcy9hcGkubWQg5rKh5om+5YiwIik7CiAgICAgICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -812,7 +824,7 @@
       <last-replace />
       <last-substitute>\\&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
