@@ -272,6 +272,12 @@
         <mark key="." line="29" column="94" />
         <mark key="^" line="34" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/order-hongchuan/order-dealer/public/static/commonHeader.js" timestamp="1513314764041">
+        <mark key="[" line="16" column="89" />
+        <mark key="]" line="16" column="88" />
+        <mark key="." line="16" column="88" />
+        <mark key="^" line="16" column="88" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/ddian_service/gateway/src/main/resources/log4j2.xml" timestamp="1510551147001">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -824,7 +830,7 @@
         <mark key="." line="93" column="34" />
         <mark key="^" line="93" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513313332323">
+      <file name="/Dummy.txt" timestamp="1513315137146">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/java/com/acenode/micros/auth/domain/UserSource.java" timestamp="1510650903960">
@@ -868,6 +874,12 @@
         <mark key="." line="91" column="37" />
         <mark key="^" line="91" column="37" />
       </file>
+      <file name="$USER_HOME$/workspace/order-hongchuan/order-dealer/app/views/orderSummary.scala.html" timestamp="1513314705406">
+        <mark key="[" line="14" column="66" />
+        <mark key="]" line="14" column="66" />
+        <mark key="." line="14" column="66" />
+        <mark key="^" line="14" column="66" />
+      </file>
       <file name="/fragment.java" timestamp="1513237119128">
         <mark key="'" line="0" column="107" />
         <mark key="[" line="0" column="0" />
@@ -881,9 +893,11 @@
         <mark key="." line="115" column="47" />
         <mark key="^" line="115" column="47" />
       </file>
+      <file name="$USER_HOME$/workspace/order-hongchuan/order-dealer/app/views/orderProduct.scala.html" timestamp="1513315141870">
+        <mark key="'" line="279" column="20" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="34" filename="$USER_HOME$/workspace/order-docker/order-dealer/app/views/orderProduct.scala.html" />
       <jump line="0" column="2" filename="$USER_HOME$/workspace/order-docker/order-dealer/app/views/orderProduct.scala.html" />
       <jump line="100" column="29" filename="$USER_HOME$/workspace/order-docker/order-dealer/app/views/orderDetail.scala.html" />
       <jump line="229" column="53" filename="$USER_HOME$/workspace/order-docker/order-dealer/app/views/orderDetail.scala.html" />
@@ -983,6 +997,7 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/order-hongchuan/order-dealer/conf/config.properties" />
       <jump line="57" column="0" filename="$USER_HOME$/workspace/order-hongchuan/order-dealer/conf/config.properties" />
       <jump line="7" column="0" filename="$USER_HOME$/workspace/order-hongchuan/order-dealer/conf/jdbc.properties" />
+      <jump line="279" column="20" filename="$USER_HOME$/workspace/order-hongchuan/order-dealer/app/views/orderProduct.scala.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -995,7 +1010,7 @@
         <text encoding="base64">Jm5ic3A7Jm5ic3A7fCZuYnNwOyZuYnNwOw==</text>
       </register>
       <register name="/" type="4">
-        <text>fav</text>
+        <text encoding="base64">XDzmiYDlsZ7ns7vliJdcPg==</text>
       </register>
       <register name="0" type="4">
         <text>&quot;taskid&quot;, Integer.parseInt(taskid)</text>
@@ -1032,17 +1047,16 @@
       </register>
     </registers>
     <search>
-      <last-search>fav</last-search>
+      <last-search encoding="base64">XDzmiYDlsZ7ns7vliJdcPg==</last-search>
       <last-offset />
-      <last-pattern>fav</last-pattern>
+      <last-pattern encoding="base64">XDzmiYDlsZ7ns7vliJdcPg==</last-pattern>
       <last-replace />
       <last-substitute>\\&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>chart</entry>
         <entry>queryChar</entry>
         <entry encoding="base64">XDxjdXN0aWRcPg==</entry>
         <entry>oi.custid</entry>
@@ -1062,6 +1076,7 @@
         <entry>经销商</entry>
         <entry>返利统计</entry>
         <entry>fav</entry>
+        <entry encoding="base64">XDzmiYDlsZ7ns7vliJdcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyovL2c=</entry>
