@@ -430,6 +430,9 @@
         <mark key="[" line="54" column="0" />
         <mark key="]" line="58" column="68" />
       </file>
+      <file name="/HTML File.txt.ft" timestamp="1513836958436">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/order-hongchuan/order-producer/app/service/impl/FinanceOrderServiceImpl.java" timestamp="1513825505749">
         <mark key="'" line="206" column="56" />
         <mark key="[" line="196" column="105" />
@@ -564,6 +567,10 @@
         <mark key="." line="2" column="33" />
         <mark key="^" line="0" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/order-hongchuan/order-dealer/conf/zsyh/zsconf.properties" timestamp="1513836938623">
+        <mark key="[" line="67" column="22" />
+        <mark key="]" line="67" column="50" />
+      </file>
       <file name="$USER_HOME$/.ideaLibSources/camunda-xml-model-7.7.0-sources.jar!/org/camunda/bpm/model/xml/impl/util/DomUtil.java" timestamp="1513074056598">
         <mark key="'" line="0" column="0" />
       </file>
@@ -697,6 +704,9 @@
         <mark key="]" line="20" column="85" />
         <mark key="." line="20" column="85" />
         <mark key="^" line="20" column="85" />
+      </file>
+      <file name="/ActionScript File Header.txt.ft" timestamp="1513836958521">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/order-hongchuan/order-dealer/conf/application.conf" timestamp="1513311134771">
         <mark key="'" line="69" column="0" />
@@ -958,7 +968,7 @@
         <mark key="." line="93" column="34" />
         <mark key="^" line="93" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1513828076636">
+      <file name="/Dummy.txt" timestamp="1513836689274">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/java/com/acenode/micros/auth/domain/UserSource.java" timestamp="1510650903960">
@@ -975,7 +985,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="22" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/order-hongchuan/order-dealer/app/util/BankUtil.java" timestamp="1513835079584" />
+      <file name="$USER_HOME$/workspace/order-hongchuan/order-dealer/app/util/BankUtil.java" timestamp="1513837514904">
+        <mark key="'" line="168" column="25" />
+        <mark key="[" line="168" column="25" />
+        <mark key="]" line="168" column="33" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/resources/api.md" timestamp="1512627946171">
         <mark key="'" line="48" column="2" />
         <mark key="[" line="113" column="17" />
@@ -1019,7 +1033,6 @@
       <file name="$USER_HOME$/workspace/order-hongchuan/crm/conf/application.conf" timestamp="1513329432830">
         <mark key="'" line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/order-hongchuan/order-dealer/app/controllers/pay/BankController.java" timestamp="1513835029840" />
       <file name="/fragment.java" timestamp="1513828776278">
         <mark key="'" line="0" column="107" />
         <mark key="[" line="0" column="0" />
@@ -1038,8 +1051,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="0" filename="$USER_HOME$/workspace/order-docker/order-producer/app/util/FluentMap.java" />
-      <jump line="42" column="33" filename="$USER_HOME$/workspace/order-docker/order-producer/app/service/impl/BPMNServiceImpl.java" />
       <jump line="247" column="19" filename="$USER_HOME$/workspace/order-docker/order-producer/app/service/impl/BPMNServiceImpl.java" />
       <jump line="101" column="12" filename="$USER_HOME$/workspace/order-docker/order-producer/app/controllers/bpmn/BpmnController.java" />
       <jump line="153" column="0" filename="$USER_HOME$/workspace/order-docker/order-producer/app/service/impl/UserServiceImpl.java" />
@@ -1138,6 +1149,8 @@
       <jump line="90" column="26" filename="$USER_HOME$/workspace/order-hongchuan/order-dealer/app/controllers/cart/CartController.java" />
       <jump line="159" column="0" filename="$USER_HOME$/workspace/order-hongchuan/order-dealer/app/controllers/cart/CartController.java" />
       <jump line="16" column="0" filename="$APPLICATION_CONFIG_DIR$/idea.vmoptions" />
+      <jump line="80" column="42" filename="$USER_HOME$/workspace/order-hongchuan/order-dealer/app/util/BankUtil.java" />
+      <jump line="168" column="25" filename="$USER_HOME$/workspace/order-hongchuan/order-dealer/app/util/BankUtil.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1150,10 +1163,10 @@
         <text>2</text>
       </register>
       <register name="/" type="4">
-        <text>par</text>
+        <text encoding="base64">XDxwYXlEaXJlY3RcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29tbVNlcnZpY2UubW9kT3JkZXJTdGF0dXMoZm9ybS5nZXRPcmRlcklkKCksIGZvcm0uZ2V0UmttKCksIGZvcm0uZ2V0UmVtYXJrcygpLCByZXF1ZXN0LCAxMSk7Cg==</text>
+      <register name="0" type="4">
+        <text>payDirect</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgUwo=</text>
@@ -1187,17 +1200,16 @@
       </register>
     </registers>
     <search>
-      <last-search>par</last-search>
+      <last-search encoding="base64">XDxwYXlEaXJlY3RcPg==</last-search>
       <last-offset />
-      <last-pattern>par</last-pattern>
+      <last-pattern encoding="base64">XDxwYXlEaXJlY3RcPg==</last-pattern>
       <last-replace>=</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fav</entry>
         <entry encoding="base64">XDzmiYDlsZ7ns7vliJdcPg==</entry>
         <entry>cust\/ver</entry>
         <entry>login</entry>
@@ -1217,6 +1229,7 @@
         <entry>product</entry>
         <entry>window.loca</entry>
         <entry>par</entry>
+        <entry encoding="base64">XDxwYXlEaXJlY3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>nohl</entry>
