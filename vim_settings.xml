@@ -381,6 +381,7 @@
       <file name="$USER_HOME$/workspace/order-docker/order-producer/conf/routes" timestamp="1513243181249">
         <mark key="'" line="112" column="135" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/form/BankCallbackForm.java" timestamp="1514341550894" />
       <file name="$USER_HOME$/Desktop/pointshub/conf/routes" timestamp="1512701794679">
         <mark key="'" line="95" column="136" />
       </file>
@@ -674,6 +675,13 @@
       <file name="$USER_HOME$/workspace/order-hongchuan/order-producer/conf/routes" timestamp="1513828076090">
         <mark key="'" line="105" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/odealer_临时改动--区别动态流程分支/order-dealer/app/util/BankUtil.java" timestamp="1513838726725">
+        <mark key="'" line="275" column="0" />
+        <mark key="[" line="154" column="35" />
+        <mark key="]" line="154" column="43" />
+        <mark key="." line="154" column="43" />
+        <mark key="^" line="154" column="43" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-auth/src/main/resources/log4j2.xml" timestamp="1510637058636">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="23" column="21" />
@@ -739,8 +747,8 @@
         <mark key="." line="23" column="25" />
         <mark key="^" line="23" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/routes" timestamp="1513068481412">
-        <mark key="'" line="149" column="2" />
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/routes" timestamp="1514341471681">
+        <mark key="'" line="81" column="38" />
         <mark key="[" line="150" column="122" />
         <mark key="]" line="150" column="122" />
         <mark key="." line="150" column="122" />
@@ -1056,12 +1064,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="101" column="12" filename="$USER_HOME$/workspace/order-docker/order-producer/app/controllers/bpmn/BpmnController.java" />
-      <jump line="153" column="0" filename="$USER_HOME$/workspace/order-docker/order-producer/app/service/impl/UserServiceImpl.java" />
-      <jump line="212" column="0" filename="$USER_HOME$/workspace/order-docker/order-producer/app/service/impl/UserServiceImpl.java" />
-      <jump line="82" column="21" filename="$USER_HOME$/workspace/order-docker/order-producer/app/service/impl/UserServiceImpl.java" />
-      <jump line="19" column="0" filename="$USER_HOME$/workspace/order-docker/order-producer/app/util/FluentMap.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/order-docker/order-producer/app/util/FluentMap.java" />
       <jump line="43" column="19" filename="$USER_HOME$/workspace/order-docker/order-producer/app/controllers/dispatch/DispatchOrderController.java" />
       <jump line="188" column="17" filename="$USER_HOME$/workspace/order-docker/order-producer/app/controllers/dispatch/DispatchOrderController.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/order-hongchuan/order-dealer/conf/application.conf" />
@@ -1156,6 +1158,12 @@
       <jump line="80" column="42" filename="$USER_HOME$/workspace/order-hongchuan/order-dealer/app/util/BankUtil.java" />
       <jump line="168" column="25" filename="$USER_HOME$/workspace/order-hongchuan/order-dealer/app/util/BankUtil.java" />
       <jump line="165" column="37" filename="$USER_HOME$/workspace/order-hongchuan/order-dealer/app/util/BankUtil.java" />
+      <jump line="194" column="38" filename="$USER_HOME$/workspace/jinhui/Bitbucket/odealer_临时改动--区别动态流程分支/order-dealer/app/util/BankUtil.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/odealer_临时改动--区别动态流程分支/order-dealer/app/util/BankUtil.java" />
+      <jump line="28" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/odealer_临时改动--区别动态流程分支/order-dealer/app/util/BankUtil.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/odealer_临时改动--区别动态流程分支/order-dealer/app/util/BankUtil.java" />
+      <jump line="275" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/odealer_临时改动--区别动态流程分支/order-dealer/app/util/BankUtil.java" />
+      <jump line="81" column="38" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1165,37 +1173,37 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>orderNum</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXlEaXJlY3RcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>payDirect</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICByZXFQYXJhbXMucHV0KCJvcmRlck51bSIsIG9yZGVyTnVtKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJlcVBhcmFtcy5wdXQoInBheURpcmVjdCIsIHBheURpcmVjdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBqawo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgIHJlcVBhcmFtcy5wdXQoInBheURpcmVjdCIsIHBheURpcmVjdCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgUwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcHJvZHVjdE5hbWUgPSBVUkxEZWNvZGVyLmRlY29kZShyZXF1ZXN0KCkuZ2V0UXVlcnlTdHJpbmcoInByb2R1Y3ROYW1lIiksICJVVEYtOCIpOyAvL+S6p+WTgeWQjeensAo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcHJvZHVjdE5hbWUgPSBVUkxEZWNvZGVyLmRlY29kZShyZXF1ZXN0KCkuZ2V0UXVlcnlTdHJpbmcoInByb2R1Y3ROYW1lIiksICJVVEYtOCIpOyAvL+S6p+WTgeWQjeensAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbS5wdXQoInN0YXR1cyIsIElDb250ZW50cy5ORUVEX1BBWV9OT1cpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJhbS5wdXQoInN0YXR1cyIsIElDb250ZW50cy5ORUVEX1BBWV9OT1cpOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1211,7 +1219,7 @@
       <last-replace>=</last-replace>
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
