@@ -6,12 +6,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/demo/zest/src/main/java/xmlCsv/Test.java" timestamp="1515566579445">
-        <mark key="'" line="34" column="32" />
-        <mark key="[" line="30" column="14" />
-        <mark key="]" line="30" column="35" />
-        <mark key="^" line="30" column="43" />
-        <mark key="." line="30" column="43" />
+      <file name="$USER_HOME$/workspace/demo/zest/src/main/java/xmlCsv/Test.java" timestamp="1515567795934">
+        <mark key="'" line="32" column="62" />
+        <mark key="[" line="32" column="37" />
+        <mark key="]" line="32" column="57" />
+        <mark key="^" line="32" column="57" />
+        <mark key="." line="32" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/demo/zest/pom.xml" timestamp="1515564583268">
         <mark key="'" line="68" column="19" />
@@ -56,6 +56,7 @@
         <mark key="." line="5" column="7" />
         <mark key="^" line="5" column="7" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/awt/Color.java" timestamp="1515567647467" />
       <file name="$USER_HOME$/workspace/order-hongchuan/order-producer/app/controllers/bpmn/BpmnController.java" timestamp="1513780622251">
         <mark key="[" line="33" column="4" />
       </file>
@@ -134,7 +135,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="108" column="168" filename="$USER_HOME$/workspace/order-hongchuan/order-producer/app/views/dealsum.scala.html" />
       <jump line="174" column="24" filename="$USER_HOME$/workspace/order-hongchuan/order-producer/app/views/dealsum.scala.html" />
       <jump line="175" column="32" filename="$USER_HOME$/workspace/order-hongchuan/order-producer/app/views/dealsum.scala.html" />
       <jump line="127" column="7" filename="$USER_HOME$/workspace/order-hongchuan/order-dealer/conf/routes" />
@@ -234,6 +234,7 @@
       <jump line="61" column="41" filename="$USER_HOME$/workspace/demo/zest/src/main/java/xmlCsv/XmlBean.java" />
       <jump line="68" column="19" filename="$USER_HOME$/workspace/demo/zest/pom.xml" />
       <jump line="33" column="32" filename="$USER_HOME$/workspace/demo/zest/src/main/java/xmlCsv/Test.java" />
+      <jump line="32" column="62" filename="$USER_HOME$/workspace/demo/zest/src/main/java/xmlCsv/Test.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -243,7 +244,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Integer.</text>
+        <text>(new HSSFColor.CORNFLOWER_BLUE())</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwdWJsaWNcPg==</text>
