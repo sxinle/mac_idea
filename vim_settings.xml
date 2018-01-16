@@ -33,7 +33,6 @@
       <file name="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/routes" timestamp="1515312056104">
         <mark key="'" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/csv-xml/中烟集团1219数据/V6常用数据结构--original/schema_tables/V6_schema_SCM.xml" timestamp="1516009058782" />
       <file name="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/conf/application.conf" timestamp="1514876668223">
         <mark key="'" line="62" column="0" />
         <mark key="[" line="15" column="39" />
@@ -41,12 +40,11 @@
         <mark key="." line="15" column="50" />
         <mark key="^" line="15" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/ContactVerticle.java" timestamp="1516013539742">
-        <mark key="'" line="48" column="40" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="65" column="30" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/ContactVerticle.java" timestamp="1516079348086">
+        <mark key="'" line="52" column="40" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/Filter.java" timestamp="1516007628307">
         <mark key="[" line="8" column="54" />
@@ -68,9 +66,9 @@
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/ContactAPIVerticle.java" timestamp="1516010328963">
         <mark key="'" line="63" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/UserAuthVerticle.java" timestamp="1516010477817">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="37" column="11" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/UserAuthVerticle.java" timestamp="1516079334915">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="69" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/order-hongchuan/order-producer/app/controllers/bpmn/BpmnController.java" timestamp="1513780622251">
         <mark key="[" line="33" column="4" />
@@ -160,9 +158,9 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="4" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/service/AuthService.java" timestamp="1516013449994">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="10" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/service/AuthService.java" timestamp="1516079287131">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" timestamp="1516010427941">
         <mark key="[" line="71" column="45" />
@@ -189,11 +187,10 @@
         <mark key="." line="18" column="32" />
         <mark key="^" line="18" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/TokenService.java" timestamp="1516013451374">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="11" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="15" column="15" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/TokenService.java" timestamp="1516079296862">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1516011101759">
         <mark key="[" line="0" column="0" />
@@ -321,40 +318,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>// fixme useless</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>err.</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBGbHVlbnQK</text>
+      <register name="0" type="4">
+        <text>cmd.getData().getString(&quot;token&quot;)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjdXN0b21lclNlcnZpY2UgPSBuZXcgQ3VzdG9tZXJTZXJ2aWNlSW1wbCh2ZXJ0eCwgY29uZmlnKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdG9rZW4gPSBjbWQuZ2V0RGF0YSgpLmdldFN0cmluZygidG9rZW4iKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQ3VzdG9tZXJTZXJ2aWNlIGN1c3RvbWVyU2VydmljZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjdXN0b21lclNlcnZpY2UuY3JlYXRlQ3VzdG9tZXJEQigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdXN0b21lclNlcnZpY2UgPSBuZXcgQ3VzdG9tZXJTZXJ2aWNlSW1wbCh2ZXJ0eCwgY29uZmlnKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgQ3VzdG9tZXJTZXJ2aWNlIGN1c3RvbWVyU2VydmljZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBTUUxfQ1JFQVRFX1RCID0gIkNSRUFURSBUQUJMRSBJRiBOT1QgRVhJU1RTIGN1c3RvbWVyICgiICsKICAgICAgICAgICAgImlkIFNFUklBTCBwcmltYXJ5IGtleSwiICsKICAgICAgICAgICAgIm5hbWUgdmFyY2hhcigyMCkgQ09MTEFURSBwZ19jYXRhbG9nLmRlZmF1bHQsIiArCiAgICAgICAgICAgICJwaG9uZSB2YXJjaGFyKDE1KSBDT0xMQVRFIHBnX2NhdGFsb2cuZGVmYXVsdCIgKwogICAgICAgICAgICAiKSI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgU1FMX0lOU0VSVCAgICA9ICJJTlNFUlQgSU5UTyBjdXN0b21lcihuYW1lLHBob25lKSBWQUxVRVMgKD8sPykgUkVUVVJOSU5HIGlkIjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBTUUxfUVVFUlkgICAgID0gIlNFTEVDVCAqIEZST00gY3VzdG9tZXIgV0hFUkUgbmFtZT0/IjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBTUUxfREVMICAgICAgID0gIkRFTEVURSBGUk9NIGN1c3RvbWVyIFdIRVJFIGlkPT8iOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIFNRTF9VUERBVEUgICAgPSAiVVBEQVRFIENVU1RPTUVSIFNFVCBuYW1lPT8sIHBob25lPT8gV0hFUkUgaWQ9PyI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjdXN0b21lclNlcnZpY2UuY3JlYXRlQ3VzdG9tZXJEQigpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIEN1c3RvbWVyU2VydmljZSBjcmVhdGVDdXN0b21lckRCKCkgewogICAgICAgIGdldENvbm5lY3Rpb24oKS5zZXRIYW5kbGVyKGNvbm4gLT4gewogICAgICAgICAgICBjb25uLnJlc3VsdCgpLmV4ZWN1dGUoU1FMX0NSRUFURV9UQiwgbnVsbCk7CiAgICAgICAgICAgIGNvbm4ucmVzdWx0KCkuY2xvc2UoKTsKICAgICAgICB9KTsKICAgICAgICByZXR1cm4gdGhpczsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBDdXN0b21lclNlcnZpY2UgYWRkQ3V0b21lcihDdXN0b21lciBjdXN0b21lciwgSGFuZGxlcjxBc3luY1Jlc3VsdDxKc29uT2JqZWN0Pj4gaGFuZGxlcikgewogICAgICAgIGdldENvbm5lY3Rpb24oKS5jb21wb3NlKGNvbm4gLT4gewogICAgICAgICAgICBGdXR1cmU8U1FMQ29ubmVjdGlvbj4gY2hlY2tFeGlzdHMgPSBGdXR1cmUuZnV0dXJlKCk7CiAgICAgICAgICAgIEpzb25BcnJheSBwYXJhbSA9IG5ldyBKc29uQXJyYXkoKS5hZGQoY3VzdG9tZXIuZ2V0TmFtZSgpKTsKICAgICAgICAgICAgY29ubi5xdWVyeVdpdGhQYXJhbXMoU1FMX1FVRVJZLCBwYXJhbSwgYXIgLT4gewogICAgICAgICAgICAgICAgaWYgKGFyLnN1Y2NlZWRlZCgpICYmIGFyLnJlc3VsdCgpLmdldFJlc3VsdHMoKS5zaXplKCkgPiAwKSB7CiAgICAgICAgICAgICAgICAgICAgY2hlY2tFeGlzdHMuZmFpbCgi5a6i5oi35ZCN56ew5bey57uP5a2Y5ZyoIik7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIGNoZWNrRXhpc3RzLmNvbXBsZXRlKGNvbm4pOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgY29ubi5jbG9zZSgpOwogICAgICAgICAgICB9KTsKICAgICAgICAgICAgcmV0dXJuIGNoZWNrRXhpc3RzOwogICAgICAgIH0pLmNvbXBvc2UoY29ubiAtPiB7CiAgICAgICAgICAgIEZ1dHVyZSBmID0gRnV0dXJlLmZ1dHVyZSgpOwogICAgICAgICAgICBKc29uQXJyYXkgcGFyYW0gPSBuZXcgSnNvbkFycmF5KCkuYWRkKGN1c3RvbWVyLmdldE5hbWUoKSkuYWRkKGN1c3RvbWVyLmdldFBob25lKCkpOwogICAgICAgICAgICBjb25uLnF1ZXJ5V2l0aFBhcmFtcyhTUUxfSU5TRVJULCBwYXJhbSwgYXIgLT4gewogICAgICAgICAgICAgICAgaWYgKGFyLnN1Y2NlZWRlZCgpKSB7CiAgICAgICAgICAgICAgICAgICAgaW50IGlkID0gYXIucmVzdWx0KCkuZ2V0UmVzdWx0cygpLmdldCgwKS5nZXRJbnRlZ2VyKDApOwogICAgICAgICAgICAgICAgICAgIGN1c3RvbWVyLnNldElkKGlkKTsKICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZGVidWcoIua3u+WKoOWuouaIt+aIkOWKnyxJRO+8mnt9IiwgaWQpOwogICAgICAgICAgICAgICAgICAgIGYuY29tcGxldGUoSnNvbk9iamVjdC5tYXBGcm9tKGN1c3RvbWVyKSk7CiAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgIGYuZmFpbChhci5jYXVzZSgpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGNvbm4uY2xvc2UoKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIHJldHVybiBmOwogICAgICAgIH0pLnNldEhhbmRsZXIoaGFuZGxlcik7CgogICAgICAgIHJldHVybiB0aGlzOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIEN1c3RvbWVyU2VydmljZSBkZWxDdXN0b21lcihATnVsbGFibGUgU3RyaW5nIGlkLCBIYW5kbGVyPEFzeW5jUmVzdWx0PEpzb25PYmplY3Q+PiBoYW5kbGVyKSB7CiAgICAgICAgZ2V0Q29ubmVjdGlvbigpLmNvbXBvc2UoY29ubiAtPiB7CiAgICAgICAgICAgIEZ1dHVyZSBkZWwgPSBGdXR1cmUuZnV0dXJlKCk7CiAgICAgICAgICAgIGNvbm4udXBkYXRlV2l0aFBhcmFtcyhTUUxfREVMLCBuZXcgSnNvbkFycmF5KCkuYWRkKGlkKSwgYXIgLT4gewogICAgICAgICAgICAgICAgaWYgKGFyLnN1Y2NlZWRlZCgpKSB7CiAgICAgICAgICAgICAgICAgICAgZGVsLmNvbXBsZXRlKEpzb25PYmplY3QubWFwRnJvbShhci5yZXN1bHQoKSkpOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBkZWwuZmFpbChhci5jYXVzZSgpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGNvbm4uY2xvc2UoKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIHJldHVybiBkZWw7CiAgICAgICAgfSkuc2V0SGFuZGxlcihoYW5kbGVyKTsKICAgICAgICByZXR1cm4gdGhpczsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBDdXN0b21lclNlcnZpY2UgbW9kQ3VzdG9tZXIoQ3VzdG9tZXIgY3VzdG9tZXIsIEhhbmRsZXI8QXN5bmNSZXN1bHQ8SnNvbk9iamVjdD4+IGhhbmRsZXIpIHsKICAgICAgICBnZXRDb25uZWN0aW9uKCkuY29tcG9zZShjb25uIC0+IHsKICAgICAgICAgICAgRnV0dXJlIG1vZCA9IEZ1dHVyZS5mdXR1cmUoKTsKICAgICAgICAgICAgSnNvbkFycmF5IHBhcmFtID0gbmV3IEpzb25BcnJheSgpLmFkZChjdXN0b21lci5nZXROYW1lKCkpLmFkZChjdXN0b21lci5nZXRQaG9uZSgpKS5hZGQoY3VzdG9tZXIuZ2V0SWQoKSk7CiAgICAgICAgICAgIGNvbm4udXBkYXRlV2l0aFBhcmFtcyhTUUxfVVBEQVRFLCBwYXJhbSwgYXIgLT4gewogICAgICAgICAgICAgICAgaWYgKGFyLnN1Y2NlZWRlZCgpKSB7CiAgICAgICAgICAgICAgICAgICAgbW9kLmNvbXBsZXRlKEpzb25PYmplY3QubWFwRnJvbShhci5yZXN1bHQoKSkpOwogICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBtb2QuZmFpbChhci5jYXVzZSgpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIGNvbm4uY2xvc2UoKTsKICAgICAgICAgICAgfSk7CiAgICAgICAgICAgIHJldHVybiBtb2Q7CiAgICAgICAgfSkuc2V0SGFuZGxlcihoYW5kbGVyKTsKICAgICAgICByZXR1cm4gdGhpczsKICAgIH0KCiAgICBAT3ZlcnJpZGUKICAgIHB1YmxpYyBDdXN0b21lclNlcnZpY2UgZ2V0Q3VzdG9tZXIoSnNvbk9iamVjdCBjdXN0b21lciwgSGFuZGxlcjxBc3luY1Jlc3VsdDxKc29uT2JqZWN0Pj4gaGFuZGxlcikgewogICAgICAgIGdldENvbm5lY3Rpb24oKS5jb21wb3NlKGNvbm4gLT4gewogICAgICAgICAgICBGdXR1cmUgZmluZCA9IEZ1dHVyZS5mdXR1cmUoKTsKICAgICAgICAgICAgU3RyaW5nQnVmZmVyIHNxbEJ1ZiA9IG5ldyBTdHJpbmdCdWZmZXIoInNlbGVjdCAqIGZyb20gY3VzdG9tZXIgd2hlcmUgMT0xIik7CiAgICAgICAgICAgIEpzb25BcnJheSBwYXJhbSA9IG5ldyBKc29uQXJyYXkoKTsKICAgICAgICAgICAgY3VzdG9tZXIuZmllbGROYW1lcygpLmZvckVhY2gobmFtZSAtPiB7CiAgICAgICAgICAgICAgICBTdHJpbmcgdmFsID0gY3VzdG9tZXIuZ2V0U3RyaW5nKG5hbWUpOwogICAgICAgICAgICAgICAgaWYgKCF2YWwuaXNFbXB0eSgpKSB7CiAgICAgICAgICAgICAgICAgICAgc3FsQnVmLmFwcGVuZCgiIEFORCAiKS5hcHBlbmQobmFtZSkuYXBwZW5kKCI9IikuYXBwZW5kKCI/IikuYXBwZW5kKCIgIik7CiAgICAgICAgICAgICAgICAgICAgcGFyYW0uYWRkKHZhbCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwogICAgICAgICAgICBjb25uLnF1ZXJ5V2l0aFBhcmFtcyhzcWxCdWYudG9TdHJpbmcoKSwgcGFyYW0sIGFyIC0+IHsKICAgICAgICAgICAgICAgIGlmIChhci5zdWNjZWVkZWQoKSkgewogICAgICAgICAgICAgICAgICAgIGZpbmQuY29tcGxldGUoYXIucmVzdWx0KCkuZ2V0Um93cygpKTsKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgZmluZC5mYWlsKGFyLmNhdXNlKCkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgY29ubi5jbG9zZSgpOwogICAgICAgICAgICB9KTsKICAgICAgICAgICAgcmV0dXJuIGZpbmQ7CiAgICAgICAgfSkuc2V0SGFuZGxlcihoYW5kbGVyKTsKICAgICAgICByZXR1cm4gdGhpczsKICAgIH0KCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBGbHVlbnQKICAgIFRva2VuU2VydmljZSBjcmVhdGVDdXN0b21lckRCKCk7CgogICAgQEZsdWVudAogICAgVG9rZW5TZXJ2aWNlIGFkZEN1dG9tZXIoQ3VzdG9tZXIgY3VzdG9tZXIsIEhhbmRsZXI8QXN5bmNSZXN1bHQ8SnNvbk9iamVjdD4+IGhhbmRsZXIpOwoKICAgIEBGbHVlbnQKICAgIFRva2VuU2VydmljZSBkZWxDdXN0b21lcihATnVsbGFibGUgU3RyaW5nIGlkLCBIYW5kbGVyPEFzeW5jUmVzdWx0PEpzb25PYmplY3Q+PiBoYW5kbGVyKTsKCiAgICBARmx1ZW50CiAgICBUb2tlblNlcnZpY2UgbW9kQ3VzdG9tZXIoQ3VzdG9tZXIgY3VzdG9tZXIsIEhhbmRsZXI8QXN5bmNSZXN1bHQ8SnNvbk9iamVjdD4+IGhhbmRsZXIpOwoKICAgIFRva2VuU2VydmljZSBnZXRDdXN0b21lcihKc29uT2JqZWN0IGVudHJpZXMsIEhhbmRsZXI8QXN5bmNSZXN1bHQ8SnNvbk9iamVjdD4+IGhhbmRsZXIpOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBTUUxfQ1JFQVRFX1RCID0gIkNSRUFURSBUQUJMRSBJRiBOT1QgRVhJU1RTIGN1c3RvbWVyICgiICsKICAgICAgICAgICAgImlkIFNFUklBTCBwcmltYXJ5IGtleSwiICsKICAgICAgICAgICAgIm5hbWUgdmFyY2hhcigyMCkgQ09MTEFURSBwZ19jYXRhbG9nLmRlZmF1bHQsIiArCiAgICAgICAgICAgICJwaG9uZSB2YXJjaGFyKDE1KSBDT0xMQVRFIHBnX2NhdGFsb2cuZGVmYXVsdCIgKwogICAgICAgICAgICAiKSI7CiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgU1FMX0lOU0VSVCAgICA9ICJJTlNFUlQgSU5UTyBjdXN0b21lcihuYW1lLHBob25lKSBWQUxVRVMgKD8sPykgUkVUVVJOSU5HIGlkIjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBTUUxfUVVFUlkgICAgID0gIlNFTEVDVCAqIEZST00gY3VzdG9tZXIgV0hFUkUgbmFtZT0/IjsKICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBTUUxfREVMICAgICAgID0gIkRFTEVURSBGUk9NIGN1c3RvbWVyIFdIRVJFIGlkPT8iOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgU3RyaW5nIFNRTF9VUERBVEUgICAgPSAiVVBEQVRFIENVU1RPTUVSIFNFVCBuYW1lPT8sIHBob25lPT8gV0hFUkUgaWQ9PyI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -367,7 +364,7 @@
       <last-replace>col</last-replace>
       <last-substitute>table.getColumn().get(i)</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
