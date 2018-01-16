@@ -30,10 +30,10 @@
         <mark key="." line="15" column="50" />
         <mark key="^" line="15" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/CustomerService.java" timestamp="1516095198488">
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="16" column="30" />
-        <mark key="." line="16" column="30" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/CustomerService.java" timestamp="1516098124306">
+        <mark key="[" line="13" column="32" />
+        <mark key="]" line="35" column="11" />
+        <mark key="." line="35" column="0" />
         <mark key="^" line="16" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/demo/zest/src/main/java/xmlCsv/ExcelUtil.java" timestamp="1515564654504">
@@ -96,6 +96,12 @@
         <mark key="^" line="129" column="19" />
         <mark key="." line="129" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/impl/ContactServiceImpl.java" timestamp="1516098400329">
+        <mark key="[" line="153" column="42" />
+        <mark key="]" line="154" column="59" />
+        <mark key="^" line="154" column="59" />
+        <mark key="." line="154" column="59" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/resources/config.json" timestamp="1516086100634">
         <mark key="[" line="4" column="30" />
         <mark key="]" line="4" column="30" />
@@ -127,6 +133,11 @@
         <mark key="." line="19" column="3" />
         <mark key="^" line="19" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/ContactService.java" timestamp="1516098167612">
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="28" column="0" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/service/impl/AuthServiceImpl.java" timestamp="1516096645164">
         <mark key="'" line="44" column="66" />
         <mark key="[" line="5" column="0" />
@@ -155,11 +166,11 @@
         <mark key="." line="10" column="30" />
         <mark key="^" line="10" column="38" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/ContactAPIVerticle.java" timestamp="1516097507755">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="81" column="106" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/ContactAPIVerticle.java" timestamp="1516098371136">
+        <mark key="[" line="46" column="106" />
+        <mark key="]" line="46" column="107" />
+        <mark key="." line="46" column="107" />
+        <mark key="^" line="46" column="107" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/UserAuthVerticle.java" timestamp="1516085884227">
         <mark key="[" line="68" column="27" />
@@ -216,14 +227,10 @@
         <mark key="]" line="4926" column="0" />
         <mark key="." line="4926" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/service/AuthService.java" timestamp="1516094141212">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="34" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/io/vertx/vertx-mysql-postgresql-client/3.5.0/vertx-mysql-postgresql-client-3.5.0-sources.jar!/io/vertx/ext/asyncsql/impl/AsyncSQLConnectionImpl.java" timestamp="1516094797485" />
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/impl/CustomerServiceImpl.java" timestamp="1516096726206">
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/impl/CustomerServiceImpl.java" timestamp="1516098272968">
         <mark key="'" line="37" column="27" />
-        <mark key="[" line="138" column="63" />
+        <mark key="[" line="17" column="32" />
         <mark key="]" line="138" column="64" />
         <mark key="." line="138" column="64" />
         <mark key="^" line="135" column="78" />
@@ -360,40 +367,41 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>无效Token</text>
+        <text>response</text>
       </register>
       <register name="/" type="4">
         <text>err.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCJnYXRld2F5IGlzIHJ1bm5pbmcgb24gcG9ydCAiICsgcG9ydCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBnZXRDb25uZWN0aW9uKCkuY29tcG9zZShjb25uIC0+IHsKICAgICAgICAgICAgRnV0dXJlIGZpbmQgPSBGdXR1cmUuZnV0dXJlKCk7CiAgICAgICAgICAgIGNvbm4ucXVlcnlXaXRoUGFyYW1zKCJzZWxlY3QgKiBmcm9tIHVzZXJfaW5mbyB3aGVyZSAiICsgQ09MX1VTRVJOQU1FICsgIj0/IGFuZCAiICsgQ09MX1BBU1NXT1JEICsgIj0/IiwKICAgICAgICAgICAgICAgICAgICBuZXcgSnNvbkFycmF5KCkuYWRkKHBhcmFtLmdldFN0cmluZyhDT0xfVVNFUk5BTUUpKS5hZGQocGFyYW0uZ2V0U3RyaW5nKENPTF9QQVNTV09SRCkpLCBhciAtPiB7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChhci5zdWNjZWVkZWQoKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGFyLnJlc3VsdCgpLmdldFJvd3MoKS5zaXplKCkgPCAxKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmluZC5mYWlsKCLmnKrmib7liLDorrDlvZUiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZmluZC5jb21wbGV0ZShhci5yZXN1bHQoKS5nZXRSb3dzKCkuZ2V0KDApKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZpbmQuZmFpbChhci5jYXVzZSgpKTsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICByZXR1cm4gZmluZDsKICAgICAgICB9KS5zZXRIYW5kbGVyKGFzeW5jUmVzdWx0SGFuZGxlcik7CiAgICAgICAgcmV0dXJuIHRoaXM7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>[]</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcGFyYW0uCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>needAuth exclude</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIOiOt+WPluaIkeeahOWQjOS6iwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwdXQoKQo=</text>
+        <text encoding="base64">ICAgICAvCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="8">
+        <text>* 
+**</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC8qCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>[]</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZnV0dXJlLmNvbXBsZXRlcigpCg==</text>
+      <register name="7" type="4">
+        <text>needAuth exclude</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFyLnN1Y2NlZWRlZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBwdXQoKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIGZpeG1lOijkuI3og73ph43nlKgpIOmUgOWUrueuoeeQhueJueauiumJtOadg+mAu+i+kQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
