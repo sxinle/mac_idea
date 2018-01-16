@@ -77,8 +77,12 @@
       <file name="$USER_HOME$/workspace/order-hongchuan/order-producer/app/controllers/bpmn/BpmnController.java" timestamp="1513780622251">
         <mark key="[" line="33" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Gogs/sync_data/app/Global.java" timestamp="1516088893429">
-        <mark key="'" line="177" column="8" />
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/sync_data/app/Global.java" timestamp="1516090727004">
+        <mark key="'" line="189" column="36" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="3" />
+        <mark key="." line="0" column="5440" />
       </file>
       <file name="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/_4摇匀199和99.java" timestamp="1515122357082">
         <mark key="'" line="79" column="130" />
@@ -207,11 +211,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="35" filename="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/app/views/mobCalls.scala.html" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/app/views/mobCalls.scala.html" />
-      <jump line="445" column="0" filename="/ScanController.java" />
-      <jump line="0" column="0" filename="/ScanController.java" />
-      <jump line="617" column="16" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/controllers/ScanController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/app/controllers/ScanController.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/app/controllers/ScanController.java" />
       <jump line="219" column="55" filename="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/app/controllers/ScanController.java" />
@@ -307,6 +306,11 @@
       <jump line="42" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/ContactVerticle.java" />
       <jump line="46" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/BaseVerticle.java" />
       <jump line="188" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/BaseVerticle.java" />
+      <jump line="44" column="43" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data/app/Global.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data/app/Global.java" />
+      <jump line="193" column="1" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data/app/Global.java" />
+      <jump line="0" column="3" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data/app/Global.java" />
+      <jump line="189" column="36" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data/app/Global.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -316,40 +320,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>void</text>
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
       <register name="/" type="4">
         <text>err.</text>
       </register>
-      <register name="0" type="4">
-        <text>TokenService</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChTdHJpbmdVdGlscy5pc05vdEVtcHR5KGVycikpIHsKICAgICAgICAgICAgICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKGVycik7CiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQ3VzdG9tZXIgY3VzdG9tZXIgPSBjb250ZXh0LmdldEJvZHlBc0pzb24oKS5tYXBUbyhDdXN0b21lci5jbGFzcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBnZXRDdXN0b21lcihSb3V0aW5nQ29udGV4dCBjb250ZXh0KSB7CiAgICAgICAgY3VzdG9tZXJTZXJ2aWNlLmdldEN1c3RvbWVyKHBhcmFtMmpzb24oY29udGV4dCksIHJlc3VsdEhhbmRsZXIoY29udGV4dCkpOwogICAgfQoKICAgIHByaXZhdGUgdm9pZCBtb2RDdXN0b21lcihSb3V0aW5nQ29udGV4dCBjb250ZXh0KSB7CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgQ3VzdG9tZXIgY3VzdG9tZXIgPSBjb250ZXh0LmdldEJvZHlBc0pzb24oKS5tYXBUbyhDdXN0b21lci5jbGFzcyk7CiAgICAgICAgICAgIGN1c3RvbWVyU2VydmljZS5tb2RDdXN0b21lcihjdXN0b21lciwgcmVzdWx0SGFuZGxlcihjb250ZXh0KSk7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgYmFkUmVxdWVzdChjb250ZXh0LCBlKTsKICAgICAgICB9CiAgICB9CgogICAgcHJpdmF0ZSB2b2lkIGRlbEN1c3RvbWVyKFJvdXRpbmdDb250ZXh0IGNvbnRleHQpIHsKICAgICAgICBjdXN0b21lclNlcnZpY2UuZGVsQ3VzdG9tZXIoY29udGV4dC5wYXRoUGFyYW0oImlkIiksIHJlc3VsdEhhbmRsZXIoY29udGV4dCkpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByb3V0ZXIuZGVsZXRlKCIvY3VzdG9tZXIvOmlkIikuaGFuZGxlcih0aGlzOjpkZWxDdXN0b21lcik7CiAgICAgICAgcm91dGVyLnBvc3QoIi9jdXN0b21lci9tb2QiKS5oYW5kbGVyKHRoaXM6Om1vZEN1c3RvbWVyKTsKICAgICAgICByb3V0ZXIuZ2V0KCIvY3VzdG9tZXIvZ2V0IikuaGFuZGxlcih0aGlzOjpnZXRDdXN0b21lcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAiZGJfbmFtZSI6Im1pY3Jvc191c2VyYXV0aCIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJ0eC5ldmVudEJ1cygpLnJlZ2lzdGVyRGVmYXVsdENvZGVjKEV2ZW50QnVzQ21kLmNsYXNzLCBuZXcgSnNvbk9iamVjdE1lc3NhZ2VDb2RlYygpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJ0eC5ldmVudEJ1cygpLnJlZ2lzdGVyRGVmYXVsdENvZGVjKEV2ZW50QnVzQ21kLmNsYXNzLCBuZXcgSnNvbk9iamVjdE1lc3NhZ2VDb2RlYygpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdG9rZW4gPSBjbWQuZ2V0RGF0YSgpLmdldFN0cmluZygidG9rZW4iKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
