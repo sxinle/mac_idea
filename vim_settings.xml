@@ -18,6 +18,9 @@
       <file name="/a.dummy" timestamp="1516253535637">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/routes" timestamp="1516588190981">
+        <mark key="'" line="349" column="53" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/service/impl/MongoServiceImpl.java" timestamp="1516101326126">
         <mark key="[" line="28" column="64" />
         <mark key="]" line="28" column="70" />
@@ -74,6 +77,7 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/pointshub/app/controllers/ScanController.java" timestamp="1516587556950" />
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-notes/src/main/java/com/acenode/micros/notes/ContactAPIVerticle.java" timestamp="1516253610246">
         <mark key="'" line="66" column="0" />
         <mark key="[" line="15" column="31" />
@@ -226,7 +230,7 @@
         <mark key="^" line="11" column="29" />
         <mark key="." line="11" column="29" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516358077741">
+      <file name="/Dummy.txt" timestamp="1516587781542">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/impl/TokenService.java" timestamp="1516013174268">
@@ -322,7 +326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/app/views/modGift.scala.html" />
       <jump line="25" column="14" filename="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/conf/application.conf" />
       <jump line="62" column="0" filename="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/conf/application.conf" />
       <jump line="61" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/_3分布图数据制作.java" />
@@ -422,6 +425,7 @@
       <jump line="10" column="25" filename="$USER_HOME$/workspace/demo/zest/src/main/java/导入经销商.java" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/导入经销商.java" />
       <jump line="57" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" />
+      <jump line="349" column="53" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -434,7 +438,7 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>Invalid</text>
+        <text>Weixin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByb3cucHV0KCJsZXR0ZXIiLCBuYW1lLnN1YnN0cmluZygwLCAxKS50b1VwcGVyQ2FzZSgpKTsK</text>
@@ -471,18 +475,16 @@
       </register>
     </registers>
     <search>
-      <last-search>Invalid</last-search>
+      <last-search>Weixin</last-search>
       <last-offset />
-      <last-pattern>Invalid</last-pattern>
+      <last-pattern>Weixin</last-pattern>
       <last-replace>col</last-replace>
       <last-substitute>table.getColumn().get(i)</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>product</entry>
-        <entry>window.loca</entry>
         <entry>par</entry>
         <entry encoding="base64">XDxwYXlEaXJlY3RcPg==</entry>
         <entry>assets</entry>
@@ -501,6 +503,8 @@
         <entry encoding="base64">XDx3cml0ZXJcPg==</entry>
         <entry>err.</entry>
         <entry>Invalid</entry>
+        <entry>wx</entry>
+        <entry>Weixin</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2JQcml6ZS9zb3VyY2UvZw==</entry>
