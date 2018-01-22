@@ -84,6 +84,9 @@
         <mark key="." line="27" column="45" />
         <mark key="^" line="30" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/conf/routes" timestamp="1516661223200">
+        <mark key="'" line="46" column="146" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/util/EventBusCmd.java" timestamp="1516085523658">
         <mark key="[" line="4" column="33" />
         <mark key="]" line="4" column="42" />
@@ -325,8 +328,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="0" filename="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/conf/application.conf" />
-      <jump line="61" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/_3分布图数据制作.java" />
       <jump line="98" column="16" filename="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/_4摇匀199和99.java" />
       <jump line="14" column="25" filename="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/_4摇匀199和99.java" />
       <jump line="41" column="12" filename="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/_4摇匀199和99.java" />
@@ -425,6 +426,8 @@
       <jump line="57" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" />
       <jump line="349" column="53" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/routes" />
       <jump line="120" column="14" filename="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" />
+      <jump line="301" column="5" filename="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/conf/routes" />
+      <jump line="46" column="146" filename="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -437,7 +440,7 @@
         <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text>Weixin</text>
+        <text>download</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICByb3cucHV0KCJsZXR0ZXIiLCBuYW1lLnN1YnN0cmluZygwLCAxKS50b1VwcGVyQ2FzZSgpKTsK</text>
@@ -474,17 +477,16 @@
       </register>
     </registers>
     <search>
-      <last-search>Weixin</last-search>
+      <last-search>download</last-search>
       <last-offset />
-      <last-pattern>Weixin</last-pattern>
+      <last-pattern>download</last-pattern>
       <last-replace>col</last-replace>
       <last-substitute>table.getColumn().get(i)</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>par</entry>
         <entry encoding="base64">XDxwYXlEaXJlY3RcPg==</entry>
         <entry>assets</entry>
         <entry>jquery</entry>
@@ -504,6 +506,7 @@
         <entry>Invalid</entry>
         <entry>wx</entry>
         <entry>Weixin</entry>
+        <entry>download</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2JQcml6ZS9zb3VyY2UvZw==</entry>
