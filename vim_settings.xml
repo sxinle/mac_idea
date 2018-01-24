@@ -62,7 +62,7 @@
         <mark key="[" line="44" column="22" />
         <mark key="]" line="44" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Gogs/anti/app/controllers/tray/TrayController.java" timestamp="1516758798544" />
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/anti/app/controllers/tray/TrayController.java" timestamp="1516761327681" />
       <file name="$USER_HOME$/workspace/jinhui/Gogs/anti/conf/task_config.properties" timestamp="1516759412969">
         <mark key="[" line="14" column="17" />
         <mark key="]" line="14" column="18" />
@@ -76,18 +76,18 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Gogs/anti/conf/routes" timestamp="1516758196042">
-        <mark key="'" line="253" column="8" />
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/anti/conf/routes" timestamp="1516761857361">
+        <mark key="'" line="263" column="10" />
+        <mark key="[" line="263" column="10" />
+        <mark key="]" line="263" column="26" />
       </file>
       <file name="/ActionScript File Header.txt.ft" timestamp="1513836958521">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/impl/TrayServiceImpl.java" timestamp="1516759044460">
-        <mark key="'" line="221" column="57" />
-        <mark key="[" line="221" column="40" />
-        <mark key="]" line="221" column="52" />
-        <mark key="." line="221" column="52" />
-        <mark key="^" line="221" column="52" />
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/impl/TrayServiceImpl.java" timestamp="1516761276079">
+        <mark key="[" line="220" column="0" />
+        <mark key="]" line="220" column="0" />
+        <mark key="." line="220" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/impl/TokenServiceImpl.java" timestamp="1516101277561">
         <mark key="[" line="26" column="0" />
@@ -171,7 +171,7 @@
       <file name="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/app/controllers/ScanController.java" timestamp="1516676923372">
         <mark key="'" line="91" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516761101110">
+      <file name="/Dummy.txt" timestamp="1516761340838">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/impl/TokenService.java" timestamp="1516013174268">
@@ -207,7 +207,7 @@
         <mark key="." line="5" column="23" />
         <mark key="^" line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/TrayService.java" timestamp="1516759669003" />
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/TrayService.java" timestamp="1516761340340" />
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/package-info.java" timestamp="1516253721906">
         <mark key="[" line="0" column="36" />
         <mark key="]" line="0" column="36" />
@@ -247,10 +247,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="27" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data/app/BindPrizes.java" />
-      <jump line="22" column="24" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data/app/Global.java" />
-      <jump line="27" column="8" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data/app/Global.java" />
-      <jump line="173" column="16" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data/app/Global.java" />
       <jump line="177" column="8" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data/app/Global.java" />
       <jump line="129" column="49" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data/app/BindPrizes.java" />
       <jump line="1" column="4" filename="$USER_HOME$/workspace/demo/zest/src/main/java/Xml2Csv.java" />
@@ -347,6 +343,10 @@
       <jump line="253" column="8" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/conf/routes" />
       <jump line="24" column="0" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/conf/application.conf" />
       <jump line="221" column="57" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/impl/TrayServiceImpl.java" />
+      <jump line="248" column="20" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/conf/routes" />
+      <jump line="256" column="86" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/conf/routes" />
+      <jump line="259" column="86" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/conf/routes" />
+      <jump line="263" column="10" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -359,46 +359,46 @@
         <text encoding="base64">bmV3IA==</text>
       </register>
       <register name="/" type="4">
-        <text>tray</text>
+        <text>getTray</text>
       </register>
       <register name="0" type="4">
-        <text>经销商出库信息同步</text>
+        <text>getTrayDetailInfo</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9uZyB0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9uZyB0MiA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwogICAgICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oIi0tLS0tLS0tLS0tLW1heHRyeWNvZGUiICsgKHQyIC0gdDEpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9uZyB0MSA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBsb25nIHN0YXJ0ID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsb25nIGVuZCA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwoKICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oIi0tLS0tLS0tLS0tLWV4aXN0Zmxvd2NvZGUiICsgKGVuZCAtIHN0YXJ0KSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9uZyB0Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb2xsZWN0aW9ucy5zbwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBDb2xsZWN0aW9ucy5zb3J0KG1hcCwgKG8xLCBvMikgLT57CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBvMS5rCiAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tray</last-search>
+      <last-search>getTray</last-search>
       <last-offset />
-      <last-pattern>tray</last-pattern>
+      <last-pattern>getTray</last-pattern>
       <last-replace>col</last-replace>
       <last-substitute>table.getColumn().get(i)</last-substitute>
       <last-dir>1</last-dir>
@@ -406,7 +406,6 @@
     </search>
     <history>
       <history-search>
-        <entry>veri</entry>
         <entry encoding="base64">XDxvbmVMaXN0XD4=</entry>
         <entry>spend</entry>
         <entry encoding="base64">XDxjb2xsZWN0aW9uXD4=</entry>
@@ -426,6 +425,7 @@
         <entry encoding="base64">XDxmcm9tc1w+</entry>
         <entry encoding="base64">XDxjdXN0U3luVGhyZWFkXD4=</entry>
         <entry>tray</entry>
+        <entry>getTray</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2JQcml6ZS9zb3VyY2UvZw==</entry>
