@@ -42,7 +42,10 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="16" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Gogs/anti/conf/sql/tray.xml" timestamp="1516758960318" />
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/anti/conf/sql/tray.xml" timestamp="1516763286728">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="42" column="15" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/zest/src/main/java/xmlCsv/ExcelUtil.java" timestamp="1515564654504">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="5" column="7" />
@@ -84,7 +87,7 @@
       <file name="/ActionScript File Header.txt.ft" timestamp="1513836958521">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/impl/TrayServiceImpl.java" timestamp="1516761276079">
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/impl/TrayServiceImpl.java" timestamp="1516762992434">
         <mark key="[" line="220" column="0" />
         <mark key="]" line="220" column="0" />
         <mark key="." line="220" column="0" />
@@ -171,7 +174,7 @@
       <file name="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/app/controllers/ScanController.java" timestamp="1516676923372">
         <mark key="'" line="91" column="39" />
       </file>
-      <file name="/Dummy.txt" timestamp="1516761340838">
+      <file name="/Dummy.txt" timestamp="1516763788935">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/impl/TokenService.java" timestamp="1516013174268">
@@ -207,7 +210,7 @@
         <mark key="." line="5" column="23" />
         <mark key="^" line="5" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/TrayService.java" timestamp="1516761340340" />
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/TrayService.java" timestamp="1516763788443" />
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/package-info.java" timestamp="1516253721906">
         <mark key="[" line="0" column="36" />
         <mark key="]" line="0" column="36" />
@@ -361,8 +364,8 @@
       <register name="/" type="4">
         <text>getTray</text>
       </register>
-      <register name="0" type="4">
-        <text>getTrayDetailInfo</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkgICAgU0VMRUNUIEEudHJheWNvZGUsCgkJCQkgICAgICAgICAgIEEuY291bnQsCgkJCQkgICAgICAgICAgIHRvX2NoYXIoQS5jcmVhdGVkYXRlLCdZWVlZLU1NLUREIEhIMjQ6TUk6U1MnKSBhcyBjcmVhdGVkYXRlLAoJCQkJICAgICAgICAgICB0LnN0b3JhZ2VuYW1lLAoJCQkJICAgICAgICAgICBzLnByb2R1Y3RsaW5lLAoJCQkJICAgICAgICAgICBwLnByb2R1Y3RuYW1lCiAgICAgICAgICBGUk9NKAoJCQkJCQlTRUxFQ1QKCQkJCQkJCVQgLnRyYXljb2RlLAoJCQkJCQkJQ09VTlQgKDEpIGFzIGNvdW50LAoJCQkJCQkJTUFYKGNyZWF0ZWRhdGUpIGFzIGNyZWF0ZWRhdGUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBNQVgoVC5mbG93Y29kZSkgYXMgZmxvd2NvZGUKCQkJCQkJRlJPTQoJCQkJCQkJdHJheV9pbmZvIFQKCQkJCQkJV0hFUkUgMT0xCgkJCQkJCQk8aWYgdGVzdD0idHJheWNvZGUgIT0gbnVsbCBhbmQgdHJheWNvZGUgIT0nJyI+CgkJCQkJCQkJQU5EIFQudHJheWNvZGUgbGlrZSAnJSd8fCN7dHJheWNvZGV9fHwnJScKCQkJCQkJCTwvaWY+CgkJCQkJCQk8aWYgdGVzdD0iZmxvd2NvZGUgIT0gbnVsbCBhbmQgZmxvd2NvZGUgIT0nJyI+CgkJCQkJCQkgICBBTkQgVC50cmF5Y29kZSBpbiAoU0VMRUNUIHRyYXljb2RlIEZST00gdHJheV9pbmZvIFdIRVJFIGZsb3dDb2RlIGxpa2UgJyUnfHwje2Zsb3djb2RlfXx8JyUnKQoJCQkJCQkJPC9pZj4KCQkJCQkJR1JPVVAgQlkKCQkJCQkJCVQgLnRyYXljb2RlCgkJCQkgICAgICAgIAlPUkRFUiBCWSBUIC50cmF5Y29kZSBERVNDCgkJCQkJCUxJTUlUICN7bGltaXR9IE9GRlNFVCAje3N0YXJ0fQoJCQkpQSBMRUZUIEpPSU4gc3RvcmFnZV9kZXRhaWwgcyAKICAgICAgIG9uIEEuZmxvd2NvZGUgPSBzLmludGVyZmxvd2NvZGUKICAgICAgIExFRlQgSk9JTiBzdG9yYWdlX2luZm8gdAogICAgICAgb24gcy5zdG9yYWdlaWQgPSB0LnN0b3JhZ2VpZAogICAgICAgTEVGVCBKT0lOIHByb2R1Y3RfaW5mbyBwCiAgICAgICBvbiBzLnByb2R1Y3RpZCA9IHAucHJvZHVjdGlkCiAgICAgICBXSEVSRSAxPTEK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgbG9uZyB0MiA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwogICAgICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oIi0tLS0tLS0tLS0tLW1heHRyeWNvZGUiICsgKHQyIC0gdDEpKTsK</text>
