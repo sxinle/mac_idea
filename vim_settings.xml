@@ -12,6 +12,9 @@
         <mark key="^" line="18" column="99" />
         <mark key="." line="18" column="16" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/lang/String.java" timestamp="1517223690073">
+        <mark key="'" line="961" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-comm-form/src/main/java/com/acenode/micros/form/ContactAPIVerticle.java" timestamp="1516252612749">
         <mark key="[" line="26" column="31" />
       </file>
@@ -103,18 +106,22 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/io/Serializable.java" timestamp="1517223717159">
+        <mark key="[" line="138" column="41" />
+        <mark key="]" line="138" column="56" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/util/EventBusCmd.java" timestamp="1516085523658">
         <mark key="[" line="4" column="33" />
         <mark key="]" line="4" column="42" />
         <mark key="^" line="4" column="42" />
         <mark key="." line="4" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/zest/src/main/java/导入经销商.java" timestamp="1517220117712">
-        <mark key="'" line="41" column="19" />
-        <mark key="[" line="28" column="75" />
-        <mark key="]" line="28" column="77" />
-        <mark key="." line="28" column="77" />
-        <mark key="^" line="28" column="77" />
+      <file name="$USER_HOME$/workspace/demo/zest/src/main/java/导入经销商.java" timestamp="1517223726354">
+        <mark key="'" line="62" column="40" />
+        <mark key="[" line="74" column="99" />
+        <mark key="]" line="74" column="111" />
+        <mark key="." line="74" column="111" />
+        <mark key="^" line="74" column="111" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-mqttpush/src/main/java/com/acenode/micros/notes/package-info.java" timestamp="1516789386736">
         <mark key="[" line="0" column="85" />
@@ -315,8 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/UserAuthAPIVerticle.java" />
-      <jump line="82" column="43" filename="$USER_HOME$/workspace/demo/zest/src/main/java/xmlCsv/Test.java" />
       <jump line="63" column="33" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/ContactAPIVerticle.java" />
       <jump line="51" column="40" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/ContactVerticle.java" />
       <jump line="42" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/ContactVerticle.java" />
@@ -415,6 +420,8 @@
       <jump line="42" column="36" filename="$USER_HOME$/workspace/demo/zest/src/main/java/导入经销商.java" />
       <jump line="44" column="36" filename="$USER_HOME$/workspace/demo/zest/src/main/java/导入经销商.java" />
       <jump line="41" column="19" filename="$USER_HOME$/workspace/demo/zest/src/main/java/导入经销商.java" />
+      <jump line="961" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/lang/String.java" />
+      <jump line="62" column="40" filename="$USER_HOME$/workspace/demo/zest/src/main/java/导入经销商.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -424,40 +431,40 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>provcode</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzbHNhcmVhY29kZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHByb3Zjb2RlID0gbGluZS5nZXQoOSk7Cg==</text>
+      <register name="0" type="4">
+        <text>serialVersionUID</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBpbnQgc2xzYmlnYXJlYWNvZGVTdHIyQ29kZShTdHJpbmcgc2xzYmlnYXJlYWNvZGUpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIFN0YXRlbWVudCBzID0gY29ubi5jcmVhdGVTdGF0ZW1lbnQoKTsKICAgICAgICBSZXN1bHRTZXQgcnMgPSBzLmV4ZWN1dGVRdWVyeSgiU0VMRUNUIGxhcmdlaWQgRlJPTSBsYXJnZV9hcmVhIFdIRVJFIGxhcmdlbmFtZT0nIiArIHNsc2JpZ2FyZWFjb2RlICsgIiciKTsKICAgICAgICBpbnQgaWQgPSAwOwogICAgICAgIGlmIChycy5uZXh0KCkpIHsKICAgICAgICAgICAgaWQgPSBycy5nZXRJbnQoMSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBpZDsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBzbHNjb21wYW55Y29kZSA9ICLljJfkuqwiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewoKICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewoKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBpbnQgc2xzYmlnYXJlYWNvZGVTdHIyQ29kZShTdHJpbmcgc2xzYmlnYXJlYWNvZGUpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIFN0YXRlbWVudCBzID0gY29ubi5jcmVhdGVTdGF0ZW1lbnQoKTsKICAgICAgICBSZXN1bHRTZXQgcnMgPSBzLmV4ZWN1dGVRdWVyeSgiU0VMRUNUIGxhcmdlaWQgRlJPTSBsYXJnZV9hcmVhIFdIRVJFIGxhcmdlbmFtZT0nIiArIHNsc2JpZ2FyZWFjb2RlICsgIiciKTsKICAgICAgICBpbnQgaWQgPSAwOwogICAgICAgIGlmIChycy5uZXh0KCkpIHsKICAgICAgICAgICAgaWQgPSBycy5nZXRJbnQoMSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBpZDsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICArIikiKTsK</text>
+        <text encoding="base64">ICAgICAgICBzbHNjb21wYW55Y29kZSA9ICLljJfkuqwiOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
