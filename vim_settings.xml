@@ -469,7 +469,7 @@
         <text>pointshub123</text>
       </register>
       <register name="/" type="4">
-        <text>Impl</text>
+        <text>getSpend</text>
       </register>
       <register name="0" type="4">
         <text>1.1.0.1</text>
@@ -506,9 +506,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Impl</last-search>
+      <last-search>getSpend</last-search>
       <last-offset />
-      <last-pattern>Impl</last-pattern>
+      <last-pattern>getSpend</last-pattern>
       <last-replace />
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
@@ -516,7 +516,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tray</entry>
         <entry>getTray</entry>
         <entry encoding="base64">XDxtQ2FsbGJhY2tcPg==</entry>
         <entry>Logger.d</entry>
@@ -528,7 +527,6 @@
         <entry>detail</entry>
         <entry>smallarea</entry>
         <entry encoding="base64">XDxzbHNhcmVhY29kZVw+</entry>
-        <entry>spend</entry>
         <entry>scanCodeLog</entry>
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
         <entry encoding="base64">XDxzbHNcPg==</entry>
@@ -536,6 +534,8 @@
         <entry encoding="base64">XDxjb25uXD4=</entry>
         <entry>version</entry>
         <entry>Impl</entry>
+        <entry>spend</entry>
+        <entry>getSpend</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyoqLyoqIC9n</entry>
