@@ -50,6 +50,13 @@
         <mark key="." line="49" column="42" />
         <mark key="^" line="49" column="42" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/zest/src/main/java/SlowSQLDEBUG.java" timestamp="1517471135731">
+        <mark key="'" line="54" column="44" />
+        <mark key="[" line="12" column="57" />
+        <mark key="]" line="12" column="58" />
+        <mark key="." line="12" column="58" />
+        <mark key="^" line="52" column="11" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/zest/src/main/java/xmlCsv/ExcelUtil.java" timestamp="1515564654504">
         <mark key="[" line="3" column="4" />
         <mark key="]" line="5" column="7" />
@@ -122,10 +129,10 @@
         <mark key="^" line="4" column="42" />
         <mark key="." line="4" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/zest/src/main/java/导入经销商.java" timestamp="1517223726354">
-        <mark key="'" line="62" column="40" />
-        <mark key="[" line="74" column="99" />
-        <mark key="]" line="74" column="111" />
+      <file name="$USER_HOME$/workspace/demo/zest/src/main/java/导入经销商.java" timestamp="1517470716475">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="33" />
         <mark key="." line="74" column="111" />
         <mark key="^" line="74" column="111" />
       </file>
@@ -140,8 +147,8 @@
         <mark key="]" line="144" column="0" />
         <mark key="." line="144" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/_1大奖到小奖.java" timestamp="1517193993111">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/_1大奖到小奖.java" timestamp="1517470766643">
+        <mark key="'" line="64" column="8" />
         <mark key="[" line="95" column="0" />
         <mark key="]" line="97" column="111" />
       </file>
@@ -335,13 +342,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="36" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data/app/Global.java" />
-      <jump line="35" column="27" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/impl/CustomerServiceImpl.java" />
-      <jump line="41" column="93" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/ContactAPIVerticle.java" />
-      <jump line="22" column="25" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/resources/api.md" />
-      <jump line="36" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" />
-      <jump line="10" column="45" filename="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/Filter.java" />
-      <jump line="27" column="33" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/UserAuthAPIVerticle.java" />
       <jump line="139" column="35" filename="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" />
       <jump line="24" column="15" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/resources/api.md" />
       <jump line="36" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/resources/api.md" />
@@ -435,6 +435,13 @@
       <jump line="13" column="36" filename="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/conf/routes" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/conf/routes" />
       <jump line="4" column="127" filename="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/conf/routes" />
+      <jump line="38" column="21" filename="$USER_HOME$/workspace/demo/zest/src/main/java/导入经销商.java" />
+      <jump line="89" column="21" filename="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/_1大奖到小奖.java" />
+      <jump line="9" column="22" filename="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/_1大奖到小奖.java" />
+      <jump line="64" column="8" filename="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/_1大奖到小奖.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/导入经销商.java" />
+      <jump line="44" column="43" filename="$USER_HOME$/workspace/demo/zest/src/main/java/SlowSQLDEBUG.java" />
+      <jump line="53" column="44" filename="$USER_HOME$/workspace/demo/zest/src/main/java/SlowSQLDEBUG.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -444,49 +451,49 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>PushService.</text>
+        <text>pointshub123</text>
       </register>
       <register name="/" type="4">
-        <text>toScanCode</text>
+        <text encoding="base64">XDxjb25uXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>serialVersionUID</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcy5zZXRJbnQoMik7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGF0aWMgdm9pZCBpbml0Q29ubiAoKSB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBpbnQgc2xzYmlnYXJlYWNvZGVTdHIyQ29kZShTdHJpbmcgc2xzYmlnYXJlYWNvZGUpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIFN0YXRlbWVudCBzID0gY29ubi5jcmVhdGVTdGF0ZW1lbnQoKTsKICAgICAgICBSZXN1bHRTZXQgcnMgPSBzLmV4ZWN1dGVRdWVyeSgiU0VMRUNUIGxhcmdlaWQgRlJPTSBsYXJnZV9hcmVhIFdIRVJFIGxhcmdlbmFtZT0nIiArIHNsc2JpZ2FyZWFjb2RlICsgIiciKTsKICAgICAgICBpbnQgaWQgPSAwOwogICAgICAgIGlmIChycy5uZXh0KCkpIHsKICAgICAgICAgICAgaWQgPSBycy5nZXRJbnQoMSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBpZDsKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzbHNjb21wYW55Y29kZSA9ICLljJfkuqwiOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYyBpbnQgc2xzYmlnYXJlYWNvZGVTdHIyQ29kZShTdHJpbmcgc2xzYmlnYXJlYWNvZGUpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIFN0YXRlbWVudCBzID0gY29ubi5jcmVhdGVTdGF0ZW1lbnQoKTsKICAgICAgICBSZXN1bHRTZXQgcnMgPSBzLmV4ZWN1dGVRdWVyeSgiU0VMRUNUIGxhcmdlaWQgRlJPTSBsYXJnZV9hcmVhIFdIRVJFIGxhcmdlbmFtZT0nIiArIHNsc2JpZ2FyZWFjb2RlICsgIiciKTsKICAgICAgICBpbnQgaWQgPSAwOwogICAgICAgIGlmIChycy5uZXh0KCkpIHsKICAgICAgICAgICAgaWQgPSBycy5nZXRJbnQoMSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiBpZDsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>toScanCode</last-search>
+      <last-search encoding="base64">XDxjb25uXD4=</last-search>
       <last-offset />
-      <last-pattern>toScanCode</last-pattern>
+      <last-pattern encoding="base64">XDxjb25uXD4=</last-pattern>
       <last-replace />
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
@@ -494,7 +501,6 @@
     </search>
     <history>
       <history-search>
-        <entry>securityCalls</entry>
         <entry encoding="base64">XDxmcm9tc1w+</entry>
         <entry encoding="base64">XDxjdXN0U3luVGhyZWFkXD4=</entry>
         <entry>tray</entry>
@@ -514,6 +520,7 @@
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
         <entry encoding="base64">XDxzbHNcPg==</entry>
         <entry>toScanCode</entry>
+        <entry encoding="base64">XDxjb25uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyoqLyoqIC9n</entry>
