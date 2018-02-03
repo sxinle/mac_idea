@@ -117,7 +117,8 @@
         <mark key="]" line="4" column="30" />
         <mark key="." line="4" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Gogs/sync_data_fix/app/BindPrizes.java" timestamp="1517654547521">
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/sync_data_fix/app/BindPrizes.java" timestamp="1517656391781">
+        <mark key="'" line="44" column="81" />
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="45" />
         <mark key="." line="86" column="0" />
@@ -223,14 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-notes/src/main/java/com/acenode/micros/notes/NotesVerticle.java" />
-      <jump line="158" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/_1大奖到小奖.java" />
-      <jump line="159" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/_1大奖到小奖.java" />
-      <jump line="9" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/导入经销商.java" />
-      <jump line="10" column="25" filename="$USER_HOME$/workspace/demo/zest/src/main/java/导入经销商.java" />
-      <jump line="15" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/导入经销商.java" />
-      <jump line="57" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" />
-      <jump line="349" column="53" filename="$USER_HOME$/workspace/jinhui/Gogs/pointshub/conf/routes" />
       <jump line="120" column="14" filename="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" />
       <jump line="301" column="5" filename="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/conf/routes" />
       <jump line="46" column="146" filename="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/conf/routes" />
@@ -323,6 +316,14 @@
       <jump line="75" column="69" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data/app/BindPrizes.java" />
       <jump line="50" column="81" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data/app/BindPrizes.java" />
       <jump line="190" column="20" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data_fix/logs/application.log" />
+      <jump line="65" column="26" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data_fix/app/BindPrizes.java" />
+      <jump line="55" column="81" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data_fix/app/BindPrizes.java" />
+      <jump line="76" column="69" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data_fix/app/BindPrizes.java" />
+      <jump line="34" column="109" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data_fix/app/BindPrizes.java" />
+      <jump line="36" column="85" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data_fix/app/BindPrizes.java" />
+      <jump line="38" column="82" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data_fix/app/BindPrizes.java" />
+      <jump line="41" column="61" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data_fix/app/BindPrizes.java" />
+      <jump line="44" column="81" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data_fix/app/BindPrizes.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -335,7 +336,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>findList</text>
+        <text>findUniq</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTG9nZ2VyLmVycm9yKCLnu5HlrprlpZbljaHlpLHotKXvvJoiICsgU3RyaW5nLnZhbHVlT2YoZGJqLmdldCgiY29kZSIpKSk7Cg==</text>
@@ -372,17 +373,16 @@
       </register>
     </registers>
     <search>
-      <last-search>findList</last-search>
+      <last-search>findUniq</last-search>
       <last-offset />
-      <last-pattern>findList</last-pattern>
+      <last-pattern>findUniq</last-pattern>
       <last-replace />
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>,</entry>
         <entry>-</entry>
         <entry>Detail</entry>
         <entry>TrayDetail</entry>
@@ -402,6 +402,7 @@
         <entry>getSpen</entry>
         <entry encoding="base64">XDxwcml6ZUNvdW50XD4=</entry>
         <entry>findList</entry>
+        <entry>findUniq</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyoqLyoqIC9n</entry>
