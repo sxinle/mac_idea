@@ -138,8 +138,8 @@
         <mark key="[" line="138" column="41" />
         <mark key="]" line="138" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/conf/routes" timestamp="1517555925040">
-        <mark key="'" line="306" column="130" />
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/conf/routes" timestamp="1517798708190">
+        <mark key="'" line="57" column="139" />
       </file>
       <file name="$USER_HOME$/workspace/demo/zest/src/main/java/导入经销商.java" timestamp="1517470716475">
         <mark key="'" line="0" column="0" />
@@ -225,13 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="91" column="39" filename="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/app/controllers/ScanController.java" />
-      <jump line="47" column="26" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/app/setup/Setup.java" />
-      <jump line="461" column="11" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/conf/routes" />
-      <jump line="5" column="0" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/conf/routes" />
-      <jump line="253" column="8" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/conf/routes" />
-      <jump line="24" column="0" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/conf/application.conf" />
-      <jump line="221" column="57" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/impl/TrayServiceImpl.java" />
       <jump line="248" column="20" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/conf/routes" />
       <jump line="256" column="86" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/conf/routes" />
       <jump line="263" column="10" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/conf/routes" />
@@ -325,6 +318,13 @@
       <jump line="122" column="83" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data/app/BindPrizes.java" />
       <jump line="19" column="16" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data/conf/application.conf" />
       <jump line="171" column="44" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data/app/BindPrizes.java" />
+      <jump line="322" column="57" filename="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/conf/routes" />
+      <jump line="52" column="3" filename="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/conf/routes" />
+      <jump line="83" column="3" filename="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/conf/routes" />
+      <jump line="96" column="10" filename="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/conf/routes" />
+      <jump line="58" column="139" filename="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/conf/routes" />
+      <jump line="59" column="34" filename="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/conf/routes" />
+      <jump line="57" column="139" filename="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -337,7 +337,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>findList</text>
+        <text>ScanEvent</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAvL0xpc3Q8U2NhbkV2ZW50PiBldmVudHMgPSBzY2FuRXZlbnRzTWFwLmdldChhcmVhSWQpOwo=</text>
@@ -375,18 +375,16 @@
       </register>
     </registers>
     <search>
-      <last-search>findList</last-search>
+      <last-search>ScanEvent</last-search>
       <last-offset />
-      <last-pattern>findList</last-pattern>
+      <last-pattern>ScanEvent</last-pattern>
       <last-replace />
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>-</entry>
-        <entry>Detail</entry>
         <entry>TrayDetail</entry>
         <entry>searchCodeInfo</entry>
         <entry>detail</entry>
@@ -405,6 +403,8 @@
         <entry encoding="base64">XDxwcml6ZUNvdW50XD4=</entry>
         <entry>findUniq</entry>
         <entry>findList</entry>
+        <entry>投奖</entry>
+        <entry>ScanEvent</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyoqLyoqIC9n</entry>
