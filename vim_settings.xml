@@ -13,8 +13,8 @@
         <mark key="." line="30" column="70" />
         <mark key="^" line="30" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" timestamp="1517894400465">
-        <mark key="'" line="63" column="55" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" timestamp="1517898876502">
+        <mark key="'" line="81" column="0" />
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="0" />
         <mark key="^" line="29" column="45" />
@@ -213,10 +213,10 @@
         <mark key="." line="5" column="26" />
         <mark key="^" line="5" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/MiscServiceImpl.java" timestamp="1517897796360">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/MiscServiceImpl.java" timestamp="1517898905454">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/ContactAPIVerticle.java" timestamp="1517822352708">
         <mark key="[" line="32" column="0" />
@@ -287,9 +287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/导入经销商.java" />
-      <jump line="34" column="22" filename="$USER_HOME$/workspace/demo/zest/src/main/java/导入经销商.java" />
-      <jump line="35" column="66" filename="$USER_HOME$/workspace/demo/zest/src/main/java/导入经销商.java" />
       <jump line="42" column="36" filename="$USER_HOME$/workspace/demo/zest/src/main/java/导入经销商.java" />
       <jump line="44" column="36" filename="$USER_HOME$/workspace/demo/zest/src/main/java/导入经销商.java" />
       <jump line="41" column="19" filename="$USER_HOME$/workspace/demo/zest/src/main/java/导入经销商.java" />
@@ -387,6 +384,9 @@
       <jump line="22" column="12" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" />
       <jump line="61" column="4" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" />
       <jump line="53" column="55" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" />
+      <jump line="24" column="56" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" />
+      <jump line="81" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -405,31 +405,31 @@
         <text encoding="base64">ICAgIFN0cmluZyBjb2xsX25vdGVzID0gIm5vdGVzIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1vbmdvR3JpZEZzQ2xpZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQuc2F2ZSgpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBHcmlkZnMK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1vbmdvR3JpZEZzQ2xpZW50Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQuZ2V0Q29sbGVjdGlvbnMoKQo=</text>
+        <text encoding="base64">ICAgICAgICBHcmlkZnMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzYXZlRm9ybS5jb21wb3NlKCkK</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQuZ2V0Q29sbGVjdGlvbnMoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFkUmVxdWVzdChjb250ZXh0LCBuZXcgRXhjZXB0aW9uKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzYXZlRm9ybS5jb21wb3NlKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGNvbnRleHQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmFkUmVxdWVzdChjb250ZXh0LCBuZXcgRXhjZXB0aW9uKCkpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5maWxlVXBsb2FkcygpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGNvbnRleHQpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgU3RyaW5nIGZvcm1WYWx1ZShSb3V0aW5nQ29udGV4dCBjeHQsIFN0cmluZyBrZXkpIHsKICAgICAgICByZXR1cm4gY3h0LnJlcXVlc3QoKS5mb3JtQXR0cmlidXRlcygpOwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5maWxlVXBsb2FkcygpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgU3RyaW5nIGZvcm1WYWx1ZShSb3V0aW5nQ29udGV4dCBjeHQsIFN0cmluZyBrZXkpIHsKICAgICAgICByZXR1cm4gY3h0LnJlcXVlc3QoKS5mb3JtQXR0cmlidXRlcygpOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
