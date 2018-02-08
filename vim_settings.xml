@@ -84,10 +84,12 @@
         <mark key="[" line="269" column="10" />
         <mark key="]" line="269" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/impl/TrayServiceImpl.java" timestamp="1516931587499">
-        <mark key="[" line="249" column="0" />
-        <mark key="]" line="249" column="0" />
-        <mark key="." line="249" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/impl/TrayServiceImpl.java" timestamp="1518078703210">
+        <mark key="'" line="251" column="44" />
+        <mark key="[" line="254" column="62" />
+        <mark key="]" line="254" column="65" />
+        <mark key="." line="254" column="65" />
+        <mark key="^" line="254" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/Gogs/sync_data/app/BindPrizes.java" timestamp="1517707882037">
         <mark key="'" line="171" column="44" />
@@ -234,7 +236,6 @@
       <file name="$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver-core/3.4.1/mongodb-driver-core-3.4.1-sources.jar!/com/mongodb/connection/DefaultClusterFactory.java" timestamp="1517994586134">
         <mark key="'" line="82" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/TrayService.java" timestamp="1518075141017" />
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-mqttpush/src/main/java/com/acenode/micros/mqtt/push/service/MqttManager.java" timestamp="1516945441261">
         <mark key="'" line="131" column="12" />
         <mark key="[" line="64" column="46" />
@@ -286,7 +287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="61" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data_fix/app/BindPrizes.java" />
       <jump line="44" column="81" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data_fix/app/BindPrizes.java" />
       <jump line="113" column="43" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data/app/BindPrizes.java" />
       <jump line="137" column="0" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data/app/BindPrizes.java" />
@@ -386,6 +386,7 @@
       <jump line="181" column="18" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/lib/postgresql-9.1-901.jdbc4.jar!/org/postgresql/core/PGStream.class" />
       <jump line="188" column="20" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/lib/postgresql-9.1-901.jdbc4.jar!/org/postgresql/core/PGStream.class" />
       <jump line="213" column="0" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/lib/postgresql-9.1-901.jdbc4.jar!/org/postgresql/core/PGStream.class" />
+      <jump line="251" column="44" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/impl/TrayServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -430,31 +431,31 @@
                     &quot;       WHERE 1=1&quot;);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJwcm9ncmVzcyI6IjIwIiwKICAgICJzaWduVGltZSI6IjIwMTgtMDMtMjAiLAogICAgInRpbWVMaW5lIjoiMjAxOC0wMy0yMF8yMDE5LTAxLTAxIgo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJwcm9ncmVzcyI6IjIwIiwKICAgICJzaWduVGltZSI6IjIwMTgtMDMtMjAiLAogICAgInRpbWVMaW5lIjoiMjAxOC0wMy0yMF8yMDE5LTAxLTAxIgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN0cmluZyBkZXZpY2VJRCAgPSAiZGV2aWNlSUQiOwogICAgU3RyaW5nIHVzZXIgICAgICA9ICJ1c2VyIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBkZXZpY2VJRCAgPSAiZGV2aWNlSUQiOwogICAgU3RyaW5nIHVzZXIgICAgICA9ICJ1c2VyIjsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSW5wdXRTdHJlYW0gaW4gPSBmaWxlLmdldElucHV0U3RyZWFtKCk7CiAgICAgICAgICAgIGJ5dGVbXSBkYXRhID0gbmV3IGJ5dGVbaW4uYXZhaWxhYmxlKCldOwogICAgICAgICAgICBpbi5yZWFkKGRhdGEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmlsZS53cml0ZVRvKEJ1ZmZlci5idWZmZXIoKS50bykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgSW5wdXRTdHJlYW0gaW4gPSBmaWxlLmdldElucHV0U3RyZWFtKCk7CiAgICAgICAgICAgIGJ5dGVbXSBkYXRhID0gbmV3IGJ5dGVbaW4uYXZhaWxhYmxlKCldOwogICAgICAgICAgICBpbi5yZWFkKGRhdGEpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IG5ldyBieXRlWzJdOwogICAgICAgICAgICBkYXRhWzBdID0gMTsKICAgICAgICAgICAgZGF0YVsxXSA9IDI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlsZS53cml0ZVRvKEJ1ZmZlci5idWZmZXIoKS50bykK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -467,7 +468,7 @@
       <last-replace />
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
