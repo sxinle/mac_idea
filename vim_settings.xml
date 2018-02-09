@@ -26,6 +26,13 @@
         <mark key="." line="7" column="48" />
         <mark key="^" line="7" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/controllers/mycenter/MyCenterController.java" timestamp="1518146005792">
+        <mark key="'" line="190" column="57" />
+        <mark key="[" line="213" column="50" />
+        <mark key="]" line="213" column="53" />
+        <mark key="." line="213" column="53" />
+        <mark key="^" line="213" column="53" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/project/build.properties" timestamp="1517543039354">
         <mark key="[" line="0" column="17" />
         <mark key="]" line="0" column="18" />
@@ -151,6 +158,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="75" column="47" />
+      </file>
+      <file name="/MyCenterController.java" timestamp="1518145990384">
+        <mark key="'" line="213" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/TokenService.java" timestamp="1516101282512">
         <mark key="[" line="27" column="0" />
@@ -283,13 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="43" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data/app/BindPrizes.java" />
-      <jump line="137" column="0" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data/app/BindPrizes.java" />
-      <jump line="144" column="47" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data/app/BindPrizes.java" />
-      <jump line="146" column="119" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data/app/BindPrizes.java" />
-      <jump line="74" column="62" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data/app/BindPrizes.java" />
-      <jump line="122" column="83" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data/app/BindPrizes.java" />
-      <jump line="19" column="16" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data/conf/application.conf" />
       <jump line="171" column="44" filename="$USER_HOME$/workspace/jinhui/Gogs/sync_data/app/BindPrizes.java" />
       <jump line="322" column="57" filename="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/conf/routes" />
       <jump line="52" column="3" filename="$USER_HOME$/workspace/jinhui/Gogs/online/pointshub/conf/routes" />
@@ -383,6 +386,13 @@
       <jump line="213" column="0" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/lib/postgresql-9.1-901.jdbc4.jar!/org/postgresql/core/PGStream.class" />
       <jump line="251" column="44" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/impl/TrayServiceImpl.java" />
       <jump line="160" column="0" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/conf/application-context.xml" />
+      <jump line="334" column="12" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/controllers/mycenter/MyCenterController.java" />
+      <jump line="213" column="0" filename="/MyCenterController.java" />
+      <jump line="45" column="2" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/controllers/mycenter/MyCenterController.java" />
+      <jump line="62" column="10" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/controllers/mycenter/MyCenterController.java" />
+      <jump line="168" column="9" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/controllers/mycenter/MyCenterController.java" />
+      <jump line="183" column="19" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/controllers/mycenter/MyCenterController.java" />
+      <jump line="190" column="57" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/controllers/mycenter/MyCenterController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -392,10 +402,10 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>submitUser</text>
+        <text>个人中心</text>
       </register>
       <register name="/" type="4">
-        <text>receive</text>
+        <text>个人中心</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y29udGVudD3mrKLov47kvb/nlKjph5Hlvr3phZLorqLljZXns7vnu5/vvIzmgqjnmoTnmbvpmYblr4bnoIHph43nva7kuLo6Iyzor7flsL3lv6vnmbvpmYbkv67mlLnlr4bnoIHvvIHkuL7mna/ph5Hlvr3phZLvvIzkvKDpgJLmraPog73ph4/jgJDph5Hlvr3phZLjgJEKc21zY29udGVudD3mrKLov47kvb/nlKjph5Hlvr3phZLorqLljZXns7vnu5/vvIzmgqjnmoTlhYXlgLzpqozor4HnoIHkuLo6IyzkuL7mna/ph5Hlvr3phZLvvIzkvKDpgJLmraPog73ph4/jgJDph5Hlvr3phZLjgJEK</text>
@@ -432,17 +442,16 @@
       </register>
     </registers>
     <search>
-      <last-search>receive</last-search>
+      <last-search>个人中心</last-search>
       <last-offset />
-      <last-pattern>receive</last-pattern>
+      <last-pattern>个人中心</last-pattern>
       <last-replace />
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>getSpend</entry>
         <entry>getSpen</entry>
         <entry encoding="base64">XDxwcml6ZUNvdW50XD4=</entry>
         <entry>findUniq</entry>
@@ -462,6 +471,7 @@
         <entry>common</entry>
         <entry encoding="base64">XDxhYnN0cmFjdERhdGFTb3VyY2VcPg==</entry>
         <entry>receive</entry>
+        <entry>个人中心</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyoqLyoqIC9n</entry>
