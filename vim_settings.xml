@@ -170,6 +170,9 @@
         <mark key="^" line="40" column="10" />
         <mark key="." line="40" column="10" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/InventoryService.java" timestamp="1518172683390">
+        <mark key="'" line="168" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-mqttpush/src/main/java/com/acenode/micros/mqtt/push/PushVerticle.java" timestamp="1517980664904">
         <mark key="'" line="19" column="57" />
         <mark key="[" line="12" column="41" />
@@ -665,13 +668,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="22" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/orderOnline.scala.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/paperLogistics.scala.html" />
-      <jump line="44" column="18" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/paperLogistics.scala.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/paperLogisticsDetail.scala.html" />
-      <jump line="79" column="8" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/paperLogisticsDetail.scala.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/paperOrder.scala.html" />
-      <jump line="43" column="8" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/paperOrder.scala.html" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/paperOrderDetail.scala.html" />
       <jump line="104" column="18" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/paperOrderDetail.scala.html" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/paperOrderDetailNew.scala.html" />
@@ -765,6 +761,13 @@
       <jump line="85" column="25" filename="$USER_HOME$/workspace/demo/zest/pom.xml" />
       <jump line="86" column="24" filename="$USER_HOME$/workspace/demo/zest/pom.xml" />
       <jump line="161" column="23" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/impl/TrayServiceImpl.java" />
+      <jump line="45" column="65" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/InventoryService.java" />
+      <jump line="230" column="13" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/InventoryService.java" />
+      <jump line="233" column="15" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/InventoryService.java" />
+      <jump line="227" column="33" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/InventoryService.java" />
+      <jump line="210" column="0" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/InventoryService.java" />
+      <jump line="160" column="24" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/InventoryService.java" />
+      <jump line="168" column="24" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/InventoryService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -777,7 +780,7 @@
         <text encoding="base64">c3luY2hyb25pemVkIA==</text>
       </register>
       <register name="/" type="4">
-        <text>post</text>
+        <text>uploadData</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzeW5jaHJvbml6ZWQgU3RyaW5nIGFkZFRyYXlJbmZvKFN0cmluZ1tdIGNvZGVBcnIpIHRocm93cyBFeGNlcHRpb24gewo=</text>
@@ -814,9 +817,9 @@
       </register>
     </registers>
     <search>
-      <last-search>post</last-search>
+      <last-search>uploadData</last-search>
       <last-offset />
-      <last-pattern>post</last-pattern>
+      <last-pattern>uploadData</last-pattern>
       <last-replace />
       <last-substitute>@*</last-substitute>
       <last-dir>1</last-dir>
@@ -824,8 +827,6 @@
     </search>
     <history>
       <history-search>
-        <entry>receive</entry>
-        <entry>个人中心</entry>
         <entry>单价</entry>
         <entry>友和利德</entry>
         <entry>mycenter</entry>
@@ -844,6 +845,8 @@
         <entry>应发货</entry>
         <entry>earlyEnd</entry>
         <entry>post</entry>
+        <entry>Upload</entry>
+        <entry>uploadData</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1wqXCovXCpcKiAvZw==</entry>
