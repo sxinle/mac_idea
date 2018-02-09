@@ -83,8 +83,8 @@
         <mark key="." line="39" column="64" />
         <mark key="^" line="39" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/impl/TrayServiceImpl.java" timestamp="1518169960366">
-        <mark key="'" line="161" column="23" />
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/impl/TrayServiceImpl.java" timestamp="1518177123048">
+        <mark key="'" line="160" column="13" />
         <mark key="[" line="161" column="11" />
         <mark key="]" line="161" column="11" />
         <mark key="." line="161" column="11" />
@@ -123,6 +123,9 @@
         <mark key="]" line="103" column="0" />
         <mark key="." line="103" column="0" />
         <mark key="^" line="102" column="22" />
+      </file>
+      <file name="/TrayServiceImpl.java" timestamp="1518177106623">
+        <mark key="'" line="160" column="11" />
       </file>
       <file name="/reportOrder.scala.html" timestamp="1518154367948">
         <mark key="[" line="552" column="0" />
@@ -259,7 +262,7 @@
         <mark key="." line="179" column="5" />
         <mark key="^" line="179" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/impl/InventoryServiceImpl.java" timestamp="1518169868366">
+      <file name="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/impl/InventoryServiceImpl.java" timestamp="1518177286599">
         <mark key="[" line="295" column="11" />
         <mark key="]" line="295" column="11" />
         <mark key="." line="295" column="11" />
@@ -607,7 +610,7 @@
         <mark key="[" line="89" column="0" />
         <mark key="]" line="89" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518169989370">
+      <file name="/Dummy.txt" timestamp="1518177138592">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver-core/3.4.1/mongodb-driver-core-3.4.1-sources.jar!/com/mongodb/connection/DefaultClusterFactory.java" timestamp="1517994586134">
@@ -668,9 +671,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/paperOrderDetail.scala.html" />
-      <jump line="104" column="18" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/paperOrderDetail.scala.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/paperOrderDetailNew.scala.html" />
       <jump line="104" column="8" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/paperOrderDetailNew.scala.html" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/paperOrderNew.scala.html" />
       <jump line="43" column="8" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/paperOrderNew.scala.html" />
@@ -760,7 +760,6 @@
       <jump line="44" column="19" filename="$USER_HOME$/workspace/demo/zest/pom.xml" />
       <jump line="85" column="25" filename="$USER_HOME$/workspace/demo/zest/pom.xml" />
       <jump line="86" column="24" filename="$USER_HOME$/workspace/demo/zest/pom.xml" />
-      <jump line="161" column="23" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/impl/TrayServiceImpl.java" />
       <jump line="45" column="65" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/InventoryService.java" />
       <jump line="230" column="13" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/InventoryService.java" />
       <jump line="233" column="15" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/InventoryService.java" />
@@ -768,6 +767,10 @@
       <jump line="210" column="0" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/InventoryService.java" />
       <jump line="160" column="24" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/InventoryService.java" />
       <jump line="168" column="24" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/InventoryService.java" />
+      <jump line="77" column="4" filename="/TrayServiceImpl.java" />
+      <jump line="160" column="11" filename="/TrayServiceImpl.java" />
+      <jump line="161" column="14" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/impl/TrayServiceImpl.java" />
+      <jump line="160" column="13" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/app/service/impl/TrayServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -780,7 +783,7 @@
         <text encoding="base64">c3luY2hyb25pemVkIA==</text>
       </register>
       <register name="/" type="4">
-        <text>uploadData</text>
+        <text>sync</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzeW5jaHJvbml6ZWQgU3RyaW5nIGFkZFRyYXlJbmZvKFN0cmluZ1tdIGNvZGVBcnIpIHRocm93cyBFeGNlcHRpb24gewo=</text>
@@ -817,9 +820,9 @@
       </register>
     </registers>
     <search>
-      <last-search>uploadData</last-search>
+      <last-search>sync</last-search>
       <last-offset />
-      <last-pattern>uploadData</last-pattern>
+      <last-pattern>sync</last-pattern>
       <last-replace />
       <last-substitute>@*</last-substitute>
       <last-dir>1</last-dir>
@@ -827,7 +830,6 @@
     </search>
     <history>
       <history-search>
-        <entry>单价</entry>
         <entry>友和利德</entry>
         <entry>mycenter</entry>
         <entry>isModi</entry>
@@ -847,6 +849,7 @@
         <entry>post</entry>
         <entry>Upload</entry>
         <entry>uploadData</entry>
+        <entry>sync</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1wqXCovXCpcKiAvZw==</entry>
