@@ -274,8 +274,8 @@
         <mark key="." line="250" column="0" />
         <mark key="^" line="130" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/anti_online_reset/conf/routes" timestamp="1518342616857">
-        <mark key="'" line="483" column="111" />
+      <file name="$USER_HOME$/workspace/jinhui/anti_online_reset/conf/routes" timestamp="1518344510408">
+        <mark key="'" line="508" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/orderDispatchDetail.scala.html" timestamp="1518153660911">
         <mark key="'" line="100" column="26" />
@@ -381,19 +381,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="24" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/statisticsOrder.scala.html" />
-      <jump line="119" column="18" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/statisticsOrder.scala.html" />
-      <jump line="125" column="22" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/statisticsOrder.scala.html" />
-      <jump line="129" column="22" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/statisticsOrder.scala.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/sql/user.xml" />
-      <jump line="49" column="48" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/sql_update/alterDB.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/config.properties" />
-      <jump line="120" column="14" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
-      <jump line="274" column="100" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
-      <jump line="275" column="100" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
-      <jump line="276" column="100" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
-      <jump line="277" column="100" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
-      <jump line="278" column="100" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
       <jump line="279" column="100" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
       <jump line="273" column="2" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
       <jump line="21" column="26" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/public/statics/commonHeader.js" />
@@ -481,6 +468,19 @@
       <jump line="49" column="0" filename="$USER_HOME$/workspace/jinhui/anti_online_reset/app/controllers/statistics/StatisticsInventoryController.java" />
       <jump line="539" column="0" filename="$USER_HOME$/workspace/jinhui/anti_online_reset/app/controllers/statistics/StatisticsInventoryController.java" />
       <jump line="483" column="111" filename="$USER_HOME$/workspace/jinhui/anti_online_reset/conf/routes" />
+      <jump line="333" column="45" filename="$USER_HOME$/workspace/jinhui/anti_online_reset/conf/routes" />
+      <jump line="372" column="93" filename="$USER_HOME$/workspace/jinhui/anti_online_reset/conf/routes" />
+      <jump line="463" column="103" filename="$USER_HOME$/workspace/jinhui/anti_online_reset/conf/routes" />
+      <jump line="465" column="103" filename="$USER_HOME$/workspace/jinhui/anti_online_reset/conf/routes" />
+      <jump line="493" column="87" filename="$USER_HOME$/workspace/jinhui/anti_online_reset/conf/routes" />
+      <jump line="501" column="1" filename="$USER_HOME$/workspace/jinhui/anti_online_reset/conf/routes" />
+      <jump line="502" column="92" filename="$USER_HOME$/workspace/jinhui/anti_online_reset/conf/routes" />
+      <jump line="503" column="92" filename="$USER_HOME$/workspace/jinhui/anti_online_reset/conf/routes" />
+      <jump line="504" column="92" filename="$USER_HOME$/workspace/jinhui/anti_online_reset/conf/routes" />
+      <jump line="505" column="92" filename="$USER_HOME$/workspace/jinhui/anti_online_reset/conf/routes" />
+      <jump line="506" column="92" filename="$USER_HOME$/workspace/jinhui/anti_online_reset/conf/routes" />
+      <jump line="507" column="92" filename="$USER_HOME$/workspace/jinhui/anti_online_reset/conf/routes" />
+      <jump line="508" column="9" filename="$USER_HOME$/workspace/jinhui/anti_online_reset/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -493,7 +493,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>makecode</text>
+        <text>pda</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb25nIHN0YXJ0ID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7CiAgICAgICAgTGlzdDxNYXA8U3RyaW5nLCBPYmplY3Q+PiByZXN1bHRMaXN0ID0gZGFvLnF1ZXJ5Rm9yTGlzdChTRUxFQ1RfVFJBWUZMT1dMSVNULCBwYXJhbU1hcCk7CiAgICAgICAgbG9uZyBlbmQgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgICAgICBMb2dnZXIuZXJyb3IoImdldFRyYXlEZXRhaWxJbmZvIOaJp+ihjOaXtumXtO+8miIgKyAoZW5kIC0gc3RhcnQpICsgIm1zIik7Cg==</text>
@@ -530,9 +530,9 @@
       </register>
     </registers>
     <search>
-      <last-search>makecode</last-search>
+      <last-search>pda</last-search>
       <last-offset />
-      <last-pattern>makecode</last-pattern>
+      <last-pattern>pda</last-pattern>
       <last-replace />
       <last-substitute>@*</last-substitute>
       <last-dir>1</last-dir>
@@ -540,7 +540,6 @@
     </search>
     <history>
       <history-search>
-        <entry>生成</entry>
         <entry>part</entry>
         <entry>mycent</entry>
         <entry>应发货</entry>
@@ -560,6 +559,7 @@
         <entry encoding="base64">XDxjdXN0U3RvcmFnZUlzU3luY1w+</entry>
         <entry>ckSum</entry>
         <entry>makecode</entry>
+        <entry>pda</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1wqXCovXCpcKiAvZw==</entry>
