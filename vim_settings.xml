@@ -339,7 +339,7 @@
         <mark key="." line="93" column="5" />
         <mark key="^" line="93" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518411444826">
+      <file name="/Dummy.txt" timestamp="1518414606507">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver-core/3.4.1/mongodb-driver-core-3.4.1-sources.jar!/com/mongodb/connection/DefaultClusterFactory.java" timestamp="1517994586134">
@@ -386,6 +386,13 @@
         <mark key="^" line="91" column="5" />
         <mark key="." line="91" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" timestamp="1518414756925">
+        <mark key="'" line="184" column="0" />
+        <mark key="[" line="185" column="80" />
+        <mark key="]" line="185" column="81" />
+        <mark key="." line="185" column="81" />
+        <mark key="^" line="185" column="81" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/sync_data/app/ProducerAntiOrPrize.java" timestamp="1518411371103">
         <mark key="'" line="76" column="44" />
       </file>
@@ -404,10 +411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="23" filename="$USER_HOME$/workspace/demo/zest/src/main/java/FtpUpload.java" />
-      <jump line="9" column="38" filename="$USER_HOME$/workspace/demo/zest/src/main/java/FtpUpload.java" />
-      <jump line="70" column="26" filename="$USER_HOME$/workspace/jinhui/Gogs/anti/app/util/FtpServerUtil.java" />
-      <jump line="53" column="17" filename="$USER_HOME$/workspace/demo/zest/src/main/java/FtpUpload.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/FtpUpload.java" />
       <jump line="72" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/FtpUpload.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/views/forgotPassword.scala.html" />
@@ -504,6 +507,10 @@
       <jump line="123" column="72" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
       <jump line="128" column="76" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
       <jump line="76" column="44" filename="$USER_HOME$/workspace/jinhui/sync_data/app/ProducerAntiOrPrize.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
+      <jump line="203" column="0" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
+      <jump line="173" column="55" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
+      <jump line="184" column="0" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -513,40 +520,40 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgIjsi</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYmpcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>TreeList</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgcGFja2luZyA9IGdldFByb2R1Y3RzKHByb2R1Y3RJZCkuZ2V0UGFja2luZygpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBwcml6ZWlkcy5mbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHBhY2tpbmc7IGkrKykgewogICAgICAgICAgICByZXN1bHRzLmFkZChvcmdzLnJlbW92ZSgwKSk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJ1cGRhdGUgc2Nhbl9wcml6ZV9kZXRhaWwgc2V0IGFkZGZsYWc9MSBhbmQgcXJjb2RlIik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBSZXN1bHRTZXQK</text>
+        <text encoding="base64">ICAgICAgICBpbnQgcGFja2luZyA9IGdldFByb2R1Y3RzKHByb2R1Y3RJZCkuZ2V0UGFja2luZygpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgcGFjCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5lcnIucHJpbnRsbihjb2RlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBwcml6ZWlkcy5mbwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
