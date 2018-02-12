@@ -49,6 +49,9 @@
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/cart/CartController.java" timestamp="1518155704696">
         <mark key="'" line="106" column="31" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" timestamp="1518400073657">
+        <mark key="'" line="26" column="8" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/Gogs/anti/conf/sql/tray.xml" timestamp="1518323341391">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -88,7 +91,6 @@
         <mark key="." line="21" column="85" />
         <mark key="^" line="21" column="85" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/anti/app/controllers/fake/FakeController.java" timestamp="1518347264540" />
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/sql/user.xml" timestamp="1518154550364">
         <mark key="'" line="0" column="0" />
       </file>
@@ -377,11 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="279" column="100" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
-      <jump line="273" column="2" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/routes" />
-      <jump line="21" column="26" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/public/statics/commonHeader.js" />
-      <jump line="23" column="45" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/public/statics/commonHeader.js" />
-      <jump line="225" column="31" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/public/statics/commonHeader.js" />
       <jump line="230" column="35" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/public/statics/commonHeader.js" />
       <jump line="235" column="35" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/public/statics/commonHeader.js" />
       <jump line="241" column="31" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/public/statics/commonHeader.js" />
@@ -477,6 +474,11 @@
       <jump line="506" column="92" filename="$USER_HOME$/workspace/jinhui/anti_online_reset/conf/routes" />
       <jump line="507" column="92" filename="$USER_HOME$/workspace/jinhui/anti_online_reset/conf/routes" />
       <jump line="508" column="9" filename="$USER_HOME$/workspace/jinhui/anti_online_reset/conf/routes" />
+      <jump line="173" column="29" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
+      <jump line="181" column="21" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
+      <jump line="167" column="34" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
+      <jump line="22" column="24" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
+      <jump line="26" column="8" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -489,7 +491,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>pda</text>
+        <text encoding="base64">XDxjb2xsZWN0aW9uXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb25nIHN0YXJ0ID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7CiAgICAgICAgTGlzdDxNYXA8U3RyaW5nLCBPYmplY3Q+PiByZXN1bHRMaXN0ID0gZGFvLnF1ZXJ5Rm9yTGlzdChTRUxFQ1RfVFJBWUZMT1dMSVNULCBwYXJhbU1hcCk7CiAgICAgICAgbG9uZyBlbmQgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgICAgICBMb2dnZXIuZXJyb3IoImdldFRyYXlEZXRhaWxJbmZvIOaJp+ihjOaXtumXtO+8miIgKyAoZW5kIC0gc3RhcnQpICsgIm1zIik7Cg==</text>
@@ -526,9 +528,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pda</last-search>
+      <last-search encoding="base64">XDxjb2xsZWN0aW9uXD4=</last-search>
       <last-offset />
-      <last-pattern>pda</last-pattern>
+      <last-pattern encoding="base64">XDxjb2xsZWN0aW9uXD4=</last-pattern>
       <last-replace />
       <last-substitute>@*</last-substitute>
       <last-dir>1</last-dir>
@@ -536,8 +538,6 @@
     </search>
     <history>
       <history-search>
-        <entry>part</entry>
-        <entry>mycent</entry>
         <entry>应发货</entry>
         <entry>earlyEnd</entry>
         <entry>post</entry>
@@ -556,6 +556,8 @@
         <entry>ckSum</entry>
         <entry>makecode</entry>
         <entry>pda</entry>
+        <entry>update</entry>
+        <entry encoding="base64">XDxjb2xsZWN0aW9uXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1wqXCovXCpcKiAvZw==</entry>
