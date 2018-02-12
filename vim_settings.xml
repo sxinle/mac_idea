@@ -47,6 +47,9 @@
         <mark key="." line="7" column="48" />
         <mark key="^" line="7" column="48" />
       </file>
+      <file name="/a.dummy" timestamp="1518440593837">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/anti_online_reset/app/controllers/statistics/StatisticsInventoryController.java" timestamp="1518342606740">
         <mark key="'" line="539" column="0" />
       </file>
@@ -106,12 +109,12 @@
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/sql/user.xml" timestamp="1518154550364">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/zest/src/main/java/PrizeDiff.java" timestamp="1518439489349">
+      <file name="$USER_HOME$/workspace/demo/zest/src/main/java/PrizeDiff.java" timestamp="1518440241082">
         <mark key="'" line="19" column="39" />
-        <mark key="[" line="19" column="38" />
-        <mark key="]" line="19" column="41" />
-        <mark key="." line="19" column="41" />
-        <mark key="^" line="19" column="41" />
+        <mark key="[" line="19" column="30" />
+        <mark key="]" line="19" column="30" />
+        <mark key="." line="19" column="30" />
+        <mark key="^" line="19" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/tequhongci180205/特曲红瓷46度.java" timestamp="1517817296059">
         <mark key="'" line="44" column="4" />
@@ -126,6 +129,12 @@
         <mark key="]" line="153" column="37" />
         <mark key="." line="153" column="37" />
         <mark key="^" line="153" column="37" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/zest/src/main/java/Prize483.java" timestamp="1518441354578">
+        <mark key="[" line="36" column="101" />
+        <mark key="]" line="36" column="103" />
+        <mark key="." line="36" column="103" />
+        <mark key="^" line="36" column="103" />
       </file>
       <file name="$USER_HOME$/workspace/demo/zest/src/main/java/导入经销商.java" timestamp="1517470716475">
         <mark key="'" line="0" column="0" />
@@ -531,40 +540,40 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>int</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>System.out</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIuabtOaWsCIgKyBjbnQxKTsK</text>
+      <register name="0" type="4">
+        <text>SELECT qrcode FROM scan_prize_detail WHERE qrcode IS NOT NULL AND scanflag=0 AND scanid=483 ORDER BY prizeid DESC LIMIT 1000</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU291bmRiYW4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vc3RhdGljIGludCBwcm9kdWN0SWQgPSAyMTI7CiAgICAvL3N0YXRpYyBpbnQgc2NhbklkICAgID0gOTIyOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9TeXN0ZW0ub3V0LnByaW50bG4oaSsrKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdGF0ZW1lbnQgcyA9IGNvbm4uY3JlYXRlU3RhdGVtZW50KCk7CiAgICAgICAgU3RyaW5nIHNxbCA9ICJTRUxFQ1QgcXJjb2RlIEZST00gc2Nhbl9wcml6ZV9kZXRhaWwgV0hFUkUgcXJjb2RlIElTIE5PVCBOVUxMIEFORCBzY2FuZmxhZz0wIEFORCBzY2FuaWQ9NDgzIE9SREVSIEJZIHByaXplaWQgREVTQyBMSU1JVCAxMDAwIjsKICAgICAgICBSZXN1bHRTZXQgcnMgPSBzLmV4ZWN1dGVRdWVyeShzcWwpOwoKICAgICAgICB3aGlsZSAocnMubmV4dCgpKSB7CiAgICAgICAgICAgIFN0cmluZyBxcmNvZGUgPSBycy5nZXRTdHJpbmcoInFyY29kZSIpOwogICAgICAgICAgICBEb2N1bWVudCBkb2MgPSBuZXcgRG9jdW1lbnQoImNvZGUiLCBxcmNvZGUpOwoKICAgICAgICAgICAgTW9uZ29DdXJzb3IgY3Vyc29yID0gY29sbC5maW5kKGRvYykuaXRlcmF0b3IoKTsKICAgICAgICAgICAgd2hpbGUgKGN1cnNvci5oYXNOZXh0KCkpIHsKICAgICAgICAgICAgICAgIERvY3VtZW50IGRvY3VtZW50ID0gKERvY3VtZW50KSBjdXJzb3IubmV4dCgpOwogICAgICAgICAgICAgICAgaWYgKCFkb2N1bWVudC5nZXQoInByb2R1Y3RJZCIpLnRvU3RyaW5nKCkuZXF1YWxzKCI0NSIpKSB7CiAgICAgICAgICAgICAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKHFyY29kZSArICItLS0tIiArIGRvY3VtZW50LmdldCgicHJvZHVjdElkIikpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHFyY29kZSA9IHJzLmdldFN0cmluZygicXJjb2RlIik7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC8vc3RhdGljIGludCBwcm9kdWN0SWQgPSAyMjE7CiAgICAvL3N0YXRpYyBpbnQgc2NhbklkICAgID0gOTgxOy8vIDQ254m55puyCgogICAgLy9zdGF0aWMgaW50IHByb2R1Y3RJZCA9IDIxMTsKICAgIC8vc3RhdGljIGludCBzY2FuSWQgICAgPSA5NDI7Ly8g5LqU5pifNDLluqYgMTYxMDQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihuKyspOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaW50IG4gPSAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
