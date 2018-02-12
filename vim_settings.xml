@@ -106,11 +106,12 @@
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/conf/sql/user.xml" timestamp="1518154550364">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/zest/src/main/java/PrizeDiff.java" timestamp="1518407657479">
-        <mark key="[" line="20" column="29" />
-        <mark key="]" line="20" column="40" />
-        <mark key="." line="20" column="40" />
-        <mark key="^" line="20" column="40" />
+      <file name="$USER_HOME$/workspace/demo/zest/src/main/java/PrizeDiff.java" timestamp="1518409331967">
+        <mark key="'" line="46" column="49" />
+        <mark key="[" line="64" column="16" />
+        <mark key="]" line="64" column="16" />
+        <mark key="." line="64" column="16" />
+        <mark key="^" line="64" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/tequhongci180205/特曲红瓷46度.java" timestamp="1517817296059">
         <mark key="'" line="44" column="4" />
@@ -392,12 +393,14 @@
         <mark key="." line="163" column="5" />
         <mark key="^" line="163" column="5" />
       </file>
+      <file name="/fragment.java" timestamp="1518408344146">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/Gogs/anti_online_reset/conf/routes" timestamp="1518318981083">
         <mark key="'" line="400" column="110" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="3" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/controllers/mycenter/MyCenterController.java" />
       <jump line="106" column="31" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/cart/CartController.java" />
       <jump line="81" column="52" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/service/impl/DistributeServiceImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/service/impl/PayServiceImpl.java" />
@@ -497,6 +500,7 @@
       <jump line="92" column="28" filename="$USER_HOME$/workspace/demo/zest/pom.xml" />
       <jump line="91" column="24" filename="$USER_HOME$/workspace/demo/zest/pom.xml" />
       <jump line="90" column="25" filename="$USER_HOME$/workspace/demo/zest/pom.xml" />
+      <jump line="40" column="49" filename="$USER_HOME$/workspace/demo/zest/src/main/java/PrizeDiff.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -506,44 +510,40 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>SortedList</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>mongo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLm1vbmdvZGI8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPm1vbmdvZGItZHJpdmVyPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4zLjQuMTwvdmVyc2lvbj4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
+      <register name="0" type="4">
+        <text>TreeList</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsID0gImpkYmM6cG9zdGdyZXNxbDovL2xvY2FsaG9zdDo1NDM0L2poX3Byb2QiOwogICAgICAgIGNvbm4gPSBEcml2ZXJNYW5hZ2VyLmdldENvbm5lY3Rpb24odXJsLCAiamhfcHJvZCIsICJqaF9wcm9kMTIzIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb2xsZWN0aW9ucy5zb3J0KHByaXplQ29kZXMpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>catch (IllegalAccessException e) {
-            e.printStackTrace();
-        } catch (ClassNotFoundException e) {
-            e.printStackTrace();
-        }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDbGFzcy5mb3JOYW1lKCJvcmcucG9zdGdyZXNxbC5Ecml2ZXIiKS5uZXdJbnN0YW5jZSgpOwogICAgICAgIFN0cmluZyB1cmwgPSAiamRiYzpwb3N0Z3Jlc3FsOi8vbG9jYWxob3N0OjU0MzQvamhfcHJvZCI7CiAgICAgICAgY29ubiA9IERyaXZlck1hbmFnZXIuZ2V0Q29ubmVjdGlvbih1cmwsICJqaF9wcm9kIiwgImpoX3Byb2QxMjMiKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnJlYWs7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0aWMgQ29ubmVjdGlvbiBjb25uID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKGN1cnNvci5uZXh0KCkpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LS0gCQkJCQkJCSAgIEFORCBULnRyYXljb2RlIGluIChTRUxFQ1QgdHJheWNvZGUgRlJPTSB0cmF5X2luZm8gV0hFUkUgZmxvd0NvZGUgPSN7Zmxvd2NvZGV9KQo=</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeS5wdXQoInN5bmNGbGFnIiwgIjMiKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LS0gCQkJCQkJCQlBTkQgVC50cmF5Y29kZSA9ICN7dHJheWNvZGV9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb2xsLmZpbmQoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PE1hcDxTdHJpbmcsIE9iamVjdD4+IHJlc3VsdExpc3QgPSBkYW8ucXVlcnlGb3JMaXN0KFNFTEVDVF9UUkFZRkxPV0xJU1QsIHBhcmFtTWFwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBrCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
