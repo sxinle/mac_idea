@@ -49,8 +49,8 @@
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/controllers/cart/CartController.java" timestamp="1518155704696">
         <mark key="'" line="106" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" timestamp="1518400073657">
-        <mark key="'" line="26" column="8" />
+      <file name="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" timestamp="1518400520732">
+        <mark key="'" line="180" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/Gogs/anti/conf/sql/tray.xml" timestamp="1518323341391">
         <mark key="[" line="31" column="0" />
@@ -367,6 +367,7 @@
         <mark key="^" line="91" column="5" />
         <mark key="." line="91" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" timestamp="1518400838443" />
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/financeDetail.scala.html" timestamp="1518153173365">
         <mark key="'" line="106" column="25" />
         <mark key="[" line="163" column="4" />
@@ -379,10 +380,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="230" column="35" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/public/statics/commonHeader.js" />
-      <jump line="235" column="35" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/public/statics/commonHeader.js" />
-      <jump line="241" column="31" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/public/statics/commonHeader.js" />
-      <jump line="245" column="31" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/public/statics/commonHeader.js" />
       <jump line="253" column="31" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/public/statics/commonHeader.js" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/public/statics/dispatchDetail.js" />
       <jump line="117" column="46" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/public/statics/dispatchDetail.js" />
@@ -474,11 +471,15 @@
       <jump line="506" column="92" filename="$USER_HOME$/workspace/jinhui/anti_online_reset/conf/routes" />
       <jump line="507" column="92" filename="$USER_HOME$/workspace/jinhui/anti_online_reset/conf/routes" />
       <jump line="508" column="9" filename="$USER_HOME$/workspace/jinhui/anti_online_reset/conf/routes" />
-      <jump line="173" column="29" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
-      <jump line="181" column="21" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
       <jump line="167" column="34" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
       <jump line="22" column="24" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
       <jump line="26" column="8" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
+      <jump line="173" column="29" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
+      <jump line="163" column="21" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
+      <jump line="181" column="82" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
+      <jump line="159" column="17" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
+      <jump line="168" column="16" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
+      <jump line="180" column="54" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -491,7 +492,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb2xsZWN0aW9uXD4=</text>
+        <text encoding="base64">XDxvYmpfYm94XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBsb25nIHN0YXJ0ID0gU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7CiAgICAgICAgTGlzdDxNYXA8U3RyaW5nLCBPYmplY3Q+PiByZXN1bHRMaXN0ID0gZGFvLnF1ZXJ5Rm9yTGlzdChTRUxFQ1RfVFJBWUZMT1dMSVNULCBwYXJhbU1hcCk7CiAgICAgICAgbG9uZyBlbmQgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsKICAgICAgICBMb2dnZXIuZXJyb3IoImdldFRyYXlEZXRhaWxJbmZvIOaJp+ihjOaXtumXtO+8miIgKyAoZW5kIC0gc3RhcnQpICsgIm1zIik7Cg==</text>
@@ -528,9 +529,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb2xsZWN0aW9uXD4=</last-search>
+      <last-search encoding="base64">XDxvYmpfYm94XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb2xsZWN0aW9uXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxvYmpfYm94XD4=</last-pattern>
       <last-replace />
       <last-substitute>@*</last-substitute>
       <last-dir>1</last-dir>
@@ -538,7 +539,6 @@
     </search>
     <history>
       <history-search>
-        <entry>应发货</entry>
         <entry>earlyEnd</entry>
         <entry>post</entry>
         <entry>Upload</entry>
@@ -558,6 +558,7 @@
         <entry>pda</entry>
         <entry>update</entry>
         <entry encoding="base64">XDxjb2xsZWN0aW9uXD4=</entry>
+        <entry encoding="base64">XDxvYmpfYm94XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1wqXCovXCpcKiAvZw==</entry>
