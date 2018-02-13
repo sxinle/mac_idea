@@ -62,11 +62,6 @@
         <mark key="]" line="90" column="31" />
         <mark key="." line="90" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/Gogs/anti/conf/sql/tray.xml" timestamp="1518323341391">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/logisticsStatistics.scala.html" timestamp="1518153531208">
         <mark key="'" line="69" column="7" />
         <mark key="[" line="126" column="0" />
@@ -88,11 +83,15 @@
         <mark key="." line="103" column="5" />
         <mark key="^" line="103" column="5" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" timestamp="1518489449089">
+        <mark key="'" line="82" column="56" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-forms/pom.xml" timestamp="1518407772884">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="29" column="0" />
         <mark key="]" line="33" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/pointshub/app/util/CommonSend.java" timestamp="1518489600957" />
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/public/statics/dispatchDetail.js" timestamp="1518154952794">
         <mark key="'" line="135" column="43" />
       </file>
@@ -193,6 +192,9 @@
         <mark key="]" line="210" column="5" />
         <mark key="." line="210" column="5" />
         <mark key="^" line="210" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/pointshub/app/service/impl/DownLoadFileServiceImpl.java" timestamp="1518489522384">
+        <mark key="'" line="10" column="15" />
       </file>
       <file name="$USER_HOME$/a/service/impl/SingleInventoryServiceImpl.class" timestamp="1518316342998">
         <mark key="'" line="86" column="71" />
@@ -308,6 +310,7 @@
       <file name="$USER_HOME$/workspace/jinhui/anti_online_reset/conf/routes" timestamp="1518344510408">
         <mark key="'" line="508" column="9" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/pointshub/app/util/MongodbPool.java" timestamp="1518489648530" />
       <file name="$USER_HOME$/workspace/jinhui/Bitbucket/order-producer/app/views/orderDispatchDetail.scala.html" timestamp="1518153660911">
         <mark key="'" line="100" column="26" />
         <mark key="[" line="181" column="4" />
@@ -353,7 +356,7 @@
         <mark key="." line="93" column="5" />
         <mark key="^" line="93" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1518489356257">
+      <file name="/Dummy.txt" timestamp="1518489431786">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver-core/3.4.1/mongodb-driver-core-3.4.1-sources.jar!/com/mongodb/connection/DefaultClusterFactory.java" timestamp="1517994586134">
@@ -433,9 +436,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="295" column="22" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/views/orderDetail.scala.html" />
-      <jump line="305" column="50" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/views/orderDetail.scala.html" />
-      <jump line="26" column="5" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/views/orderDetail.scala.html" />
       <jump line="187" column="16" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/views/orderDetail.scala.html" />
       <jump line="190" column="54" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/views/orderDetail.scala.html" />
       <jump line="25" column="19" filename="$USER_HOME$/workspace/jinhui/Bitbucket/order-dealer/app/views/orderSummary.scala.html" />
@@ -533,6 +533,9 @@
       <jump line="23" column="57" filename="$USER_HOME$/workspace/demo/zest/src/main/java/PrizeDiff.java" />
       <jump line="19" column="39" filename="$USER_HOME$/workspace/demo/zest/src/main/java/PrizeDiff.java" />
       <jump line="20" column="38" filename="$USER_HOME$/workspace/demo/zest/src/main/java/PrizeDiff.java" />
+      <jump line="82" column="56" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" />
+      <jump line="25" column="48" filename="$USER_HOME$/workspace/jinhui/pointshub/app/service/impl/DownLoadFileServiceImpl.java" />
+      <jump line="10" column="15" filename="$USER_HOME$/workspace/jinhui/pointshub/app/service/impl/DownLoadFileServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -545,7 +548,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>System.out</text>
+        <text encoding="base64">XDxEb3duTG9hZEZpbGVTZXJ2aWNlXD4=</text>
       </register>
       <register name="0" type="4">
         <text>SELECT qrcode FROM scan_prize_detail WHERE qrcode IS NOT NULL AND scanflag=0 AND scanid=483 ORDER BY prizeid DESC LIMIT 1000</text>
@@ -582,17 +585,16 @@
       </register>
     </registers>
     <search>
-      <last-search>System.out</last-search>
+      <last-search encoding="base64">XDxEb3duTG9hZEZpbGVTZXJ2aWNlXD4=</last-search>
       <last-offset />
-      <last-pattern>System.out</last-pattern>
+      <last-pattern encoding="base64">XDxEb3duTG9hZEZpbGVTZXJ2aWNlXD4=</last-pattern>
       <last-replace />
       <last-substitute>@*</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>detail</entry>
         <entry>synchro</entry>
         <entry>Detail</entry>
         <entry>uoploadData</entry>
@@ -612,6 +614,7 @@
         <entry>prizeFla</entry>
         <entry encoding="base64">XDxkYmpcPg==</entry>
         <entry>System.out</entry>
+        <entry encoding="base64">XDxEb3duTG9hZEZpbGVTZXJ2aWNlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1wqXCovXCpcKiAvZw==</entry>
