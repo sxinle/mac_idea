@@ -31,7 +31,13 @@
       <file name="$USER_HOME$/workspace/jinhui/crm/public/statics/app/controller/ProductController.js" timestamp="1519354931278">
         <mark key="'" line="40" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/pointshub/app/views/console/awardOrder.scala.html" timestamp="1519366999508" />
+      <file name="$USER_HOME$/workspace/jinhui/pointshub/app/views/console/awardOrder.scala.html" timestamp="1519370703425">
+        <mark key="'" line="219" column="21" />
+        <mark key="[" line="332" column="44" />
+        <mark key="]" line="332" column="43" />
+        <mark key="." line="332" column="43" />
+        <mark key="^" line="332" column="43" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/pointshub/app/models/WeixinUserinfo.java" timestamp="1519368737753" />
       <file name="$USER_HOME$/workspace/jinhui/pointshub/conf/application-context.xml" timestamp="1519370313173">
         <mark key="[" line="83" column="54" />
@@ -50,13 +56,14 @@
       <file name="$USER_HOME$/workspace/jinhui/crm/public/statics/app/view/panel/customer/CusTreeView.js" timestamp="1519370102334">
         <mark key="'" line="53" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/WeixinPrizeController.java" timestamp="1519369666484">
+      <file name="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/WeixinPrizeController.java" timestamp="1519371239952">
         <mark key="'" line="256" column="16" />
-        <mark key="[" line="224" column="0" />
-        <mark key="]" line="224" column="0" />
+        <mark key="[" line="277" column="19" />
+        <mark key="]" line="277" column="19" />
         <mark key="^" line="224" column="11" />
-        <mark key="." line="224" column="0" />
+        <mark key="." line="277" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/pointshub/app/service/impl/AwardOrderServiceImpl.java" timestamp="1519370735833" />
       <file name="$USER_HOME$/workspace/jinhui/crm/public/statics/app/view/form/customer/modCustomerForm.js" timestamp="1519370177478">
         <mark key="'" line="3" column="19" />
         <mark key="[" line="521" column="17" />
@@ -64,14 +71,19 @@
         <mark key="^" line="521" column="20" />
         <mark key="." line="521" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/pointshub/app/service/AwardOrderService.java" timestamp="1519370739741" />
       <file name="/sbtShell" timestamp="1519369878182">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/pointshub/app/util/redpack/bean/WechatRedPackResponse.java" timestamp="1519369462789" />
-      <file name="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" timestamp="1519369684364">
-        <mark key="'" line="210" column="134" />
+      <file name="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" timestamp="1519371098765">
+        <mark key="'" line="342" column="130" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/pointshub/app/util/redpack/OAuth2.java" timestamp="1519368601817" />
+      <file name="/Dummy.txt" timestamp="1519370740243">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/EventController.java" timestamp="1519369650054" />
       <file name="$USER_HOME$/workspace/jinhui/crm/public/statics/app/controller/CusTreeController.js" timestamp="1519370193849">
         <mark key="'" line="1057" column="0" />
@@ -83,26 +95,14 @@
       <file name="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/ScanController.java" timestamp="1519369700209">
         <mark key="'" line="456" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/pointshub/conf/sql/AwardOrder.xml" timestamp="1519370771448">
+        <mark key="'" line="12" column="42" />
+      </file>
       <file name="/fragment.java" timestamp="1519289344165">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="140" column="5" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
-      <jump line="145" column="16" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
-      <jump line="162" column="129" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
-      <jump line="191" column="122" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
-      <jump line="84" column="124" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
-      <jump line="85" column="124" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
-      <jump line="38" column="19" filename="$USER_HOME$/workspace/jinhui/order-producer/public/statics/commonHeader.js" />
-      <jump line="40" column="42" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app/controller/ProductController.js" />
-      <jump line="24" column="4" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app/controller/CusTreeController.js" />
-      <jump line="455" column="56" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app/controller/CusTreeController.js" />
-      <jump line="487" column="32" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app/controller/CusTreeController.js" />
-      <jump line="493" column="30" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app/controller/CusTreeController.js" />
-      <jump line="494" column="15" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app/controller/CusTreeController.js" />
-      <jump line="431" column="31" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app/controller/CusTreeController.js" />
       <jump line="103" column="25" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app/view/panel/customer/CusTreeView.js" />
       <jump line="476" column="37" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app/view/panel/customer/CusTreeView.js" />
       <jump line="497" column="89" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app/view/panel/customer/CusTreeView.js" />
@@ -158,8 +158,6 @@
       <jump line="42" column="46" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
       <jump line="23" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
       <jump line="0" column="2" filename="/Dummy.txt" />
-      <jump line="371" column="38" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
-      <jump line="370" column="145" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
       <jump line="262" column="6" filename="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/ScanController.java" />
       <jump line="220" column="15" filename="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/WeixinPrizeController.java" />
       <jump line="231" column="20" filename="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/WeixinPrizeController.java" />
@@ -172,7 +170,6 @@
       <jump line="456" column="28" filename="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/ScanController.java" />
       <jump line="83" column="36" filename="$USER_HOME$/workspace/jinhui/pointshub/app/views/mobCalls.scala.html" />
       <jump line="593" column="16" filename="$USER_HOME$/workspace/jinhui/pointshub/app/views/mobCalls.scala.html" />
-      <jump line="337" column="134" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
       <jump line="210" column="134" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
       <jump line="1044" column="34" filename="$USER_HOME$/workspace/jinhui/pointshub/app/views/mobCalls.scala.html" />
       <jump line="0" column="76" filename="$USER_HOME$/workspace/jinhui/pointshub/app/views/mobCalls.scala.html" />
@@ -188,6 +185,24 @@
       <jump line="3" column="19" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app/view/form/customer/modCustomerForm.js" />
       <jump line="110" column="18" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" />
+      <jump line="122" column="38" filename="$USER_HOME$/workspace/jinhui/pointshub/app/views/console/awardOrder.scala.html" />
+      <jump line="222" column="4" filename="$USER_HOME$/workspace/jinhui/pointshub/app/views/console/awardOrder.scala.html" />
+      <jump line="225" column="4" filename="$USER_HOME$/workspace/jinhui/pointshub/app/views/console/awardOrder.scala.html" />
+      <jump line="230" column="4" filename="$USER_HOME$/workspace/jinhui/pointshub/app/views/console/awardOrder.scala.html" />
+      <jump line="92" column="34" filename="$USER_HOME$/workspace/jinhui/pointshub/app/views/console/awardOrder.scala.html" />
+      <jump line="334" column="54" filename="$USER_HOME$/workspace/jinhui/pointshub/app/views/console/awardOrder.scala.html" />
+      <jump line="411" column="62" filename="$USER_HOME$/workspace/jinhui/pointshub/app/views/console/awardOrder.scala.html" />
+      <jump line="504" column="23" filename="$USER_HOME$/workspace/jinhui/pointshub/app/views/console/awardOrder.scala.html" />
+      <jump line="219" column="21" filename="$USER_HOME$/workspace/jinhui/pointshub/app/views/console/awardOrder.scala.html" />
+      <jump line="337" column="133" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
+      <jump line="344" column="124" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
+      <jump line="12" column="42" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/sql/AwardOrder.xml" />
+      <jump line="231" column="65" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
+      <jump line="61" column="59" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
+      <jump line="340" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
+      <jump line="371" column="32" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
+      <jump line="370" column="146" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
+      <jump line="342" column="130" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -197,10 +212,10 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>111.4.117.71</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
-        <text>111</text>
+        <text>callback</text>
       </register>
       <register name="0" type="4">
         <text>snsapi_userinfo</text>
@@ -504,9 +519,9 @@
       </register>
     </registers>
     <search>
-      <last-search>111</last-search>
+      <last-search>callback</last-search>
       <last-offset />
-      <last-pattern>111</last-pattern>
+      <last-pattern>callback</last-pattern>
       <last-replace />
       <last-substitute>@*</last-substitute>
       <last-dir>1</last-dir>
@@ -514,14 +529,6 @@
     </search>
     <history>
       <history-search>
-        <entry>确认</entry>
-        <entry encoding="base64">XDxwZXJtaXNzaW9uX3Nob3dcPg==</entry>
-        <entry encoding="base64">XDxjaGFuZ2VCdXR0b25cPg==</entry>
-        <entry encoding="base64">XDxDdXNUcmVlVmlld1w+</entry>
-        <entry encoding="base64">XDxwcm9kdWN0cHJpY2VcPg==</entry>
-        <entry encoding="base64">XDx1bmRlZmluZWRcPg==</entry>
-        <entry encoding="base64">XDxtb2RfZm9ybVw+</entry>
-        <entry>redpack</entry>
         <entry encoding="base64">XDxqYXZhXD4=</entry>
         <entry>weixin\/prize</entry>
         <entry>hongBaoFlag</entry>
@@ -534,6 +541,14 @@
         <entry encoding="base64">XDxob25nQmFvXD4=</entry>
         <entry>修改</entry>
         <entry>111</entry>
+        <entry>已发货</entry>
+        <entry encoding="base64">XDxjaG9vc2VPYmpcPg==</entry>
+        <entry>确认发货</entry>
+        <entry>awardOrder</entry>
+        <entry>selStatus</entry>
+        <entry>wexin</entry>
+        <entry>redpack</entry>
+        <entry>callback</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0pTT05PYmplY3QvSnNvbk9iamVjdC9n</entry>
