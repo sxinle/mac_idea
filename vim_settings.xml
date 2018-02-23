@@ -18,9 +18,11 @@
         <mark key="^" line="102" column="47" />
         <mark key="." line="102" column="47" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/crm/public/statics/app/view/form/customer/modCustomerForm.js" timestamp="1519356036491">
-        <mark key="[" line="7" column="17" />
-        <mark key="]" line="7" column="30" />
+      <file name="$USER_HOME$/workspace/jinhui/crm/public/statics/app/view/form/customer/modCustomerForm.js" timestamp="1519359624577">
+        <mark key="[" line="547" column="48" />
+        <mark key="]" line="547" column="51" />
+        <mark key="^" line="547" column="51" />
+        <mark key="." line="547" column="51" />
       </file>
       <file name="/a.dummy" timestamp="1518440593837">
         <mark key="[" line="0" column="0" />
@@ -246,7 +248,7 @@
         <mark key="." line="181" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/crm/public/statics/app/view/panel/customer/CusTreeView.js" timestamp="1519358245298">
-        <mark key="'" line="638" column="43" />
+        <mark key="'" line="640" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/sql/Common.xml" timestamp="1519290350703">
         <mark key="[" line="4" column="0" />
@@ -375,40 +377,976 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>(箱)</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>修改</text>
       </register>
       <register name="0" type="4">
-        <text>Ext.form.Panel</text>
+        <text>{
+            xtype: 'fieldset',
+            title: '客户信息',
+            autoHeight: true,
+            padding: '0 0 0 50',
+            defaults: {
+                border: false
+            },
+            items: [
+                {
+                    layout: 'hbox',
+                    items: [{
+                        xtype: 'container',
+                        flex: 1,
+                        layout: 'anchor',
+                        items: [
+                            {
+                                xtype: 'textfield',
+                                fieldLabel: '名称',
+                                anchor: '80%',
+                                id: 'mod_custName',
+                                name: 'custName',
+                                allowBlank: false,
+                                readOnly: true,
+                                blankText: &quot;不能为空&quot;,
+                                regex: /^.{0,100}$/,
+                                regexText: '不能大于100个字符或50个汉字'
+                            }, {
+                                xtype: 'textfield',
+                                fieldLabel: '主键',
+                                anchor: '90%',
+                                id: 'mod_custId',
+                                name: 'custId',
+                                hidden: true
+                            },
+                            {
+                                xtype: 'combobox',
+                                fieldLabel: '销售公司',
+                                anchor: '80%',
+                                id: 'mod_slsCompanyCode',
+                                name: 'slsCompanyCode',
+                                store: 'customer.SlsCompanyStore',
+                                valueField: 'id',
+                                displayField: 'name',
+                                typeAhead: true,
+                                forceSelection: true,
+                                allowBlank: false,
+                                queryMode: 'local',
+                                triggerAction: 'all',
+                                emptyText: '请选择销售公司',
+                                blankText: '请选择销售公司',
+                                listeners: {
+                                    select: function () {
+                                        var slsCompanyId = this.getValue();
+                                        //联动销售大区和销售片区
+                                        var slsBigAreaStore = Ext.getCmp('mod_slsBigAreaCode').store;
+                                        var slsSmallAreaStore = Ext.getCmp('mod_slsSmallAreaCode').store;
+                                        slsBigAreaStore.load({
+                                            callback: function (o, response, success) {
+                                                if (success) {
+                                                    if (slsBigAreaStore.getCount()) {
+                                                        var slsBigAreaId = slsBigAreaStore.getAt(0).get('id');
+                                                        Ext.getCmp('mod_slsBigAreaCode').setValue(slsBigAreaId);
+                                                        slsSmallAreaStore.load({
+                                                            callback: function (o, response, success) {
+                                                                if (success) {
+                                                                    if (slsSmallAreaStore.getCount()) {
+                                                                        Ext.getCmp('mod_slsSmallAreaCode').setValue(slsSmallAreaStore.getAt(0).get('id'));
+                                                                    }
+                                                                } else {
+                                                                    window.top.location.href = &quot;/errors&quot;;
+                                                                }
+                                                            },
+                                                            params: {
+                                                                grareaId: slsCompanyId,
+                                                                pareaId: slsBigAreaId
+                                                            }
+                                                        });
+                                                    } else {
+                                                        slsSmallAreaStore.removeAll();
+                                                        Ext.getCmp('mod_slsSmallAreaCode').setValue(&quot;&quot;);
+                                                    }
+                                                } else {
+                                                    window.top.location.href = &quot;/errors&quot;;
+                                                }
+                                            },
+                                            params: {
+                                                pareaId: slsCompanyId
+                                            }
+                                        });
+                                        //联动部门和负责人
+                                        var userStore = Ext.getCmp('mod_userid').store;
+                                        var deptStore = Ext.getCmp('mod_deptCode').store;
+                                        deptStore.load({
+                                            callback: function (o, response, success) {
+                                                if (success) {
+                                                    if (deptStore.getCount()) {
+                                                        var deptId = deptStore.getAt(0).get('deptid');
+                                                        Ext.getCmp('mod_deptCode').setValue(deptId);
+                                                        userStore.load({
+                                                            callback: function (o, response, success) {
+                                                                if (success) {
+                                                                    if (userStore.getCount()) {
+                                                                        Ext.getCmp('mod_userid').setValue(userStore.getAt(0).get('userid'));
+                                                                    }
+                                                                } else {
+                                                                    window.top.location.href = &quot;/errors&quot;;
+                                                                }
+                                                            },
+                                                            params: {
+                                                                deptId: deptId
+                                                            }
+                                                        });
+                                                    } else {
+                                                        userStore.removeAll();
+                                                        Ext.getCmp('mod_userid').setValue(&quot;&quot;);
+                                                    }
+                                                } else {
+                                                    window.top.location.href = &quot;/errors&quot;;
+                                                }
+                                            },
+                                            params: {
+                                                companyId: slsCompanyId
+                                            }
+                                        });
+                                    }
+                                }
+                            },
+                            {
+                                xtype: 'combobox',
+                                fieldLabel: '销售片区',
+                                anchor: '80%',
+                                id: 'mod_slsSmallAreaCode',
+                                name: 'slsSmallAreaCode',
+                                store: 'customer.SlsSmallAreaStore',
+                                valueField: 'id',
+                                displayField: 'name',
+                                typeAhead: true,
+                                forceSelection: true,
+                                allowBlank: false,
+                                queryMode: 'local',
+                                triggerAction: 'all',
+                                emptyText: '请选择销售片区',
+                                blankText: '请选择销售片区'
+                            },
+                            {
+                                xtype: 'combobox',
+                                fieldLabel: '部门',
+                                anchor: '80%',
+                                id: 'mod_deptCode',
+                                name: 'deptCode',
+                                store: 'customer.DeptStore',
+                                valueField: 'deptid',
+                                displayField: 'deptname',
+                                typeAhead: true,
+                                forceSelection: true,
+                                allowBlank: false,
+                                queryMode: 'local',
+                                triggerAction: 'all',
+                                emptyText: '请选择部门',
+                                blankText: '请选择部门',
+                                listeners: {
+                                    select: function () {
+                                        var userStore = Ext.getCmp('mod_userid').store;
+                                        var slsCompanyId = Ext.getCmp('mod_slsCompanyCode').getValue();
+                                        var deptId = this.getValue();
+                                        userStore.load({
+                                            callback: function (o, response, success) {
+                                                if (success) {
+                                                    if (userStore.getCount()) {
+                                                        Ext.getCmp('mod_userid').setValue(mod_userid.getAt(0).get('userid'));
+                                                    }
+                                                } else {
+                                                    window.top.location.href = &quot;/errors&quot;;
+                                                }
+                                            },
+                                            params: {
+                                                deptId: deptId
+                                            }
+                                        });
+                                    }
+                                }
+                            },
+                            {
+                                xtype: 'textfield',
+                                fieldLabel: '联系人',
+                                anchor: '80%',
+                                id: 'mod_legalPerson',
+                                name: 'legalPerson',
+                                allowBlank: false,
+                                blankText: &quot;不能为空&quot;,
+                                regex: /^([\u4e00-\u9fa5]|[A-Za-z0-9.]{1,2}){1,25}$/,
+                                regexText: '不能大于50个字符或25个汉字'
+                            }, {
+                                xtype: 'textfield',
+                                fieldLabel: '手机',
+                                anchor: '80%',
+                                id: 'mod_mobilePhone',
+                                name: 'mobilePhone',
+                                allowBlank: false,
+                                blankText: &quot;不能为空&quot;,
+                                regex: /^0?1[358]\d{9}$/,
+                                regexText: '格式错误,请输入手机号'
+                            },
+                            {
+                                xtype: 'combobox',
+                                fieldLabel: '省份',
+                                anchor: '80%',
+                                id: 'mod_provinceCode',
+                                name: 'provinceCode',
+                                store: 'customer.ProvinceStore',
+                                valueField: 'id',
+                                displayField: 'name',
+                                typeAhead: true,
+                                forceSelection: true,
+                                allowBlank: false,
+                                queryMode: 'local',
+                                triggerAction: 'all',
+                                emptyText: '请选择省份',
+                                blankText: '请选择省份',
+                                listeners: {
+                                    select: function () {
+                                        var provinceId = this.getValue();
+                                        var cityStore = Ext.getCmp('mod_cityCode').store;
+                                        var districtStore = Ext.getCmp('mod_districtCode').store;
+                                        cityStore.load({
+                                            callback: function (o, response, success) {
+                                                if (success) {
+                                                    if (cityStore.getCount()) {
+                                                        var cityId = cityStore.getAt(0).get('id');
+                                                        Ext.getCmp('mod_cityCode').setValue(cityId);
+                                                        districtStore.load({
+                                                            callback: function (o, response, success) {
+                                                                if (success) {
+                                                                    if (districtStore.getCount()) {
+                                                                        Ext.getCmp('mod_districtCode').setValue(districtStore.getAt(0).get('id'));
+                                                                        Ext.getCmp('mod_custAddr').setValue(Ext.getCmp('mod_provinceCode').getRawValue() + Ext.getCmp('mod_cityCode').getRawValue() + Ext.getCmp('mod_districtCode').getRawValue() + Ext.getCmp('mod_street').getValue());
+                                                                    }
+                                                                } else {
+                                                                    window.top.location.href = &quot;/errors&quot;;
+                                                                }
+                                                            },
+                                                            params: {
+                                                                provinceCode: provinceId,
+                                                                cityCode: cityId
+                                                            }
+                                                        });
+                                                    } else {
+                                                        districtStore.removeAll();
+                                                        Ext.getCmp('mod_districtCode').setValue(&quot;&quot;);
+                                                    }
+                                                } else {
+                                                    window.top.location.href = &quot;/errors&quot;;
+                                                }
+                                            },
+                                            params: {
+                                                provinceCode: provinceId
+                                            }
+                                        });
+                                    }
+                                }
+                            }, {
+                                xtype: 'combobox',
+                                fieldLabel: '行政区',
+                                anchor: '80%',
+                                id: 'mod_districtCode',
+                                name: 'districtCode',
+                                store: 'customer.DistrictStore',
+                                valueField: 'id',
+                                displayField: 'name',
+                                typeAhead: true,
+                                forceSelection: true,
+                                allowBlank: false,
+                                queryMode: 'local',
+                                triggerAction: 'all',
+                                emptyText: '请选择行政区',
+                                blankText: '请选择行政区',
+                                listeners: {
+                                    select: function () {
+                                        Ext.getCmp('mod_custAddr').setValue(Ext.getCmp('mod_provinceCode').getRawValue() + Ext.getCmp('mod_cityCode').getRawValue() + Ext.getCmp('mod_districtCode').getRawValue() + Ext.getCmp('mod_street').getValue());
+                                    }
+                                }
+                            }
+                            , {
+                                xtype: 'textfield',
+                                fieldLabel: 'x 座标',
+                                anchor: '80%',
+                                id: 'mod_xcoordinate',
+                                name: 'xcoordinate',
+                                allowBlank: true,
+                                value: 0.00,
+                                blankText: &quot;不能为空&quot;,
+                                regex: /^([0-9.]+)$/,
+                                regexText: '格式错误'
+                            }
+                        ]
+                    }, {
+                        xtype: 'container',
+                        flex: 1,
+                        layout: 'anchor',
+                        items: [
+                            {
+                                xtype: &quot;checkbox&quot;,
+                                name: &quot;isdirect&quot;,
+                                id: 'mod_isdirect',
+                                fieldLabel: &quot;是否为直销商&quot;,
+                                inputValue: &quot;1&quot;,
+                                uncheckedValue: &quot;0&quot;,
+                                checked: false
+                            },
+                            {
+                                xtype: 'combobox',
+                                fieldLabel: '销售大区',
+                                anchor: '80%',
+                                id: 'mod_slsBigAreaCode',
+                                name: 'slsBigAreaCode',
+                                store: 'customer.SlsBigAreaStore',
+                                valueField: 'id',
+                                displayField: 'name',
+                                typeAhead: true,
+                                forceSelection: true,
+                                allowBlank: false,
+                                queryMode: 'local',
+                                triggerAction: 'all',
+                                emptyText: '请选择销售大区',
+                                blankText: '请选择销售大区',
+                                listeners: {
+                                    select: function () {
+                                        var slsSmallAreaStore = Ext.getCmp('mod_slsSmallAreaCode').store;
+                                        var slsCompanyId = Ext.getCmp('mod_slsCompanyCode').getValue();
+                                        var slsBigAreaId = this.getValue();
+                                        slsSmallAreaStore.load({
+                                            callback: function (o, response, success) {
+                                                if (success) {
+                                                    if (slsSmallAreaStore.getCount()) {
+                                                        Ext.getCmp('mod_slsSmallAreaCode').setValue(slsSmallAreaStore.getAt(0).get('id'));
+                                                    }
+                                                } else {
+                                                    window.top.location.href = &quot;/errors&quot;;
+                                                }
+                                            },
+                                            params: {
+                                                grareaId: slsCompanyId,
+                                                pareaId: slsBigAreaId
+                                            }
+                                        });
+                                    }
+                                }
+                            }, {
+                                xtype: 'textfield',
+                                fieldLabel: '销售区域',
+                                anchor: '80%',
+                                id: 'mod_slsAreaName',
+                                name: 'slsAreaName',
+                                allowBlank: false,
+                                blankText: &quot;不能为空&quot;,
+                                regex: /^([\u4e00-\u9fa5]|[A-Za-z0-9.]{1,2}){1,25}$/,
+                                regexText: '不能大于50个字符或25个汉字'
+                            },
+                            {
+                                xtype: 'combobox',
+                                fieldLabel: '业务员',
+                                anchor: '80%',
+                                id: 'mod_userid',
+                                name: 'userid',
+                                store: 'customer.UserStore',
+                                valueField: 'userid',
+                                displayField: 'username',
+                                typeAhead: true,
+                                forceSelection: true,
+                                allowBlank: false,
+                                queryMode: 'local',
+                                triggerAction: 'all',
+                                emptyText: '请选择负责人',
+                                blankText: '请选择负责人'
+                            },
+                            {
+                                xtype: 'textfield',
+                                fieldLabel: '电话',
+                                anchor: '80%',
+                                id: 'mod_telephone',
+                                name: 'telephone',
+                                allowBlank: false,
+                                blankText: &quot;不能为空&quot;,
+                                regex: /^(0?1[358]\d{9})$|^((0(10|2[1-9]|[3-9]\d{2}))?[1-9]\d{6,7})$/,
+                                regexText: '格式错误,请输入联系电话'
+                            }, {
+                                xtype: 'textfield',
+                                fieldLabel: '传真',
+                                anchor: '80%',
+                                id: 'mod_fax',
+                                name: 'fax',
+                                regex: /^((0(10|2[1-9]|[3-9]\d{2}))?[1-9]\d{6,7})$/,
+                                regexText: '格式错误,请输入传真'
+                            }
+                            ,
+                            {
+                                xtype: 'combobox',
+                                fieldLabel: '市',
+                                anchor: '80%',
+                                id: 'mod_cityCode',
+                                name: 'cityCode',
+                                store: 'customer.CusCityStore',
+                                valueField: 'id',
+                                displayField: 'name',
+                                typeAhead: true,
+                                forceSelection: true,
+                                allowBlank: false,
+                                queryMode: 'local',
+                                triggerAction: 'all',
+                                emptyText: '请选择市',
+                                blankText: '请选择市',
+                                listeners: {
+                                    select: function () {
+                                        var provinceId = Ext.getCmp('mod_provinceCode').getValue();
+                                        var districtStore = Ext.getCmp('mod_districtCode').store;
+                                        var cityId = this.getValue();
+                                        districtStore.load({
+                                            callback: function (o, response, success) {
+                                                if (success) {
+                                                    if (districtStore.getCount()) {
+                                                        Ext.getCmp('mod_districtCode').setValue(districtStore.getAt(0).get('id'));
+                                                        Ext.getCmp('mod_custAddr').setValue(Ext.getCmp('mod_provinceCode').getRawValue() + Ext.getCmp('mod_cityCode').getRawValue() + Ext.getCmp('mod_districtCode').getRawValue() + Ext.getCmp('mod_street').getValue());
+                                                    }
+                                                } else {
+                                                    window.top.location.href = &quot;/errors&quot;;
+                                                }
+                                            },
+                                            params: {
+                                                provinceCode: provinceId,
+                                                cityCode: cityId
+                                            }
+                                        });
+                                    }
+                                }
+                            },
+                            {
+                                xtype: 'textfield',
+                                fieldLabel: '街路',
+                                anchor: '80%',
+                                id: 'mod_street',
+                                name: 'street',
+                                allowBlank: false,
+                                blankText: &quot;不能为空&quot;,
+                                regex: /^([\u4e00-\u9fa5]|[A-Za-z0-9.]{1,2}){1,25}$/,
+                                regexText: '不能大于50个字符或25个汉字',
+                                listeners: {
+                                    change: function () {
+                                        Ext.getCmp('mod_custAddr').setValue(Ext.getCmp('mod_provinceCode').getRawValue() + Ext.getCmp('mod_cityCode').getRawValue() + Ext.getCmp('mod_districtCode').getRawValue() + Ext.getCmp('mod_street').getValue());
+                                    }
+                                }
+                            }
+                            , {
+                                xtype: 'textfield',
+                                fieldLabel: 'y 座标',
+                                anchor: '80%',
+                                id: 'mod_ycoordinate',
+                                name: 'ycoordinate',
+                                allowBlank: true,
+                                value: 0.00,
+                                blankText: &quot;不能为空&quot;,
+                                regex: /^([0-9.]+)$/,
+                                regexText: '格式错误'
+                            }
+                        ]
+                    }]
+                }, {
+                    xtype: 'textfield',
+                    fieldLabel: '地址',
+                    anchor: '90%',
+                    id: 'mod_custAddr',
+                    name: 'custAddr',
+                    readOnly: true,
+                    hidden: true
+                }, {
+                    xtype: 'textarea',
+                    fieldLabel: '备注',
+                    anchor: '90%',
+                    height: 50,
+                    id: 'mod_comm',
+                    name: 'comm',
+                    regex: /^([\u4e00-\u9fa5]|[A-Za-z0-9.]{1,2}){1,100}$/,
+                    regexText: '不能大于200个字符或100个汉字'
+                }
+                ,
+                {
+                    xtype: 'filefield',
+                    anchor: '90%',
+                    fieldLabel: '照片',
+                    msgTarget: 'side',
+                    id: 'mod_imagepath',
+                    name: 'imagepath',
+                    regex: /^[a-zA-Z]:(\\.+)(.JPEG|.jpeg|.JPG|.jpg|.GIF|.gif|.BMP|.bmp|.PNG|.png)$/,
+                    regexText: '图片格式不正确',
+                    buttonConfig: {
+                        iconCls: 'updateplcard'
+                    },
+                    buttonText: '浏览'
+                }
+            ]
+        }</text>
       </register>
-      <register name="1" type="8">
-        <text encoding="base64">CQkKICAgICAgICAKICAgICAgICA=</text>
+      <register name="1" type="4">
+        <text>, {
+                                xtype: 'textfield',
+                                fieldLabel: '主键',
+                                anchor: '90%',
+                                id: 'mod_custId',
+                                name: 'custId',
+                                hidden: true
+                            },
+                            {
+                                xtype: 'combobox',
+                                fieldLabel: '销售公司',
+                                anchor: '80%',
+                                id: 'mod_slsCompanyCode',
+                                name: 'slsCompanyCode',
+                                store: 'customer.SlsCompanyStore',
+                                valueField: 'id',
+                                displayField: 'name',
+                                typeAhead: true,
+                                forceSelection: true,
+                                allowBlank: false,
+                                queryMode: 'local',
+                                triggerAction: 'all',
+                                emptyText: '请选择销售公司',
+                                blankText: '请选择销售公司',
+                                listeners: {
+                                    select: function () {
+                                        var slsCompanyId = this.getValue();
+                                        //联动销售大区和销售片区
+                                        var slsBigAreaStore = Ext.getCmp('mod_slsBigAreaCode').store;
+                                        var slsSmallAreaStore = Ext.getCmp('mod_slsSmallAreaCode').store;
+                                        slsBigAreaStore.load({
+                                            callback: function (o, response, success) {
+                                                if (success) {
+                                                    if (slsBigAreaStore.getCount()) {
+                                                        var slsBigAreaId = slsBigAreaStore.getAt(0).get('id');
+                                                        Ext.getCmp('mod_slsBigAreaCode').setValue(slsBigAreaId);
+                                                        slsSmallAreaStore.load({
+                                                            callback: function (o, response, success) {
+                                                                if (success) {
+                                                                    if (slsSmallAreaStore.getCount()) {
+                                                                        Ext.getCmp('mod_slsSmallAreaCode').setValue(slsSmallAreaStore.getAt(0).get('id'));
+                                                                    }
+                                                                } else {
+                                                                    window.top.location.href = &quot;/errors&quot;;
+                                                                }
+                                                            },
+                                                            params: {
+                                                                grareaId: slsCompanyId,
+                                                                pareaId: slsBigAreaId
+                                                            }
+                                                        });
+                                                    } else {
+                                                        slsSmallAreaStore.removeAll();
+                                                        Ext.getCmp('mod_slsSmallAreaCode').setValue(&quot;&quot;);
+                                                    }
+                                                } else {
+                                                    window.top.location.href = &quot;/errors&quot;;
+                                                }
+                                            },
+                                            params: {
+                                                pareaId: slsCompanyId
+                                            }
+                                        });
+                                        //联动部门和负责人
+                                        var userStore = Ext.getCmp('mod_userid').store;
+                                        var deptStore = Ext.getCmp('mod_deptCode').store;
+                                        deptStore.load({
+                                            callback: function (o, response, success) {
+                                                if (success) {
+                                                    if (deptStore.getCount()) {
+                                                        var deptId = deptStore.getAt(0).get('deptid');
+                                                        Ext.getCmp('mod_deptCode').setValue(deptId);
+                                                        userStore.load({
+                                                            callback: function (o, response, success) {
+                                                                if (success) {
+                                                                    if (userStore.getCount()) {
+                                                                        Ext.getCmp('mod_userid').setValue(userStore.getAt(0).get('userid'));
+                                                                    }
+                                                                } else {
+                                                                    window.top.location.href = &quot;/errors&quot;;
+                                                                }
+                                                            },
+                                                            params: {
+                                                                deptId: deptId
+                                                            }
+                                                        });
+                                                    } else {
+                                                        userStore.removeAll();
+                                                        Ext.getCmp('mod_userid').setValue(&quot;&quot;);
+                                                    }
+                                                } else {
+                                                    window.top.location.href = &quot;/errors&quot;;
+                                                }
+                                            },
+                                            params: {
+                                                companyId: slsCompanyId
+                                            }
+                                        });
+                                    }
+                                }
+                            },
+                            {
+                                xtype: 'combobox',
+                                fieldLabel: '销售片区',
+                                anchor: '80%',
+                                id: 'mod_slsSmallAreaCode',
+                                name: 'slsSmallAreaCode',
+                                store: 'customer.SlsSmallAreaStore',
+                                valueField: 'id',
+                                displayField: 'name',
+                                typeAhead: true,
+                                forceSelection: true,
+                                allowBlank: false,
+                                queryMode: 'local',
+                                triggerAction: 'all',
+                                emptyText: '请选择销售片区',
+                                blankText: '请选择销售片区'
+                            },
+                            {
+                                xtype: 'combobox',
+                                fieldLabel: '部门',
+                                anchor: '80%',
+                                id: 'mod_deptCode',
+                                name: 'deptCode',
+                                store: 'customer.DeptStore',
+                                valueField: 'deptid',
+                                displayField: 'deptname',
+                                typeAhead: true,
+                                forceSelection: true,
+                                allowBlank: false,
+                                queryMode: 'local',
+                                triggerAction: 'all',
+                                emptyText: '请选择部门',
+                                blankText: '请选择部门',
+                                listeners: {
+                                    select: function () {
+                                        var userStore = Ext.getCmp('mod_userid').store;
+                                        var slsCompanyId = Ext.getCmp('mod_slsCompanyCode').getValue();
+                                        var deptId = this.getValue();
+                                        userStore.load({
+                                            callback: function (o, response, success) {
+                                                if (success) {
+                                                    if (userStore.getCount()) {
+                                                        Ext.getCmp('mod_userid').setValue(mod_userid.getAt(0).get('userid'));
+                                                    }
+                                                } else {
+                                                    window.top.location.href = &quot;/errors&quot;;
+                                                }
+                                            },
+                                            params: {
+                                                deptId: deptId
+                                            }
+                                        });
+                                    }
+                                }
+                            },
+                            {
+                                xtype: 'textfield',
+                                fieldLabel: '联系人',
+                                anchor: '80%',
+                                id: 'mod_legalPerson',
+                                name: 'legalPerson',
+                                allowBlank: false,
+                                blankText: &quot;不能为空&quot;,
+                                regex: /^([\u4e00-\u9fa5]|[A-Za-z0-9.]{1,2}){1,25}$/,
+                                regexText: '不能大于50个字符或25个汉字'
+                            }, {
+                                xtype: 'textfield',
+                                fieldLabel: '手机',
+                                anchor: '80%',
+                                id: 'mod_mobilePhone',
+                                name: 'mobilePhone',
+                                allowBlank: false,
+                                blankText: &quot;不能为空&quot;,
+                                regex: /^0?1[358]\d{9}$/,
+                                regexText: '格式错误,请输入手机号'
+                            },
+                            {
+                                xtype: 'combobox',
+                                fieldLabel: '省份',
+                                anchor: '80%',
+                                id: 'mod_provinceCode',
+                                name: 'provinceCode',
+                                store: 'customer.ProvinceStore',
+                                valueField: 'id',
+                                displayField: 'name',
+                                typeAhead: true,
+                                forceSelection: true,
+                                allowBlank: false,
+                                queryMode: 'local',
+                                triggerAction: 'all',
+                                emptyText: '请选择省份',
+                                blankText: '请选择省份',
+                                listeners: {
+                                    select: function () {
+                                        var provinceId = this.getValue();
+                                        var cityStore = Ext.getCmp('mod_cityCode').store;
+                                        var districtStore = Ext.getCmp('mod_districtCode').store;
+                                        cityStore.load({
+                                            callback: function (o, response, success) {
+                                                if (success) {
+                                                    if (cityStore.getCount()) {
+                                                        var cityId = cityStore.getAt(0).get('id');
+                                                        Ext.getCmp('mod_cityCode').setValue(cityId);
+                                                        districtStore.load({
+                                                            callback: function (o, response, success) {
+                                                                if (success) {
+                                                                    if (districtStore.getCount()) {
+                                                                        Ext.getCmp('mod_districtCode').setValue(districtStore.getAt(0).get('id'));
+                                                                        Ext.getCmp('mod_custAddr').setValue(Ext.getCmp('mod_provinceCode').getRawValue() + Ext.getCmp('mod_cityCode').getRawValue() + Ext.getCmp('mod_districtCode').getRawValue() + Ext.getCmp('mod_street').getValue());
+                                                                    }
+                                                                } else {
+                                                                    window.top.location.href = &quot;/errors&quot;;
+                                                                }
+                                                            },
+                                                            params: {
+                                                                provinceCode: provinceId,
+                                                                cityCode: cityId
+                                                            }
+                                                        });
+                                                    } else {
+                                                        districtStore.removeAll();
+                                                        Ext.getCmp('mod_districtCode').setValue(&quot;&quot;);
+                                                    }
+                                                } else {
+                                                    window.top.location.href = &quot;/errors&quot;;
+                                                }
+                                            },
+                                            params: {
+                                                provinceCode: provinceId
+                                            }
+                                        });
+                                    }
+                                }
+                            }, {
+                                xtype: 'combobox',
+                                fieldLabel: '行政区',
+                                anchor: '80%',
+                                id: 'mod_districtCode',
+                                name: 'districtCode',
+                                store: 'customer.DistrictStore',
+                                valueField: 'id',
+                                displayField: 'name',
+                                typeAhead: true,
+                                forceSelection: true,
+                                allowBlank: false,
+                                queryMode: 'local',
+                                triggerAction: 'all',
+                                emptyText: '请选择行政区',
+                                blankText: '请选择行政区',
+                                listeners: {
+                                    select: function () {
+                                        Ext.getCmp('mod_custAddr').setValue(Ext.getCmp('mod_provinceCode').getRawValue() + Ext.getCmp('mod_cityCode').getRawValue() + Ext.getCmp('mod_districtCode').getRawValue() + Ext.getCmp('mod_street').getValue());
+                                    }
+                                }
+                            }
+                            , {
+                                xtype: 'textfield',
+                                fieldLabel: 'x 座标',
+                                anchor: '80%',
+                                id: 'mod_xcoordinate',
+                                name: 'xcoordinate',
+                                allowBlank: true,
+                                value: 0.00,
+                                blankText: &quot;不能为空&quot;,
+                                regex: /^([0-9.]+)$/,
+                                regexText: '格式错误'
+                            }</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>, {
+                        xtype: 'container',
+                        flex: 1,
+                        layout: 'anchor',
+                        items: [
+                            {
+                                xtype: &quot;checkbox&quot;,
+                                name: &quot;isdirect&quot;,
+                                id: 'mod_isdirect',
+                                fieldLabel: &quot;是否为直销商&quot;,
+                                inputValue: &quot;1&quot;,
+                                uncheckedValue: &quot;0&quot;,
+                                checked: false
+                            },
+                            {
+                                xtype: 'combobox',
+                                fieldLabel: '销售大区',
+                                anchor: '80%',
+                                id: 'mod_slsBigAreaCode',
+                                name: 'slsBigAreaCode',
+                                store: 'customer.SlsBigAreaStore',
+                                valueField: 'id',
+                                displayField: 'name',
+                                typeAhead: true,
+                                forceSelection: true,
+                                allowBlank: false,
+                                queryMode: 'local',
+                                triggerAction: 'all',
+                                emptyText: '请选择销售大区',
+                                blankText: '请选择销售大区',
+                                listeners: {
+                                    select: function () {
+                                        var slsSmallAreaStore = Ext.getCmp('mod_slsSmallAreaCode').store;
+                                        var slsCompanyId = Ext.getCmp('mod_slsCompanyCode').getValue();
+                                        var slsBigAreaId = this.getValue();
+                                        slsSmallAreaStore.load({
+                                            callback: function (o, response, success) {
+                                                if (success) {
+                                                    if (slsSmallAreaStore.getCount()) {
+                                                        Ext.getCmp('mod_slsSmallAreaCode').setValue(slsSmallAreaStore.getAt(0).get('id'));
+                                                    }
+                                                } else {
+                                                    window.top.location.href = &quot;/errors&quot;;
+                                                }
+                                            },
+                                            params: {
+                                                grareaId: slsCompanyId,
+                                                pareaId: slsBigAreaId
+                                            }
+                                        });
+                                    }
+                                }
+                            }, {
+                                xtype: 'textfield',
+                                fieldLabel: '销售区域',
+                                anchor: '80%',
+                                id: 'mod_slsAreaName',
+                                name: 'slsAreaName',
+                                allowBlank: false,
+                                blankText: &quot;不能为空&quot;,
+                                regex: /^([\u4e00-\u9fa5]|[A-Za-z0-9.]{1,2}){1,25}$/,
+                                regexText: '不能大于50个字符或25个汉字'
+                            },
+                            {
+                                xtype: 'combobox',
+                                fieldLabel: '业务员',
+                                anchor: '80%',
+                                id: 'mod_userid',
+                                name: 'userid',
+                                store: 'customer.UserStore',
+                                valueField: 'userid',
+                                displayField: 'username',
+                                typeAhead: true,
+                                forceSelection: true,
+                                allowBlank: false,
+                                queryMode: 'local',
+                                triggerAction: 'all',
+                                emptyText: '请选择负责人',
+                                blankText: '请选择负责人'
+                            },
+                            {
+                                xtype: 'textfield',
+                                fieldLabel: '电话',
+                                anchor: '80%',
+                                id: 'mod_telephone',
+                                name: 'telephone',
+                                allowBlank: false,
+                                blankText: &quot;不能为空&quot;,
+                                regex: /^(0?1[358]\d{9})$|^((0(10|2[1-9]|[3-9]\d{2}))?[1-9]\d{6,7})$/,
+                                regexText: '格式错误,请输入联系电话'
+                            }, {
+                                xtype: 'textfield',
+                                fieldLabel: '传真',
+                                anchor: '80%',
+                                id: 'mod_fax',
+                                name: 'fax',
+                                regex: /^((0(10|2[1-9]|[3-9]\d{2}))?[1-9]\d{6,7})$/,
+                                regexText: '格式错误,请输入传真'
+                            }
+                            ,
+                            {
+                                xtype: 'combobox',
+                                fieldLabel: '市',
+                                anchor: '80%',
+                                id: 'mod_cityCode',
+                                name: 'cityCode',
+                                store: 'customer.CusCityStore',
+                                valueField: 'id',
+                                displayField: 'name',
+                                typeAhead: true,
+                                forceSelection: true,
+                                allowBlank: false,
+                                queryMode: 'local',
+                                triggerAction: 'all',
+                                emptyText: '请选择市',
+                                blankText: '请选择市',
+                                listeners: {
+                                    select: function () {
+                                        var provinceId = Ext.getCmp('mod_provinceCode').getValue();
+                                        var districtStore = Ext.getCmp('mod_districtCode').store;
+                                        var cityId = this.getValue();
+                                        districtStore.load({
+                                            callback: function (o, response, success) {
+                                                if (success) {
+                                                    if (districtStore.getCount()) {
+                                                        Ext.getCmp('mod_districtCode').setValue(districtStore.getAt(0).get('id'));
+                                                        Ext.getCmp('mod_custAddr').setValue(Ext.getCmp('mod_provinceCode').getRawValue() + Ext.getCmp('mod_cityCode').getRawValue() + Ext.getCmp('mod_districtCode').getRawValue() + Ext.getCmp('mod_street').getValue());
+                                                    }
+                                                } else {
+                                                    window.top.location.href = &quot;/errors&quot;;
+                                                }
+                                            },
+                                            params: {
+                                                provinceCode: provinceId,
+                                                cityCode: cityId
+                                            }
+                                        });
+                                    }
+                                }
+                            },
+                            {
+                                xtype: 'textfield',
+                                fieldLabel: '街路',
+                                anchor: '80%',
+                                id: 'mod_street',
+                                name: 'street',
+                                allowBlank: false,
+                                blankText: &quot;不能为空&quot;,
+                                regex: /^([\u4e00-\u9fa5]|[A-Za-z0-9.]{1,2}){1,25}$/,
+                                regexText: '不能大于50个字符或25个汉字',
+                                listeners: {
+                                    change: function () {
+                                        Ext.getCmp('mod_custAddr').setValue(Ext.getCmp('mod_provinceCode').getRawValue() + Ext.getCmp('mod_cityCode').getRawValue() + Ext.getCmp('mod_districtCode').getRawValue() + Ext.getCmp('mod_street').getValue());
+                                    }
+                                }
+                            }
+                            , {
+                                xtype: 'textfield',
+                                fieldLabel: 'y 座标',
+                                anchor: '80%',
+                                id: 'mod_ycoordinate',
+                                name: 'ycoordinate',
+                                allowBlank: true,
+                                value: 0.00,
+                                blankText: &quot;不能为空&quot;,
+                                regex: /^([0-9.]+)$/,
+                                regexText: '格式错误'
+                            }
+                        ]
+                    }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCSAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB4dHlwZTogJ3RleHRmaWVsZCcsCiAgICAgICAgICAgICAgICAgICAgZmllbGRMYWJlbDogJ+WcsOWdgCcsCiAgICAgICAgICAgICAgICAgICAgYW5jaG9yOiAnOTAlJywKICAgICAgICAgICAgICAgICAgICBpZDogJ21vZF9jdXN0QWRkcicsCiAgICAgICAgICAgICAgICAgICAgbmFtZTogJ2N1c3RBZGRyJywKICAgICAgICAgICAgICAgICAgICByZWFkT25seTogdHJ1ZSwKICAgICAgICAgICAgICAgICAgICBoaWRkZW46IHRydWUKICAgICAgICAgICAgICAgIH0sIHsKICAgICAgICAgICAgICAgICAgICB4dHlwZTogJ3RleHRhcmVhJywKICAgICAgICAgICAgICAgICAgICBmaWVsZExhYmVsOiAn5aSH5rOoJywKICAgICAgICAgICAgICAgICAgICBhbmNob3I6ICc5MCUnLAogICAgICAgICAgICAgICAgICAgIGhlaWdodDogNTAsCiAgICAgICAgICAgICAgICAgICAgaWQ6ICdtb2RfY29tbScsCiAgICAgICAgICAgICAgICAgICAgbmFtZTogJ2NvbW0nLAogICAgICAgICAgICAgICAgICAgIHJlZ2V4OiAvXihbXHU0ZTAwLVx1OWZhNV18W0EtWmEtejAtOS5dezEsMn0pezEsMTAwfSQvLAogICAgICAgICAgICAgICAgICAgIHJlZ2V4VGV4dDogJ+S4jeiDveWkp+S6jjIwMOS4quWtl+espuaIljEwMOS4quaxieWtlycKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICwKICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICB4dHlwZTogJ2ZpbGVmaWVsZCcsCiAgICAgICAgICAgICAgICAgICAgYW5jaG9yOiAnOTAlJywKICAgICAgICAgICAgICAgICAgICBmaWVsZExhYmVsOiAn54Wn54mHJywKICAgICAgICAgICAgICAgICAgICBtc2dUYXJnZXQ6ICdzaWRlJywKICAgICAgICAgICAgICAgICAgICBpZDogJ21vZF9pbWFnZXBhdGgnLAogICAgICAgICAgICAgICAgICAgIG5hbWU6ICdpbWFnZXBhdGgnLAogICAgICAgICAgICAgICAgICAgIHJlZ2V4OiAvXlthLXpBLVpdOihcXC4rKSguSlBFR3wuanBlZ3wuSlBHfC5qcGd8LkdJRnwuZ2lmfC5CTVB8LmJtcHwuUE5HfC5wbmcpJC8sCiAgICAgICAgICAgICAgICAgICAgcmVnZXhUZXh0OiAn5Zu+54mH5qC85byP5LiN5q2j56GuJywKICAgICAgICAgICAgICAgICAgICBidXR0b25Db25maWc6IHsKICAgICAgICAgICAgICAgICAgICAgICAgaWNvbkNsczogJ3VwZGF0ZXBsY2FyZCcKICAgICAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICAgICAgICAgIGJ1dHRvblRleHQ6ICfmtY/op4gnCiAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="8">
+        <text encoding="base64">CQkKICAgICAgICAKICAgICAgICA=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCQkJCQkJCSAgIGlmKHVuaXQuZXF1YWxzKCLnrrEiKSkgewoJCQkJCQkJCQkJCSAgIG8uZ2V0T3JkZXJudW0KCQkJCQkJCQkJCSAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCSAgIH0K</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRwci5wcmljZSBhcyBwcmljZSAsCg==</text>
+        <text encoding="base64">CQkJCQkJCQkJCSAgIGlmKHVuaXQuZXF1YWxzKCLnrrEiKSkgewoJCQkJCQkJCQkJCSAgIG8uZ2V0T3JkZXJudW0KCQkJCQkJCQkJCSAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZWwucHJpY2UgYXMgcHJvZHVjdFByaWNlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
