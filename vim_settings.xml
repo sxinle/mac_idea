@@ -18,6 +18,10 @@
         <mark key="^" line="102" column="47" />
         <mark key="." line="102" column="47" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/crm/public/statics/app/view/form/customer/modCustomerForm.js" timestamp="1519356036491">
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="30" />
+      </file>
       <file name="/a.dummy" timestamp="1518440593837">
         <mark key="[" line="0" column="0" />
       </file>
@@ -190,6 +194,9 @@
         <mark key="^" line="18" column="3" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/crm/public/statics/app/controller/CusTreeController.js" timestamp="1519355960820">
+        <mark key="'" line="431" column="31" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/zest/src/main/java/PrizeFix.java" timestamp="1518428449611">
         <mark key="[" line="44" column="82" />
         <mark key="]" line="44" column="94" />
@@ -238,6 +245,7 @@
         <mark key="^" line="181" column="48" />
         <mark key="." line="181" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/crm/public/statics/app/view/panel/customer/CusTreeView.js" timestamp="1519356509531" />
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/sql/Common.xml" timestamp="1519290350703">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="11" column="0" />
@@ -256,13 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/CommonService.java" />
-      <jump line="339" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/CommonService.java" />
-      <jump line="26" column="57" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/CommonServiceImpl.java" />
-      <jump line="133" column="59" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
-      <jump line="277" column="120" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
-      <jump line="31" column="34" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
-      <jump line="193" column="126" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="70" column="6" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="18" column="45" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="29" column="122" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
@@ -356,6 +357,13 @@
       <jump line="85" column="124" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="38" column="19" filename="$USER_HOME$/workspace/jinhui/order-producer/public/statics/commonHeader.js" />
       <jump line="40" column="42" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app/controller/ProductController.js" />
+      <jump line="24" column="4" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app/controller/CusTreeController.js" />
+      <jump line="455" column="56" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app/controller/CusTreeController.js" />
+      <jump line="487" column="32" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app/controller/CusTreeController.js" />
+      <jump line="493" column="30" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app/controller/CusTreeController.js" />
+      <jump line="494" column="15" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app/controller/CusTreeController.js" />
+      <jump line="23" column="4" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app/controller/CusTreeController.js" />
+      <jump line="431" column="31" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app/controller/CusTreeController.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -368,10 +376,10 @@
         <text>(箱)</text>
       </register>
       <register name="/" type="4">
-        <text>minCnt</text>
+        <text encoding="base64">XDxtb2RfZm9ybVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">CQkkKGRvY3VtZW50KS5yZWFkeShmdW5jdGlvbigpIHsKCQkJJCgiI2hlYWRlcnMiKS5hcHBlbmQoaGVhZGVyKCkpOwoJCX0pOwo=</text>
+      <register name="0" type="4">
+        <text>Ext.form.Panel</text>
       </register>
       <register name="1" type="8">
         <text encoding="base64">CQkKICAgICAgICAKICAgICAgICA=</text>
@@ -405,18 +413,16 @@
       </register>
     </registers>
     <search>
-      <last-search>minCnt</last-search>
+      <last-search encoding="base64">XDxtb2RfZm9ybVw+</last-search>
       <last-offset />
-      <last-pattern>minCnt</last-pattern>
+      <last-pattern encoding="base64">XDxtb2RfZm9ybVw+</last-pattern>
       <last-replace />
       <last-substitute>@*</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>if</entry>
-        <entry>else</entry>
         <entry>when</entry>
         <entry>购买</entry>
         <entry>最小</entry>
@@ -435,6 +441,8 @@
         <entry>orderDetail</entry>
         <entry>瓶</entry>
         <entry>minCnt</entry>
+        <entry encoding="base64">XDxtb2Rfd2luXD4=</entry>
+        <entry encoding="base64">XDxtb2RfZm9ybVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0pTT05PYmplY3QvSnNvbk9iamVjdC9n</entry>
