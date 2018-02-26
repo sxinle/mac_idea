@@ -43,12 +43,12 @@
       <file name="$USER_HOME$/workspace/jinhui/pointshub/conf/application.conf" timestamp="1519461078076">
         <mark key="'" line="125" column="69" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/H6统计概率.java" timestamp="1519626277118">
+      <file name="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/H6统计概率.java" timestamp="1519627859126">
         <mark key="j" line="28" column="55" />
-        <mark key="[" line="31" column="84" />
-        <mark key="]" line="31" column="86" />
-        <mark key="." line="31" column="86" />
-        <mark key="^" line="31" column="86" />
+        <mark key="[" line="31" column="113" />
+        <mark key="]" line="31" column="114" />
+        <mark key="." line="31" column="114" />
+        <mark key="^" line="31" column="118" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/crm/public/statics/app/controller/ProductController.js" timestamp="1519354931278">
         <mark key="'" line="40" column="42" />
@@ -112,6 +112,12 @@
         <mark key="[" line="99" column="0" />
         <mark key="]" line="101" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/console/PrizeManager.java" timestamp="1519628117288">
+        <mark key="'" line="405" column="30" />
+        <mark key="[" line="405" column="36" />
+        <mark key="]" line="405" column="36" />
+        <mark key="." line="405" column="36" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/UserServiceImpl.java" timestamp="1519440764996">
         <mark key="[" line="119" column="24" />
         <mark key="]" line="119" column="29" />
@@ -148,10 +154,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="455" column="14" filename="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/ScanController.java" />
-      <jump line="456" column="28" filename="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/ScanController.java" />
-      <jump line="83" column="36" filename="$USER_HOME$/workspace/jinhui/pointshub/app/views/mobCalls.scala.html" />
-      <jump line="210" column="134" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
       <jump line="1044" column="34" filename="$USER_HOME$/workspace/jinhui/pointshub/app/views/mobCalls.scala.html" />
       <jump line="591" column="16" filename="$USER_HOME$/workspace/jinhui/pointshub/app/views/mobCalls.scala.html" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/pointshub/build.sbt" />
@@ -248,6 +250,10 @@
       <jump line="93" column="30" filename="$USER_HOME$/workspace/jinhui/order-producer/public/statics/globalOrders.js" />
       <jump line="116" column="20" filename="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/_1大奖到小奖.java" />
       <jump line="35" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/H6统计概率.java" />
+      <jump line="415" column="24" filename="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/console/PrizeManager.java" />
+      <jump line="503" column="28" filename="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/console/PrizeManager.java" />
+      <jump line="506" column="38" filename="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/console/PrizeManager.java" />
+      <jump line="405" column="30" filename="$USER_HOME$/workspace/jinhui/pointshub/app/controllers/console/PrizeManager.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -257,13 +263,13 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>1001</text>
+        <text>L</text>
       </register>
       <register name="/" type="4">
-        <text>conn</text>
+        <text encoding="base64">XDxyZW1pbmRMaXN0XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>SELECT * FROM scan_prize_detail WHERE scanid=1001 AND qrcode IS NOT NULL ORDER BY prizeid</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oczEgKyAiOiAiICsgbWFwLmdldChzMSkvNDAwLjAwKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBpZigpCg==</text>
@@ -297,9 +303,9 @@
       </register>
     </registers>
     <search>
-      <last-search>conn</last-search>
+      <last-search encoding="base64">XDxyZW1pbmRMaXN0XD4=</last-search>
       <last-offset />
-      <last-pattern>conn</last-pattern>
+      <last-pattern encoding="base64">XDxyZW1pbmRMaXN0XD4=</last-pattern>
       <last-replace>]</last-replace>
       <last-substitute encoding="base64">Pg==</last-substitute>
       <last-dir>1</last-dir>
@@ -307,7 +313,6 @@
     </search>
     <history>
       <history-search>
-        <entry>orderHis</entry>
         <entry>global</entry>
         <entry>Json.to</entry>
         <entry>Json</entry>
@@ -327,6 +332,7 @@
         <entry encoding="base64">Pg==</entry>
         <entry>reload</entry>
         <entry>conn</entry>
+        <entry encoding="base64">XDxyZW1pbmRMaXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcbi8vZw==</entry>
