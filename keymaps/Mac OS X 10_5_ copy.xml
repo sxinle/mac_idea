@@ -38,7 +38,9 @@
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
-  <action id="EditorMatchBrace" />
+  <action id="EditorMatchBrace">
+    <keyboard-shortcut first-keystroke="shift meta m" />
+  </action>
   <action id="EditorSplitLine" />
   <action id="EditorToggleColumnMode" />
   <action id="EvaluateExpression">
