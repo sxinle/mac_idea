@@ -6,7 +6,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1520329968664">
+      <file name="/Dummy.txt" timestamp="1520474684330">
         <mark key="'" line="0" column="2" />
         <mark key="[" line="0" column="0" />
       </file>
@@ -23,11 +23,12 @@
         <mark key="." line="31" column="18" />
         <mark key="^" line="31" column="18" />
       </file>
-      <file name="$USER_HOME$/pointshub/app/controllers/console/MenuManagementController.java" timestamp="1519972968979">
-        <mark key="[" line="265" column="0" />
-        <mark key="]" line="265" column="0" />
-        <mark key="^" line="265" column="51" />
-        <mark key="." line="265" column="0" />
+      <file name="$USER_HOME$/pointshub/app/controllers/console/MenuManagementController.java" timestamp="1520474364402">
+        <mark key="'" line="29" column="19" />
+        <mark key="[" line="225" column="0" />
+        <mark key="]" line="225" column="0" />
+        <mark key="^" line="29" column="42" />
+        <mark key="." line="225" column="0" />
       </file>
       <file name="$USER_HOME$/pointshub/app/models/Menum.java" timestamp="1519970329453">
         <mark key="[" line="9" column="18" />
@@ -75,11 +76,11 @@
         <mark key="." line="27" column="96" />
         <mark key="^" line="27" column="96" />
       </file>
-      <file name="$USER_HOME$/pointshub/app/controllers/console/RoleManagementController.java" timestamp="1519976739905">
-        <mark key="[" line="256" column="0" />
-        <mark key="]" line="256" column="0" />
-        <mark key="^" line="255" column="28" />
-        <mark key="." line="256" column="0" />
+      <file name="$USER_HOME$/pointshub/app/controllers/console/RoleManagementController.java" timestamp="1520474526323">
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="98" column="0" />
+        <mark key="^" line="159" column="50" />
+        <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/h6调整/H6数量修正.java" timestamp="1519786586761">
         <mark key="[" line="63" column="121" />
@@ -117,11 +118,14 @@
       <file name="/fragment.java" timestamp="1520219751853">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/pointshub/app/controllers/console/FunctionSetController.java" timestamp="1520474216617">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="^" line="71" column="54" />
+        <mark key="." line="87" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="19" filename="$USER_HOME$/workspace/jinhui/clear/pointshub/app/controllers/ScanController.java" />
-      <jump line="18" column="22" filename="$USER_HOME$/workspace/jinhui/clear/pointshub/app/controllers/ScanController.java" />
-      <jump line="19" column="23" filename="$USER_HOME$/workspace/jinhui/clear/pointshub/app/controllers/ScanController.java" />
       <jump line="24" column="12" filename="$USER_HOME$/workspace/jinhui/clear/pointshub/app/controllers/ScanController.java" />
       <jump line="33" column="23" filename="$USER_HOME$/workspace/jinhui/clear/pointshub/app/controllers/ScanController.java" />
       <jump line="447" column="32" filename="/ScanController.java" />
@@ -219,6 +223,9 @@
       <jump line="24" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-forms/src/main/java/com/acenode/micros/forms/service/impl/FormServiceImpl.java" />
       <jump line="89" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-forms/src/main/java/com/acenode/micros/forms/service/impl/FormServiceImpl.java" />
       <jump line="103" column="8" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-forms/src/main/java/com/acenode/micros/forms/service/impl/FormServiceImpl.java" />
+      <jump line="54" column="33" filename="$USER_HOME$/pointshub/app/controllers/console/MenuManagementController.java" />
+      <jump line="73" column="46" filename="$USER_HOME$/pointshub/app/controllers/console/MenuManagementController.java" />
+      <jump line="29" column="19" filename="$USER_HOME$/pointshub/app/controllers/console/MenuManagementController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -228,40 +235,40 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>VALUES</text>
+        <text>roleRkm</text>
       </register>
       <register name="/" type="4">
         <text>eval</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ewogICAgImZvcm1OYW1lIjogImNvbnRyYWN0X21uZyIsCiAgICAiY29uZGl0aW9uIjogewogICAgICAgICJhbW91bnQiOiB7CiAgICAgICAgICAgICRndDogMTAwMDAwMAogICAgICAgIH0sCiAgICAgICAgImFtb3VudCI6IHsKICAgICAgICAgICAgJGx0OiA1MDAwMDAwCiAgICAgICAgfSwKICAgICAgICAic2lnblRpbWUiOiB7CiAgICAgICAgICAgICRndDogIjIwMTgtMDMtMDUiCiAgICAgICAgfQogICAgfQp9Cg==</text>
+      <register name="0" type="4">
+        <text>json.get(&quot;functionName&quot;).asText()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBFYmVhbi5kZWxldGUoKQo=</text>
+        <text encoding="base64">ICAgICAgICAvL+WFrOWPuOS/oeaBrwogICAgICAgIEh0dHAuQ29udGV4dCBjdHggPSBIdHRwLkNvbnRleHQuY3VycmVudC5nZXQoKTsKICAgICAgICBDb21wYW55IGNvbXAgPSAoQ29tcGFueSkgY3R4LmFyZ3MuZ2V0KENvbXBhbnlMb2FkZXIuQ09NUEFOWV9BUkdfS0VZKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRnV0dXJlLmZ1dHVyZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy/kv53lrZgK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGFuZGxlLmhhbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlci5oYW5kbGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy/op5LoibLlkI3np7AKICAgICAgICAgICAgU3RyaW5nIHJvbGVOYW1lID0gOwogICAgICAgICAgICAvL+inkuiJsuWkh+azqAogICAgICAgICAgICBTdHJpbmcgcm9sZVJrbSA9IDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGFuZGxlci5oYW5kbGUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgUm9sZU1hbmFnZW1lbnQgbGV2ZWwgPSBFYmVhbi5maW5kKFJvbGVNYW5hZ2VtZW50LmNsYXNzKS53aGVyZSgpLmVxKCJyb2xlaWQiLCBpZCkuZmluZFVuaXF1ZSgpOwogICAgICAgICAgICAvL+WIoOmZpAogICAgICAgICAgICBFYmVhbi5kZWxldGUobGV2ZWwpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgamF2YS51dGlsLmxvZ2dpbmcuSGFuZGxlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgSGFuZGxlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy/mjqXmlLbliY3lj7Dmt7vliqDpobXpnaLmlbDmja7vvIjop6PmnpDmiJDkvKDov4fmnaXnmoTvvIkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ewogICAgImZvcm1OYW1lIjogImNvbnRyYWN0X21uZyIsCiAgICAiY29uZGl0aW9uIjogewogICAgICAgIHsKICAgICAgICAgICAgImFtb3VudCI6IHsKICAgICAgICAgICAgICAgICIkZ3QiOiAiMTAwMDAwMCIKICAgICAgICAgICAgfSwKICAgICAgICAgICAgIiRhbmQiOiBbewogICAgICAgICAgICAgICAgImFtb3VudCI6IHsKICAgICAgICAgICAgICAgICAgICAiJGx0IjogIjUwMDAwMDAiCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH1dLAogICAgICAgICAgICAic2lnblRpbWUiOiB7CiAgICAgICAgICAgICAgICAiJGd0IjogIjIwMTgtMDMtMDUiCiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8v5L+d5a2YCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ewogICAgImZvcm1OYW1lIjogImNvbnRyYWN0X21uZyIsCiAgICAiY29uZGl0aW9uIjogewogICAgICAgICJhbW91bnQiOiB7CiAgICAgICAgICAgICRndDogMTAwMDAwMAogICAgICAgIH0sCiAgICAgICAgImFtb3VudCI6IHsKICAgICAgICAgICAgJGx0OiA1MDAwMDAwCiAgICAgICAgfSwKICAgICAgICAic2lnblRpbWUiOiB7CiAgICAgICAgICAgICRndDogIjIwMTgtMDMtMDUiCiAgICAgICAgfQogICAgfQp9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vZW50aXR5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
