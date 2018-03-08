@@ -13,6 +13,9 @@
         <mark key="." line="31" column="18" />
         <mark key="^" line="31" column="18" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/application.conf" timestamp="1520481710677">
+        <mark key="'" line="69" column="0" />
+      </file>
       <file name="$USER_HOME$/Downloads/order-dealer/app/util/CommonUtils.java" timestamp="1520481122549">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -50,6 +53,12 @@
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="212" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1520481869578">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" timestamp="1520480789855">
         <mark key="'" line="18" column="6" />
@@ -103,8 +112,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="24" filename="$USER_HOME$/workspace/jinhui/clear/pointshub/app/views/mobCalls.scala.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/clear/pointshub/app/views/mobCalls.scala.html" />
       <jump line="20" column="32" filename="/HttpUtil.java" />
       <jump line="0" column="0" filename="/HttpUtil.java" />
       <jump line="27" column="8" filename="$USER_HOME$/workspace/jinhui/clear/pointshub/app/util/redpack/HttpUtil.java" />
@@ -203,6 +210,8 @@
       <jump line="15" column="0" filename="$USER_HOME$/Downloads/order-dealer/conf/sql/bank.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/order-dealer/conf/sql/bank.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/sql/bank.xml" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/application.conf" />
+      <jump line="69" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/application.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -212,7 +221,7 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>roleRkm</text>
+        <text>*.xml</text>
       </register>
       <register name="/" type="4">
         <text>eval</text>
