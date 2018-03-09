@@ -71,9 +71,7 @@
       <file name="$USER_HOME$/.ivy2/cache/scala_2.12/sbt_1.0/com.typesafe.play/sbt-plugin/jars/sbt-plugin-2.6.12.jar!/play/sbt/PlayImport.class" timestamp="1520565224518">
         <mark key="'" line="11" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520583658466">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="/Dummy.txt" timestamp="1520588768787" />
       <file name="/singleInventoryInfoDelete.scala.html" timestamp="1520579669258">
         <mark key="'" line="209" column="31" />
       </file>
@@ -81,6 +79,10 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/sql_migrate/2018-03-09/积分菜单权限.sql" timestamp="1520588716943">
+        <mark key="'" line="11" column="0" />
+        <mark key="." line="2" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" timestamp="1520497139522">
         <mark key="'" line="166" column="121" />
@@ -130,8 +132,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
-      <jump line="15" column="0" filename="$USER_HOME$/Downloads/order-dealer/conf/sql/bank.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/Downloads/order-dealer/conf/sql/bank.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/sql/bank.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/application.conf" />
@@ -230,6 +230,8 @@
       <jump line="116" column="23" filename="$USER_HOME$/workspace/jinhui/trace_api_server/app/service/DimensionService.java" />
       <jump line="134" column="30" filename="$USER_HOME$/workspace/jinhui/trace_api_server/app/service/DimensionService.java" />
       <jump line="137" column="22" filename="$USER_HOME$/workspace/jinhui/trace_api_server/app/service/DimensionService.java" />
+      <jump line="12" column="21" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/sql_migrate/2018-03-09/积分菜单权限.sql" />
+      <jump line="11" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/sql_migrate/2018-03-09/积分菜单权限.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -239,7 +241,7 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>postgres</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb2xsZWN0aW9uXD4=</text>
