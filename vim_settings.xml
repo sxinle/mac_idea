@@ -80,7 +80,7 @@
       <file name="$USER_HOME$/.ivy2/cache/scala_2.12/sbt_1.0/com.typesafe.play/sbt-plugin/jars/sbt-plugin-2.6.12.jar!/play/sbt/PlayImport.class" timestamp="1520565224518">
         <mark key="'" line="11" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520832111807">
+      <file name="/Dummy.txt" timestamp="1520836313027">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -128,6 +128,13 @@
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1520825023414">
         <mark key="'" line="194" column="58" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-forms/src/main/resources/api.md" timestamp="1520835885796">
+        <mark key="'" line="92" column="33" />
+        <mark key="[" line="152" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="^" line="145" column="9" />
+        <mark key="." line="152" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/public/jinhui/css/style.css" timestamp="1520591923883">
         <mark key="'" line="39" column="1" />
         <mark key="[" line="23" column="50" />
@@ -172,7 +179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="292" column="47" filename="/ProductController.js" />
       <jump line="293" column="43" filename="/ProductController.js" />
       <jump line="294" column="50" filename="/ProductController.js" />
       <jump line="295" column="45" filename="/ProductController.js" />
@@ -272,6 +278,7 @@
       <jump line="53" column="140" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="379" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
+      <jump line="92" column="33" filename="$USER_HOME$/workspace/micro-service/jh_sales/micros-forms/src/main/resources/api.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -281,40 +288,40 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>ECECEC</text>
+        <text>报</text>
       </register>
       <register name="/" type="4">
         <text>opra</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC53ZWJpeF92aWV3IHNwYW4gewogICAgICAgIGZvbnQtd2VpZ2h0OiBib2xkOwogICAgfQo=</text>
+        <text encoding="base64">IyMjIyMg5ZCI5ZCM5p+l6K+iIGAvcXVlcnlgCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="8">
+        <text encoding="base64">ICAgCiAgIAogICAKICAgCiAgCiAgCiAgCiAgCiAgCiAgCiAg</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PHN0eWxlCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">PHN0eWxlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0TGlzdC5hZGQobWFwKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgaW50IGRlcGlkID0gSW50ZWdlci5wYXJzZUludChjb21wYW55TGlzdC5nZXQoaikuZ2V0KCJkZXB0aWQiKS50b1N0cmluZygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzdWx0TGlzdC5hZGQobWFwKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAqIAogICAgICogQGF1dGhvciBQb3BweQogICAgICogQGRhdGUgMjAxNS0xLTI4CiAgICAgKiBAcmV0dXJuCiAgICAgKiBAc2luY2UgMS4wCg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgaW50IGRlcGlkID0gSW50ZWdlci5wYXJzZUludChjb21wYW55TGlzdC5nZXQoaikuZ2V0KCJkZXB0aWQiKS50b1N0cmluZygpKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8YnIgLz4KICAgICAgICA8YnIgLz4K</text>
+        <text encoding="base64">ICAgICAqIAogICAgICogQGF1dGhvciBQb3BweQogICAgICogQGRhdGUgMjAxNS0xLTI4CiAgICAgKiBAcmV0dXJuCiAgICAgKiBAc2luY2UgMS4wCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGJvZHk+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YnIgLz4KICAgICAgICA8YnIgLz4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAg5rOo6YeKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGJvZHk+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
