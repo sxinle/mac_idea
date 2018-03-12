@@ -67,10 +67,13 @@
       <file name="$USER_HOME$/Desktop/play-java-seed/app/controllers/console/AwardOrderController.java" timestamp="1520564686695">
         <mark key="'" line="80" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" timestamp="1520823180395">
+        <mark key="'" line="198" column="8" />
+      </file>
       <file name="$USER_HOME$/.ivy2/cache/scala_2.12/sbt_1.0/com.typesafe.play/sbt-plugin/jars/sbt-plugin-2.6.12.jar!/play/sbt/PlayImport.class" timestamp="1520565224518">
         <mark key="'" line="11" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1520591933256">
+      <file name="/Dummy.txt" timestamp="1520823842460">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -135,17 +138,17 @@
         <mark key="^" line="125" column="78" />
         <mark key="." line="125" column="78" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/views/minCnt.scala.html" timestamp="1520821991475">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="8" column="75" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/views/minCnt.scala.html" timestamp="1520823407644">
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="64" column="13" />
         <mark key="." line="34" column="45" />
         <mark key="^" line="34" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/views/bpmn.scala.html" timestamp="1520822008426">
-        <mark key="[" line="25" column="8" />
-        <mark key="]" line="25" column="8" />
-        <mark key="^" line="24" column="0" />
-        <mark key="." line="25" column="8" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/views/bpmn.scala.html" timestamp="1520823798572">
+        <mark key="[" line="75" column="67" />
+        <mark key="]" line="75" column="72" />
+        <mark key="^" line="75" column="72" />
+        <mark key="." line="75" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/anti/app/util/SqlServerCommonDao.java" timestamp="1520582298983">
         <mark key="'" line="114" column="0" />
@@ -166,7 +169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="107" column="79" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/wxzhifu/jar/Base64.java" />
       <jump line="283" column="92" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
       <jump line="284" column="18" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
       <jump line="27" column="21" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/pay/BankController.java" />
@@ -266,6 +268,7 @@
       <jump line="859" column="22" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/console/PrizeManager.java" />
       <jump line="15" column="5" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="259" column="9" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
+      <jump line="198" column="8" filename="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -275,40 +278,40 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ECECEC</text>
       </register>
       <register name="/" type="4">
         <text>reportOrder</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8bGluayBocmVmPSIvYXNzZXRzL2Nzcy91ZWRfY3NzLmNzcyIgcmVsPSJzdHlsZXNoZWV0IiAvPgogICAgICAgIDxsaW5rIGhyZWY9Ii9hc3NldHMvY3NzL215Y2VudGVyL2RlYWxlci5jc3MiIHJlbD0ic3R5bGVzaGVldCIgLz4KICAgICAgICA8bGluayBocmVmPSIvYXNzZXRzL2Nzcy9teWNlbnRlci91ZWRfY3NzX3h3LmNzcyIgcmVsPSJzdHlsZXNoZWV0IiAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLSBmb290ZXIgLS0+CiAgICAgICAgPGRpdiBjbGFzcz0iYm94IGZvb3QiPgogICAgICAgICAgICA8aW1nIHNyYz0iL2Fzc2V0cy9pbWFnZXMvNGltZy5qcGciIC8+CiAgICAgICAgICAgIDxwPuS4lue6qumHkeW+vSDml5fkuIvnvZHnq5kKICAgICAgICAgICAgICAgIOmHkeW+vemFkuiCoeS7veaciemZkOWFrOWPuOeJiOadg+aJgOaciSZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwOyZuYnNwO+mZh0lDUOWkhzA4MTAwMzQ45Y+3PC9wPgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGJvZHk+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YnIgLz4KICAgICAgICA8YnIgLz4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAg5rOo6YeKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGJvZHk+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAg5rOo6YeKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqCiAqIOWFseWQjERhb+WxggogKiBAYXV0aG9yIHdlaWpoCiAqIEBkYXRlICAgMjAxNC4wNS4yMjIKICogQ29tbW9uRGFvCiAqLwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiog6Zu25ZSu57uI56uv5L+h5oGv566h55CG57O757ufCioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKgoqIENvbW1vbkRhby5qYXZhCiotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoqIChDKSDmsojpmLPlhavnu7Tml7bnqbrnp5HmioDlj5HlsZUKKiAgICAgU0hFTllBTkcgRUlHSFRTUEFDRSBURUNITk9MT0dZIERFVkVMT1BNRU5UIENPLixMVEQuICAyMDEyCiotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoqIFZlcnNpb24gICAgRGF0ZSAgICAgICAgICAgIEJ5ICAgICAgICAgICAgICAgIENvbW1lbnQKKiAwMDEgICAgICAgIDIwMTItNS0yMCAgICAgICBsaXVibCAgICAgICAgICAgIOaWsOW7ugoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKi8K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">LyoqCiAqIOWFseWQjERhb+WxggogKiBAYXV0aG9yIHdlaWpoCiAqIEBkYXRlICAgMjAxNC4wNS4yMjIKICogQ29tbW9uRGFvCiAqLwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiog6Zu25ZSu57uI56uv5L+h5oGv566h55CG57O757ufCioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKgoqIENvbW1vbkRhby5qYXZhCiotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoqIChDKSDmsojpmLPlhavnu7Tml7bnqbrnp5HmioDlj5HlsZUKKiAgICAgU0hFTllBTkcgRUlHSFRTUEFDRSBURUNITk9MT0dZIERFVkVMT1BNRU5UIENPLixMVEQuICAyMDEyCiotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQoqIFZlcnNpb24gICAgRGF0ZSAgICAgICAgICAgIEJ5ICAgICAgICAgICAgICAgIENvbW1lbnQKKiAwMDEgICAgICAgIDIwMTItNS0yMCAgICAgICBsaXVibCAgICAgICAgICAgIOaWsOW7ugoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKi8K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgYm9vbGVhbiBsb2dpbigpIHsKICAgICAgICBzb3UKICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
