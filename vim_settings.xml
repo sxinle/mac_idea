@@ -120,11 +120,14 @@
       <file name="/singleInventoryInfoDelete.scala.html" timestamp="1520579669258">
         <mark key="'" line="209" column="31" />
       </file>
-      <file name="$USER_HOME$/Downloads/pointshub/public/javascripts/console/roleM.js" timestamp="1521005260938">
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="3" />
-        <mark key="." line="118" column="3" />
-        <mark key="^" line="118" column="3" />
+      <file name="$USER_HOME$/Downloads/pointshub/public/javascripts/webixtree/webix_debug.js" timestamp="1521007603797">
+        <mark key="'" line="26406" column="8" />
+      </file>
+      <file name="$USER_HOME$/Downloads/pointshub/public/javascripts/console/roleM.js" timestamp="1521008547520">
+        <mark key="[" line="194" column="13" />
+        <mark key="]" line="194" column="13" />
+        <mark key="." line="194" column="13" />
+        <mark key="^" line="182" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/logs/application.log" timestamp="1520567745053">
         <mark key="[" line="0" column="0" />
@@ -402,6 +405,13 @@
         <mark key="[" line="5" column="12" />
         <mark key="]" line="5" column="18" />
       </file>
+      <file name="$USER_HOME$/Downloads/pointshub/app/views/console/roleManagement.scala.html" timestamp="1521008313552">
+        <mark key="'" line="204" column="41" />
+        <mark key="[" line="204" column="45" />
+        <mark key="]" line="204" column="47" />
+        <mark key="." line="204" column="47" />
+        <mark key="^" line="204" column="47" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/anti/app/form/PackingForm.java" timestamp="1520909619522">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -432,15 +442,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="209" column="31" filename="/singleInventoryInfoDelete.scala.html" />
-      <jump line="96" column="0" filename="$USER_HOME$/workspace/jinhui/prod/anti/conf/application-context.xml" />
-      <jump line="48" column="0" filename="$USER_HOME$/workspace/jinhui/prod/anti/conf/application-context.xml" />
-      <jump line="35" column="31" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/StrorageBatchSynServiceImpl.java" />
-      <jump line="109" column="16" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/StrorageBatchSynServiceImpl.java" />
-      <jump line="138" column="41" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/StrorageBatchSynServiceImpl.java" />
-      <jump line="253" column="29" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/StrorageBatchSynServiceImpl.java" />
-      <jump line="222" column="12" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/StrorageBatchSynServiceImpl.java" />
-      <jump line="32" column="6" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/util/SqlServerCommonDao.java" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/util/SqlServerCommonDao.java" />
       <jump line="114" column="0" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/util/SqlServerCommonDao.java" />
       <jump line="100" column="34" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/StrorageBatchSynServiceImpl.java" />
@@ -532,58 +533,67 @@
       <jump line="7" column="39" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="9" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/responsive/login.scala.html" />
       <jump line="31" column="41" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/responsive/login.scala.html" />
+      <jump line="36" column="58" filename="$USER_HOME$/Downloads/pointshub/app/views/console/roleManagement.scala.html" />
+      <jump line="158" column="4" filename="$USER_HOME$/Downloads/pointshub/public/javascripts/console/roleM.js" />
+      <jump line="211" column="23" filename="$USER_HOME$/Downloads/pointshub/public/javascripts/console/roleM.js" />
+      <jump line="240" column="23" filename="$USER_HOME$/Downloads/pointshub/public/javascripts/console/roleM.js" />
+      <jump line="179" column="16" filename="$USER_HOME$/Downloads/pointshub/public/javascripts/console/roleM.js" />
+      <jump line="26406" column="8" filename="$USER_HOME$/Downloads/pointshub/public/javascripts/webixtree/webix_debug.js" />
+      <jump line="207" column="0" filename="$USER_HOME$/Downloads/pointshub/app/views/console/roleManagement.scala.html" />
+      <jump line="38" column="16" filename="$USER_HOME$/Downloads/pointshub/app/views/console/roleManagement.scala.html" />
+      <jump line="204" column="41" filename="$USER_HOME$/Downloads/pointshub/app/views/console/roleManagement.scala.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>基本废物......</text>
       </register>
       <register name="*" type="4">
-        <text>[]</text>
+        <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>login-pwd</text>
+        <text>tree2</text>
       </register>
       <register name="0" type="4">
-        <text>/assets</text>
+        <text>&quot;/console/jinhui/menuload?roleId=&quot; + roleid</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly/ngrnlh7vnvJbovpHlh7rlj5EKICAgIC8vICQoIi5iaWFuamkyIikuY2xpY2soZnVuY3Rpb24oKXsKCiAgICAvLyApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2Nyb2xsWDogZmFsc2UsCiAgICAgICAgICAgIHVybDogIi9jb25zb2xlL2ppbmh1aS9tZW51bG9hZD9yb2xlSWQ9NDIyIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHtpZDogInZhbHVlIiwgaGVhZGVyOiAiVmFsdWUiLCBmaWxsc3BhY2U6IHRydWUsIHRlbXBsYXRlOiAie2NvbW1vbi50cmVldGFibGUoKX0gI3ZhbHVlIyJ9Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2xvYWRpbmcgZnJvbSBmaWxlCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dmFyIHRyZWUgPSBuZXcgd2ViaXgudWkoewogICAgaWQ6ICJ0cmVlIiwKICAgIGNvbnRhaW5lcjogInRyZWUyIiwKICAgIHZpZXc6ICJ0cmVldGFibGUiLAogICAgY29sdW1uczogWwogICAgICAgIHtpZDogImlkIiwgaGlkZGVuOiB0cnVlfSwKICAgICAgICB7CiAgICAgICAgICAgIGlkOiAidmFsdWUiLAogICAgICAgICAgICBoZWFkZXI6ICLoj5zljZXlkI3np7AiLAogICAgICAgICAgICB3aWR0aDogMjI3LAogICAgICAgICAgICB0ZW1wbGF0ZTogIntjb21tb24uc3BhY2UoKX17Y29tbW9uLmljb24oKX17Y29tbW9uLnRyZWVjaGVja2JveCgpfSN2YWx1ZSMiCiAgICAgICAgfSwKICAgICAgICB7aWQ6ICJ1cmwiLCBoZWFkZXI6ICLoj5zljZV1cmwiLCB3aWR0aDogMzY2fSwKICAgICAgICAvLyB7IGlkOiJiaWFuamkiLAloZWFkZXI6Iuadg+mZkOe8lui+kSIsd2lkdGg6MTAwfQogICAgXSwKICAgIHRocmVlU3RhdGU6IHRydWUKfSk7CgoKZnVuY3Rpb24gbG9hZChyb2xlaWQpIHsKICAgIHdlYml4LmFqYXgoIi9jb25zb2xlL2ppbmh1aS9tZW51bG9hZD9yb2xlSWQ9IiArIHJvbGVpZCwgZnVuY3Rpb24gKHRleHQsIGRhdGEpIHsKICAgICAgICB0cmVlLnBhcnNlKGRhdGEpOwogICAgfSk7Cn0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">d2ViaXgucmVhZHkoZnVuY3Rpb24gKCkgewo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgbmFtZT0iIiB0eXBlPSJ0ZXh0IiBpZD0iaW5fZGxfemgiLz4K</text>
+      <register name="9" type="4">
+        <text>''</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>login-pwd</last-search>
+      <last-search>tree2</last-search>
       <last-offset />
-      <last-pattern>login-pwd</last-pattern>
+      <last-pattern>tree2</last-pattern>
       <last-replace>input</last-replace>
       <last-substitute>productList.get(j)</last-substitute>
       <last-dir>1</last-dir>
@@ -591,9 +601,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sqlSdao</entry>
-        <entry>是否整单</entry>
-        <entry>删除</entry>
         <entry encoding="base64">XDxjb2xsZWN0aW9uX2NvZGVfaW5mb1w+</entry>
         <entry encoding="base64">XDxjb2xsZWN0aW9uXD4=</entry>
         <entry>console</entry>
@@ -611,6 +618,9 @@
         <entry>pic</entry>
         <entry>pwd</entry>
         <entry>login-pwd</entry>
+        <entry encoding="base64">XDxncmlkYVw+</entry>
+        <entry>load</entry>
+        <entry>tree2</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcIi8vZw==</entry>
