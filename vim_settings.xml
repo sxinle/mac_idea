@@ -105,6 +105,10 @@
       <file name="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.10/srcs/play_2.10-2.2.3-sources.jar!/play/api/controllers/Assets.scala" timestamp="1520571300431">
         <mark key="'" line="57" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.0/vertx-core-3.5.0-sources.jar!/io/vertx/core/http/HttpClient.java" timestamp="1521112425575">
+        <mark key="[" line="651" column="2" />
+        <mark key="]" line="651" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/public/css/responsive/login.css" timestamp="1521023599671">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="77" column="33" />
@@ -136,11 +140,12 @@
         <mark key="[" line="35" column="59" />
         <mark key="]" line="35" column="100" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" timestamp="1521110708272">
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" timestamp="1521112347109">
         <mark key="'" line="144" column="35" />
-        <mark key="[" line="151" column="0" />
-        <mark key="]" line="151" column="0" />
-        <mark key="." line="151" column="0" />
+        <mark key="[" line="156" column="9" />
+        <mark key="]" line="157" column="7" />
+        <mark key="." line="157" column="7" />
+        <mark key="^" line="157" column="7" />
       </file>
       <file name="$USER_HOME$/Downloads/pointshub/app/views/console/roleManagement.scala.html" timestamp="1521019912640">
         <mark key="'" line="170" column="43" />
@@ -173,7 +178,7 @@
       <file name="$USER_HOME$/vertx-reverse-proxy/src/main/java/com/mycompany/myproject/verticles/reverseproxy/AuthResponseHandler.java" timestamp="1521101189387">
         <mark key="'" line="57" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1521109405860">
+      <file name="/fragment.java" timestamp="1521112289452">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="^" line="0" column="47" />
@@ -299,46 +304,46 @@
         <text>c</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXlsb2FkXD4=</text>
+        <text>form</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dC5yZXF1ZXN0KCkuaGFuZGxlcihkLT57fSk7Cg==</text>
+      <register name="0" type="4">
+        <text>HttpClientRequest</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBqawo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBGb2tybSBmb3JtID0gbmV3IAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQucG9zdCgiYWEiKS5wdXRIZWFkZXIoIiIsICIiKS53cmk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0b1JlcS5zZXRDaHVua2VkKHRydWUpOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0b1JlcS53cml0ZUN1c3RvbUZyYW1lKEh0dHBGcmFtZSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL3Jlc3BvbnNlLmhlYWRlcnMoKS5mb3JFYWNoKGhlYWRlciAtPiB0b1JzcC5wdXRIZWFkZXIoaGVhZGVyLmdldEtleSgpLCBoZWFkZXIuZ2V0VmFsdWUoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBGb2tybSBmb3JtID0gbmV3IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAvL2NvbnRleHQucmVxdWVzdCgpLmhlYWRlcnMoKS5mb3JFYWNoKGhlYWRlciAtPiB0b1JlcS5wdXRIZWFkZXIoaGVhZGVyLmdldEtleSgpLCBoZWFkZXIuZ2V0VmFsdWUoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjbGllbnQucG9zdCgiYWEiKS5wdXRIZWFkZXIoIiIsICIiKS53cmk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0b1JlcS53cml0ZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICB0b1JlcS5zZXRDaHVua2VkKHRydWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXlsb2FkXD4=</last-search>
+      <last-search>form</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXlsb2FkXD4=</last-pattern>
+      <last-pattern>form</last-pattern>
       <last-replace>input</last-replace>
       <last-substitute>productList.get(j)</last-substitute>
       <last-dir>1</last-dir>
@@ -355,7 +360,6 @@
         <entry>hideArea</entry>
         <entry encoding="base64">XDxjaXJjdWl0QnJlYWtlclw+</entry>
         <entry>query</entry>
-        <entry>form</entry>
         <entry>headers</entry>
         <entry encoding="base64">XDxIdHRwU2VydmVyUmVxdWVzdFw+</entry>
         <entry encoding="base64">XDxwcm92aWRlclw+</entry>
@@ -366,6 +370,7 @@
         <entry>read</entry>
         <entry encoding="base64">XDxNdWx0aXBhcnRVdGlsXD4=</entry>
         <entry encoding="base64">XDxwYXlsb2FkXD4=</entry>
+        <entry>form</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcIi8vZw==</entry>
