@@ -6,10 +6,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-forms/src/main/java/com/acenode/micros/forms/FormAPIVerticle.java" timestamp="1521114403147">
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-forms/src/main/java/com/acenode/micros/forms/FormAPIVerticle.java" timestamp="1521190154899">
         <mark key="'" line="82" column="52" />
-        <mark key="[" line="66" column="28" />
-        <mark key="]" line="66" column="86" />
+        <mark key="^" line="60" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/order/DisOrderController.java" timestamp="1520941077450">
         <mark key="'" line="73" column="54" />
@@ -96,7 +95,7 @@
       <file name="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.0/vertx-core-3.5.0-sources.jar!/io/vertx/core/http/impl/Http2ServerRequestImpl.java" timestamp="1521096751347">
         <mark key="'" line="152" column="30" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521172714472">
+      <file name="/Dummy.txt" timestamp="1521194219942">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/pointshub/public/javascripts/console/roleM.js" timestamp="1521020181140">
@@ -147,12 +146,12 @@
         <mark key="[" line="35" column="59" />
         <mark key="]" line="35" column="100" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" timestamp="1521172653895">
-        <mark key="'" line="150" column="35" />
-        <mark key="[" line="182" column="0" />
-        <mark key="]" line="182" column="0" />
-        <mark key="." line="182" column="0" />
-        <mark key="^" line="181" column="15" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" timestamp="1521194253895">
+        <mark key="'" line="71" column="46" />
+        <mark key="[" line="191" column="0" />
+        <mark key="]" line="191" column="0" />
+        <mark key="^" line="152" column="7" />
+        <mark key="." line="191" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/pointshub/app/views/console/roleManagement.scala.html" timestamp="1521019912640">
         <mark key="'" line="170" column="43" />
@@ -185,7 +184,7 @@
       <file name="$USER_HOME$/vertx-reverse-proxy/src/main/java/com/mycompany/myproject/verticles/reverseproxy/AuthResponseHandler.java" timestamp="1521101189387">
         <mark key="'" line="57" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1521168411266">
+      <file name="/fragment.java" timestamp="1521193095230">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="^" line="0" column="47" />
@@ -199,11 +198,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/responsive/login.scala.html" />
-      <jump line="31" column="41" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/responsive/login.scala.html" />
-      <jump line="36" column="58" filename="$USER_HOME$/Downloads/pointshub/app/views/console/roleManagement.scala.html" />
-      <jump line="211" column="23" filename="$USER_HOME$/Downloads/pointshub/public/javascripts/console/roleM.js" />
-      <jump line="240" column="23" filename="$USER_HOME$/Downloads/pointshub/public/javascripts/console/roleM.js" />
       <jump line="179" column="16" filename="$USER_HOME$/Downloads/pointshub/public/javascripts/console/roleM.js" />
       <jump line="26406" column="8" filename="$USER_HOME$/Downloads/pointshub/public/javascripts/webixtree/webix_debug.js" />
       <jump line="207" column="0" filename="$USER_HOME$/Downloads/pointshub/app/views/console/roleManagement.scala.html" />
@@ -299,6 +293,11 @@
       <jump line="329" column="31" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.0/vertx-core-3.5.0-sources.jar!/io/vertx/core/http/HttpClientRequest.java" />
       <jump line="337" column="41" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.0/vertx-core-3.5.0-sources.jar!/io/vertx/core/http/HttpClientRequest.java" />
       <jump line="231" column="12" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.0/vertx-core-3.5.0-sources.jar!/io/vertx/core/http/HttpClientRequest.java" />
+      <jump line="161" column="105" filename="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" />
+      <jump line="200" column="39" filename="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" />
+      <jump line="42" column="44" filename="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" />
+      <jump line="71" column="46" filename="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -308,40 +307,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>form</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVmZmVyLmFwcGVuZFN0cmluZygiQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPVwiIiArIGYubmFtZSgpICsgIlwiOyBmaWxlbmFtZT1cIiIgKyBmLmZpbGVOYW1lKCkgKyAiXCJcclxuIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFoZWFkZXIuZ2V0S2V5KCkuZXF1YWxzSWdub3JlQ2FzZSgiaG9zdCIpICYmICFoZWFkZXIuZ2V0S2V5KCkuZXF1YWxzSWdub3JlQ2FzZSgiY29udGVudC1sZW5ndGgiKSkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9idWZmZXIuYXBwZW5kU3RyaW5nKCJDb250ZW50LVRyYW5zZmVyLUVuY29kaW5nOiAiICsgZi5jb250ZW50VHJhbnNmZXJFbmNvZGluZygpICsgIlxyXG4iKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVmZmVyLmFwcGVuZFN0cmluZygiLS0iICsgYm91bmRhcnkgKyAiXHJcbiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKCFoZWFkZXIuZ2V0S2V5KCkuZXF1YWxzSWdub3JlQ2FzZSgiaG9zdCIpKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChoZWFkZXIuZ2V0S2V5KCkuZXF1YWxzKCJDb250ZW50LUxlbmd0aCIpKSB7CiAgICAgICAgICAgICAgICAgICAgdG9SZXEuaGVhZGVycygpLmFkZChoZWFkZXIuZ2V0S2V5KCksICIiICsgKEludGVnZXIucGFyc2VJbnQoaGVhZGVyLmdldFZhbHVlKCkpIC0gbGVuKSk7CiAgICAgICAgICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnQgbGVuID0gY29udGV4dC5yZXF1ZXN0KCkuZ2V0SGVhZGVyKCJIb3N0IikubGVuZ3RoKCkgKyA2Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZ2V0Qm9keShjb250ZXh0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRvUmVxLmhlYWRlcnMoKS5hZGQoaGVhZGVyLmdldEtleSgpLCBoZWFkZXIuZ2V0VmFsdWUoKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYnVmZmVyLmFwcGVuZFN0cmluZygiQ29udGVudC1UeXBlOiAiICsgZi5jb250ZW50VHlwZSgpICsgIlxyXG4iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
