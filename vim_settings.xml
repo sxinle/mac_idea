@@ -6,8 +6,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-forms/src/main/java/com/acenode/micros/forms/FormAPIVerticle.java" timestamp="1521080723353">
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-forms/src/main/java/com/acenode/micros/forms/FormAPIVerticle.java" timestamp="1521114403147">
         <mark key="'" line="82" column="52" />
+        <mark key="[" line="66" column="28" />
+        <mark key="]" line="66" column="86" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/order/DisOrderController.java" timestamp="1520941077450">
         <mark key="'" line="73" column="54" />
@@ -75,6 +77,7 @@
         <mark key="[" line="164" column="18" />
         <mark key="]" line="164" column="51" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/netty/netty-codec-http/4.1.15.Final/netty-codec-http-4.1.15.Final-sources.jar!/io/netty/handler/codec/http/multipart/HttpPostMultipartRequestDecoder.java" timestamp="1521116392999" />
       <file name="$USER_HOME$/Desktop/play-java-seed/app/controllers/console/AwardOrderController.java" timestamp="1520564686695">
         <mark key="'" line="80" column="48" />
       </file>
@@ -109,6 +112,7 @@
         <mark key="[" line="651" column="2" />
         <mark key="]" line="651" column="18" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/vertx/vertx-web/3.5.0/vertx-web-3.5.0-sources.jar!/io/vertx/ext/web/RoutingContext.java" timestamp="1521113706663" />
       <file name="$USER_HOME$/workspace/jinhui/order-producer/public/css/responsive/login.css" timestamp="1521023599671">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="77" column="33" />
@@ -140,12 +144,11 @@
         <mark key="[" line="35" column="59" />
         <mark key="]" line="35" column="100" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" timestamp="1521112347109">
-        <mark key="'" line="144" column="35" />
-        <mark key="[" line="156" column="9" />
-        <mark key="]" line="157" column="7" />
-        <mark key="." line="157" column="7" />
-        <mark key="^" line="157" column="7" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" timestamp="1521116291775">
+        <mark key="'" line="150" column="35" />
+        <mark key="[" line="199" column="0" />
+        <mark key="]" line="199" column="0" />
+        <mark key="." line="199" column="0" />
       </file>
       <file name="$USER_HOME$/Downloads/pointshub/app/views/console/roleManagement.scala.html" timestamp="1521019912640">
         <mark key="'" line="170" column="43" />
@@ -154,8 +157,8 @@
         <mark key="^" line="62" column="43" />
         <mark key="." line="62" column="43" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.0/vertx-core-3.5.0-sources.jar!/io/vertx/core/http/HttpClientRequest.java" timestamp="1521101824315">
-        <mark key="'" line="59" column="17" />
+      <file name="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.0/vertx-core-3.5.0-sources.jar!/io/vertx/core/http/HttpClientRequest.java" timestamp="1521113143092">
+        <mark key="'" line="231" column="12" />
       </file>
       <file name="$USER_HOME$/vertx-http-proxy/src/main/java/io/vertx/httpproxy/impl/HttpProxyImpl.java" timestamp="1521093584288">
         <mark key="'" line="468" column="15" />
@@ -178,7 +181,7 @@
       <file name="$USER_HOME$/vertx-reverse-proxy/src/main/java/com/mycompany/myproject/verticles/reverseproxy/AuthResponseHandler.java" timestamp="1521101189387">
         <mark key="'" line="57" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1521112289452">
+      <file name="/fragment.java" timestamp="1521116364401">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="47" />
         <mark key="^" line="0" column="47" />
@@ -192,10 +195,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="284" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
-      <jump line="15" column="20" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/responsive/login.scala.html" />
-      <jump line="13" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/responsive/login.scala.html" />
-      <jump line="7" column="39" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="9" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/responsive/login.scala.html" />
       <jump line="31" column="41" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/responsive/login.scala.html" />
       <jump line="36" column="58" filename="$USER_HOME$/Downloads/pointshub/app/views/console/roleManagement.scala.html" />
@@ -292,6 +291,10 @@
       <jump line="52" column="120" filename="$USER_HOME$/vertx-reverse-proxy/src/main/java/com/mycompany/myproject/verticles/reverseproxy/AuthResponseHandler.java" />
       <jump line="57" column="23" filename="$USER_HOME$/vertx-reverse-proxy/src/main/java/com/mycompany/myproject/verticles/reverseproxy/AuthResponseHandler.java" />
       <jump line="59" column="17" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.0/vertx-core-3.5.0-sources.jar!/io/vertx/core/http/HttpClientRequest.java" />
+      <jump line="75" column="0" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.0/vertx-core-3.5.0-sources.jar!/io/vertx/core/http/HttpClientRequest.java" />
+      <jump line="329" column="31" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.0/vertx-core-3.5.0-sources.jar!/io/vertx/core/http/HttpClientRequest.java" />
+      <jump line="337" column="41" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.0/vertx-core-3.5.0-sources.jar!/io/vertx/core/http/HttpClientRequest.java" />
+      <jump line="231" column="12" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.0/vertx-core-3.5.0-sources.jar!/io/vertx/core/http/HttpClientRequest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -301,37 +304,37 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>c</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>form</text>
       </register>
-      <register name="0" type="4">
-        <text>HttpClientRequest</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYnVmZmVyLmFwcGVuZFN0cmluZygiQ29udGVudC1EaXNwb3NpdGlvbjogZm9ybS1kYXRhOyBuYW1lPVwiIiArIGYubmFtZSgpICsgIlwiOyBmaWxlbmFtZT1cIiIgKyBmLmZpbGVOYW1lKCkgKyAiXCJcclxuIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBqawo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0b1JlcS53cml0ZUN1c3RvbUZyYW1lKEh0dHBGcmFtZSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ2V0Qm9keShjb250ZXh0KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBGb2tybSBmb3JtID0gbmV3IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjbGllbnQucG9zdCgiYWEiKS5wdXRIZWFkZXIoIiIsICIiKS53cmk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYnVmZmVyLmFwcGVuZFN0cmluZygiQ29udGVudC1UeXBlOiAiICsgZi5jb250ZW50VHlwZSgpICsgIlxyXG4iKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0b1JlcS5zZXRDaHVua2VkKHRydWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
