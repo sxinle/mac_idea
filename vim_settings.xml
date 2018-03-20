@@ -67,13 +67,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/order/SalesOrderController.java" timestamp="1521517610107">
-        <mark key="'" line="41" column="25" />
-        <mark key="[" line="15" column="17" />
-        <mark key="]" line="15" column="28" />
-        <mark key="^" line="15" column="28" />
-        <mark key="." line="15" column="28" />
-      </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobApps.scala.html" timestamp="1521432844462">
         <mark key="'" line="84" column="68" />
       </file>
@@ -92,6 +85,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/core-examples/src/main/java/io/vertx/example/core/future/CompUtil.java" timestamp="1521541555890" />
       <file name="$USER_HOME$/workspace/jinhui/prod/crm/app/service/ProductService.java" timestamp="1521265099529">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -105,11 +99,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/WeixinPrizeController.java" timestamp="1521512311463">
-        <mark key="[" line="278" column="66" />
-        <mark key="]" line="278" column="66" />
-        <mark key="^" line="339" column="14" />
-        <mark key="." line="278" column="66" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/WeixinPrizeController.java" timestamp="1521541151794">
+        <mark key="[" line="352" column="0" />
+        <mark key="]" line="352" column="0" />
+        <mark key="^" line="352" column="36" />
+        <mark key="." line="352" column="0" />
       </file>
       <file name="/singleInventoryInfoDelete.scala.html" timestamp="1520579669258">
         <mark key="'" line="209" column="31" />
@@ -184,6 +178,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/core-examples/src/main/java/io/vertx/example/core/future/ComposeExample.java" timestamp="1521541539638">
+        <mark key="[" line="55" column="12" />
+        <mark key="]" line="55" column="29" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" timestamp="1521511068983">
         <mark key="'" line="836" column="32" />
         <mark key="[" line="138" column="12" />
@@ -221,6 +219,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Downloads/core-examples/src/main/java/io/vertx/example/core/future/UserLogin.java" timestamp="1521541456963">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="15" column="12" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/sql/BPMNMapper.xml" timestamp="1521530693295">
         <mark key="[" line="80" column="15" />
         <mark key="]" line="80" column="27" />
@@ -232,13 +236,6 @@
       </file>
       <file name="/mobMessage.scala.html" timestamp="1521433672303">
         <mark key="'" line="137" column="68" />
-      </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/ScanController.java" timestamp="1521509671632">
-        <mark key="'" line="273" column="15" />
-        <mark key="[" line="423" column="12" />
-        <mark key="]" line="424" column="6" />
-        <mark key="." line="424" column="6" />
-        <mark key="^" line="424" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/anti/app/controllers/statistics/StatisticsInventoryController.java" timestamp="1521435879829">
         <mark key="[" line="0" column="0" />
@@ -254,7 +251,7 @@
       <file name="$USER_HOME$/workspace/jinhui/order-producer/public/page/login.js" timestamp="1521024017457">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1521539791426">
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1521540943917">
         <mark key="'" line="224" column="150" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/BPMNService.java" timestamp="1521530679508" />
@@ -293,7 +290,7 @@
       <file name="$USER_HOME$/.ivy2/cache/scala_2.12/sbt_1.0/com.typesafe.play/sbt-plugin/jars/sbt-plugin-2.6.12.jar!/play/sbt/PlayImport.class" timestamp="1520565224518">
         <mark key="'" line="11" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521530913244">
+      <file name="/Dummy.txt" timestamp="1521540944547">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -498,40 +495,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>telphone</text>
+        <text>Future.future();</text>
       </register>
       <register name="/" type="4">
         <text>camel</text>
       </register>
       <register name="0" type="4">
-        <text>getMd5(camelAppId + orderNo + FileCommonUtil.getSysCfgProp(&quot;camelAppKey&quot;) + timestamp)</text>
+        <text encoding="base64">PExpc3Q8SnNvbk9iamVjdD4+</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG9yZGVyTm8gPSBsb25nVG9TdHJpbmcoTG9uZy5wYXJzZUxvbmcocGhvbmUpLCBMb25nLnBhcnNlTG9uZyhpZCksIExvbmcucGFyc2VMb25nKHJlY2hhcmdlRmxhZykpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy/miYvmnLrlj7cK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9uZyB0aW1lc3RhbXAgPSBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHNpZ24gPSBnZXRNZDUoY2FtZWxBcHBJZCArIG9yZGVyTm8gKyBGaWxlQ29tbW9uVXRpbC5nZXRTeXNDZmdQcm9wKCJjYW1lbEFwcEtleSIpICsgdGltZXN0YW1wKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHNpZ25NZDUgPSBnZXRNZDUoc2lnbik7Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBGdXR1cmU8TGlzdDxKc29uT2JqZWN0Pj4gZmluZFRva2VuID0gRnV0dXJlLmZ1dHVyZSgpOwoKICAgICAgICByZXR1cm4gZmluZFRva2VuOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBmaXhtZSDlsY/olL3lj5HnuqLljIXlip/og70gaHNvbmcgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG1hcDsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvL+abtOaWsOWlluWNoSzmnoTpgKDnuqLljIXlj4LmlbAKICAgICAgICBXZWNoYXRSZWRQYWNrUmVxdWVzdCByZXF1ZXN0ID0gbmV3IFdlY2hhdFJlZFBhY2tSZXF1ZXN0KCk7CiAgICAgICAgcmVxdWVzdC5zZXROb25jZV9zdHIoVVVJRC5yYW5kb21VVUlEKCkudG9TdHJpbmcoKS5yZXBsYWNlKCItIiwgIiIpKTsKICAgICAgICByZXF1ZXN0LnNldE1jaF9pZChtY2hJZCk7CiAgICAgICAgLy8g5ZWG5oi36K6i5Y2V5Y+377yI5q+P5Liq6K6i5Y2V5Y+35b+F6aG75ZSv5LiA77yJIOe7hOaIkO+8miBtY2hfaWQreXl5eW1tZGQrMTDkvY3kuIDlpKnlhoXkuI3og73ph43lpI3nmoTmlbDlrZcKICAgICAgICBTdHJpbmcgbWNoQmlsbG5vID0gV2VjaGF0VXRpbHMuZ2V0VHJhZGVObyhtY2hJZCk7Ly9tY2hJZCArIHNkZi5mb3JtYXQobmV3IERhdGUoKSkgKyAiMDAwMDEyMzQ4OCI7CiAgICAgICAgcmVxdWVzdC5zZXRNY2hfYmlsbG5vKG1jaEJpbGxubyk7CiAgICAgICAgcmVxdWVzdC5zZXRXeGFwcGlkKGFwcElkKTsvLyhXZWl4aW5Db25maWcuQVBQX0lEKTsKICAgICAgICByZXF1ZXN0LnNldE5pY2tfbmFtZShuaWNrTmFtZSk7CiAgICAgICAgcmVxdWVzdC5zZXRTZW5kX25hbWUoc2VuZE5hbWUpOwogICAgICAgIHJlcXVlc3Quc2V0UmVfb3BlbmlkKHVzZXJPcGVuaWQpOyAvLyDmjqXmlLbogIXnmoTlvq7kv6FvcGVuSWQ7CiAgICAgICAgcmVxdWVzdC5zZXRUb3RhbF9hbW91bnQobW9uZXkpOwogICAgICAgIHJlcXVlc3Quc2V0TWluX3ZhbHVlKG1vbmV5KTsKICAgICAgICByZXF1ZXN0LnNldE1heF92YWx1ZShtb25leSk7CiAgICAgICAgcmVxdWVzdC5zZXRUb3RhbF9udW0oMSk7CiAgICAgICAgcmVxdWVzdC5zZXRXaXNoaW5nKGFjdGl2aXR5TmFtZSk7CiAgICAgICAgcmVxdWVzdC5zZXRDbGllbnRfaXAoY2xpZW50SXApOwogICAgICAgIHJlcXVlc3Quc2V0QWN0X25hbWUoYWN0aXZpdHlOYW1lKTsKICAgICAgICByZXF1ZXN0LnNldFJlbWFyayhyZW1hcmspOwogICAgICAgIFN0cmluZyBzaWduID0gIiI7CiAgICAgICAgc2lnbiA9IFdlY2hhdFV0aWxzLmJ1aWxkUmVxdWVzdFNpZ24ocmVxdWVzdCwgYXBpS2V5KTsKICAgICAgICByZXF1ZXN0LnNldFNpZ24oc2lnbik7CiAgICAgICAgLy8g6K+B5LmmCiAgICAgICAgU3RyaW5nIHBhdGggPSBrZXlQYXRoOwogICAgICAgIEZpbGUgd2VpeGluY2VydCA9IFBsYXkuZ2V0RmlsZShwYXRoLCBQbGF5LmN1cnJlbnQoKSk7CiAgICAgICAgaWYgKHdlaXhpbmNlcnQuZXhpc3RzKCkpIHsKCiAgICAgICAgICAgIC8v5Y+R6YCB6K+35rGC5bm26Kej5p6Q6L+U5Zue55qEeG1sCiAgICAgICAgICAgIEZpbGVJbnB1dFN0cmVhbSBpbnN0cmVhbSA9IG5ldyBGaWxlSW5wdXRTdHJlYW0od2VpeGluY2VydCk7CiAgICAgICAgICAgIFN0cmluZyByZXNwID0gSHR0cFV0aWwud2VjaGF0UG9zdChhcGlVcmwsIFdlY2hhdFV0aWxzLmNvbnZlcnRPYmplY3RUb1htbChyZXF1ZXN0LCBXZWNoYXRSZWRQYWNrUmVxdWVzdC5jbGFzcyksIGluc3RyZWFtKTsKICAgICAgICAgICAgV2VjaGF0UmVkUGFja1Jlc3BvbnNlIHJlc3BvbnNlID0gV2VjaGF0VXRpbHMuY29udmVydFhtbFRvUmVzcG9uc2UocmVzcCk7CgogICAgICAgICAgICAvLyAgMjAxNi0wNy0yOSBtb2RpZnkgIOS/ruaUueWbnuiwg+WPguaVsOiwg+eUqOmUmeivr++8jOWvvOiHtOe6ouWMheWcqOW+ruS/oeacjeWKoeerr+Wksei0peWQjuW5s+WPsOS4reayoeacieWkhOeQhiAgc3RhcnQKICAgICAgICAgICAgaWYgKHJlc3BvbnNlLmdldFJldHVybl9jb2RlKCkuZXF1YWxzKCJTVUNDRVNTIikgJiYgcmVzcG9uc2UuZ2V0UmVzdWx0X2NvZGUoKS5lcXVhbHMoIlNVQ0NFU1MiKSkgewogICAgICAgICAgICAgICAgcmVzdWx0ID0gdHJ1ZTsKICAgICAgICAgICAgICAgIExvZ2dlci5lcnJvcigi5b6u5L+h5Y+R57qi5YyF55So5oi36aKG5Y+W5oiQ5YqfOiB1c2VySW5mby5vcGVuSWQ9IiArIHVzZXJPcGVuaWQgKyAiIOWNleWPtzoiICsgcmVzcG9uc2UuZ2V0U2VuZF9saXN0aWQoKSk7CiAgICAgICAgICAgIH0gZWxzZSBpZiAocmVzcG9uc2UuZ2V0UmV0dXJuX2NvZGUoKS5lcXVhbHMoIlNVQ0NFU1MiKSAmJiByZXNwb25zZS5nZXRFcnJfY29kZSgpLmVxdWFscygiU1lTVEVNRVJST1IiKSAmJiByZXNwb25zZS5nZXRFcnJfY29kZV9kZXMoKS5jb250YWlucygi6K+35rGC5bey5Y+X55CGIikpIHsKICAgICAgICAgICAgICAgIHJlc3VsdCA9IHRydWU7CiAgICAgICAgICAgICAgICBMb2dnZXIuZXJyb3IoIue6ouWMheivt+axguW3suWPl+eQhu+8jOivt+WIsOW+ruS/oeWQjuWPsOafpeivojogdXNlckluZm8ub3BlbklkPSIgKyB1c2VyT3BlbmlkICsgIuWVhuaIt+WNleWPtzoiICsgbWNoQmlsbG5vICsgIiBlcnJfZGVzOiIgKyByZXNwb25zZS5nZXRFcnJfY29kZV9kZXMoKSk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICByZXN1bHQgPSBmYWxzZTsKICAgICAgICAgICAgICAgIExvZ2dlci5lcnJvcigi5b6u5L+h5Y+R57qi5YyF55So5oi36aKG5Y+W6ZSZ6K+vOiB1c2VySW5mby5vcGVuSWQ9IiArIHVzZXJPcGVuaWQgKyAiIG1zZzoiICsgcmVzcG9uc2UuZ2V0UmV0dXJuX21zZygpICsgIiBlcnJfZGVzOiIgKyByZXNwb25zZS5nZXRFcnJfY29kZV9kZXMoKSk7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgLy8g5pu05paw6K6i5Y2V54q25oCBCiAgICAgICAgdXBkYXRlT3JkZXJTdGF0dXMocXJvY2RlLCBldmVudExvZ0lkLCB1c2VyT3BlbmlkLCByZXN1bHQsIG5pY2tOYW1lKTsKICAgICAgICByZXR1cm4gcmVzdWx0Owo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFyYW0ucHV0KCJvcmRlck5vIiwgRmlsZUNvbW1vblV0aWwuZ2V0U3lzQ2ZnUHJvcCgiY2FtZWxBcHBJZCIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIG9yZGVyaWQgPSBsb25nVG9TdHJpbmcoTG9uZy5wYXJzZUxvbmcocGhvbmUpLCBMb25nLnBhcnNlTG9uZyhpZCksIExvbmcucGFyc2VMb25nKHJlY2hhcmdlRmxhZykpOwogICAgICAgICAgICBwYXJhbS5wdXQoIm9yZGVyaWQiLCBvcmRlcmlkKTsK</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
