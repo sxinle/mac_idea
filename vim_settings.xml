@@ -183,12 +183,12 @@
       <file name="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/ProductServiceImpl.java" timestamp="1521263900997">
         <mark key="'" line="58" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" timestamp="1521558302849">
-        <mark key="'" line="638" column="38" />
-        <mark key="[" line="620" column="51" />
-        <mark key="]" line="620" column="51" />
-        <mark key="." line="620" column="51" />
-        <mark key="^" line="621" column="51" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" timestamp="1521561578039">
+        <mark key="'" line="701" column="26" />
+        <mark key="[" line="559" column="20" />
+        <mark key="]" line="559" column="52" />
+        <mark key="." line="559" column="52" />
+        <mark key="^" line="559" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" timestamp="1521539035829">
         <mark key="'" line="102" column="53" />
@@ -423,17 +423,6 @@
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/order/MyOrderController.java" timestamp="1521550318176" />
     </filemarks>
     <jumps>
-      <jump line="950" column="29" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/src.zip!/java/util/Properties.java" />
-      <jump line="321" column="19" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/util/CommonSend.java" />
-      <jump line="422" column="62" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/util/CommonSend.java" />
-      <jump line="67" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/sql_migrate/2018-03-09/积分菜单权限.sql" />
-      <jump line="1026" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/sql_migrate/2018-03-09/积分菜单权限.sql" />
-      <jump line="1130" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/sql_migrate/2018-03-09/积分菜单权限.sql" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/sql_migrate/2018-03-09/积分菜单权限.sql" />
-      <jump line="13" column="28" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/sql_migrate/2018-03-09/积分菜单权限.sql" />
-      <jump line="3" column="44" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/sql_migrate/2018-03-09/积分菜单权限.sql" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/sql_migrate/2018-03-09/积分菜单权限.sql" />
-      <jump line="41" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/sql_migrate/2018-03-09/积分菜单权限.sql" />
       <jump line="42" column="44" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/sql_migrate/2018-03-09/积分菜单权限.sql" />
       <jump line="62" column="44" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/sql_migrate/2018-03-09/积分菜单权限.sql" />
       <jump line="84" column="45" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/sql_migrate/2018-03-09/积分菜单权限.sql" />
@@ -521,8 +510,19 @@
       <jump line="712" column="48" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="722" column="35" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="358" column="72" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
-      <jump line="613" column="42" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="638" column="38" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
+      <jump line="614" column="61" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
+      <jump line="608" column="31" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
+      <jump line="634" column="31" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
+      <jump line="655" column="31" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
+      <jump line="723" column="26" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
+      <jump line="613" column="31" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
+      <jump line="436" column="12" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
+      <jump line="480" column="20" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
+      <jump line="84" column="35" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
+      <jump line="552" column="56" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
+      <jump line="700" column="26" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
+      <jump line="701" column="26" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -532,49 +532,54 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>乘</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>每多少</text>
+        <text>各项不能</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkKCIjcHJvZHVjdE51bSIpLnZhbCgkKCIjZ3JvdXBOdW0iKS52YWwoKSAqIHBlckJveE51bSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkKCJpbnB1dFtpZF49dG90YWxOdW1dIikuYXR0cignZGlzYWJsZWQnLCB0cnVlKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkKCIjcHJvZHVjdE51bSIpLnZhbCgkKCIjZ3JvdXBOdW0iKS52YWwoKSAqIHBlckJveE51bSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkKCdpbnB1dFtpZF49dG90YWxOdW1dJykuYXR0cignZGlzYWJsZWQnLCB0cnVlKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkKCJpbnB1dFtpZF49dG90YWxOdW1dIikuZWFjaChmdW5jdGlvbiAodG90YWwpIHsKICAgICAgICAgICAgJCh0b3RhbCkuYXR0cignZGlzYWJsZWQnLCBmYWxzZSk7CiAgICAgICAgfSkK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJhcmVhTDIiIGNsYXNzPSJjb2wtc20tMiBjb250cm9sLWxhYmVsIj7mipXlpZbmgLvmlbAo566xKTwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1zbS00Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jb250cm9sIiBpZD0iZ3JvdXBOdW0iIC8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+      <register name="3" type="4">
+        <text>.each(function (total) {
+            $(total).attr('disabled', true);
+            $(total).val('');
+        })</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJCQkJCQkJPGxhYmVsIGZvcj0iYXJlYUwyIiBjbGFzcz0iY29sLXNtLTIgY29udHJvbC1sYWJlbCI+5oqV5aWW5pWw6YePPC9sYWJlbD4KCQkJCQkJCQkJPGRpdiBjbGFzcz0iY29sLXNtLTQiPgoJCQkJCQkJCQkJPGlucHV0IGNsYXNzPSJmb3JtLWNvbnRyb2wiIGlkPSJwcm9kdWN0TnVtIiBkaXNhYmxlZD0iZGlzYWJsZWQiIC8+CgkJCQkJCQkJCTwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXQuYXR0cignZGlzYWJsZWQnLCB0cnVlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXQuYXR0cignZGlzYWJsZWQnLCBmYWxzZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaW5wdXQudmFsKCcnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJhcmVhTDIiIGNsYXNzPSJjb2wtc20tMiBjb250cm9sLWxhYmVsIj7mipXlpZbmgLvmlbAo566xKTwvbGFiZWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1zbS00Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jb250cm9sIiBpZD0iZ3JvdXBOdW0iIC8+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>else {
+
+                    }</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0iYXJlYUwyIiBjbGFzcz0iY29sLXNtLTIgY29udHJvbC1sYWJlbCI+5oqV5aWW5oC75pWwKOeusSk8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tNCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgY2xhc3M9ImZvcm0tY29udHJvbCIgaWQ9Imdyb3VwTnVtIiAvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBpZighY2hlY2tQb3NpdGl2ZUludGVnZXIobnVtVmFsKSB8fCAhY2hlY2tQb3NpdGl2ZUludGVnZXIocGVyQm94VmFsKSl7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbGVydCgi5pWw6YeP5ZKM5q+P5aSa5bCR566x5Lit5aWW5b+F6aG75Li65q2j5pW05pWw77yBIik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCIjdG90YWxOdW0iK3RlbXBJZCkudmFsKCIiKTsKICAgICAgICAgICAgICAgICAgICAgICAgfWVsc2V7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAkKCIjdG90YWxOdW0iK3RlbXBJZCkudmFsKHBlckJveFZhbCpudW1WYWwpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>每多少</last-search>
+      <last-search>各项不能</last-search>
       <last-offset />
-      <last-pattern>每多少</last-pattern>
+      <last-pattern>各项不能</last-pattern>
       <last-replace>input</last-replace>
       <last-substitute>productList.get(j)</last-substitute>
       <last-dir>1</last-dir>
@@ -582,10 +587,6 @@
     </search>
     <history>
       <history-search>
-        <entry>总数</entry>
-        <entry>兑奖</entry>
-        <entry>兑奖开始</entry>
-        <entry>防伪码</entry>
         <entry>开始日期</entry>
         <entry>出库开始日期</entry>
         <entry encoding="base64">XDxvdXRiZWdpbkRhdGVcPg==</entry>
@@ -602,6 +603,10 @@
         <entry encoding="base64">XDxwcm9kdWN0TnVtXD4=</entry>
         <entry>投奖数量</entry>
         <entry>每多少</entry>
+        <entry>每组数(箱</entry>
+        <entry>byTime</entry>
+        <entry>add</entry>
+        <entry>各项不能</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcIi8vZw==</entry>
