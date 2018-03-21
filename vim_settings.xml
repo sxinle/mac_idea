@@ -61,7 +61,6 @@
         <mark key="." line="324" column="32" />
         <mark key="^" line="324" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/console/LoginController.java" timestamp="1521552656823" />
       <file name="/singleInventoryInfoDelete.scala.html" timestamp="1520579669258">
         <mark key="'" line="209" column="31" />
       </file>
@@ -75,14 +74,13 @@
         <mark key="[" line="52" column="0" />
         <mark key="]" line="52" column="113" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/sql_migrate/2018-03-09/积分菜单权限.sql" timestamp="1521552033568">
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/sql_migrate/2018-03-09/积分菜单权限.sql" timestamp="1521594582422">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1554" column="112" />
         <mark key="^" line="50" column="10" />
         <mark key="." line="50" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/console/MenuController.java" timestamp="1521552517097" />
       <file name="$USER_HOME$/workspace/jinhui/prod/crm/sql_migrate/2018-03-09/基础产品上下架.sql" timestamp="1521437485099">
         <mark key="'" line="4" column="43" />
       </file>
@@ -218,7 +216,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/service/LoginService.java" timestamp="1521552706593" />
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/util/FileCommonUtil.java" timestamp="1521537322068">
         <mark key="." line="36" column="118" />
       </file>
@@ -361,8 +358,8 @@
       <file name="$USER_HOME$/workspace/jinhui/order-producer/public/page/login.js" timestamp="1521024017457">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1521553191736">
-        <mark key="'" line="313" column="141" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1521594630447">
+        <mark key="'" line="54" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/crm/app/form/ProductForm.java" timestamp="1521435327406">
         <mark key="[" line="0" column="0" />
@@ -420,10 +417,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/order/MyOrderController.java" timestamp="1521550318176" />
     </filemarks>
     <jumps>
-      <jump line="42" column="44" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/sql_migrate/2018-03-09/积分菜单权限.sql" />
       <jump line="62" column="44" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/sql_migrate/2018-03-09/积分菜单权限.sql" />
       <jump line="84" column="45" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/sql_migrate/2018-03-09/积分菜单权限.sql" />
       <jump line="82" column="45" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/sql_migrate/2018-03-09/积分菜单权限.sql" />
@@ -523,6 +518,7 @@
       <jump line="552" column="56" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="700" column="26" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="701" column="26" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
+      <jump line="54" column="34" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -535,7 +531,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>各项不能</text>
+        <text>各个等级投奖</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkKCJpbnB1dFtpZF49dG90YWxOdW1dIikuYXR0cignZGlzYWJsZWQnLCB0cnVlKTsK</text>
@@ -577,17 +573,16 @@
       </register>
     </registers>
     <search>
-      <last-search>各项不能</last-search>
+      <last-search>各个等级投奖</last-search>
       <last-offset />
-      <last-pattern>各项不能</last-pattern>
+      <last-pattern>各个等级投奖</last-pattern>
       <last-replace>input</last-replace>
       <last-substitute>productList.get(j)</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>开始日期</entry>
         <entry>出库开始日期</entry>
         <entry encoding="base64">XDxvdXRiZWdpbkRhdGVcPg==</entry>
         <entry encoding="base64">XDxiZWdpbkRhdGVcPg==</entry>
@@ -607,6 +602,7 @@
         <entry>byTime</entry>
         <entry>add</entry>
         <entry>各项不能</entry>
+        <entry>各个等级投奖</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcIi8vZw==</entry>
