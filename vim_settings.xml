@@ -54,12 +54,12 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/WeixinPrizeController.java" timestamp="1521608129816">
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/WeixinPrizeController.java" timestamp="1521619531784">
         <mark key="e" line="359" column="101" />
-        <mark key="[" line="192" column="35" />
-        <mark key="]" line="193" column="32" />
-        <mark key="." line="193" column="32" />
-        <mark key="^" line="193" column="32" />
+        <mark key="[" line="226" column="99" />
+        <mark key="]" line="226" column="114" />
+        <mark key="." line="226" column="114" />
+        <mark key="^" line="226" column="114" />
       </file>
       <file name="/singleInventoryInfoDelete.scala.html" timestamp="1520579669258">
         <mark key="'" line="209" column="31" />
@@ -228,12 +228,12 @@
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/order/DisOrderController.java" timestamp="1520941077450">
         <mark key="'" line="73" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/util/CommonSend.java" timestamp="1521617817600">
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/util/CommonSend.java" timestamp="1521618306549">
         <mark key="'" line="431" column="62" />
-        <mark key="[" line="47" column="72" />
-        <mark key="]" line="47" column="72" />
-        <mark key="." line="47" column="72" />
-        <mark key="^" line="329" column="31" />
+        <mark key="[" line="350" column="60" />
+        <mark key="]" line="350" column="60" />
+        <mark key="." line="350" column="60" />
+        <mark key="^" line="350" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/views/orderDetail.scala.html" timestamp="1520825048604">
         <mark key="'" line="20" column="36" />
@@ -244,12 +244,12 @@
       <file name="$USER_HOME$/vertx-reverse-proxy/build.gradle" timestamp="1521098618216">
         <mark key="'" line="102" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/util/Recharge.java" timestamp="1521618030138">
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/util/Recharge.java" timestamp="1521618389720">
         <mark key="'" line="52" column="35" />
-        <mark key="[" line="52" column="57" />
-        <mark key="]" line="53" column="24" />
-        <mark key="." line="53" column="24" />
-        <mark key="^" line="53" column="24" />
+        <mark key="[" line="106" column="75" />
+        <mark key="]" line="106" column="76" />
+        <mark key="." line="106" column="76" />
+        <mark key="^" line="106" column="76" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application-context.xml" timestamp="1521552772040">
         <mark key="[" line="86" column="64" />
@@ -372,12 +372,12 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1521611027281">
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1521618846249">
         <mark key="'" line="338" column="15" />
-        <mark key="[" line="340" column="15" />
-        <mark key="]" line="340" column="39" />
-        <mark key="." line="340" column="150" />
-        <mark key="^" line="340" column="150" />
+        <mark key="[" line="340" column="151" />
+        <mark key="]" line="340" column="162" />
+        <mark key="." line="340" column="162" />
+        <mark key="^" line="340" column="162" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/crm/app/form/ProductForm.java" timestamp="1521435327406">
         <mark key="[" line="0" column="0" />
@@ -549,40 +549,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>map</text>
+        <text>qrCode</text>
       </register>
       <register name="/" type="4">
         <text>weixin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gbWFwID0gKE1hcDxTdHJpbmcsIE9iamVjdD4pIHJlc3VsdC5nZXQoInJlc3VsdCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU2NhblByaXplRGV0YWlsIHNjYW5Qcml6ZSA9IEViZWFuLmZpbmQoU2NhblByaXplRGV0YWlsLmNsYXNzKS53aGVyZSgpLmVxKCJxcmNvZGUiLCBxckNvZGUpLmZpbmRVbmlxdWUoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNjYW5Qcml6ZURldGFpbCBzcGQgPSBFYmVhbi5maW5kKFNjYW5Qcml6ZURldGFpbC5jbGFzcykud2hlcmUoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VjY2VzcyA9ICIwIi5lcXVhbHMoU3RyaW5nLnZhbHVlT2YocmVzdWx0LmdldCgiZXJyb3JfY29kZSIpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZihFbXB0eVV0aWwuaXNFbXB0eShldmVudExvZ0lkKSl7CiAgICAgICAgICAgIAogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYXAgPSAoTWFwPFN0cmluZywgT2JqZWN0PikgcmVzdWx0LmdldCgicmVzdWx0Iik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBFYmVhbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0KCkuZ2V0Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXF1ZXN0KCkuYm9keSgpLmFzSnNvbigpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNjYW5Qcml6ZURldGFpbC5GaW5kZXIoKS4K</text>
+        <text encoding="base64">ICAgICAqIEByZXR1cm4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFVuUGlja2xlci5TY2FuLgo=</text>
+        <text encoding="base64">ICAgICAqIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gbWFwID0gKE1hcDxTdHJpbmcsIE9iamVjdD4pIHJlc3VsdC5nZXQoInJlc3VsdCIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gbWFwID0gKE1hcDxTdHJpbmcsIE9iamVjdD4pIHJlc3VsdC5nZXQoInJlc3VsdCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VjY2VzcyA9ICIwIi5lcXVhbHMoU3RyaW5nLnZhbHVlT2YocmVzdWx0LmdldCgiZXJyb3JfY29kZSIpKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
