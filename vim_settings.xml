@@ -355,10 +355,10 @@
         <mark key="[" line="4" column="0" />
         <mark key="]" line="20" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1521607859372">
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1521611027281">
         <mark key="'" line="338" column="15" />
-        <mark key="[" line="340" column="102" />
-        <mark key="]" line="340" column="150" />
+        <mark key="[" line="340" column="15" />
+        <mark key="]" line="340" column="39" />
         <mark key="." line="340" column="150" />
         <mark key="^" line="340" column="150" />
       </file>
@@ -538,7 +538,7 @@
         <text>weixin</text>
       </register>
       <register name="0" type="4">
-        <text>https://api.weixin.qq.com/sns/userinfo</text>
+        <text>/luotuoma/redPackCallback</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
