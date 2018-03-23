@@ -37,6 +37,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/goodsinfoInterface/impl/MongoIntegralServiceImpl.java" timestamp="1521771531695">
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/anti/app/controllers/inventory/InventoryController.java" timestamp="1521435859848">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -47,7 +52,7 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/WeixinPrizeController.java" timestamp="1521768805434">
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/WeixinPrizeController.java" timestamp="1521771700679">
         <mark key="e" line="370" column="101" />
         <mark key="'" line="326" column="128" />
         <mark key="[" line="203" column="73" />
@@ -84,11 +89,10 @@
         <mark key="." line="22" column="16" />
         <mark key="^" line="22" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/models/CamelLog.java" timestamp="1521769191999">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="39" column="11" />
-        <mark key="." line="39" column="11" />
-        <mark key="^" line="39" column="11" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/models/CamelLog.java" timestamp="1521771198482">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/crm/app/controllers/role/RoleController.java" timestamp="1521264454563">
         <mark key="[" line="0" column="0" />
@@ -172,10 +176,10 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="86" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" timestamp="1521768386059">
-        <mark key="'" line="28" column="45" />
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="44" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" timestamp="1521770614825">
+        <mark key="'" line="14" column="26" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="7" />
         <mark key="^" line="105" column="29" />
         <mark key="." line="105" column="21" />
       </file>
@@ -327,12 +331,12 @@
       <file name="/mobMessage.scala.html" timestamp="1521433672303">
         <mark key="'" line="137" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/ScanController.java" timestamp="1521710911584">
-        <mark key="'" line="572" column="44" />
-        <mark key="[" line="724" column="0" />
-        <mark key="]" line="780" column="16" />
-        <mark key="." line="732" column="81" />
-        <mark key="^" line="424" column="6" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/ScanController.java" timestamp="1521771965637">
+        <mark key="'" line="583" column="44" />
+        <mark key="[" line="419" column="49" />
+        <mark key="]" line="420" column="11" />
+        <mark key="." line="420" column="11" />
+        <mark key="^" line="420" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/user/UserController.java" timestamp="1521530798290">
         <mark key="[" line="252" column="40" />
@@ -409,12 +413,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1521768343444">
+      <file name="/fragment.java" timestamp="1521771699581">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="35" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="479" column="45" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="620" column="44" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="729" column="30" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
@@ -514,6 +517,7 @@
       <jump line="111" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/util/CommonSend.java" />
       <jump line="750" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/util/CommonSend.java" />
       <jump line="28" column="45" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
+      <jump line="14" column="26" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -523,40 +527,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>06274d487a8250e43ef9e3dd9dc7d139</text>
+        <text>status</text>
       </register>
       <register name="/" type="4">
         <text>verifyStr</text>
       </register>
       <register name="0" type="4">
-        <text>06274d487a8250e43ef9e3dd9dc7d139</text>
+        <text>useCamel</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBWZXJzaW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLio7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCFjYW1lbE9rKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQodXJsKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuc2V0T3BlbmlkKG9wZW5pZCk7Cg==</text>
+        <text encoding="base64">ICAgIEBWZXJzaW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2cuc2V0TXNnKGVycm9yQ29kZSA9PSAwID8gIuivnei0ueWFheWAvOaIkOWKnyIgOiAi6K+d6LS55YWF5YC85aSx6LSlIik7Cg==</text>
+        <text encoding="base64">ICAgIEBWZXJzaW9uCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBWZXJzaW9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLio7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoRW1wdHlVdGlsLmlzRW1wdHkoZXZlbnRMb2dJZCkpIHsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
