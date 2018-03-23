@@ -6,13 +6,20 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/code_review/wxy/crm/public/statics/app/controller/CusTreeController.js" timestamp="1521778437946">
+        <mark key="'" line="224" column="47" />
+        <mark key="[" line="110" column="12" />
+        <mark key="]" line="110" column="12" />
+        <mark key="^" line="110" column="12" />
+        <mark key="." line="110" column="12" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/zest/src/main/java/zest/A.java" timestamp="1521532272513">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/code_review/wxy/crm/app/service/impl/CustomerServiceImpl.java" timestamp="1521777569091" />
+      <file name="$USER_HOME$/workspace/code_review/wxy/crm/app/service/impl/CustomerServiceImpl.java" timestamp="1521778604113" />
       <file name="/ko.js" timestamp="1521434939228">
         <mark key="'" line="236" column="0" />
       </file>
@@ -370,7 +377,7 @@
       <file name="$USER_HOME$/.ivy2/cache/scala_2.12/sbt_1.0/com.typesafe.play/sbt-plugin/jars/sbt-plugin-2.6.12.jar!/play/sbt/PlayImport.class" timestamp="1520565224518">
         <mark key="'" line="11" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521778051691">
+      <file name="/Dummy.txt" timestamp="1521778712651">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -416,7 +423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="706" column="64" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="712" column="48" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="722" column="35" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="358" column="72" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
@@ -516,6 +522,7 @@
       <jump line="346" column="42" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app/controller/CusTreeController.js" />
       <jump line="398" column="45" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app/controller/CusTreeController.js" />
       <jump line="547" column="44" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app/controller/CusTreeController.js" />
+      <jump line="223" column="47" filename="$USER_HOME$/workspace/code_review/wxy/crm/public/statics/app/controller/CusTreeController.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -528,7 +535,7 @@
         <text>status</text>
       </register>
       <register name="/" type="4">
-        <text>node</text>
+        <text>expend</text>
       </register>
       <register name="0" type="4">
         <text>Ext.data.TreeStore</text>
@@ -565,9 +572,9 @@
       </register>
     </registers>
     <search>
-      <last-search>node</last-search>
+      <last-search>expend</last-search>
       <last-offset />
-      <last-pattern>node</last-pattern>
+      <last-pattern>expend</last-pattern>
       <last-replace>input</last-replace>
       <last-substitute>productList.get(j)</last-substitute>
       <last-dir>1</last-dir>
@@ -575,8 +582,6 @@
     </search>
     <history>
       <history-search>
-        <entry>prize</entry>
-        <entry>site\/domain\/wexin</entry>
         <entry>wx</entry>
         <entry>getSpend</entry>
         <entry>27017</entry>
@@ -595,6 +600,8 @@
         <entry>domain\/spend</entry>
         <entry>verifyStr</entry>
         <entry>node</entry>
+        <entry>beforeLoad</entry>
+        <entry>expend</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcIi8vZw==</entry>
