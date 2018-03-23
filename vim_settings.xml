@@ -223,12 +223,12 @@
       <file name="$USER_HOME$/vertx-reverse-proxy/build.gradle" timestamp="1521098618216">
         <mark key="'" line="102" column="2" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/util/Recharge.java" timestamp="1521626414713">
-        <mark key="'" line="52" column="35" />
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="114" column="70" />
-        <mark key="." line="114" column="70" />
-        <mark key="^" line="114" column="70" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/util/Recharge.java" timestamp="1521781035640">
+        <mark key="'" line="53" column="35" />
+        <mark key="[" line="117" column="71" />
+        <mark key="]" line="118" column="54" />
+        <mark key="." line="118" column="54" />
+        <mark key="^" line="118" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application-context.xml" timestamp="1521552772040">
         <mark key="[" line="86" column="64" />
@@ -329,12 +329,12 @@
       <file name="/mobMessage.scala.html" timestamp="1521433672303">
         <mark key="'" line="137" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/ScanController.java" timestamp="1521771965637">
-        <mark key="'" line="583" column="44" />
-        <mark key="[" line="419" column="49" />
-        <mark key="]" line="420" column="11" />
-        <mark key="." line="420" column="11" />
-        <mark key="^" line="420" column="11" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/ScanController.java" timestamp="1521781457634">
+        <mark key="'" line="428" column="57" />
+        <mark key="[" line="368" column="31" />
+        <mark key="]" line="368" column="42" />
+        <mark key="." line="368" column="31" />
+        <mark key="^" line="368" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/user/UserController.java" timestamp="1521530798290">
         <mark key="[" line="252" column="40" />
@@ -380,7 +380,7 @@
       <file name="$USER_HOME$/.ivy2/cache/scala_2.12/sbt_1.0/com.typesafe.play/sbt-plugin/jars/sbt-plugin-2.6.12.jar!/play/sbt/PlayImport.class" timestamp="1520565224518">
         <mark key="'" line="11" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521778712651">
+      <file name="/Dummy.txt" timestamp="1521780639622">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -425,7 +425,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="712" column="48" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="722" column="35" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="358" column="72" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="638" column="38" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
@@ -525,6 +524,7 @@
       <jump line="398" column="45" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app/controller/CusTreeController.js" />
       <jump line="547" column="44" filename="$USER_HOME$/workspace/jinhui/crm/public/statics/app/controller/CusTreeController.js" />
       <jump line="223" column="47" filename="$USER_HOME$/workspace/code_review/wxy/crm/public/statics/app/controller/CusTreeController.js" />
+      <jump line="428" column="57" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/ScanController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -534,7 +534,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>hongBaoFlag</text>
       </register>
       <register name="/" type="4">
         <text>expend</text>
@@ -543,31 +543,31 @@
         <text encoding="base64">CQkJCQkJbm9kZTotMSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoQm9vbGVhbi52YWx1ZU9mKEZpbGVDb21tb25VdGlsLmdldFN5c0NmZ1Byb3AoInVzZUNhbWVsIikpKSB7Ly8g5L+d5a2Y6aqG6am856CB5pel5b+XCiAgICAgICAgICAgIENhbWVsTG9nIGxvZyA9IEViZWFuLmZpbmQoQ2FtZWxMb2cuY2xhc3MpLndoZXJlKCkuZXEoIm9yZGVyTm8iLCBwcml6ZUlkKS5maW5kVW5pcXVlKCk7CiAgICAgICAgICAgIGxvZyA9IGxvZyA9PSBudWxsID8gbmV3IENhbWVsTG9nKCkgOiBsb2c7CiAgICAgICAgICAgIGxvZy5zZXRUeXBlKDIpOwogICAgICAgICAgICBsb2cuc2V0T3JkZXJObyhwcml6ZUlkKTsKICAgICAgICAgICAgbG9nLnNldE1zZyhlcnJvckNvZGUgPT0gMCA/ICLor53otLnlhYXlgLzmiJDlip8iIDogIuivnei0ueWFheWAvOWksei0pSIpOwogICAgICAgICAgICBsb2cuc2V0U3RhdHVzKDEpOwogICAgICAgICAgICBsb2cuc2V0T3BlbmlkKHBob25lKTsKICAgICAgICAgICAgbG9nLnNldFNlbmRUaW1lKG5ldyBUaW1lc3RhbXAoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpKTsKICAgICAgICAgICAgbG9nLnNldENyZWF0ZUF0KG5ldyBUaW1lc3RhbXAoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpKTsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIEViZWFuLnNhdmUobG9nKTsKICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0KICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCFjYW1lbE9rKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQ2FtZWxMb2cgbG9nID0gbmV3IENhbWVsTG9nKCk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKCFjYW1lbE9rKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBWZXJzaW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBWZXJzaW9uCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIEBWZXJzaW9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LnBlcnNpc3RlbmNlLio7Cg==</text>
+        <text encoding="base64">ICAgIEBWZXJzaW9uCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBWZXJzaW9uCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
