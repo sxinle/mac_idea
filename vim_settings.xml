@@ -21,6 +21,7 @@
       <file name="/a.dummy" timestamp="1521785176341">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/a/service/thirdparty/ThirdPartyService.class" timestamp="1522061817868" />
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application-context.xml" timestamp="1521552772040">
         <mark key="[" line="86" column="64" />
         <mark key="]" line="86" column="67" />
@@ -146,6 +147,9 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/a/routes" timestamp="1522061591223">
+        <mark key="'" line="28" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/public/statics/commonHeader.js" timestamp="1521521325573">
         <mark key="[" line="22" column="16" />
@@ -309,7 +313,6 @@
         <mark key="]" line="257" column="12" />
         <mark key="." line="257" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1522050911138" />
       <file name="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.10/srcs/play_2.10-2.2.3-sources.jar!/play/mvc/Http.java" timestamp="1521791311916">
         <mark key="'" line="499" column="23" />
       </file>
@@ -347,7 +350,7 @@
       <file name="$USER_HOME$/workspace/jinhui/pointshub/conf/routes" timestamp="1521784828701">
         <mark key="'" line="394" column="14" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522039706117">
+      <file name="/Dummy.txt" timestamp="1522061818812">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -408,7 +411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="132" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="50" column="8" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
       <jump line="18" column="23" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
       <jump line="39" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
@@ -508,6 +510,7 @@
       <jump line="265" column="12" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/ScanController.java" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/ScanController.java" />
       <jump line="818" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/ScanController.java" />
+      <jump line="28" column="43" filename="$USER_HOME$/Desktop/a/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -520,7 +523,7 @@
         <text>result.data.text,</text>
       </register>
       <register name="/" type="4">
-        <text>baidu</text>
+        <text>news</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bmN0aW9uIHNlbmQodXNlcmlkKSB7CgogICAgICAgICAgICAgICAgICAgIHZhciBjb250ZW50UGFuZWwgPSB0b3AuRXh0LmdldENtcCgibWFpblBhbmVsIik7CiAgICAgICAgICAgICAgICAgICAgY29udGVudFBhbmVsLnJlbW92ZSgnaWQyNScsIHRydWUpOwogICAgICAgICAgICAgICAgICAgIHZhciBuID0gY29udGVudFBhbmVsLmFkZCh7CiAgICAgICAgICAgICAgICAgICAgICAgIGlkOiAnaWQyNScsCiAgICAgICAgICAgICAgICAgICAgICAgIHRpdGxlOiAn5omL5bel5Ye65bqTJywKICAgICAgICAgICAgICAgICAgICAgICAgY2xvc2FibGU6IHRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgIGh0bWw6ICc8aWZyYW1lIHNjcm9sbGluZz0ibm8iIGZyYW1lYm9yZGVyPSIwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzcmM9Ii9zaW5nbGVJbnZlbnRvcnkvaW5pdC8yNSI+PC9pZnJhbWU+JwogICAgICAgICAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgICAgICAgICBjb250ZW50UGFuZWwuc2V0QWN0aXZlVGFiKG4pOwoKCiAgICAgICAgICAgICAgICAgICAgQCokLmFqYXgoeypACiAgICAgICAgICAgICAgICAgICAgQCp0eXBlOiAiR0VUIiwqQAogICAgICAgICAgICAgICAgICAgIEAqdXJsOiAiL3NpbmdsZUludmVudG9yeS9pbml0LyIrQG1lbnVJZCwqQAogICAgICAgICAgICAgICAgICAgIEAqY29udGVudFR5cGU6ICJhcHBsaWNhdGlvbi9qc29uO2NoYXJzZXQ9dXRmLTgiLCpACiAgICAgICAgICAgICAgICAgICAgQCpkYXRhVHlwZTogImpzb24iLCpACiAgICAgICAgICAgICAgICAgICAgQCpzdWNjZXNzOiBmdW5jdGlvbiAoZGF0YSkgeypACgogICAgICAgICAgICAgICAgICAgIEAqfSpACiAgICAgICAgICAgICAgICAgICAgQCp9KTsqQAoKICAgICAgICAgICAgICAgICAgICAvLyBsb2NhdGlvbi5ocmVmPScvY29tbW9uL2hvbWVwYWdlL2dvdG9Ib21lLmh0bWw/JyArIOWPguaVsDsvL+i/meS4quaYr+WcqOW9k+WJjeeql+S9k+mHjeWumuWQkeWIsOafkOS4qumhtemdogogICAgICAgICAgICAgICAgICAgIC8vIHdpbmRvdy5vcGVuKCd1cmwnKTsvL+i/meS4quaYr+W8ueWHuuaWsOeahAogICAgICAgICAgICAgICAgfQo=</text>
@@ -557,18 +560,16 @@
       </register>
     </registers>
     <search>
-      <last-search>baidu</last-search>
+      <last-search>news</last-search>
       <last-offset />
-      <last-pattern>baidu</last-pattern>
+      <last-pattern>news</last-pattern>
       <last-replace>input</last-replace>
       <last-substitute>productList.get(j)</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>wexin</entry>
-        <entry>finance</entry>
         <entry>redirect</entry>
         <entry>callback</entry>
         <entry>spend</entry>
@@ -587,6 +588,8 @@
         <entry>message.ren</entry>
         <entry encoding="base64">XDxsb2dpbk5hbWVcPg==</entry>
         <entry>baidu</entry>
+        <entry>three</entry>
+        <entry>news</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcIi8vZw==</entry>
