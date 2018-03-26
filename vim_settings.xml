@@ -80,6 +80,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/a/commonutil/spider/NewsSpider.class" timestamp="1522063835398">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="73" column="287" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/goodsinfoInterface/impl/MongoIntegralServiceImpl.java" timestamp="1521771531695">
         <mark key="[" line="93" column="0" />
         <mark key="]" line="93" column="0" />
@@ -376,6 +380,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/a/commonutil/RestRequest.class" timestamp="1522063266779">
+        <mark key="'" line="221" column="50" />
+      </file>
       <file name="$USER_HOME$/workspace/code_review/wxy/crm/app/views/login.scala.html" timestamp="1521792937995">
         <mark key="'" line="107" column="6" />
         <mark key="[" line="63" column="0" />
@@ -411,12 +418,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="8" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
-      <jump line="18" column="23" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
-      <jump line="39" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
-      <jump line="312" column="7" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
-      <jump line="380" column="190" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
-      <jump line="337" column="115" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="107" column="11" filename="/Library/Java/JavaVirtualMachines/jdk1.7.0_71.jdk/Contents/Home/src.zip!/java/sql/Timestamp.java" />
       <jump line="141" column="59" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/util/Recharge.java" />
       <jump line="53" column="35" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/util/Recharge.java" />
@@ -511,6 +512,12 @@
       <jump line="2" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/ScanController.java" />
       <jump line="818" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/ScanController.java" />
       <jump line="28" column="43" filename="$USER_HOME$/Desktop/a/routes" />
+      <jump line="122" column="44" filename="$USER_HOME$/Desktop/a/commonutil/RestRequest.class" />
+      <jump line="270" column="32" filename="$USER_HOME$/Desktop/a/commonutil/RestRequest.class" />
+      <jump line="300" column="50" filename="$USER_HOME$/Desktop/a/commonutil/RestRequest.class" />
+      <jump line="99" column="12" filename="$USER_HOME$/Desktop/a/commonutil/RestRequest.class" />
+      <jump line="132" column="44" filename="$USER_HOME$/Desktop/a/commonutil/RestRequest.class" />
+      <jump line="221" column="50" filename="$USER_HOME$/Desktop/a/commonutil/RestRequest.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -523,10 +530,10 @@
         <text>result.data.text,</text>
       </register>
       <register name="/" type="4">
-        <text>news</text>
+        <text encoding="base64">XDxwYXJzZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bmN0aW9uIHNlbmQodXNlcmlkKSB7CgogICAgICAgICAgICAgICAgICAgIHZhciBjb250ZW50UGFuZWwgPSB0b3AuRXh0LmdldENtcCgibWFpblBhbmVsIik7CiAgICAgICAgICAgICAgICAgICAgY29udGVudFBhbmVsLnJlbW92ZSgnaWQyNScsIHRydWUpOwogICAgICAgICAgICAgICAgICAgIHZhciBuID0gY29udGVudFBhbmVsLmFkZCh7CiAgICAgICAgICAgICAgICAgICAgICAgIGlkOiAnaWQyNScsCiAgICAgICAgICAgICAgICAgICAgICAgIHRpdGxlOiAn5omL5bel5Ye65bqTJywKICAgICAgICAgICAgICAgICAgICAgICAgY2xvc2FibGU6IHRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgIGh0bWw6ICc8aWZyYW1lIHNjcm9sbGluZz0ibm8iIGZyYW1lYm9yZGVyPSIwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBzcmM9Ii9zaW5nbGVJbnZlbnRvcnkvaW5pdC8yNSI+PC9pZnJhbWU+JwogICAgICAgICAgICAgICAgICAgIH0pOwoKICAgICAgICAgICAgICAgICAgICBjb250ZW50UGFuZWwuc2V0QWN0aXZlVGFiKG4pOwoKCiAgICAgICAgICAgICAgICAgICAgQCokLmFqYXgoeypACiAgICAgICAgICAgICAgICAgICAgQCp0eXBlOiAiR0VUIiwqQAogICAgICAgICAgICAgICAgICAgIEAqdXJsOiAiL3NpbmdsZUludmVudG9yeS9pbml0LyIrQG1lbnVJZCwqQAogICAgICAgICAgICAgICAgICAgIEAqY29udGVudFR5cGU6ICJhcHBsaWNhdGlvbi9qc29uO2NoYXJzZXQ9dXRmLTgiLCpACiAgICAgICAgICAgICAgICAgICAgQCpkYXRhVHlwZTogImpzb24iLCpACiAgICAgICAgICAgICAgICAgICAgQCpzdWNjZXNzOiBmdW5jdGlvbiAoZGF0YSkgeypACgogICAgICAgICAgICAgICAgICAgIEAqfSpACiAgICAgICAgICAgICAgICAgICAgQCp9KTsqQAoKICAgICAgICAgICAgICAgICAgICAvLyBsb2NhdGlvbi5ocmVmPScvY29tbW9uL2hvbWVwYWdlL2dvdG9Ib21lLmh0bWw/JyArIOWPguaVsDsvL+i/meS4quaYr+WcqOW9k+WJjeeql+S9k+mHjeWumuWQkeWIsOafkOS4qumhtemdogogICAgICAgICAgICAgICAgICAgIC8vIHdpbmRvdy5vcGVuKCd1cmwnKTsvL+i/meS4quaYr+W8ueWHuuaWsOeahAogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBTcGlkZXIuY3JlYXRlKG5ldyBOZXdzU3BpZGVyKCkpLmFkZFVybChuZXcgU3RyaW5nW117Imh0dHA6Ly8zZy5semJzLmNvbS5jbi9zaC8ifSkuYWRkVXJsKG5ldyBTdHJpbmdbXXsiaHR0cDovLzNnLmx6YnMuY29tLmNuL2dsLyJ9KS5hZGRVcmwobmV3IFN0cmluZ1tdeyJodHRwOi8vM2cubHpicy5jb20uY24vemIvIn0pLmFkZFVybChuZXcgU3RyaW5nW117Imh0dHA6Ly8zZy5semJzLmNvbS5jbi9zei8ifSkuYWRkUGlwZWxpbmUobmV3IE5ld3NQaXBlbGluZSgpKS50aHJlYWQoNSkucnVuKCk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyBhbGVydCh1c2VyaWQpOwogICAgICAgICAgICAgICAgICAgIC8vIGNvbnNvbGUubG9nKCQoJyN0cmVldmlldy0xMDE3LXJlY29yZC0xNCcpKTsKICAgICAgICAgICAgICAgICAgICAvLyAkKCcjdHJlZXZpZXctMTAxNy1yZWNvcmQtMTQnKS5jbGljaygpOwoKICAgICAgICAgICAgICAgICAgICAvLyBjb25zb2xlLmxvZyh0b3AuRXh0LmdldENtcCgibWFpblBhbmVsIikpOwo=</text>
@@ -560,9 +567,9 @@
       </register>
     </registers>
     <search>
-      <last-search>news</last-search>
+      <last-search encoding="base64">XDxwYXJzZVw+</last-search>
       <last-offset />
-      <last-pattern>news</last-pattern>
+      <last-pattern encoding="base64">XDxwYXJzZVw+</last-pattern>
       <last-replace>input</last-replace>
       <last-substitute>productList.get(j)</last-substitute>
       <last-dir>1</last-dir>
@@ -570,8 +577,6 @@
     </search>
     <history>
       <history-search>
-        <entry>redirect</entry>
-        <entry>callback</entry>
         <entry>spend</entry>
         <entry>checkAuthCode</entry>
         <entry encoding="base64">XDxwcm9VcmxcPg==</entry>
@@ -590,6 +595,8 @@
         <entry>baidu</entry>
         <entry>three</entry>
         <entry>news</entry>
+        <entry>.get()</entry>
+        <entry encoding="base64">XDxwYXJzZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcIi8vZw==</entry>
