@@ -6,6 +6,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/menu.scala.html" timestamp="1522123227938">
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="13" column="33" />
+        <mark key="." line="13" column="27" />
+        <mark key="^" line="7" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/Application.java" timestamp="1521706987786">
         <mark key="[" line="1499" column="0" />
         <mark key="]" line="1499" column="0" />
@@ -17,9 +23,6 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="7" column="46" />
-      </file>
-      <file name="/a.dummy" timestamp="1521785176341">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/util/CommonSend.java" timestamp="1522120575125">
         <mark key="[" line="64" column="19" />
@@ -324,9 +327,6 @@
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="/sbtShell" timestamp="1521602699154">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/CommonSend.class" timestamp="1522120565386">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="55" column="36" />
@@ -336,6 +336,7 @@
         <mark key="]" line="257" column="12" />
         <mark key="." line="257" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1522122804781" />
       <file name="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.10/srcs/play_2.10-2.2.3-sources.jar!/play/mvc/Http.java" timestamp="1521791311916">
         <mark key="'" line="499" column="23" />
       </file>
@@ -382,6 +383,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/public/javascripts/webixtree/menu_css/webinm.css" timestamp="1522123263959">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+      </file>
       <file name="$USER_HOME$/workspace/code_review/wxy/crm/app/controllers/abc/AbcController.java" timestamp="1521792499152">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -396,10 +403,11 @@
       <file name="$USER_HOME$/Desktop/a/commonutil/RestRequest.class" timestamp="1522063266779">
         <mark key="'" line="221" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" timestamp="1522120310014">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="62" column="17" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" timestamp="1522122848908">
+        <mark key="'" line="4" column="4" />
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/anti/app/service/InventoryService.java" timestamp="1521435871148">
         <mark key="[" line="0" column="0" />
@@ -425,14 +433,9 @@
       <file name="$USER_HOME$/Desktop/crm/conf/application-context.xml" timestamp="1521881522010">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1521882117567">
-        <mark key="[" line="0" column="0" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="28" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/models/CamelLog.java" />
       <jump line="34" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
-      <jump line="4" column="16" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
       <jump line="326" column="128" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/WeixinPrizeController.java" />
       <jump line="339" column="7" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="311" column="46" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
@@ -530,6 +533,8 @@
       <jump line="269" column="29" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/WeixinPrizeController.java" />
       <jump line="564" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/WeixinPrizeController.java" />
       <jump line="78" column="40" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/util/Recharge.java" />
+      <jump line="46" column="37" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
+      <jump line="4" column="4" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -539,13 +544,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>Content</text>
+        <text>#ebcf14</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXJzZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbS5wdXQoIm1zZyIsIHNlbmRfY29udGVudCk7CiAgICAgICAgcGFyYW0ucHV0KCJtb2JpbGUiLCB0ZWxwaG9uZSk7CiAgICAgICAgcGFyYW0ucHV0KCJlbmNvZGUiLCAidXRmLTgiKTsK</text>
+      <register name="0" type="4">
+        <text>yellow</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwYXJhbS5wdXQoIlB3ZCIsIEZpbGVDb21tb25VdGlsLmdldFN5c0NmZ1Byb3AoIlB3ZCIpKTsK</text>
