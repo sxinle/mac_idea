@@ -5,6 +5,7 @@
       <mapping pattern="globalConf" type="PLAIN_TEXT" />
       <mapping pattern=".history" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="done" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
