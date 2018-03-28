@@ -165,11 +165,11 @@
       <file name="$USER_HOME$/Desktop/a/commonutil/RestRequest.class" timestamp="1522063266779">
         <mark key="'" line="221" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" timestamp="1522196562859">
-        <mark key="'" line="6" column="16" />
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="57" />
-        <mark key="." line="2" column="13" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" timestamp="1522197025866">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/crm/conf/application-context.xml" timestamp="1522132689679">
@@ -190,7 +190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="22" filename="$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/srcs/jackson-databind-2.2.2-sources.jar!/com/fasterxml/jackson/databind/JsonNode.java" />
       <jump line="71" column="8" filename="$USER_HOME$/workspace/code_review/wxy/crm/app/controllers/largeArea/LargeAreaController.java" />
       <jump line="85" column="113" filename="$USER_HOME$/workspace/code_review/wxy/crm/conf/routes" />
       <jump line="52" column="35" filename="$USER_HOME$/workspace/jinhui/pointshub/app/views/index.scala.html" />
@@ -290,6 +289,7 @@
       <jump line="78" column="45" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
       <jump line="222" column="22" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/util/RechargeUtil.java" />
       <jump line="6" column="16" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
+      <jump line="24" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -299,7 +299,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>http://dev.91djb.net/lotterycaixudong/jhj</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>notify</text>
@@ -308,16 +308,16 @@
         <text encoding="base64">IGh0dHA6Ly9jaGVjay5sdW90dW9tYS5jbi9sb3R0ZXJ5X29mZmNpYWwvamhq</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGh0dHAuUmVjaGFyZ2VVdGlsOwoKaW1wb3J0IGphdmEudXRpbC5EYXRlOwo=</text>
+        <text encoding="base64">Y2FtZWxBcHBJZD0ic2hhZ254aWFuY2VzaGkiCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBSZWNoYXJnZVV0aWwuYzEwdG82NCgpCg==</text>
+        <text encoding="base64">Y2FtZWxBcGlVUkw9IiBodHRwOi8vY2hlY2subHVvdHVvbWEuY24vbG90dGVyeV9vZmZjaWFsL2poaiIK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGh0dHAuUmVjaGFyZ2VVdGlsOwoKaW1wb3J0IGphdmEudXRpbC5EYXRlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZWNoYXJnZVV0aWwuYzEwdG82NCgpCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -326,13 +326,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CgoKCgoKCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwhLS08YmVhbiBpZD0ic3FsU2VydmVyRGF0YVNvdXJjZSIgY2xhc3M9Im9yZy5hcGFjaGUudG9tY2F0LmpkYmMucG9vbC5EYXRhU291cmNlIj4tLT4KICAgICAgICA8IS0tPHByb3BlcnR5IG5hbWU9ImRyaXZlckNsYXNzTmFtZSIgdmFsdWU9ImNvbS5taWNyb3NvZnQuc3Fsc2VydmVyLmpkYmMuU1FMU2VydmVyRHJpdmVyIi8+LS0+CiAgICAgICAgPCEtLTxwcm9wZXJ0eSBuYW1lPSJ0ZXN0V2hpbGVJZGxlIiB2YWx1ZT0idHJ1ZSIvPi0tPgogICAgICAgIDwhLS08cHJvcGVydHkgbmFtZT0idGVzdE9uQm9ycm93IiB2YWx1ZT0idHJ1ZSIvPi0tPgogICAgICAgIDwhLS08cHJvcGVydHkgbmFtZT0idGVzdE9uUmV0dXJuIiB2YWx1ZT0iZmFsc2UiLz4tLT4KICAgICAgICA8IS0tPHByb3BlcnR5IG5hbWU9InZhbGlkYXRpb25RdWVyeSIgdmFsdWU9IlNFTEVDVCAxIi8+LS0+CiAgICAgICAgPCEtLTxwcm9wZXJ0eSBuYW1lPSJ2YWxpZGF0aW9uSW50ZXJ2YWwiIHZhbHVlPSIzMDAwMCIvPi0tPgogICAgICAgIDwhLS08cHJvcGVydHkgbmFtZT0idGltZUJldHdlZW5FdmljdGlvblJ1bnNNaWxsaXMiIHZhbHVlPSIzMDAwMCIvPi0tPgogICAgICAgIDwhLS08cHJvcGVydHkgbmFtZT0ibWF4QWN0aXZlIiB2YWx1ZT0iMTAiLz4tLT4KICAgICAgICA8IS0tPHByb3BlcnR5IG5hbWU9Im1pbklkbGUiIHZhbHVlPSIyIi8+LS0+CiAgICAgICAgPCEtLTxwcm9wZXJ0eSBuYW1lPSJtYXhJZGxlIiB2YWx1ZT0iNiIvPi0tPgogICAgICAgIDwhLS08cHJvcGVydHkgbmFtZT0ibWF4V2FpdCIgdmFsdWU9IjMwMDAiLz4tLT4KICAgICAgICA8IS0tPHByb3BlcnR5IG5hbWU9ImluaXRpYWxTaXplIiB2YWx1ZT0iMiIvPi0tPgogICAgICAgIDwhLS08cHJvcGVydHkgbmFtZT0icmVtb3ZlQWJhbmRvbmVkVGltZW91dCIgdmFsdWU9IjYwMCIvPi0tPgogICAgICAgIDwhLS08cHJvcGVydHkgbmFtZT0icmVtb3ZlQWJhbmRvbmVkIiB2YWx1ZT0iZmFsc2UiLz4tLT4KICAgICAgICA8IS0tPHByb3BlcnR5IG5hbWU9ImxvZ0FiYW5kb25lZCIgdmFsdWU9InRydWUiLz4tLT4KICAgICAgICA8IS0tPHByb3BlcnR5IG5hbWU9Im1pbkV2aWN0YWJsZUlkbGVUaW1lTWlsbGlzIiB2YWx1ZT0iMzAwMDAiLz4tLT4KICAgICAgICA8IS0tPHByb3BlcnR5IG5hbWU9ImpteEVuYWJsZWQiIHZhbHVlPSJ0cnVlIi8+LS0+CiAgICAgICAgPCEtLTxwcm9wZXJ0eSBuYW1lPSJqZGJjSW50ZXJjZXB0b3JzIi0tPgogICAgICAgICAgICAgICAgICA8IS0tdmFsdWU9Im9yZy5hcGFjaGUudG9tY2F0LmpkYmMucG9vbC5pbnRlcmNlcHRvci5Db25uZWN0aW9uU3RhdGU7b3JnLmFwYWNoZS50b21jYXQuamRiYy5wb29sLmludGVyY2VwdG9yLlN0YXRlbWVudEZpbmFsaXplciIvPi0tPgogICAgICAgIDwhLS08cHJvcGVydHkgbmFtZT0idXJsIiB2YWx1ZT0iamRiYzpzcWxzZXJ2ZXI6Ly8xOTIuMTY4LjIuNzg6MTQzMztEYXRhYmFzZU5hbWU9engiLz4tLT4KICAgICAgICA8IS0tPHByb3BlcnR5IG5hbWU9InVzZXJuYW1lIiB2YWx1ZT0ic2EiLz4tLT4KICAgICAgICA8IS0tPHByb3BlcnR5IG5hbWU9InBhc3N3b3JkIiB2YWx1ZT0iamluaHVpPzIwMTQiLz4tLT4KICAgIDwhLS08L2JlYW4+LS0+CgogICAgPCEtLSBTcHJpbmfmlbTlkIhNeWJhdGlz77ya5Yib5bu6IHNxbFNlc3Npb25GYWN0b3J5LS0+CiAgICA8IS0tPGJlYW4gaWQ9InNxbFNlcnZlclNlc3Npb25GYWN0b3J5IiBjbGFzcz0ib3JnLm15YmF0aXMuc3ByaW5nLlNxbFNlc3Npb25GYWN0b3J5QmVhbiI+LS0+CiAgICAgICAgPCEtLTxwcm9wZXJ0eSBuYW1lPSJkYXRhU291cmNlIiByZWY9InNxbFNlcnZlckRhdGFTb3VyY2UiLz4tLT4KICAgICAgICA8IS0tPHByb3BlcnR5IG5hbWU9Im1hcHBlckxvY2F0aW9ucyIgdmFsdWU9ImNsYXNzcGF0aDpzcWwvKiIvPi0tPgogICAgICAgIDwhLS08cHJvcGVydHkgbmFtZT0iY29uZmlnTG9jYXRpb24iIHZhbHVlPSJTcWxNYXBDb25maWcueG1sIi8+LS0+CiAgICA8IS0tPC9iZWFuPi0tPgoKICAgIDwhLS0g5a6a5LmJTXliYXRpc+aooeadvyAtLT4KICAgIDwhLS08YmVhbiBpZD0ic3FsU2V2ZXJNYXBDbGllbnRUZW1wbGF0ZSIgY2xhc3M9Im9yZy5teWJhdGlzLnNwcmluZy5TcWxTZXNzaW9uVGVtcGxhdGUiPi0tPgogICAgICAgIDwhLS08Y29uc3RydWN0b3ItYXJnIHJlZj0ic3FsU2VydmVyU2Vzc2lvbkZhY3RvcnkiLz4tLT4KICAgIDwhLS08L2JlYW4+LS0+CgogICAgPCEtLSDlvIDlkK/kuovliqHvvIjln7rkuo7ms6jop6PvvIkgLS0+CiAgICA8IS0tPGJlYW4gaWQ9InNxbFNlcnZlclRyYW5zYWN0aW9uTWFuYWdlciIgY2xhc3M9Im9yZy5zcHJpbmdmcmFtZXdvcmsuamRiYy5kYXRhc291cmNlLkRhdGFTb3VyY2VUcmFuc2FjdGlvbk1hbmFnZXIiPi0tPgogICAgICAgIDwhLS08cHJvcGVydHkgbmFtZT0iZGF0YVNvdXJjZSIgcmVmPSJzcWxTZXJ2ZXJEYXRhU291cmNlIi8+LS0+CiAgICA8IS0tPC9iZWFuPi0tPgo=</text>
+        <text encoding="base64">CgoKCgoKCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -345,7 +345,7 @@
       <last-replace>input</last-replace>
       <last-substitute>productList.get(j)</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
