@@ -230,12 +230,12 @@
       <file name="$USER_HOME$/Desktop/a/commonutil/RestRequest.class" timestamp="1522063266779">
         <mark key="'" line="221" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" timestamp="1522384204391">
-        <mark key="'" line="81" column="27" />
-        <mark key="[" line="175" column="42" />
-        <mark key="]" line="175" column="43" />
-        <mark key="." line="175" column="43" />
-        <mark key="^" line="128" column="32" />
+      <file name="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" timestamp="1522385724508">
+        <mark key="'" line="107" column="46" />
+        <mark key="[" line="174" column="42" />
+        <mark key="]" line="174" column="43" />
+        <mark key="." line="174" column="43" />
+        <mark key="^" line="163" column="51" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/com.typesafe.play/play-java_2.10/srcs/play-java_2.10-2.2.3-sources.jar!/play/libs/WS.java" timestamp="1522377759109" />
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/console/PrizeManager.java" timestamp="1522381190314">
@@ -282,10 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="629" column="35" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
-      <jump line="670" column="52" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
-      <jump line="710" column="20" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
-      <jump line="734" column="53" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="632" column="30" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="739" column="50" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="740" column="55" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
@@ -382,6 +378,10 @@
       <jump line="385" column="122" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="382" column="189" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="27" column="23" filename="$USER_HOME$/workspace/jinhui/sync_data/conf/application.conf" />
+      <jump line="53" column="75" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
+      <jump line="135" column="20" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
+      <jump line="148" column="20" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
+      <jump line="107" column="46" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -391,49 +391,49 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>据</text>
+        <text>rowCount</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQcml6ZU1hbmFnZXJcPg==</text>
+        <text>count</text>
       </register>
       <register name="0" type="4">
         <text>:码信息不符合绑定条件</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy9iaW5kRmxhZy0tICAwOueggeS/oeaBr+S4jeespuWQiOe7keWumuadoeS7tiAgICAgICAgICAgICAgICAgICAgICAgICAgIDE65oiQ5YqfICAgICAgIDI65aSx6LSlICAgICAgICAgICAgMzrph43mlrDnlJ/miJDlpZbljaHlpLHotKUK</text>
+        <text encoding="base64">ICAgICAgICAvL0xvZ2dlci5lcnJvcigiQ2FjaGUgaGl0czoiICsgc2NhbklkKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZncud3JpdGUoU3RyaW5nLnZhbHVlT2YoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpICsgIlxuIik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZ3LmZsdXNoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCByb3dDb3VudCA9IDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy9iaW5kRmxhZy0tICAwOueggeS/oeaBr+S4jeespuWQiOe7keWumuadoeS7tiAgICAgICAgICAgICAgICAgICAgICAgICAgIDE65oiQ5YqfICAgICAgIDI65aSx6LSlICAgICAgICAgICAgMzrph43mlrDnlJ/miJDlpZbljaHlpLHotKUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZncud3JpdGUoU3RyaW5nLnZhbHVlT2YoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpICsgIlxuIik7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZ3LmZsdXNoKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBmdy53cml0ZShTdHJpbmcudmFsdWVPZihTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSkgKyAiXG4iKTsKICAgICAgICAgICAgICAgICAgICAgICAgZncuZmx1c2goKTsKICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGJpbmRGbGFnID09IDEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIGlmIChiaW5kRmxhZyA9PSAyKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoYmluZEZsYWcgPT0gMykgewoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVwZGF0ZVBhcmFtLnB1dCgic3luY0ZsYWciLCAiNSIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTG9nZ2VyLmVycm9yKCLnu5HlrprlpZbljaHlpLHotKXvvJoiICsgY29kZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBmdy53cml0ZShTdHJpbmcudmFsdWVPZihTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSkgKyAiXG4iKTsKICAgICAgICAgICAgICAgICAgICAgICAgZncuZmx1c2goKTsKICAgICAgICAgICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVwZGF0ZVBhcmFtLmFwcGVuZCgic3luY0ZsYWciLCAiMiIpLmFwcGVuZCgicHJpemVGbGFnIiwgIjAiKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIExvZ2dlci5lcnJvcigi57uR5a6a5aWW5Y2h5oiQ5Yqf77yaIiArIGNvZGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGJpbmRGbGFnID09IDEpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIGlmIChiaW5kRmxhZyA9PSAyKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSBpZiAoYmluZEZsYWcgPT0gMykgewoKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVwZGF0ZVBhcmFtLnB1dCgic3luY0ZsYWciLCAiMyIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTG9nZ2VyLmVycm9yKCLkuI3nrKblkIjnu5HlrprmnaHku7bvvJoiICsgY29kZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVwZGF0ZVBhcmFtLnB1dCgic3luY0ZsYWciLCAiNSIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTG9nZ2VyLmVycm9yKCLnu5HlrprlpZbljaHlpLHotKXvvJoiICsgY29kZSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxQcml6ZU1hbmFnZXJcPg==</last-search>
+      <last-search>count</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQcml6ZU1hbmFnZXJcPg==</last-pattern>
+      <last-pattern>count</last-pattern>
       <last-replace>prizeLevel</last-replace>
       <last-substitute>$(&quot;#select&quot; + i).val()</last-substitute>
       <last-dir>1</last-dir>
@@ -441,8 +441,6 @@
     </search>
     <history>
       <history-search>
-        <entry>投奖总数</entry>
-        <entry>不符合</entry>
         <entry>console</entry>
         <entry>console\/</entry>
         <entry>console\/:domain</entry>
@@ -461,6 +459,8 @@
         <entry>mana</entry>
         <entry>scanEvent</entry>
         <entry encoding="base64">XDxQcml6ZU1hbmFnZXJcPg==</entry>
+        <entry>Ebean.save</entry>
+        <entry>count</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzsvPS9n</entry>
