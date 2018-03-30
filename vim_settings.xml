@@ -35,19 +35,19 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/sync_data/conf/application.conf" timestamp="1522386531258">
+      <file name="$USER_HOME$/workspace/jinhui/sync_data/conf/application.conf" timestamp="1522390061660">
         <mark key="'" line="27" column="23" />
         <mark key="[" line="41" column="15" />
-        <mark key="]" line="41" column="17" />
-        <mark key="." line="41" column="17" />
+        <mark key="]" line="41" column="16" />
+        <mark key="." line="41" column="16" />
         <mark key="^" line="41" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" timestamp="1522388115151">
-        <mark key="'" line="100" column="29" />
-        <mark key="[" line="145" column="50" />
-        <mark key="]" line="145" column="50" />
-        <mark key="^" line="121" column="106" />
-        <mark key="." line="145" column="50" />
+      <file name="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" timestamp="1522389464735">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="^" line="157" column="78" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/crm/public/statics/app/view/panel/customer/CusTreeView.js" timestamp="1522132405671">
         <mark key="[" line="661" column="43" />
@@ -282,11 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="461" column="20" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
-      <jump line="763" column="57" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
-      <jump line="765" column="24" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
-      <jump line="559" column="35" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
-      <jump line="588" column="71" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="589" column="35" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="458" column="44" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="553" column="34" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
@@ -379,9 +374,14 @@
       <jump line="142" column="28" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
       <jump line="146" column="28" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
       <jump line="192" column="0" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
-      <jump line="0" column="23" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
       <jump line="100" column="29" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
       <jump line="22" column="11" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
+      <jump line="157" column="76" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
+      <jump line="121" column="21" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
+      <jump line="161" column="60" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
+      <jump line="143" column="49" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
+      <jump line="196" column="0" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -391,10 +391,10 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>PGSQL</text>
+        <text>, FileWriter fw</text>
       </register>
       <register name="/" type="4">
-        <text>Ebean</text>
+        <text>fw</text>
       </register>
       <register name="0" type="4">
         <text>&quot;syncFlag&quot;, &quot;1&quot;</text>
@@ -406,34 +406,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlV3JpdGVyIGZ3Owo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZihldmVudHNNYXAuZ2V0KCkpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmdy53cml0ZShTdHJpbmcudmFsdWVPZihTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSkgKyAiXG4iKTsKICAgICAgICAgICAgICAgICAgICBmdy5mbHVzaCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL0ViZWFuLmNvbW1pdFRyYW5zYWN0aW9uKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGZ3ID0gbmV3IEZpbGVXcml0ZXIobmV3IEZpbGUoIi9Vc2Vycy9oc29uZy90LnR4dCIpKTsKICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL+W8gOWQr+S6i+eJqQogICAgICAgICAgICAgICAgICAgIC8vRWJlYW4uYmVnaW5UcmFuc2FjdGlvbigpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHR4Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0eC5nZXRDb25uZWN0aW9uKCkuc2V0QXV0b0NvbW1pdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Ebean</last-search>
+      <last-search>fw</last-search>
       <last-offset />
-      <last-pattern>Ebean</last-pattern>
+      <last-pattern>fw</last-pattern>
       <last-replace>prizeLevel</last-replace>
       <last-substitute>$(&quot;#select&quot; + i).val()</last-substitute>
       <last-dir>1</last-dir>
@@ -441,7 +441,6 @@
     </search>
     <history>
       <history-search>
-        <entry>console\/</entry>
         <entry>console\/:domain</entry>
         <entry>console\/:domain\/scanEven</entry>
         <entry>scanEvents</entry>
@@ -461,6 +460,7 @@
         <entry>Ebean.save</entry>
         <entry>count</entry>
         <entry>Ebean</entry>
+        <entry>fw</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzsvPS9n</entry>
