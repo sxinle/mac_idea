@@ -37,12 +37,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" timestamp="1522638746225">
-        <mark key="'" line="64" column="43" />
-        <mark key="[" line="229" column="24" />
-        <mark key="]" line="229" column="36" />
-        <mark key="^" line="229" column="36" />
-        <mark key="." line="229" column="36" />
+      <file name="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" timestamp="1522646602072">
+        <mark key="'" line="239" column="0" />
+        <mark key="[" line="19" column="4" />
+        <mark key="]" line="19" column="4" />
+        <mark key="^" line="19" column="4" />
+        <mark key="." line="19" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/crm/public/statics/app/view/panel/customer/CusTreeView.js" timestamp="1522132405671">
         <mark key="[" line="661" column="43" />
@@ -219,7 +219,6 @@
         <mark key="^" line="52" column="17" />
         <mark key="." line="52" column="17" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/mongodb/mongodb-driver/3.4.1/mongodb-driver-3.4.1-sources.jar!/com/mongodb/MongoClient.java" timestamp="1522639240789" />
       <file name="$USER_HOME$/workspace/jinhui/prod/crm/app/util/SqlServerCommonDao.java" timestamp="1522132088388">
         <mark key="'" line="0" column="0" />
       </file>
@@ -308,9 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1132" column="4" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/console/PrizeManager.java" />
-      <jump line="385" column="122" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
-      <jump line="382" column="189" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="27" column="23" filename="$USER_HOME$/workspace/jinhui/sync_data/conf/application.conf" />
       <jump line="53" column="75" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
       <jump line="135" column="20" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
@@ -408,6 +404,9 @@
       <jump line="12" column="21" filename="$USER_HOME$/workspace/demo/zest/src/main/java/Prize483.java" />
       <jump line="45" column="16" filename="$USER_HOME$/workspace/demo/zest/src/main/java/OrderNoCheck.java" />
       <jump line="64" column="43" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
+      <jump line="81" column="0" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
+      <jump line="239" column="0" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -417,7 +416,7 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>.limit(1);</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>cursor</text>
@@ -463,7 +462,7 @@
       <last-replace>prizeLevel</last-replace>
       <last-substitute>$(&quot;#select&quot; + i).val()</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
