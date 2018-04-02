@@ -167,12 +167,12 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/zest/src/main/java/OrderNoCheck.java" timestamp="1522639099566">
-        <mark key="'" line="45" column="16" />
-        <mark key="[" line="45" column="78" />
-        <mark key="]" line="37" column="47" />
-        <mark key="." line="37" column="47" />
-        <mark key="^" line="37" column="47" />
+      <file name="$USER_HOME$/workspace/demo/zest/src/main/java/OrderNoCheck.java" timestamp="1522647392359">
+        <mark key="'" line="35" column="46" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="48" column="7" />
+        <mark key="." line="48" column="7" />
+        <mark key="^" line="48" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1522396279928">
         <mark key="'" line="311" column="135" />
@@ -307,11 +307,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="23" filename="$USER_HOME$/workspace/jinhui/sync_data/conf/application.conf" />
-      <jump line="53" column="75" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
-      <jump line="135" column="20" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
-      <jump line="148" column="20" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
-      <jump line="107" column="46" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
       <jump line="154" column="49" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
       <jump line="99" column="29" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
       <jump line="224" column="55" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
@@ -407,6 +402,11 @@
       <jump line="81" column="0" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
       <jump line="18" column="0" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
       <jump line="239" column="0" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
+      <jump line="38" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/OrderNoCheck.java" />
+      <jump line="53" column="20" filename="$USER_HOME$/workspace/demo/zest/src/main/java/OrderNoCheck.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/OrderNoCheck.java" />
+      <jump line="70" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/OrderNoCheck.java" />
+      <jump line="35" column="46" filename="$USER_HOME$/workspace/demo/zest/src/main/java/OrderNoCheck.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -416,7 +416,7 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>strs[]</text>
       </register>
       <register name="/" type="4">
         <text>cursor</text>
@@ -425,31 +425,31 @@
         <text>SELECT DISTINCT orderno,createtime FROM inventory_detail ORDER BY createtime DESC</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY3Vyc29yLmNvCg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ob3JkZXJOb3Muc2l6ZSgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xsLmZpbmQobmV3IEJhc2ljREJPYmplY3QoIm9yZGVybm8iKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmdy5mbHVzaCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2Zmc2V0ICs9IHN0ZXA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBxcmNvZGUgPSBycy5nZXRTdHJpbmcoInFyY29kZSIpOwogICAgICAgICAgICAgICAgRG9jdW1lbnQgZG9jID0gbmV3IERvY3VtZW50KCJjb2RlIiwgcXJjb2RlKTsKCiAgICAgICAgICAgICAgICBNb25nb0N1cnNvciBjdXJzb3IgPSBjb2xsLmZpbmQoZG9jKS5pdGVyYXRvcigpOwogICAgICAgICAgICAgICAgd2hpbGUgKGN1cnNvci5oYXNOZXh0KCkpIHsKICAgICAgICAgICAgICAgICAgICBEb2N1bWVudCBkb2N1bWVudCA9IChEb2N1bWVudCkgY3Vyc29yLm5leHQoKTsKICAgICAgICAgICAgICAgICAgICBpZiAoIWRvY3VtZW50LmdldCgicHJvZHVjdElkIikudG9TdHJpbmcoKS5lcXVhbHMoIjQ1IikpIHsKICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKHFyY29kZSArICItLS0tIiArIGRvY3VtZW50LmdldCgicHJvZHVjdElkIikpOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3Vyc29yLmhhc05leHQoKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgb2Zmc2V0ID0gMDsKICAgICAgICBpbnQgc3RlcCA9IDEwMDAwOwoKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDkwOyBpKyspIHsKICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG5ldyBTaW1wbGVEYXRlRm9ybWF0KCJ5eXl5LU1NLWRkIEhIOm1tOnNzIikuZm9ybWF0KG5ldyBEYXRlKCkpICsgIj09PT0gICAiICsgb2Zmc2V0KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY3Vyc29yLmNvCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb2xsLmZpbmQobmV3IEJhc2ljREJPYmplY3QoIm9yZGVybm8iKSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpewoKICAgIH0K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy/ov73liqDlj4LmlbAKICAgICAgICAgICAgcXVlcnkuYXBwZW5kKCJzeW5jRmxhZyIsICItMSIpOwogICAgICAgICAgICBxdWVyeS5hcHBlbmQoImxldmVsIiwgMyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2Zmc2V0ICs9IHN0ZXA7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
