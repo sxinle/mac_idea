@@ -270,11 +270,12 @@
         <mark key="." line="53" column="0" />
         <mark key="^" line="53" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/sql_migrate/2018-04-03/红包电话号码.sql" timestamp="1522739733108">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/sql_migrate/2018-04-03/红包电话号码.sql" timestamp="1522741790976">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="80" />
         <mark key="^" line="1" column="75" />
-        <mark key="." line="1" column="0" />
+        <mark key="." line="0" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/sync_data/.gitignore" timestamp="1522311686739">
         <mark key="[" line="15" column="8" />
@@ -352,8 +353,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="335" column="20" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
-      <jump line="437" column="32" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
       <jump line="531" column="16" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
       <jump line="890" column="8" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
       <jump line="333" column="12" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
@@ -452,6 +451,8 @@
       <jump line="187" column="28" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
       <jump line="194" column="28" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
       <jump line="276" column="48" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/sql_migrate/2018-04-03/红包电话号码.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/sql_migrate/2018-04-03/红包电话号码.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -461,13 +462,13 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>码</text>
+        <text encoding="base64">InJlZHBhY2t0ZWwiIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0ZWxEaXZcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>varchar(64)</text>
+      <register name="0" type="2">
+        <text encoding="base64">QUxURVIgVEFCTEUgc2Nhbl9wcml6ZV9kZXRhaWwgQUREIENPTFVNTiByZWRwYWNrdGVsIHZhcmNoYXIoNjQpIENPTExBVEUgInBnX2NhdGFsb2ciLiJkZWZhdWx0IiBERUZBVUxUIE5VTEwgOjogY2hhcmFjdGVyIHZhcnlpbmc7CkNPTU1FTlQgT04gQ09MVU1OICJwb2ludHNodWIiLiJzY2FuX3ByaXplX2RldGFpbCIuInJlZHBhY2t0ZWwiIElTICfnuqLljIXlpZblk4HnlKjmiLfmiYvloavnmoTnlLXor53lj7cnOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
