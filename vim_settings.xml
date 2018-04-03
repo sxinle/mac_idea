@@ -52,7 +52,12 @@
         <mark key="]" line="288" column="0" />
         <mark key="." line="288" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/SingleInventoryServiceImpl.java" timestamp="1522745849054" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/SingleInventoryServiceImpl.java" timestamp="1522749191796">
+        <mark key="[" line="436" column="78" />
+        <mark key="]" line="436" column="78" />
+        <mark key="." line="436" column="78" />
+        <mark key="^" line="436" column="81" />
+      </file>
       <file name="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.10/srcs/play_2.10-2.2.3-sources.jar!/play/mvc/Results.java" timestamp="1521784798646">
         <mark key="'" line="986" column="31" />
       </file>
@@ -116,7 +121,7 @@
       <file name="$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/srcs/jackson-databind-2.2.2-sources.jar!/com/fasterxml/jackson/databind/JsonNode.java" timestamp="1521783803948">
         <mark key="'" line="30" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" timestamp="1522742698301">
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" timestamp="1522749398825">
         <mark key="'" line="202" column="42" />
         <mark key="[" line="101" column="0" />
         <mark key="]" line="101" column="0" />
@@ -173,6 +178,16 @@
         <mark key="]" line="38" column="0" />
         <mark key="." line="38" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/InventoryServiceImpl.java" timestamp="1522749708651">
+        <mark key="[" line="1189" column="36" />
+        <mark key="]" line="1189" column="35" />
+        <mark key="." line="1189" column="35" />
+        <mark key="^" line="1189" column="35" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/anti/conf/sql/InventoryInfo.xml" timestamp="1522749125455">
+        <mark key="[" line="236" column="16" />
+        <mark key="]" line="236" column="33" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1522738532798">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="310" column="169" />
@@ -209,7 +224,7 @@
       <file name="$USER_HOME$/workspace/jinhui/prod/crm/app/util/SqlServerCommonDao.java" timestamp="1522132088388">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1522742837887">
+      <file name="/Dummy.txt" timestamp="1522748727963">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -401,34 +416,34 @@
         <text encoding="base64">XDxzaW5nbGVJbnZlbnRvcnlTdWJDdXN0Rm9ybVw+</text>
       </register>
       <register name="0" type="4">
-        <text>Form = Form.form(SingleInventorySubCustForm.class)</text>
+        <text>customertrace_info</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBGb3JtPFNpbmdsZUludmVudG9yeVN1YkN1c3RGb3JtPiBzaW5nbGVJbnZlbnRvcnlTdWJDdXN0Rm9ybSA9IEZvcm0uZm9ybShTaW5nbGVJbnZlbnRvcnlTdWJDdXN0Rm9ybS5jbGFzcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBGb3JtPFNpbmdsZUludmVudG9yeVN1YkN1c3RGb3JtPiBzaW5nbGVJbnZlbnRvcnlTdWJDdXN0Rm9ybSA9IEZvcm0uZm9ybShTaW5nbGVJbnZlbnRvcnlTdWJDdXN0Rm9ybS5jbGFzcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZml4bWUK</text>
+        <text encoding="base64">ICAgICAgICBGb3JtPFNpbmdsZUludmVudG9yeVN1YkN1c3RGb3JtPiBzaW5nbGVJbnZlbnRvcnlTdWJDdXN0Rm9ybSA9IEZvcm0uZm9ybShTaW5nbGVJbnZlbnRvcnlTdWJDdXN0Rm9ybS5jbGFzcyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBGb3JtPFNpbmdsZUludmVudG9yeVN1YkN1c3RGb3JtPiBzaW5nbGVJbnZlbnRvcnlTdWJDdXN0Rm9ybSA9IEZvcm0uZm9ybShTaW5nbGVJbnZlbnRvcnlTdWJDdXN0Rm9ybS5jbGFzcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZml4bWUK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Q09NTUVOVCBPTiBDT0xVTU4gInBvaW50c2h1YiIuInNjYW5ldmVudCIuImJ5dGltZSIKSVMgJ+aYr+WQpuaYr+aMieaXtumXtOauteaKleWllic7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgc2NhbmV2ZW50IEFERCBDT0xVTU4gYnl0aW1lIElOVDIgREVGQVVMVCAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">InJlZHBhY2t0ZWwiIHZhcmNoYXIoNjQpIENPTExBVEUgInBnX2NhdGFsb2ciLiJkZWZhdWx0IiAK</text>
+        <text encoding="base64">Q09NTUVOVCBPTiBDT0xVTU4gInBvaW50c2h1YiIuInNjYW5ldmVudCIuImJ5dGltZSIKSVMgJ+aYr+WQpuaYr+aMieaXtumXtOauteaKleWllic7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHJlc3VsdCA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgc2NhbmV2ZW50IEFERCBDT0xVTU4gYnl0aW1lIElOVDIgREVGQVVMVCAwOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
