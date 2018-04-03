@@ -137,6 +137,13 @@
       <file name="$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/srcs/jackson-databind-2.2.2-sources.jar!/com/fasterxml/jackson/databind/JsonNode.java" timestamp="1521783803948">
         <mark key="'" line="30" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" timestamp="1522730428258">
+        <mark key="'" line="636" column="11" />
+        <mark key="[" line="636" column="12" />
+        <mark key="]" line="637" column="3" />
+        <mark key="^" line="637" column="3" />
+        <mark key="." line="637" column="3" />
+      </file>
       <file name="$USER_HOME$/.ideaLibSources/fastjson-1.1.26-sources.jar!/com/alibaba/fastjson/JSON.java" timestamp="1521789608508">
         <mark key="'" line="290" column="30" />
       </file>
@@ -317,7 +324,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="43" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
       <jump line="215" column="41" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/sql_migrate/2018-03-29/时间段投奖.sql" />
       <jump line="57" column="38" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
@@ -417,6 +423,7 @@
       <jump line="103" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application-context.xml" />
       <jump line="16" column="7" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
       <jump line="51" column="11" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
+      <jump line="598" column="11" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -472,7 +479,7 @@
       <last-replace>prizeLevel</last-replace>
       <last-substitute>$(&quot;#select&quot; + i).val()</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
