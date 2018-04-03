@@ -142,8 +142,8 @@
       <file name="$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/srcs/jackson-databind-2.2.2-sources.jar!/com/fasterxml/jackson/databind/JsonNode.java" timestamp="1521783803948">
         <mark key="'" line="30" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" timestamp="1522738502229">
-        <mark key="'" line="1027" column="74" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" timestamp="1522739927347">
+        <mark key="'" line="276" column="48" />
         <mark key="[" line="208" column="77" />
         <mark key="]" line="208" column="79" />
         <mark key="." line="208" column="79" />
@@ -270,6 +270,12 @@
         <mark key="." line="53" column="0" />
         <mark key="^" line="53" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/sql_migrate/2018-04-03/红包电话号码.sql" timestamp="1522739733108">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="75" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/sync_data/.gitignore" timestamp="1522311686739">
         <mark key="[" line="15" column="8" />
         <mark key="]" line="16" column="10" />
@@ -346,10 +352,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="23" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
-      <jump line="643" column="46" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
-      <jump line="794" column="20" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
-      <jump line="893" column="32" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
       <jump line="335" column="20" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
       <jump line="437" column="32" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
       <jump line="531" column="16" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
@@ -433,8 +435,6 @@
       <jump line="145" column="32" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
       <jump line="291" column="40" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
       <jump line="131" column="52" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
-      <jump line="142" column="36" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
-      <jump line="148" column="32" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
       <jump line="178" column="40" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
       <jump line="188" column="28" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
       <jump line="195" column="28" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
@@ -446,6 +446,12 @@
       <jump line="10" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="80" column="13" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/models/ScanPrizeDetail.java" />
       <jump line="458" column="34" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/models/ScanPrizeDetail.java" />
+      <jump line="142" column="36" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
+      <jump line="148" column="32" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
+      <jump line="177" column="40" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
+      <jump line="187" column="28" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
+      <jump line="194" column="28" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
+      <jump line="276" column="48" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -455,49 +461,49 @@
         <text>()</text>
       </register>
       <register name="-" type="4">
-        <text>验证防伪码。</text>
+        <text>码</text>
       </register>
       <register name="/" type="4">
-        <text>spend</text>
+        <text encoding="base64">XDx0ZWxEaXZcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>collRedPackTel</text>
+        <text>varchar(64)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHJlc3VsdCA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXN1bHQucHV0KCkK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxhZyA9IAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Q09NTUVOVCBPTiBDT0xVTU4gInBvaW50c2h1YiIuInNjYW5ldmVudCIuImJ5dGltZSIKSVMgJ+aYr+WQpuaYr+aMieaXtumXtOauteaKleWllic7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">QUxURVIgVEFCTEUgc2NhbmV2ZW50IEFERCBDT0xVTU4gYnl0aW1lIElOVDIgREVGQVVMVCAwOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">InJlZHBhY2t0ZWwiIHZhcmNoYXIoNjQpIENPTExBVEUgInBnX2NhdGFsb2ciLiJkZWZhdWx0IiAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IHJlc3VsdCA9IG5ldyBIYXNoTWFwPD4oKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTY2FuUHJpemVEZXRhaWwgc3BkID0gRWJlYW4uZmluZChTY2FuUHJpemVEZXRhaWwuY2xhc3MpLndoZXJlKCkuZXEoInFyY29kZSIsIHFyQ29kZSkuZmluZFVuaXF1ZSgpOwogICAgICAgIHNwZC5zZXRSZWRQYWNrVGVsKHRlbCk7CiAgICAgICAgc3BkLnVwZGF0ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXN1bHQucHV0KCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxhZyA9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>spend</last-search>
+      <last-search encoding="base64">XDx0ZWxEaXZcPg==</last-search>
       <last-offset />
-      <last-pattern>spend</last-pattern>
+      <last-pattern encoding="base64">XDx0ZWxEaXZcPg==</last-pattern>
       <last-replace>prizeLevel</last-replace>
       <last-substitute>$(&quot;#select&quot; + i).val()</last-substitute>
       <last-dir>1</last-dir>
@@ -521,10 +527,10 @@
         <entry>getPrize</entry>
         <entry encoding="base64">XDxnZXRQcml6ZVw+</entry>
         <entry>hint</entry>
-        <entry encoding="base64">XDx0ZWxEaXZcPg==</entry>
         <entry>confTelBtn</entry>
         <entry>site</entry>
         <entry>spend</entry>
+        <entry encoding="base64">XDx0ZWxEaXZcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3RhYmxlLmdldENvbHVtbigpLmdldChpKS9jb2wvZw==</entry>
