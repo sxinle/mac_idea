@@ -11,6 +11,9 @@
         <mark key="[" line="138" column="0" />
         <mark key="]" line="163" column="8" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/anti/app/util/CommonUtils.java" timestamp="1523088570964">
+        <mark key="'" line="43" column="22" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application-context.xml" timestamp="1522727964547">
         <mark key="'" line="103" column="0" />
         <mark key="[" line="42" column="67" />
@@ -154,6 +157,10 @@
         <mark key="." line="13" column="3" />
         <mark key="^" line="13" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/anti/app/Global.java" timestamp="1523088886166">
+        <mark key="[" line="66" column="95" />
+        <mark key="]" line="66" column="124" />
+      </file>
       <file name="$USER_HOME$/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/srcs/jackson-databind-2.2.2-sources.jar!/com/fasterxml/jackson/databind/JsonNode.java" timestamp="1521783803948">
         <mark key="'" line="30" column="22" />
       </file>
@@ -204,6 +211,9 @@
         <mark key="]" line="452" column="34" />
         <mark key="^" line="452" column="34" />
         <mark key="." line="452" column="34" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" timestamp="1523088679284">
+        <mark key="'" line="502" column="95" />
       </file>
       <file name="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.10/srcs/play_2.10-2.2.3-sources.jar!/play/Logger.java" timestamp="1522135022972">
         <mark key="'" line="32" column="13" />
@@ -439,9 +449,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="20" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/responsive/statisticsOrder.scala.html" />
-      <jump line="168" column="25" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/responsive/statisticsOrder.scala.html" />
-      <jump line="74" column="11" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/InventoryServiceImpl.java" />
       <jump line="144" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/statisticsOrder.scala.html" />
       <jump line="167" column="43" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/responsive/statisticsOrder.scala.html" />
       <jump line="25" column="26" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/responsive/statisticsOrder.scala.html" />
@@ -539,6 +546,9 @@
       <jump line="206" column="28" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/user/UserController.java" />
       <jump line="47" column="13" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/controllers/user/UserController.java" />
       <jump line="115" column="71" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/controllers/user/UserController.java" />
+      <jump line="43" column="22" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/util/CommonUtils.java" />
+      <jump line="459" column="105" filename="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" />
+      <jump line="502" column="95" filename="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -551,10 +561,10 @@
         <text>1670.00</text>
       </register>
       <register name="/" type="4">
-        <text>orderDetail</text>
+        <text>login</text>
       </register>
       <register name="0" type="4">
-        <text>@p.get(&quot;amount&quot;)</text>
+        <text>/searchCode/searchCodeInfoCust</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -588,17 +598,16 @@
       </register>
     </registers>
     <search>
-      <last-search>orderDetail</last-search>
+      <last-search>login</last-search>
       <last-offset />
-      <last-pattern>orderDetail</last-pattern>
+      <last-pattern>login</last-pattern>
       <last-replace encoding="base64">Pg==</last-replace>
       <last-substitute encoding="base64">ID4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PFwvc3Ryb25nPg==</entry>
         <entry>select2</entry>
         <entry>.glyphicon:empty</entry>
         <entry>.glyphicon</entry>
@@ -618,6 +627,7 @@
         <entry>hide</entry>
         <entry>loginPwd</entry>
         <entry>orderDetail</entry>
+        <entry>login</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0AqLy9n</entry>
