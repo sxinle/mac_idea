@@ -6,7 +6,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/views/orderDetail.scala.html" timestamp="1522840003050">
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/views/orderDetail.scala.html" timestamp="1523156278836">
         <mark key="'" line="13" column="0" />
         <mark key="[" line="138" column="0" />
         <mark key="]" line="163" column="8" />
@@ -288,8 +288,8 @@
         <mark key="." line="978" column="21" />
         <mark key="^" line="1189" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1522738532798">
-        <mark key="'" line="10" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1523155344169">
+        <mark key="'" line="310" column="151" />
         <mark key="[" line="310" column="169" />
         <mark key="]" line="310" column="169" />
         <mark key="." line="310" column="169" />
@@ -427,7 +427,7 @@
         <mark key="." line="104" column="7" />
         <mark key="^" line="104" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/console/PrizeManager.java" timestamp="1522381190314">
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/console/PrizeManager.java" timestamp="1523156229719">
         <mark key="'" line="1132" column="4" />
         <mark key="[" line="371" column="0" />
         <mark key="]" line="371" column="0" />
@@ -461,7 +461,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="43" filename="$USER_HOME$/workspace/jinhui/order-producer/public/css/select/js/select2.js" />
       <jump line="178" column="43" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/responsive/statisticsOrder.scala.html" />
       <jump line="20" column="6" filename="$USER_HOME$/workspace/jinhui/order-producer/public/css/responsive/bootstrap.css" />
       <jump line="148" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/responsive/statisticsOrder.scala.html" />
@@ -561,6 +560,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/ReToujiang.java" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
       <jump line="195" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
+      <jump line="310" column="151" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -573,7 +573,7 @@
         <text>1670.00</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text>weixin</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGNvbS5tb25nb2RiLk1vbmdvQ2xpZW50OwppbXBvcnQgY29tLm1vbmdvZGIuY2xpZW50Lk1vbmdvQ29sbGVjdGlvbjsKaW1wb3J0IGNvbS5tb25nb2RiLmNsaWVudC5Nb25nb0N1cnNvcjsKaW1wb3J0IGNvbS5tb25nb2RiLmNsaWVudC5Nb25nb0RhdGFiYXNlOwppbXBvcnQgb3JnLmJzb24uRG9jdW1lbnQ7CgppbXBvcnQgamF2YXguc291bmQubWlkaS5Tb3VuZGJhbms7CmltcG9ydCBqYXZhLnNxbC4qOwppbXBvcnQgamF2YS50ZXh0LlNpbXBsZURhdGVGb3JtYXQ7CmltcG9ydCBqYXZhLnV0aWwuRGF0ZTsK</text>
@@ -610,18 +610,16 @@
       </register>
     </registers>
     <search>
-      <last-search>login</last-search>
+      <last-search>weixin</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern>weixin</last-pattern>
       <last-replace encoding="base64">Pg==</last-replace>
       <last-substitute encoding="base64">ID4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>select2</entry>
-        <entry>.glyphicon:empty</entry>
         <entry>.glyphicon</entry>
         <entry>align</entry>
         <entry encoding="base64">ID4=</entry>
@@ -640,6 +638,8 @@
         <entry>loginPwd</entry>
         <entry>orderDetail</entry>
         <entry>login</entry>
+        <entry>wexin</entry>
+        <entry>weixin</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0AqLy9n</entry>
