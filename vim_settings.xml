@@ -107,6 +107,9 @@
         <mark key="]" line="31" column="44" />
         <mark key="." line="31" column="44" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" timestamp="1523257963416">
+        <mark key="'" line="33" column="16" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/views/responsive/rebateLog.scala.html" timestamp="1523168073150">
         <mark key="'" line="46" column="54" />
         <mark key="[" line="17" column="0" />
@@ -141,8 +144,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="82" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/sql_migrate/2018-04-09/投奖红包是否需要电话.sql" />
-      <jump line="806" column="21" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="1168" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="337" column="39" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/models/ScanEvent.java" />
       <jump line="127" column="67" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
@@ -241,6 +242,8 @@
       <jump line="571" column="37" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/modScanEvent.scala.html" />
       <jump line="855" column="24" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/modScanEvent.scala.html" />
       <jump line="58" column="45" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
+      <jump line="103" column="62" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
+      <jump line="33" column="16" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -253,7 +256,7 @@
         <text encoding="base64">ICYmICFieVRpbWU=</text>
       </register>
       <register name="/" type="4">
-        <text>scanEvent</text>
+        <text>bind</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jb250cm9sIiBuYW1lPSJvdXRFbmREYXRlIiBpZD0ib3V0RW5kRGF0ZSIgQGlmKGV2ZW50LmJ5VGltZSA9PSAwKSB7IGRpc2FibGVkPWRpc2FibGVkIH0gdmFsdWU9IkBldmVudC5vdXRFbmREYXRlIi8+Cg==</text>
@@ -290,9 +293,9 @@
       </register>
     </registers>
     <search>
-      <last-search>scanEvent</last-search>
+      <last-search>bind</last-search>
       <last-offset />
-      <last-pattern>scanEvent</last-pattern>
+      <last-pattern>bind</last-pattern>
       <last-replace encoding="base64">Pg==</last-replace>
       <last-substitute encoding="base64">ID4=</last-substitute>
       <last-dir>1</last-dir>
@@ -300,7 +303,6 @@
     </search>
     <history>
       <history-search>
-        <entry>change</entry>
         <entry>Array.pro</entry>
         <entry>optionV</entry>
         <entry>addRow</entry>
@@ -320,6 +322,7 @@
         <entry>num + io</entry>
         <entry>num&quot; + id</entry>
         <entry>scanEvent</entry>
+        <entry>bind</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0AqLy9n</entry>
