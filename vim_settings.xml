@@ -86,10 +86,12 @@
       <file name="/scanevent [pointshub@localhost]" timestamp="1523244287903">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/modScanEvent.scala.html" timestamp="1523246362042">
-        <mark key="[" line="467" column="0" />
-        <mark key="]" line="467" column="0" />
-        <mark key="." line="467" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/modScanEvent.scala.html" timestamp="1523247269130">
+        <mark key="'" line="275" column="36" />
+        <mark key="[" line="272" column="0" />
+        <mark key="]" line="272" column="0" />
+        <mark key="." line="272" column="0" />
+        <mark key="^" line="272" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" timestamp="1523245774792">
         <mark key="'" line="805" column="36" />
@@ -149,7 +151,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="396" column="80" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="529" column="59" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="616" column="46" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="719" column="43" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
@@ -249,6 +250,7 @@
       <jump line="112" column="49" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/sql_migrate/2018-04-09/投奖红包是否需要电话.sql" />
       <jump line="444" column="20" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/modScanEvent.scala.html" />
+      <jump line="275" column="36" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/modScanEvent.scala.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -261,7 +263,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>authCode</text>
+        <text>防伪码</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGlkPSJldmVudE5hbWVJcHQiIHR5cGU9InRleHQiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIG5hbWU9InNjYW5OYW1lIiB2YWx1ZT0iQGV2ZW50LnNjYW5OYW1lIj4K</text>
@@ -270,10 +272,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGlkPSJldmVudE5hbWVJcHQiIHR5cGU9InRleHQiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIG5hbWU9InNjYW5OYW1lIiBwbGFjZWhvbGRlcj0i5oqV5aWW5ZCN56ewLi4uIj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGlkPSJldmVudE5hbWVJcHQiIHR5cGU9InRleHQiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIG5hbWU9InNjYW5OYW1lIiBwbGFjZWhvbGRlcj0i5oqV5aWW5ZCN56ewLi4uIj4K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -282,25 +284,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bmN0aW9uIG1vZEZ1bmMoc2NhbklkKSB7CiAgICAgICAgICAgICAgICAgICAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSAnL2NvbnNvbGUvQGNvbXAuZG9tYWluL21vZFNjYW5FdmVudC8nICsgc2NhbklkOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bmN0aW9uIG1vZEZ1bmMoc2NhbklkKSB7CiAgICAgICAgICAgICAgICAgICAgd2luZG93LmxvY2F0aW9uLmhyZWYgPSAnL2NvbnNvbGUvQGNvbXAuZG9tYWluL21vZFNjYW5FdmVudC8nICsgc2NhbklkOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOeCueWHu+WIoOmZpOaMiemSru+8jOWFiOWIoOmZpOihjO+8jOWGjeWwhuW9k+WJjeWAvOS7juaVsOe7hOS4reWIoOmZpAogICAgICAgICAgICAgICAgZnVuY3Rpb24gZGVsUHJpemVGdW4obm9kZSwgaWQpIHsKICAgICAgICAgICAgICAgICAgICBvcHRpb25WYWx1ZSA9ICQoIiNzZWxlY3QiICsgaWQpLmF0dHIoIm5hbWUiKTsKICAgICAgICAgICAgICAgICAgICBpZiAoJC5pbkFycmF5KG9wdGlvblZhbHVlLCB0bXBBcnIpICE9IC0xKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRtcEFyci5zcGxpY2UoJC5pbkFycmF5KG9wdGlvblZhbHVlLCB0bXBBcnIpLCAxKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgJChub2RlKS5jbG9zZXN0KCd0cicpLnJlbW92ZSgpOwogICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>authCode</last-search>
+      <last-search>防伪码</last-search>
       <last-offset />
-      <last-pattern>authCode</last-pattern>
+      <last-pattern>防伪码</last-pattern>
       <last-replace encoding="base64">Pg==</last-replace>
       <last-substitute encoding="base64">ID4=</last-substitute>
       <last-dir>1</last-dir>
@@ -308,7 +310,6 @@
     </search>
     <history>
       <history-search>
-        <entry>totalNum</entry>
         <entry>请先填写每组箱数</entry>
         <entry>请先填写每组数</entry>
         <entry>总数量</entry>
@@ -328,6 +329,7 @@
         <entry>无防伪码</entry>
         <entry>updateAuth</entry>
         <entry>authCode</entry>
+        <entry>防伪码</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0AqLy9n</entry>
