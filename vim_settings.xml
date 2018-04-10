@@ -12,6 +12,9 @@
         <mark key="^" line="260" column="28" />
         <mark key="." line="260" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" timestamp="1523337836414">
+        <mark key="'" line="17" column="5" />
+      </file>
       <file name="$USER_HOME$/.ideaLibSources/mongo-java-driver-3.6.3-sources.jar!/com/mongodb/WriteResult.java" timestamp="1523327877990" />
       <file name="$USER_HOME$/.ideaLibSources/mongo-java-driver-3.6.3-sources.jar!/com/mongodb/client/MongoCursor.java" timestamp="1523332918449" />
       <file name="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" timestamp="1523333617725">
@@ -126,6 +129,11 @@
         <mark key="]" line="411" column="0" />
         <mark key="." line="411" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/StatisticsInventoryServiceImpl.java" timestamp="1523337901671" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/anti/conf/sql/StatisticsInventory.xml" timestamp="1523337957070">
+        <mark key="[" line="392" column="0" />
+        <mark key="]" line="419" column="58" />
+      </file>
       <file name="$USER_HOME$/Desktop/yjt_crm/public/statics/app/controller/TreeController.js" timestamp="1523176397455">
         <mark key="[" line="297" column="54" />
         <mark key="]" line="297" column="54" />
@@ -179,7 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="30" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="243" column="42" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="244" column="89" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="246" column="89" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
@@ -279,6 +286,7 @@
       <jump line="236" column="0" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
       <jump line="31" column="72" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
       <jump line="266" column="44" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
+      <jump line="17" column="5" filename="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -291,10 +299,10 @@
         <text>obj</text>
       </register>
       <register name="/" type="4">
-        <text>Thread.sleep</text>
+        <text>ckSum</text>
       </register>
-      <register name="0" type="4">
-        <text>code_info.find(mongoParam).limit(boxCount)</text>
+      <register name="0" type="2">
+        <text encoding="base64">CQkJCQkJU0VMRUNUIHAuYmFyY29kZSwKCQkJCQkJCQkJICBwLnByb2R1Y3RuYW1lLAoJCQkJCQkJCQkgIHAucHJvZHVjdHJ1bGUsCgkJCQkJCSAgICAgICAgICAgICAgYS5jb3VudAoJCQkJCQkJRlJPTSAoCgkJCQkJCQkJCVNFTEVDVCAgZC5wcm9kdWN0aWQKCQkJCQkJCQkJICAgICA8IVtDREFUQVsgCgkJCQkJCQkJCSAgICAgICAgICAgICAgICxjb3VudChjYXNlIHdoZW4gaWQuc3RhdHVzID0gMiBhbmQgaWQuc2NhbnRpbWUgPj0gI3tiZWdpbkRhdGV9IGFuZCBpZC5zY2FudGltZSA8PSAje2VuZERhdGV9IHRoZW4gMSBlbmQpIGFzICJjb3VudCIKCQkJCQkJCQkJICAgICBdXT4KCQkJCQkJCQkJRlJPTSAgIHN0b3JhZ2VfZGV0YWlsIGQgSk9JTiAgaW52ZW50b3J5X2RldGFpbCBpZAoJCQkJCQkJCQkgICAgICAgT04gIGlkLmludmVudG9yeWNvZGUgPSBkLmludGVyZmxvd2NvZGUKCQkJCQkJCQkJICAgICAgIHdoZXJlIDE9MQoJCQkJCQkJCQkgICAgICAgIDxpZiB0ZXN0PSJjdXN0SWQhPW51bGwgIGFuZCBjdXN0SWQhPScnICAiPgoJCQkJCQkJCQkgICAgICAgICAgICAgICBBTkQgICBpZC5jdXN0Y29kZSA9IChzZWxlY3QgY3VzdGNvZGUgZnJvbSBjdXN0b21lcl9pbmZvIHdoZXJlIGN1c3RpZCA9I3tjdXN0SWR9ICkKCQkJCQkJCQkJICAgICAgICA8L2lmPgoJCQkJCQkJCQkJCSA8aWYgdGVzdD0icHJvZHVjdElkIT1udWxsICBhbmQgcHJvZHVjdElkIT0nJyAgIj4KCQkJCQkJCQkJCQkJCUFORCBkLnByb2R1Y3RpZCA9I3twcm9kdWN0SWR9CgkJCQkJCQkJCSAgICAgICAgIDwvaWY+CgkJCQkJCQkJCWdyb3VwIGJ5IGQucHJvZHVjdGlkCgkJCQkJCQkJCU9SREVSIEJZIGQucHJvZHVjdGlkIGRlc2MKCQkJCQkJCQkJICAgICA8aWYgdGVzdD0ibGltaXQhPW51bGwgIGFuZCBsaW1pdCE9JycgIj4KCQkJCQkJCQkJCSAgICAgIExpbWl0ICN7bGltaXR9IE9GRlNFVCAje3N0YXJ0fQoJCQkJCQkJCQkJPC9pZj4KCQkJCQkJCQkJCTxpZiB0ZXN0PSJsaW1pdD09bnVsbCI+CgkJCQkJCQkJCQkgICAgICBMaW1pdCAzMCBPRkZTRVQgMAoJCQkJCQkJCQkJPC9pZj4KCQkJCQkJCQkJKWEscHJvZHVjdF9pbmZvIHAKCQkJCQkJCXdoZXJlIHAucHJvZHVjdGlkID0gYS5wcm9kdWN0aWQK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB3aGlsZSAoY3Vycy5oYXNOZXh0KCkpIHsKICAgICAgICAgICAgREJPYmplY3QgZGJqID0gY3Vycy5uZXh0KCk7CiAgICAgICAgfQo=</text>
@@ -328,9 +336,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Thread.sleep</last-search>
+      <last-search>ckSum</last-search>
       <last-offset />
-      <last-pattern>Thread.sleep</last-pattern>
+      <last-pattern>ckSum</last-pattern>
       <last-replace encoding="base64">Pg==</last-replace>
       <last-substitute encoding="base64">ID4=</last-substitute>
       <last-dir>1</last-dir>
@@ -338,7 +346,6 @@
     </search>
     <history>
       <history-search>
-        <entry>var id =</entry>
         <entry>events</entry>
         <entry>modScan</entry>
         <entry>修改</entry>
@@ -358,6 +365,7 @@
         <entry>chilren</entry>
         <entry>SyncPrize</entry>
         <entry>Thread.sleep</entry>
+        <entry>ckSum</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0AqLy9n</entry>
