@@ -12,6 +12,13 @@
         <mark key="^" line="260" column="28" />
         <mark key="." line="260" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" timestamp="1523324972322">
+        <mark key="'" line="82" column="17" />
+        <mark key="[" line="102" column="51" />
+        <mark key="]" line="102" column="51" />
+        <mark key="." line="102" column="51" />
+        <mark key="^" line="102" column="51" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/application-context.xml" timestamp="1523165840741">
         <mark key="'" line="61" column="23" />
       </file>
@@ -87,6 +94,11 @@
         <mark key="]" line="172" column="0" />
         <mark key="." line="172" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/jh_crm/public/statics/app/controller/UserInfoController.js" timestamp="1523269889061">
+        <mark key="[" line="549" column="0" />
+        <mark key="]" line="549" column="0" />
+        <mark key="." line="549" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/modScanEvent.scala.html" timestamp="1523256809155">
         <mark key="'" line="855" column="24" />
         <mark key="[" line="866" column="47" />
@@ -117,8 +129,8 @@
         <mark key="." line="297" column="54" />
         <mark key="^" line="297" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" timestamp="1523257963416">
-        <mark key="'" line="33" column="16" />
+      <file name="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" timestamp="1523324841102">
+        <mark key="'" line="195" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/views/responsive/salesOrderSum.scala.html" timestamp="1523166320629">
         <mark key="'" line="79" column="13" />
@@ -146,14 +158,21 @@
         <mark key="." line="216" column="43" />
         <mark key="^" line="216" column="43" />
       </file>
+      <file name="$USER_HOME$/Desktop/jh_crm/app/service/impl/UserServiceImpl.java" timestamp="1523270294579">
+        <mark key="'" line="227" column="22" />
+        <mark key="[" line="227" column="26" />
+        <mark key="]" line="227" column="26" />
+        <mark key="^" line="227" column="26" />
+        <mark key="." line="227" column="26" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jh_crm/public/statics/app/view/panel/tree/TreeGridPanel.js" timestamp="1523270202217">
+        <mark key="[" line="35" column="17" />
+        <mark key="]" line="35" column="21" />
+        <mark key="." line="35" column="21" />
+        <mark key="^" line="35" column="21" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="1168" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
-      <jump line="337" column="39" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/models/ScanEvent.java" />
-      <jump line="127" column="67" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
-      <jump line="131" column="56" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
-      <jump line="145" column="40" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
-      <jump line="153" column="32" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
       <jump line="182" column="40" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
       <jump line="192" column="28" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
       <jump line="199" column="28" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
@@ -248,6 +267,12 @@
       <jump line="58" column="45" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="103" column="62" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
       <jump line="33" column="16" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
+      <jump line="199" column="25" filename="$USER_HOME$/Desktop/jh_crm/app/service/impl/UserServiceImpl.java" />
+      <jump line="227" column="22" filename="$USER_HOME$/Desktop/jh_crm/app/service/impl/UserServiceImpl.java" />
+      <jump line="195" column="45" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
+      <jump line="148" column="0" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
+      <jump line="34" column="40" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
+      <jump line="82" column="17" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -257,58 +282,56 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICYmICFieVRpbWU=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>bind</text>
+        <text>SyncPrize</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCBjbGFzcz0iZm9ybS1jb250cm9sIiBuYW1lPSJvdXRFbmREYXRlIiBpZD0ib3V0RW5kRGF0ZSIgQGlmKGV2ZW50LmJ5VGltZSA9PSAwKSB7IGRpc2FibGVkPWRpc2FibGVkIH0gdmFsdWU9IkBldmVudC5vdXRFbmREYXRlIi8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBhZGQgYnkgUG9wcHkgYXQgMjAxNS0wNy0wNiBzdGFydAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvbmcgZW5kID0gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGFkZCBieSBQb3BweSBlbmQK</text>
+        <text encoding="base64">ICAgICAgICBhbGVydCgnYScpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGFkZCBieSBQb3BweSBzdGFydAo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBhZGQgYnkgUG9wcHkgYXQgMjAxNS0wNy0wNiBzdGFydAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiAqIOiuouWNleezu+e7nwogKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioKICogTmV3LmphdmEgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAoQykKICog5rKI6Ziz5YWr57u05pe256m656eR5oqA5Y+R5bGVIFNIRU5ZQU5HIEVJR0hUU1BBQ0UgVEVDSE5PTE9HWSBERVZFTE9QTUVOVCBDTy4sTFRELiAyMDE0CiAqIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gVmVyc2lvbiBEYXRlIEJ5CiAqIENvbW1lbnQgMS4wIDIwMTblubQwMeaciDE05pelICDmlrDlu7oKICoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGFkZCBieSBQb3BweSBlbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiAqIOmYsueqnOi0p+ezu+e7nwoKCiAqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKgogKiBQcm9kdWN0LmphdmEKICotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAqIChDKSDmsojpmLPlhavnu7Tml7bnqbrnp5HmioDlj5HlsZUKICogICAgIFNIRU5ZQU5HIEVJR0hUU1BBQ0UgVEVDSE5PTE9HWSBERVZFTE9QTUVOVCBDTy4sTFRELiAgMjAxNAogKi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICogVmVyc2lvbiAgICBEYXRlICAgICAgIEJ5ICAgICAgICAgICAgQ29tbWVudAogKiAxLjAgICAgICAgIDIwMTQtMDctMjggICAgICAgICAg5paw5bu6CiAqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKi8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIGFkZCBieSBQb3BweSBzdGFydAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiAqIOmYsueqnOi0p+ezu+e7nwoKICoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiAqIE1vZHVsZU1hbmFnZVNlcnZpY2UuamF2YQogKi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICogKEMpIOayiOmYs+WFq+e7tOaXtuepuuenkeaKgOWPkeWxlQogKiAgICAgU0hFTllBTkcgRUlHSFRTUEFDRSBURUNITk9MT0dZIERFVkVMT1BNRU5UIENPLixMVEQuICAyMDE0CiAqLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogKiBWZXJzaW9uICAgIERhdGUgICAgICAgQnkgICAgICAgICAgICBDb21tZW50CiAqIDEuMCAgICAgICAgMjAxNOW5tDA35pyIMjjml6UgICAgICAgICAgICAgIOaWsOW7ugogKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKiovCg==</text>
+        <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiAqIOiuouWNleezu+e7nwogKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioKICogTmV3LmphdmEgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLSAoQykKICog5rKI6Ziz5YWr57u05pe256m656eR5oqA5Y+R5bGVIFNIRU5ZQU5HIEVJR0hUU1BBQ0UgVEVDSE5PTE9HWSBERVZFTE9QTUVOVCBDTy4sTFRELiAyMDE0CiAqIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0gVmVyc2lvbiBEYXRlIEJ5CiAqIENvbW1lbnQgMS4wIDIwMTblubQwMeaciDE05pelICDmlrDlu7oKICoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqLwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiAqIOmYsueqnOi0p+ezu+e7nwoKICoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiAqIE1vZHVsZU1hbmFnZVNlcnZpY2UuamF2YQogKi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICogKEMpIOayiOmYs+WFq+e7tOaXtuepuuenkeaKgOWPkeWxlQogKiAgICAgU0hFTllBTkcgRUlHSFRTUEFDRSBURUNITk9MT0dZIERFVkVMT1BNRU5UIENPLixMVEQuICAyMDE0CiAqLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogKiBWZXJzaW9uICAgIERhdGUgICAgICAgQnkgICAgICAgICAgICBDb21tZW50CiAqIDEuMCAgICAgICAgMjAxNOW5tDA35pyIMjjml6UgICAgICAgICAgICAgIOaWsOW7ugogKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKiovCg==</text>
+        <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiAqIOmYsueqnOi0p+ezu+e7nwoKCiAqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKgogKiBQcm9kdWN0LmphdmEKICotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiAqIChDKSDmsojpmLPlhavnu7Tml7bnqbrnp5HmioDlj5HlsZUKICogICAgIFNIRU5ZQU5HIEVJR0hUU1BBQ0UgVEVDSE5PTE9HWSBERVZFTE9QTUVOVCBDTy4sTFRELiAgMjAxNAogKi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICogVmVyc2lvbiAgICBEYXRlICAgICAgIEJ5ICAgICAgICAgICAgQ29tbWVudAogKiAxLjAgICAgICAgIDIwMTQtMDctMjggICAgICAgICAg5paw5bu6CiAqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiAqIOmYsueqnOi0p+ezu+e7nwoKICoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiAqIE1vZHVsZU1hbmFnZVNlcnZpY2UuamF2YQogKi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICogKEMpIOayiOmYs+WFq+e7tOaXtuepuuenkeaKgOWPkeWxlQogKiAgICAgU0hFTllBTkcgRUlHSFRTUEFDRSBURUNITk9MT0dZIERFVkVMT1BNRU5UIENPLixMVEQuICAyMDE0CiAqLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogKiBWZXJzaW9uICAgIERhdGUgICAgICAgQnkgICAgICAgICAgICBDb21tZW50CiAqIDEuMCAgICAgICAgMjAxNOW5tDA35pyIMjjml6UgICAgICAgICAgICAgIOaWsOW7ugogKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKiovCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiAqIOmYsueqnOi0p+ezu+e7nwoKICoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiAqIE1vZHVsZU1hbmFnZVNlcnZpY2UuamF2YQogKi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICogKEMpIOayiOmYs+WFq+e7tOaXtuepuuenkeaKgOWPkeWxlQogKiAgICAgU0hFTllBTkcgRUlHSFRTUEFDRSBURUNITk9MT0dZIERFVkVMT1BNRU5UIENPLixMVEQuICAyMDE0CiAqLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogKiBWZXJzaW9uICAgIERhdGUgICAgICAgQnkgICAgICAgICAgICBDb21tZW50CiAqIDEuMCAgICAgICAgMjAxNOW5tDA35pyIMjjml6UgICAgICAgICAgICAgIOaWsOW7ugogKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKiovCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>bind</last-search>
+      <last-search>SyncPrize</last-search>
       <last-offset />
-      <last-pattern>bind</last-pattern>
+      <last-pattern>SyncPrize</last-pattern>
       <last-replace encoding="base64">Pg==</last-replace>
       <last-substitute encoding="base64">ID4=</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Array.pro</entry>
-        <entry>optionV</entry>
         <entry>addRow</entry>
         <entry>var id =</entry>
         <entry>events</entry>
@@ -327,6 +350,8 @@
         <entry>num&quot; + id</entry>
         <entry>scanEvent</entry>
         <entry>bind</entry>
+        <entry>chilren</entry>
+        <entry>SyncPrize</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0AqLy9n</entry>
