@@ -152,12 +152,12 @@
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1523336215333">
         <mark key="'" line="266" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" timestamp="1523436815158">
-        <mark key="'" line="264" column="0" />
-        <mark key="[" line="38" column="56" />
-        <mark key="]" line="38" column="69" />
-        <mark key="." line="38" column="69" />
-        <mark key="^" line="38" column="69" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" timestamp="1523443028556">
+        <mark key="'" line="107" column="28" />
+        <mark key="[" line="148" column="19" />
+        <mark key="]" line="148" column="21" />
+        <mark key="." line="148" column="21" />
+        <mark key="^" line="148" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" timestamp="1523339342685">
         <mark key="'" line="23" column="13" />
@@ -184,14 +184,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="564" column="107" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/modScanEvent.scala.html" />
-      <jump line="906" column="63" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/modScanEvent.scala.html" />
-      <jump line="694" column="83" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/modScanEvent.scala.html" />
-      <jump line="442" column="79" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/modScanEvent.scala.html" />
-      <jump line="361" column="36" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
-      <jump line="755" column="36" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
-      <jump line="761" column="33" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
-      <jump line="995" column="28" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="997" column="28" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="1000" column="32" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="1006" column="16" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
@@ -263,7 +255,6 @@
       <jump line="5" column="0" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/resources/config.properties" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/resources/config.properties" />
       <jump line="7" column="0" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/resources/config.properties" />
-      <jump line="111" column="61" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
       <jump line="233" column="11" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
       <jump line="27" column="18" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/resources/config.properties" />
@@ -284,6 +275,15 @@
       <jump line="21" column="18" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/pom.xml" />
       <jump line="144" column="30" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
       <jump line="264" column="0" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
+      <jump line="110" column="31" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
+      <jump line="111" column="69" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
+      <jump line="113" column="59" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
+      <jump line="223" column="27" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
+      <jump line="224" column="36" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
+      <jump line="262" column="42" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
+      <jump line="263" column="51" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
+      <jump line="105" column="52" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
+      <jump line="107" column="28" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -293,49 +293,49 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>getScanid()</text>
+        <text>out</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyaWdodFByb2R1Y3RJRFw+</text>
+        <text>code_info</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1vbmdvQ3Vyc29yPERvY3VtZW50PiBpdCA9IGNvZGVfaW5mby5maW5kKG5ldyBCYXNpY0RCT2JqZWN0KCJjb2RlIiwgcnMuZ2V0U3RyaW5nKCJxcmNvZGUiKSkuYXBwZW5kKCJwcm9kdWN0SWQiLCByaWdodFByb2R1Y3RJRCkpLml0ZXJhdG9yKCk7Cg==</text>
+      <register name="0" type="4">
+        <text>DimensionCode_Info</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXJyYXlzLmFzTGlzdChuZXcgaW50W117NDUsIDIxMCwgMjExLCAyMTIsIDE4MSwgMjIwLCAyMjF9KTsK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oIuajgOafpSIgKyBzY2FuRXZlbnRzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGQoNDUpOwoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQXJyYXlzLmFzTGlzdChuZXcgaW50W117NDUsIDIxMCwgMjExLCAyMTIsIDE4MSwgMjIwLCAyMjF9KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGQoNDUpOwoK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGlmZlByb2R1Y3Qud3JpdGUocXJjb2RlICsgIlx0IGNvZGVfaW5mbzpbIiArIHBpZCArICJdICBjb25maWc6WyIgKyByaWdodFByb2R1Y3RJRCArICJdIiArICJcbiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGlmZlByb2R1Y3Qud3JpdGUocXJjb2RlICsgIlx0IGNvZGVfaW5mbzpbIiArIHBpZCArICJdICBjb25maWc6WyIgKyByaWdodFByb2R1Y3RJRCArICJdIiArICJcbiIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyaWdodFByb2R1Y3RJRFw+</last-search>
+      <last-search>code_info</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyaWdodFByb2R1Y3RJRFw+</last-pattern>
+      <last-pattern>code_info</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -343,7 +343,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDzmtLvliqjlpZblirHlhoXlrrnkuI3nrKblkIjopoHmsYLvvIHlupTmu6HotrNcPg==</entry>
         <entry>出库日期</entry>
         <entry>至</entry>
         <entry>时间段投奖</entry>
@@ -363,6 +362,7 @@
         <entry>;</entry>
         <entry>diffPro</entry>
         <entry encoding="base64">XDxyaWdodFByb2R1Y3RJRFw+</entry>
+        <entry>code_info</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzwvWy9n</entry>
