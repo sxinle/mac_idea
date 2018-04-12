@@ -9,6 +9,9 @@
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/application.conf" timestamp="1523350315839">
         <mark key="'" line="69" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1523525875363">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application-context.xml" timestamp="1523496261036">
         <mark key="'" line="85" column="0" />
         <mark key="[" line="42" column="67" />
@@ -95,6 +98,13 @@
       <file name="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" timestamp="1523354148561">
         <mark key="'" line="484" column="112" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check212.java" timestamp="1523527047764">
+        <mark key="'" line="15" column="57" />
+        <mark key="[" line="55" column="19" />
+        <mark key="]" line="55" column="30" />
+        <mark key="." line="55" column="19" />
+        <mark key="^" line="53" column="21" />
+      </file>
       <file name="$USER_HOME$/.ideaLibSources/mongo-java-driver-3.6.3-sources.jar!/com/mongodb/WriteResult.java" timestamp="1523327877990" />
       <file name="$USER_HOME$/.ideaLibSources/mongo-java-driver-3.6.3-sources.jar!/com/mongodb/client/MongoCursor.java" timestamp="1523332918449" />
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/application-context.xml" timestamp="1523165840741">
@@ -179,12 +189,12 @@
         <mark key="]" line="21" column="66" />
         <mark key="." line="21" column="66" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" timestamp="1523523154848">
+      <file name="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" timestamp="1523525951316">
         <mark key="'" line="153" column="4" />
-        <mark key="[" line="224" column="4" />
-        <mark key="]" line="151" column="4" />
-        <mark key="." line="151" column="4" />
-        <mark key="^" line="151" column="4" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="22" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" timestamp="1523339342685">
         <mark key="'" line="23" column="13" />
@@ -215,8 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="45" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
-      <jump line="148" column="0" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
       <jump line="34" column="40" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
       <jump line="82" column="17" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
       <jump line="119" column="107" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
@@ -315,6 +323,8 @@
       <jump line="19" column="19" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/domain/Check483.java" />
       <jump line="92" column="0" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/domain/Check483.java" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/domain/Check483.java" />
+      <jump line="84" column="11" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check212.java" />
+      <jump line="15" column="57" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check212.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -324,25 +334,25 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>只有入库信息</text>
+        <text>rs</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZXdTdG9yZVw+</text>
+        <text encoding="base64">XDxjaGVjazIxMlw+</text>
       </register>
       <register name="0" type="4">
-        <text>noRkMsg</text>
+        <text>seriaCodeRS</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -351,22 +361,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKGluU1BELmdldEludCgpKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICB9</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZXdTdG9yZVw+</last-search>
+      <last-search encoding="base64">XDxjaGVjazIxMlw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZXdTdG9yZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxjaGVjazIxMlw+</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -374,7 +384,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bind</entry>
         <entry>chilren</entry>
         <entry>SyncPrize</entry>
         <entry>Thread.sleep</entry>
@@ -394,6 +403,7 @@
         <entry encoding="base64">XDxzZXR0aW5nX2Zvcm1cPg==</entry>
         <entry>newSt</entry>
         <entry encoding="base64">XDxuZXdTdG9yZVw+</entry>
+        <entry encoding="base64">XDxjaGVjazIxMlw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzwvWy9n</entry>
