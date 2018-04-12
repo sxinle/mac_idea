@@ -40,6 +40,7 @@
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/WeixinPrizeController.java" timestamp="1523497193632">
         <mark key="'" line="410" column="53" />
       </file>
+      <file name="$USER_HOME$/Desktop/jh_crm/public/statics/app/view/panel/user/UserListView.js" timestamp="1523515073586" />
       <file name="$USER_HOME$/workspace/demo/zest/src/main/java/Prize483.java" timestamp="1523342859451">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="39" column="46" />
@@ -141,12 +142,12 @@
       <file name="/scanevent [pointshub@localhost]" timestamp="1523244287903">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/jh_crm/public/statics/app/controller/UserInfoController.js" timestamp="1523513152210">
-        <mark key="'" line="558" column="15" />
-        <mark key="[" line="654" column="36" />
-        <mark key="]" line="655" column="35" />
-        <mark key="." line="655" column="35" />
-        <mark key="^" line="655" column="35" />
+      <file name="$USER_HOME$/Desktop/jh_crm/public/statics/app/controller/UserInfoController.js" timestamp="1523515179706">
+        <mark key="'" line="13" column="4" />
+        <mark key="[" line="658" column="0" />
+        <mark key="]" line="658" column="0" />
+        <mark key="." line="658" column="0" />
+        <mark key="^" line="658" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/modScanEvent.scala.html" timestamp="1523256809155">
         <mark key="'" line="855" column="24" />
@@ -196,7 +197,7 @@
         <mark key="^" line="227" column="26" />
         <mark key="." line="227" column="26" />
       </file>
-      <file name="$USER_HOME$/Desktop/jh_crm/public/statics/app/view/panel/tree/TreeGridPanel.js" timestamp="1523512984232">
+      <file name="$USER_HOME$/Desktop/jh_crm/public/statics/app/view/panel/tree/TreeGridPanel.js" timestamp="1523515014840">
         <mark key="[" line="23" column="14" />
         <mark key="]" line="23" column="27" />
       </file>
@@ -208,9 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="958" column="47" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/modScanEvent.scala.html" />
-      <jump line="61" column="35" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
-      <jump line="917" column="50" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/modScanEvent.scala.html" />
       <jump line="476" column="17" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="109" column="52" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
       <jump line="182" column="48" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" />
@@ -308,6 +306,9 @@
       <jump line="647" column="26" filename="$USER_HOME$/Desktop/jh_crm/public/statics/app/controller/UserInfoController.js" />
       <jump line="561" column="15" filename="$USER_HOME$/Desktop/jh_crm/public/statics/app/controller/UserInfoController.js" />
       <jump line="18" column="4" filename="$USER_HOME$/Desktop/jh_crm/public/statics/app/controller/ProductController.js" />
+      <jump line="658" column="28" filename="$USER_HOME$/Desktop/jh_crm/public/statics/app/controller/UserInfoController.js" />
+      <jump line="657" column="35" filename="$USER_HOME$/Desktop/jh_crm/public/statics/app/controller/UserInfoController.js" />
+      <jump line="13" column="4" filename="$USER_HOME$/Desktop/jh_crm/public/statics/app/controller/UserInfoController.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -317,49 +318,49 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>tree-panel</text>
+        <text>treeStore</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXR0aW5nX2Zvcm1cPg==</text>
+        <text encoding="base64">XDxuZXdTdG9yZVw+</text>
       </register>
       <register name="0" type="4">
-        <text>Ext.tree.Panel</text>
+        <text>tree_grid.getStore()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0cmVlX2dyaWQuZ2V0U3RvcmUoKS5nZXRSb290Tm9kZSgpLnJlbG9hZCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBFeHQuZ2V0Q21wKCdUcmVlR3JpZCcpLmdldFJvb3ROb2RlKCkucmVsb2FkKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB0cmVlX2dyaWQuZ2V0U2VsZWN0aW9uTW9kZWwoKS5jbGVhclNlbGVjdGlvbnMoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dmFyIHRyZWVfZ3JpZDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyB0cmVlX2dyaWQuZ2V0U2VsZWN0aW9uTW9kZWwoKS5jbGVhclNlbGVjdGlvbnMoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZih0cmVlX2dyaWQgPT0gbnVsbCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAvLyB0cmVlX2dyaWQuZ2V0TG9hZGVyKCkubG9hZChyb290KTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0cmVlX2dyaWQuZ2V0U3RvcmUoKS5nZXRSb290Tm9kZSgpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0sCiAgICBvbkxhdW5jaDogZnVuY3Rpb24gKCkgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICB0cmVlX2dyaWQuZ2V0VmlldygpLnJlZnJlc2goKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvLyB0cmVlX2dyaWQuZ2V0TG9hZGVyKCkubG9hZChyb290KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBFeHQuZ2V0Q21wKCdUcmVlR3JpZCcpLmdldFJvb3ROb2RlKCkucmVsb2FkKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXR0aW5nX2Zvcm1cPg==</last-search>
+      <last-search encoding="base64">XDxuZXdTdG9yZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXR0aW5nX2Zvcm1cPg==</last-pattern>
+      <last-pattern encoding="base64">XDxuZXdTdG9yZVw+</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -367,8 +368,6 @@
     </search>
     <history>
       <history-search>
-        <entry>num&quot; + id</entry>
-        <entry>scanEvent</entry>
         <entry>bind</entry>
         <entry>chilren</entry>
         <entry>SyncPrize</entry>
@@ -387,6 +386,8 @@
         <entry>role</entry>
         <entry>load</entry>
         <entry encoding="base64">XDxzZXR0aW5nX2Zvcm1cPg==</entry>
+        <entry>newSt</entry>
+        <entry encoding="base64">XDxuZXdTdG9yZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzwvWy9n</entry>
