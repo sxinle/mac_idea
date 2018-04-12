@@ -45,6 +45,21 @@
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/WeixinPrizeController.java" timestamp="1523497193632">
         <mark key="'" line="410" column="53" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/MyOrderService.java" timestamp="1523260593118">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/models/Product.java" timestamp="1523260601149">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/views/cart.scala.html" timestamp="1523260635754">
+        <mark key="[" line="172" column="0" />
+        <mark key="]" line="172" column="0" />
+        <mark key="." line="172" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/zest/src/main/java/Prize483.java" timestamp="1523342859451">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="39" column="46" />
@@ -55,6 +70,16 @@
         <mark key="]" line="45" column="17" />
         <mark key="^" line="45" column="17" />
         <mark key="." line="45" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/CartService.java" timestamp="1523260597387">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/public/page/addr.js" timestamp="1523260639612">
+        <mark key="[" line="411" column="0" />
+        <mark key="]" line="411" column="0" />
+        <mark key="." line="411" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/anti/conf/sql/StatisticsInventory.xml" timestamp="1523337957070">
         <mark key="[" line="392" column="0" />
@@ -129,6 +154,11 @@
       <file name="/dummy.sql" timestamp="1523244289180">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" timestamp="1523260605000">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1523350392834">
         <mark key="[" line="0" column="0" />
       </file>
@@ -142,6 +172,11 @@
       </file>
       <file name="/scanevent [pointshub@localhost]" timestamp="1523244287903">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/jh_crm/public/statics/app/controller/UserInfoController.js" timestamp="1523511347521">
+        <mark key="[" line="638" column="0" />
+        <mark key="]" line="638" column="0" />
+        <mark key="." line="638" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/modScanEvent.scala.html" timestamp="1523256809155">
         <mark key="'" line="855" column="24" />
@@ -317,31 +352,31 @@
         <text>DimensionCode_Info</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oIuajgOafpSIgKyBzY2FuRXZlbnRzKTsK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQXJyYXlzLmFzTGlzdChuZXcgaW50W117NDUsIDIxMCwgMjExLCAyMTIsIDE4MSwgMjIwLCAyMjF9KTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGQoNDUpOwoK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgdHJlZV9ncmlkLmdldFJvb3ROb2RlKCkucmVsb2FkKCk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oIuajgOafpSIgKyBzY2FuRXZlbnRzKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQXJyYXlzLmFzTGlzdChuZXcgaW50W117NDUsIDIxMCwgMjExLCAyMTIsIDE4MSwgMjIwLCAyMjF9KTsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGQoNDUpOwoK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGlmZlByb2R1Y3Qud3JpdGUocXJjb2RlICsgIlx0IGNvZGVfaW5mbzpbIiArIHBpZCArICJdICBjb25maWc6WyIgKyByaWdodFByb2R1Y3RJRCArICJdIiArICJcbiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
