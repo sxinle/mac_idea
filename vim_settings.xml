@@ -130,8 +130,8 @@
         <mark key="[" line="29" column="0" />
         <mark key="]" line="31" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1523256976598">
-        <mark key="'" line="58" column="45" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1523511980688">
+        <mark key="'" line="302" column="20" />
         <mark key="[" line="69" column="136" />
         <mark key="]" line="69" column="155" />
         <mark key="." line="69" column="155" />
@@ -234,8 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="517" column="83" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/modScanEvent.scala.html" />
-      <jump line="546" column="83" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/modScanEvent.scala.html" />
       <jump line="907" column="23" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/modScanEvent.scala.html" />
       <jump line="909" column="23" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/modScanEvent.scala.html" />
       <jump line="267" column="83" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/modScanEvent.scala.html" />
@@ -334,6 +332,8 @@
       <jump line="195" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
       <jump line="52" column="44" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/WeixinPrizeController.java" />
       <jump line="410" column="53" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/WeixinPrizeController.java" />
+      <jump line="62" column="66" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
+      <jump line="302" column="20" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -346,7 +346,7 @@
         <text>out</text>
       </register>
       <register name="/" type="4">
-        <text>code_info</text>
+        <text>role</text>
       </register>
       <register name="0" type="4">
         <text>DimensionCode_Info</text>
@@ -383,9 +383,9 @@
       </register>
     </registers>
     <search>
-      <last-search>code_info</last-search>
+      <last-search>role</last-search>
       <last-offset />
-      <last-pattern>code_info</last-pattern>
+      <last-pattern>role</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -393,8 +393,6 @@
     </search>
     <history>
       <history-search>
-        <entry>出库日期</entry>
-        <entry>至</entry>
         <entry>时间段投奖</entry>
         <entry>num + io</entry>
         <entry>num&quot; + id</entry>
@@ -413,6 +411,8 @@
         <entry>diffPro</entry>
         <entry encoding="base64">XDxyaWdodFByb2R1Y3RJRFw+</entry>
         <entry>code_info</entry>
+        <entry>jinhui</entry>
+        <entry>role</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzwvWy9n</entry>
