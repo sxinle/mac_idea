@@ -9,7 +9,11 @@
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/application.conf" timestamp="1523350315839">
         <mark key="'" line="69" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/netty/netty-transport/4.1.15.Final/netty-transport-4.1.15.Final-sources.jar!/io/netty/channel/nio/NioEventLoop.java" timestamp="1524037432672" />
       <file name="$MAVEN_REPOSITORY$/joda-time/joda-time/2.9.7/joda-time-2.9.7-sources.jar!/org/joda/time/format/FormatUtils.java" timestamp="1523963802444" />
+      <file name="$MAVEN_REPOSITORY$/io/netty/netty-common/4.1.15.Final/netty-common-4.1.15.Final.jar!/io/netty/util/concurrent/SingleThreadEventExecutor.class" timestamp="1524037586351">
+        <mark key="'" line="382" column="30" />
+      </file>
       <file name="/a.dummy" timestamp="1523525875363">
         <mark key="[" line="0" column="0" />
       </file>
@@ -60,6 +64,12 @@
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/WeixinPrizeController.java" timestamp="1523497193632">
         <mark key="'" line="410" column="53" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/resources/log4j2.xml" timestamp="1524037852991">
+        <mark key="[" line="23" column="21" />
+        <mark key="]" line="23" column="25" />
+        <mark key="." line="23" column="25" />
+        <mark key="^" line="23" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/domain/ScanPrizeDetail.java" timestamp="1523343927452">
         <mark key="'" line="2" column="13" />
@@ -238,7 +248,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="14" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/resources/config.properties" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/resources/config.properties" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/resources/config.properties" />
       <jump line="7" column="0" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/resources/config.properties" />
@@ -338,6 +347,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/http/RechargeUtil.java" />
       <jump line="263" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/http/RechargeUtil.java" />
       <jump line="8" column="20" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/resources/config.json" />
+      <jump line="382" column="30" filename="$MAVEN_REPOSITORY$/io/netty/netty-common/4.1.15.Final/netty-common-4.1.15.Final.jar!/io/netty/util/concurrent/SingleThreadEventExecutor.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -347,7 +357,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>H7f6VpZG</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbnRlcm5hbEZvcm1hdHRlcnNcPg==</text>
