@@ -96,12 +96,12 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/impl/ContactServiceImpl.java" timestamp="1524123059549">
-        <mark key="'" line="50" column="110" />
-        <mark key="[" line="37" column="38" />
-        <mark key="]" line="37" column="45" />
-        <mark key="." line="37" column="45" />
-        <mark key="^" line="37" column="45" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/impl/ContactServiceImpl.java" timestamp="1524124998033">
+        <mark key="'" line="51" column="110" />
+        <mark key="[" line="32" column="30" />
+        <mark key="]" line="32" column="30" />
+        <mark key="." line="32" column="30" />
+        <mark key="^" line="32" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" timestamp="1523965846242" />
       <file name="$USER_HOME$/workspace/jinhui/prod/prizecheck/pom.xml" timestamp="1523431253009">
@@ -165,6 +165,9 @@
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/user/UserController.java" timestamp="1523165622263">
         <mark key="'" line="199" column="28" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/common/micros-parent/pom.xml" timestamp="1524125047032">
+        <mark key="'" line="43" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/ContactAPIVerticle.java" timestamp="1524123426285">
         <mark key="'" line="93" column="4" />
@@ -231,6 +234,12 @@
         <mark key="]" line="866" column="47" />
         <mark key="^" line="538" column="39" />
         <mark key="." line="866" column="47" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/vertx-examples/rx-examples/pom.xml" timestamp="1524125017215">
+        <mark key="'" line="7" column="14" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="38" column="16" />
+        <mark key="." line="47" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/scanEvent.scala.html" timestamp="1523256782362">
         <mark key="'" line="607" column="24" />
@@ -299,11 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="4" filename="$USER_HOME$/Desktop/jh_crm/public/statics/app/controller/ProductController.js" />
-      <jump line="658" column="28" filename="$USER_HOME$/Desktop/jh_crm/public/statics/app/controller/UserInfoController.js" />
-      <jump line="657" column="35" filename="$USER_HOME$/Desktop/jh_crm/public/statics/app/controller/UserInfoController.js" />
-      <jump line="13" column="4" filename="$USER_HOME$/Desktop/jh_crm/public/statics/app/controller/UserInfoController.js" />
-      <jump line="43" column="37" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
       <jump line="153" column="4" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
       <jump line="39" column="71" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/domain/Check483.java" />
       <jump line="57" column="23" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/domain/Check483.java" />
@@ -399,6 +403,11 @@
       <jump line="50" column="110" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/impl/ContactServiceImpl.java" />
       <jump line="85" column="22" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/service/impl/SQLServiceImpl.java" />
       <jump line="92" column="12" filename="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/service/impl/SQLServiceImpl.java" />
+      <jump line="47" column="36" filename="$USER_HOME$/workspace/demo/vertx-examples/rx-examples/pom.xml" />
+      <jump line="36" column="24" filename="$USER_HOME$/workspace/demo/vertx-examples/rx-examples/pom.xml" />
+      <jump line="7" column="14" filename="$USER_HOME$/workspace/demo/vertx-examples/rx-examples/pom.xml" />
+      <jump line="37" column="19" filename="$USER_HOME$/workspace/micro-service/common/micros-parent/pom.xml" />
+      <jump line="43" column="30" filename="$USER_HOME$/workspace/micro-service/common/micros-parent/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -411,10 +420,10 @@
         <text>.getMessage()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1c2VybmFtZVw+</text>
+        <text>rx</text>
       </register>
-      <register name="0" type="4">
-        <text>Future.failedFuture(r.cause())</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICA8Z3JvdXBJZD5pby52ZXJ0eDwvZ3JvdXBJZD4KICAgICAgPGFydGlmYWN0SWQ+dmVydHgtcngtamF2YTwvYXJ0aWZhY3RJZD4KICAgICAgPHZlcnNpb24+JHtwcm9qZWN0LnZlcnNpb259PC92ZXJzaW9uPgogICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -448,9 +457,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1c2VybmFtZVw+</last-search>
+      <last-search>rx</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1c2VybmFtZVw+</last-pattern>
+      <last-pattern>rx</last-pattern>
       <last-replace />
       <last-substitute>\\t</last-substitute>
       <last-dir>1</last-dir>
@@ -458,7 +467,6 @@
     </search>
     <history>
       <history-search>
-        <entry>wrongPid</entry>
         <entry>diffPro</entry>
         <entry>\n</entry>
         <entry>221</entry>
@@ -478,6 +486,7 @@
         <entry>getConn</entry>
         <entry encoding="base64">XDx1c2VyTmFtZVw+</entry>
         <entry encoding="base64">XDx1c2VybmFtZVw+</entry>
+        <entry>rx</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Byb2R1Y3RMaXN0LmdldChqKS9pbnB1dC9n</entry>
