@@ -118,11 +118,12 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/impl/ContactServiceImpl.java" timestamp="1524152701353">
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/impl/ContactServiceImpl.java" timestamp="1524154950661">
         <mark key="'" line="2" column="51" />
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="31" column="70" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/acenode/micros/common/service/SQLService.java" timestamp="1524126627154">
         <mark key="[" line="27" column="0" />
@@ -205,11 +206,12 @@
       <file name="$USER_HOME$/workspace/micro-service/common/micros-parent/pom.xml" timestamp="1524125047032">
         <mark key="'" line="43" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/ContactAPIVerticle.java" timestamp="1524123426285">
-        <mark key="'" line="93" column="4" />
-        <mark key="[" line="36" column="22" />
-        <mark key="]" line="36" column="31" />
-        <mark key="." line="108" column="28" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/ContactAPIVerticle.java" timestamp="1524155311322">
+        <mark key="'" line="81" column="12" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="123" column="90" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1523511980688">
         <mark key="'" line="302" column="20" />
@@ -300,12 +302,12 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/KQueueArrayWrapper.class" timestamp="1524042801180">
         <mark key="'" line="134" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/acenode/micros/common/service/impl/SQLServiceImpl.java" timestamp="1524126636095">
-        <mark key="'" line="106" column="0" />
-        <mark key="[" line="85" column="61" />
-        <mark key="]" line="85" column="106" />
-        <mark key="." line="92" column="0" />
-        <mark key="^" line="91" column="59" />
+      <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/acenode/micros/common/service/impl/SQLServiceImpl.java" timestamp="1524155252019">
+        <mark key="'" line="103" column="0" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="88" column="59" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" timestamp="1523585925646">
         <mark key="'" line="247" column="12" />
@@ -354,8 +356,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="23" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
-      <jump line="253" column="65" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
       <jump line="242" column="26" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
       <jump line="15" column="21" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/resources/config.properties" />
       <jump line="38" column="24" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
@@ -454,6 +454,8 @@
       <jump line="126" column="6" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/generated/com/acenode/micros/common/reactivex/service/SQLService.java" />
       <jump line="21" column="40" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/impl/ContactServiceImpl.java" />
       <jump line="2" column="51" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/impl/ContactServiceImpl.java" />
+      <jump line="123" column="37" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/ContactAPIVerticle.java" />
+      <jump line="81" column="12" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/ContactAPIVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -463,7 +465,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>.flatMap()</text>
+        <text>new ContactService(new ContactServiceImpl(vertx, config));</text>
       </register>
       <register name="/" type="4">
         <text>abstract</text>
@@ -472,31 +474,31 @@
         <text>new JsonObject().put(TokenService.token, token</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG9iajsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hY2Vub2RlLm1pY3Jvcy5jb250YWN0LnNlcnZpY2UuVG9rZW5TZXJ2aWNlOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb2JqCg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJpID0gY29uZmlnLmdldFN0cmluZygiZGIuaG9zdCIpOwogICAgICAgIFN0cmluZyBkYiA9IGNvbmZpZy5nZXRTdHJpbmcoImRiLm5hbWUiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzOwo=</text>
+        <text encoding="base64">aW1wb3J0IGNvbS5hY2Vub2RlLm1pY3Jvcy5jb250YWN0LnNlcnZpY2UuQ29udGFjdFNlcnZpY2U7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTUUxTZXJ2aWNlLm5ld0luc3RhbmNlKG51bGwpLnJ4RmluZE9uZSgpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByeEZpbmQoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ob2spOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LnN1YnNjcmliZShKc29uT2JqZWN0LT57CgogICAgICAgIH0pOw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAganNvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
