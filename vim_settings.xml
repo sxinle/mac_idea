@@ -96,6 +96,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/impl/TokenServiceImpl.java" timestamp="1524152374427">
+        <mark key="[" line="22" column="68" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/resources/log4j2.xml" timestamp="1524037852991">
         <mark key="[" line="23" column="21" />
         <mark key="]" line="23" column="25" />
@@ -115,11 +118,11 @@
         <mark key="]" line="96" column="0" />
         <mark key="." line="96" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/impl/ContactServiceImpl.java" timestamp="1524151957097">
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/impl/ContactServiceImpl.java" timestamp="1524152701353">
         <mark key="'" line="2" column="51" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/acenode/micros/common/service/SQLService.java" timestamp="1524126627154">
         <mark key="[" line="27" column="0" />
@@ -154,12 +157,17 @@
         <mark key="^" line="18" column="14" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/ContactService.java" timestamp="1524119124498">
-        <mark key="'" line="13" column="32" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="16" column="82" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/TokenService.java" timestamp="1524152595889">
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="15" column="30" />
+        <mark key="." line="15" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/service/ContactService.java" timestamp="1524152537861">
+        <mark key="'" line="12" column="32" />
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="9" column="31" />
+        <mark key="^" line="15" column="82" />
+        <mark key="." line="9" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/resources/config.properties" timestamp="1523587297111">
         <mark key="[" line="5" column="0" />
@@ -455,49 +463,49 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>vertx, config, Const.DBType.PGSQL</text>
+        <text>.flatMap()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTUUxTZXJ2aWNlXD4=</text>
+        <text>abstract</text>
       </register>
       <register name="0" type="4">
-        <text>VertxGen</text>
+        <text>new JsonObject().put(TokenService.token, token</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAganNvbgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG9iajsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByeEZpbmRPbmUoc3FsLCBzcWxQYXJhbSkudG9GbG93YWJsZSgpLnN1YnNjcmliZShhci0+ewogICAgICAgIH0pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXIuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgb2JqCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5hY2Vub2RlLm1pY3Jvcy5jb21tb24ucnhqYXZhLnNlcnZpY2UuU1FMU2VydmljZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHJ4LmludGVybmFsLnV0aWwuRXhjZXB0aW9uc1V0aWxzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBTUUxTZXJ2aWNlLm5ld0luc3RhbmNlKG51bGwpLnJ4RmluZE9uZSgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgVHJlZU1hcDxTdHJpbmcsIExpc3Q8SnNvbk9iamVjdD4+IG1hcCA9IG5ldyBUcmVlTWFwPD4oKTsKICAgICAgICAgICAgbGlzdC5mb3JFYWNoKHJvdyAtPiB7CiAgICAgICAgICAgICAgICBTdHJpbmcgbmFtZSA9IHJvdy5nZXRTdHJpbmcoY3VzdG9tZXIgPyAiY3VzdG5hbWUiIDogInJlYWxuYW1lIik7CiAgICAgICAgICAgICAgICBpZiAoIVN0cmluZ1V0aWwuaXNOdWxsT3JFbXB0eUFmdGVyVHJpbShuYW1lKSkgewogICAgICAgICAgICAgICAgICAgIFN0cmluZyBsZXR0ZXIgPSAiIjsvLyDlrZfmr43ntKLlvJUKICAgICAgICAgICAgICAgICAgICBTdHJpbmcgc3RyW10gPSBQaW55aW5IZWxwZXIudG9IYW55dVBpbnlpblN0cmluZ0FycmF5KG5hbWUuY2hhckF0KDApKTsKCiAgICAgICAgICAgICAgICAgICAgaWYgKG51bGwgPT0gc3RyKSB7Ly8g5pWw5a2X5byA5aS055qE5ZCN5a2X55u05o6l5pS+5YiwQemHjAogICAgICAgICAgICAgICAgICAgICAgICAvL2xldHRlciA9IG5hbWUuc3Vic3RyaW5nKDAsIDEpLnRvVXBwZXJDYXNlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGxldHRlciA9ICJBIjsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBsZXR0ZXIgPSAoc3RyWzBdLmNoYXJBdCgwKSArICIiKS50b1VwcGVyQ2FzZSgpOwogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgcm93LnB1dCgibGV0dGVyIiwgbGV0dGVyKTsKCiAgICAgICAgICAgICAgICAgICAgaWYgKG1hcC5nZXQobGV0dGVyKSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIG1hcC5nZXQobGV0dGVyKS5hZGQocm93KTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBtYXAucHV0KGxldHRlciwgbmV3IEFycmF5TGlzdDxKc29uT2JqZWN0PigpIHt7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBhZGQocm93KTsKICAgICAgICAgICAgICAgICAgICAgICAgfX0pOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk7CgogICAgICAgICAgICBMaXN0PEpzb25PYmplY3Q+IHNlY3Rpb25zID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgICAgIG1hcC52YWx1ZXMoKS5mb3JFYWNoKHZhbHMgLT4gc2VjdGlvbnMuYWRkKG5ldyBKc29uT2JqZWN0KCkucHV0KCJ2YWxzIiwgdmFscykucHV0KCJpbmRleCIsIHZhbHMuZ2V0KDApLmdldFN0cmluZygibGV0dGVyIikpKSk7CiAgICAgICAgICAgIHJldC5jb21wbGV0ZShuZXcgSnNvbk9iamVjdCgpLnB1dCgic2VjdGlvbnMiLCBzZWN0aW9ucykucHV0KCJjbnQiLCBsaXN0LnNpemUoKSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICByeEZpbmQoKQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text encoding="base64">LnN1YnNjcmliZShKc29uT2JqZWN0LT57CgogICAgICAgIH0pOw==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByeEZpbmRMaXN0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAganNvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTUUxTZXJ2aWNlXD4=</last-search>
+      <last-search>abstract</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTUUxTZXJ2aWNlXD4=</last-pattern>
+      <last-pattern>abstract</last-pattern>
       <last-replace />
       <last-substitute>\\t</last-substitute>
       <last-dir>1</last-dir>
@@ -505,8 +513,6 @@
     </search>
     <history>
       <history-search>
-        <entry>212</entry>
-        <entry>\\n</entry>
         <entry>\\t</entry>
         <entry>right</entry>
         <entry>找不到</entry>
@@ -525,6 +531,8 @@
         <entry encoding="base64">XDxmaW5kT25lXD4=</entry>
         <entry>findList</entry>
         <entry encoding="base64">XDxTUUxTZXJ2aWNlXD4=</entry>
+        <entry>abs</entry>
+        <entry>abstract</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3Byb2R1Y3RMaXN0LmdldChqKS9pbnB1dC9n</entry>
