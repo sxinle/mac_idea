@@ -70,12 +70,12 @@
         <mark key="^" line="11" column="48" />
         <mark key="." line="11" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/acenode/micros/common/BaseVerticle.java" timestamp="1524649988533">
+      <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/acenode/micros/common/BaseVerticle.java" timestamp="1524653130727">
         <mark key="'" line="188" column="38" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-        <mark key="^" line="59" column="20" />
+        <mark key="[" line="45" column="64" />
+        <mark key="]" line="45" column="64" />
+        <mark key="." line="45" column="64" />
+        <mark key="^" line="58" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/micros-template/src/main/java/com/acenode/micros/template/service/TempSQLService.java" timestamp="1524565266909">
         <mark key="[" line="17" column="32" />
@@ -353,7 +353,7 @@
         <mark key="^" line="216" column="43" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/github/mauricio/postgresql-async_2.12/0.2.21/postgresql-async_2.12-0.2.21-sources.jar!/com/github/mauricio/async/db/postgresql/PostgreSQLConnection.scala" timestamp="1524645578341" />
-      <file name="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/acenode/micros/auth/UserAuthAPIVerticle.java" timestamp="1524651932814">
+      <file name="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/acenode/micros/auth/UserAuthAPIVerticle.java" timestamp="1524653728474">
         <mark key="'" line="34" column="19" />
         <mark key="[" line="170" column="0" />
         <mark key="]" line="170" column="0" />
@@ -374,11 +374,11 @@
         <mark key="." line="12" column="32" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.1/vertx-core-3.5.1-sources.jar!/io/vertx/core/impl/VertxThread.java" timestamp="1524649376342" />
-      <file name="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/acenode/micros/auth/service/adapter/impl/SmngServiceImpl.java" timestamp="1524645588113">
-        <mark key="[" line="37" column="47" />
-        <mark key="]" line="37" column="46" />
-        <mark key="." line="37" column="46" />
-        <mark key="^" line="37" column="46" />
+      <file name="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/acenode/micros/auth/service/adapter/impl/SmngServiceImpl.java" timestamp="1524654475944">
+        <mark key="[" line="38" column="95" />
+        <mark key="]" line="38" column="102" />
+        <mark key="." line="38" column="102" />
+        <mark key="^" line="38" column="102" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-contact/src/main/java/com/acenode/micros/contact/ContactVerticle.java" timestamp="1524545935310">
         <mark key="'" line="38" column="33" />
@@ -429,7 +429,7 @@
         <mark key="." line="0" column="47" />
         <mark key="^" line="1" column="82" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524648351875">
+      <file name="/Dummy.txt" timestamp="1524654169374">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -441,6 +441,11 @@
         <mark key="]" line="50" column="44" />
         <mark key="." line="50" column="44" />
         <mark key="^" line="50" column="44" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/resources/api.md" timestamp="1524654136211">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="6" column="34" />
+        <mark key="." line="3" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check45.java" timestamp="1523529682507">
         <mark key="'" line="15" column="71" />
@@ -530,7 +535,7 @@
         <mark key="." line="3" column="5" />
         <mark key="^" line="3" column="5" />
       </file>
-      <file name="/fragment.java" timestamp="1524645631941">
+      <file name="/fragment.java" timestamp="1524654408856">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="11" />
         <mark key="^" line="0" column="11" />
@@ -653,40 +658,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>.failureHandler();</text>
+        <text>token</text>
       </register>
       <register name="/" type="4">
         <text>exception</text>
       </register>
-      <register name="0" type="4">
-        <text>site/jinhui/event/prize</text>
+      <register name="0" type="2">
+        <text encoding="base64">Y3VybCAtaSAtWCBQT1NUIFwKICAgLWQgXAoneyJ1c2VybmFtZSI6ImR1anVuIiwicGFzcyI6IjEifScgXAogJ2h0dHA6Ly9sb2NhbGhvc3Q6ODA4MS9zbW5nL2xvZ2luJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJ0eC5leGNlcHRpb25IYW5kbGVyKGFyLT57CiAgICAgICAgICAgIGFyLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmVydHgK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGN4dC5nCg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJ0eC5leGNlcHRpb25IYW5kbGVyKGFyLT57CiAgICAgICAgICAgIGFyLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICgoRXZlbnRMb29wQ29udGV4dCkgY3h0KS5leGVjdXRlQXN5bmMoYXIgLT4gewogICAgICAgICAgICAgICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGN4dC5nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuY3VycmVudFRocmVhZCgpLnN0b3AoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICgoRXZlbnRMb29wQ29udGV4dCkgY3h0KS5leGVjdXRlQXN5bmMoYXIgLT4gewogICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBUaHJlYWQuY3VycmVudFRocmVhZCgpLnN0b3AoKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgKChFdmVudExvb3BDb250ZXh0KSBjeHQpLmV4ZWN1dGVBc3luYyhhciAtPiAoKFZlcnR4VGhyZWFkKSBUaHJlYWQuY3VycmVudFRocmVhZCgpKS5leGVjdXRlRW5kKCkpOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgKChFdmVudExvb3BDb250ZXh0KSBjeHQpLmV4ZWN1dGVBc3luYyhhciAtPiAoKFZlcnR4VGhyZWFkKSBUaHJlYWQuY3VycmVudFRocmVhZCgpKS5leGVjdXRlRW5kKCkpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldFZlcnR4KCkuZwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGEK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGdldFZlcnR4KCkuZwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
