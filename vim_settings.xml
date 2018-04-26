@@ -165,12 +165,12 @@
         <mark key="^" line="12" column="32" />
         <mark key="." line="12" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/filters/UserAgent.java" timestamp="1524710120706">
-        <mark key="'" line="62" column="23" />
-        <mark key="[" line="41" column="63" />
-        <mark key="]" line="42" column="29" />
-        <mark key="." line="42" column="29" />
-        <mark key="^" line="42" column="29" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/filters/UserAgent.java" timestamp="1524711210994">
+        <mark key="'" line="47" column="23" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="^" line="35" column="93" />
+        <mark key="." line="45" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobGetPrize.scala.html" timestamp="1524647629298">
         <mark key="'" line="60" column="21" />
@@ -187,7 +187,7 @@
         <mark key="." line="23" column="25" />
         <mark key="^" line="23" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/acenode/micros/auth/service/adapter/impl/SmngServiceImpl.java" timestamp="1524656841269">
+      <file name="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/acenode/micros/auth/service/adapter/impl/SmngServiceImpl.java" timestamp="1524713182493">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
@@ -404,25 +404,25 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>cat</text>
+        <text>.getHeader()</text>
       </register>
       <register name="/" type="4">
         <text>site</text>
       </register>
       <register name="0" type="4">
-        <text>AppleWebKit</text>
+        <text>Http.HeaderNames.USER_AGENT</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLmVycm9yKGN0eC5yZXF1ZXN0KCkuaGVhZGVycygpKTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAobnVsbCA9PSBjYXRlZ29yeSkgewogICAgICAgICAgICBTdHJpbmcgdXBwZXJBZ2VudCA9IHVzZXJBZ2VudC50b1VwcGVyQ2FzZSgpOwogICAgICAgICAgICBpZih1cHBlckFnZW50LmNvbnRhaW5zKCJBTkRST0lEIikgfHwgdXBwZXJBZ2VudC5jb250YWlucygiTVFRQlJPV1NFUiIpIHx8IHVwcGVyQWdlbnQuY29udGFpbnMoIkFQUExFV0VCS0lUIikpIHsKICAgICAgICAgICAgICAgIGNhdGVnb3J5ID0gUmVhZGFibGVEZXZpY2VDYXRlZ29yeS5DYXRlZ29yeS5TTUFSVFBIT05FOwoKICAgICAgICAgICAgICAgIExvZ2dlci5lcnJvcigiY2F0ZWdvcnkgIiArIGNhdGVnb3J5KTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGRlbGVnYXRlLmNhbGwoY3R4KTsK</text>
@@ -431,10 +431,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobnVsbCA9PSBjYXRlZ29yeSAmJgogICAgICAgICAgICAgICAgKHVzZXJBZ2VudC5jb250YWlucygiQW5kcm9pZCIpIHx8CiAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJBZ2VudC5jb250YWlucygiTVFRQnJvd3NlciIpIHx8CiAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJBZ2VudC5jb250YWlucygiQXBwbGVXZWJLaXQiKSkpIHsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLmVycm9yKCLmsqHmnIlVc2VyQWdlbnTlpLQiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
