@@ -278,6 +278,11 @@
         <mark key="." line="0" column="92" />
         <mark key="^" line="0" column="92" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" timestamp="1524735497071">
+        <mark key="'" line="118" column="28" />
+        <mark key="[" line="126" column="31" />
+        <mark key="]" line="131" column="61" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/acenode/micros/common/bean/EBMessage.java" timestamp="1524542144110">
         <mark key="[" line="4" column="22" />
         <mark key="]" line="14" column="35" />
@@ -316,12 +321,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="38" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/acenode/micros/common/BaseVerticle.java" />
-      <jump line="65" column="13" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-rx-java2/3.5.1/vertx-rx-java2-3.5.1-sources.jar!/io/vertx/reactivex/core/http/HttpClient.java" />
-      <jump line="142" column="35" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/acenode/micros/common/BaseVerticle.java" />
-      <jump line="4" column="20" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/acenode/micros/common/BaseVerticle.java" />
-      <jump line="18" column="21" filename="$USER_HOME$/workspace/micro-service/common/micros-forms/src/main/java/com/acenode/micros/forms/FormVerticle.java" />
-      <jump line="96" column="41" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" />
       <jump line="167" column="65" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-service-discovery/3.5.1/vertx-service-discovery-3.5.1-sources.jar!/io/vertx/reactivex/servicediscovery/ServiceDiscovery.java" />
       <jump line="166" column="26" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-service-discovery/3.5.1/vertx-service-discovery-3.5.1-sources.jar!/io/vertx/reactivex/servicediscovery/ServiceDiscovery.java" />
       <jump line="118" column="71" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" />
@@ -416,6 +415,12 @@
       <jump line="52" column="39" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/MiscServiceImpl.java" />
       <jump line="34" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/MiscServiceImpl.java" />
       <jump line="88" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/MiscServiceImpl.java" />
+      <jump line="96" column="24" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
+      <jump line="135" column="20" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
+      <jump line="142" column="12" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
+      <jump line="97" column="12" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
+      <jump line="109" column="0" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
+      <jump line="118" column="28" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -428,10 +433,15 @@
         <text>succ</text>
       </register>
       <register name="/" type="4">
-        <text>site</text>
+        <text>diffPro</text>
       </register>
       <register name="0" type="4">
-        <text>Http.HeaderNames.USER_AGENT</text>
+        <text>&quot;select sd.*, invd.* from storage_detail sd, security_code sc, inventory_detail invd&quot; +
+                        &quot; where sd.interflowcode=sc.serialcode&quot; +
+                        &quot; and sc.\&quot;level\&quot;=3 &quot; +
+                        &quot; and sc.teamcode=(select teamcode from security_code where orcode='&quot; + qrcode + &quot;')&quot; +
+                        &quot; and sd.interflowcode=invd.inventorycode&quot; +
+                        &quot; and sd.productId=&quot; + checkProductId;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAuU3Vic2NyaWJlcgo=</text>
@@ -465,18 +475,16 @@
       </register>
     </registers>
     <search>
-      <last-search>site</last-search>
+      <last-search>diffPro</last-search>
       <last-offset />
-      <last-pattern>site</last-pattern>
+      <last-pattern>diffPro</last-pattern>
       <last-replace>8089</last-replace>
       <last-substitute>8081</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZXBsb3lWZXJ0aWNsZVw+</entry>
-        <entry>Body</entry>
         <entry>Buffer</entry>
         <entry>byte[]</entry>
         <entry>config</entry>
@@ -495,6 +503,8 @@
         <entry>exception</entry>
         <entry>8081</entry>
         <entry>site</entry>
+        <entry>noCKMsg</entry>
+        <entry>diffPro</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzwvc3Ryb25nPi8vZw==</entry>
