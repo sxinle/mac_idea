@@ -87,6 +87,7 @@
         <mark key="[" line="313" column="42" />
         <mark key="]" line="313" column="64" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/acenode/micros/micros_parent/1.0.0-SNAPSHOT/micros_parent-1.0.0-SNAPSHOT.pom" timestamp="1524816753690" />
       <file name="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/acenode/micros/auth/service/AuthService.java" timestamp="1524656523688">
         <mark key="[" line="22" column="45" />
         <mark key="]" line="22" column="45" />
@@ -260,6 +261,13 @@
         <mark key="[" line="25" column="0" />
         <mark key="]" line="27" column="73" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/common/micros-template/pom.xml" timestamp="1524816830993">
+        <mark key="[" line="15" column="51" />
+        <mark key="]" line="15" column="62" />
+        <mark key="." line="15" column="62" />
+        <mark key="^" line="15" column="62" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/common/micros-template/src/main/java/com/acenode/micros/template/TempVerticle.java" timestamp="1524816795867" />
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" timestamp="1524647311021">
         <mark key="'" line="51" column="11" />
       </file>
@@ -437,7 +445,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>succ</text>
+        <text>SomeVerticle</text>
       </register>
       <register name="/" type="4">
         <text>diffPro</text>
