@@ -49,7 +49,7 @@
         <mark key="^" line="5" column="3" />
         <mark key="." line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/common/micros-template/src/main/resources/config.json" timestamp="1524818052434">
+      <file name="$USER_HOME$/workspace/micro-service/common/micros-template/src/main/resources/config.json" timestamp="1524823792343">
         <mark key="[" line="7" column="3" />
         <mark key="]" line="7" column="3" />
         <mark key="." line="7" column="3" />
@@ -66,12 +66,12 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/acenode/micros/common/BaseVerticle.java" timestamp="1524817035993">
-        <mark key="'" line="188" column="38" />
-        <mark key="[" line="45" column="64" />
-        <mark key="]" line="45" column="64" />
-        <mark key="." line="45" column="64" />
-        <mark key="^" line="58" column="16" />
+      <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/acenode/micros/common/BaseVerticle.java" timestamp="1524825000669">
+        <mark key="'" line="194" column="38" />
+        <mark key="[" line="43" column="88" />
+        <mark key="]" line="43" column="88" />
+        <mark key="." line="43" column="88" />
+        <mark key="^" line="43" column="88" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/micros-template/src/main/java/com/acenode/micros/template/service/TempSQLService.java" timestamp="1524819067256">
         <mark key="[" line="11" column="40" />
@@ -193,8 +193,8 @@
         <mark key="^" line="29" column="7" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.1/vertx-core-3.5.1-sources.jar!/io/vertx/core/Future.java" timestamp="1524817629627" />
-      <file name="$USER_HOME$/workspace/micro-service/common/micros-template/src/main/java/com/acenode/micros/template/TempAPIVerticle.java" timestamp="1524823125802">
-        <mark key="'" line="34" column="54" />
+      <file name="$USER_HOME$/workspace/micro-service/common/micros-template/src/main/java/com/acenode/micros/template/TempAPIVerticle.java" timestamp="1524824218231">
+        <mark key="'" line="35" column="55" />
         <mark key="[" line="25" column="15" />
         <mark key="]" line="25" column="17" />
         <mark key="." line="25" column="17" />
@@ -286,7 +286,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="118" column="71" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" />
       <jump line="93" column="59" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" />
       <jump line="112" column="16" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" />
       <jump line="148" column="56" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" />
@@ -386,6 +385,7 @@
       <jump line="118" column="28" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
       <jump line="207" column="29" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/Constants.java" />
       <jump line="34" column="54" filename="$USER_HOME$/workspace/micro-service/common/micros-template/src/main/java/com/acenode/micros/template/TempAPIVerticle.java" />
+      <jump line="35" column="55" filename="$USER_HOME$/workspace/micro-service/common/micros-template/src/main/java/com/acenode/micros/template/TempAPIVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -395,40 +395,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>jxxxxx</text>
+        <text>Vertx</text>
       </register>
       <register name="/" type="4">
         <text>diffPro</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">YWx0ZXIgdGFibGUgIm9yZGVycyIuImxvZ2lzdGljc19pbmZvIiBhbHRlciAgc3RvcmVpZCAgdHlwZSB2YXJjaGFyKDIwKSBDT0xMQVRFICJkZWZhdWx0IiA7Ci0tIOmTtuihjOWbnuiwg+WinuWKoHVwZGF0ZV9hdOWtl+aute+8jOagh+iusOaXtumXtAphbHRlciB0YWJsZSBhY2NvdW50X2xvZyBhZGQgY29sdW1uICJ1cGRhdGVfYXQiIHRpbWVzdGFtcCg2KSBkZWZhdWx0IG5vdygpOwo=</text>
+      <register name="0" type="4">
+        <text>/etc/hazelcast-config/hazelcast-cluster.xml</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIHtjb2RlOjAgLCBtc2c6eHh4eCAsIGRhdGE6ewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0gfQo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5kCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIHtjb2RlOjAgLCBtc2c6eHh4eCAsIGRhdGE6ewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0gfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y3VybCAtaSAtWCBQT1NUIFwKICAgLUggInRva2VuOlRlTDBBQ0tUSDZmMTFUQjBXd2RTSU9zZ05ETnBadWswYll5MktkZGhqblk9IiBcCiAgIC1IICJDb250ZW50LVR5cGU6YXBwbGljYXRpb24vanNvbiIgXAogICAtZCBcCicnIFwKICdodHRwOi8vbG9jYWxob3N0OjgwODkvc21uZy91c2VyL2N1cnJlbnQnCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mbGF0TWFwKGt4bGp4bCkKICAgICAgICAgICAgICAgIC5mbGF0TWFwKCkK</text>
+        <text encoding="base64">Y3VybCAtaSAtWCBQT1NUIFwKICAgLUggInRva2VuOlRlTDBBQ0tUSDZmMTFUQjBXd2RTSU9zZ05ETnBadWswYll5MktkZGhqblk9IiBcCiAgIC1IICJDb250ZW50LVR5cGU6YXBwbGljYXRpb24vanNvbiIgXAogICAtZCBcCicnIFwKICdodHRwOi8vbG9jYWxob3N0OjgwODkvc21uZy91c2VyL2N1cnJlbnQnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAiZGIuc3FsIjogewogICAgInBvcnQiOiA1NDMyLAogICAgIm1heFBvb2xTaXplIjogMzAsCiAgICAidXNlcm5hbWUiOiAicG9zdGdyZXMiLAogICAgInBhc3N3b3JkIjogIiIsCiAgICAiZGF0YWJhc2UiOiAibWljcm9zX3RlbXBsYXRlIiwKICAgICJjaGFyc2V0IjogIlVURi04IiwKICAgICJxdWVyeVRpbWVvdXQiOiAxMDAwMAogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mbGF0TWFwKGt4bGp4bCkKICAgICAgICAgICAgICAgIC5mbGF0TWFwKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAuU3Vic2NyaWJlcgo=</text>
+        <text encoding="base64">ICAiZGIuc3FsIjogewogICAgInBvcnQiOiA1NDMyLAogICAgIm1heFBvb2xTaXplIjogMzAsCiAgICAidXNlcm5hbWUiOiAicG9zdGdyZXMiLAogICAgInBhc3N3b3JkIjogIiIsCiAgICAiZGF0YWJhc2UiOiAibWljcm9zX3RlbXBsYXRlIiwKICAgICJjaGFyc2V0IjogIlVURi04IiwKICAgICJxdWVyeVRpbWVvdXQiOiAxMDAwMAogIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAuU3Vic2NyaWJlcgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
