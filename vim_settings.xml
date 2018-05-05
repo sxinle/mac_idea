@@ -6,12 +6,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" timestamp="1525431686954">
-        <mark key="'" line="198" column="0" />
-        <mark key="[" line="52" column="22" />
-        <mark key="]" line="52" column="37" />
-        <mark key="^" line="201" column="62" />
-        <mark key="." line="201" column="62" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" timestamp="1525499332569">
+        <mark key="'" line="215" column="28" />
+        <mark key="[" line="220" column="0" />
+        <mark key="]" line="220" column="0" />
+        <mark key="." line="220" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/mycenter/MyCenterController.java" timestamp="1524965652821">
         <mark key="[" line="22" column="18" />
@@ -242,11 +241,12 @@
         <mark key="." line="29" column="7" />
         <mark key="^" line="29" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/MiscServiceImpl.java" timestamp="1525431706473">
-        <mark key="'" line="75" column="13" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/MiscServiceImpl.java" timestamp="1525499322339">
+        <mark key="'" line="148" column="48" />
+        <mark key="[" line="147" column="43" />
+        <mark key="]" line="147" column="53" />
+        <mark key="." line="147" column="53" />
+        <mark key="^" line="147" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/micros-mqttpush/src/main/resources/config.json" timestamp="1524570332641">
         <mark key="[" line="3" column="3" />
@@ -383,9 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="38" filename="$MAVEN_REPOSITORY$/com/acenode/micros/common/1.0.0-SNAPSHOT/common-1.0.0-20180424.113325-43.jar!/com/acenode/micros/common/BaseVerticle.class" />
-      <jump line="146" column="4" filename="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/acenode/micros/auth/UserAuthAPIVerticle.java" />
-      <jump line="38" column="63" filename="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/acenode/micros/auth/service/impl/UserServiceImpl.java" />
       <jump line="90" column="7" filename="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/acenode/micros/auth/UserAuthAPIVerticle.java" />
       <jump line="201" column="56" filename="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/acenode/micros/auth/UserAuthAPIVerticle.java" />
       <jump line="56" column="27" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
@@ -483,6 +480,9 @@
       <jump line="164" column="16" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/resources/api.md" />
       <jump line="18" column="46" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/resources/api.md" />
       <jump line="86" column="0" filename="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/acenode/micros/auth/service/impl/AuthServiceImpl.java" />
+      <jump line="174" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" />
+      <jump line="148" column="48" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/MiscServiceImpl.java" />
+      <jump line="215" column="28" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -492,7 +492,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>handler</text>
+        <text encoding="base64">ICsgZGVwdGlkOw==</text>
       </register>
       <register name="/" type="4">
         <text>上传</text>
@@ -501,31 +501,31 @@
         <text encoding="base64">ICAgICAgICBpZiAocmV0LmdldFN0cmluZygiYXBwaWQiKSA9PSBudWxsKSB7CiAgICAgICAgICAgIGhhbmRsZXIuaGFuZGxlKEZ1dHVyZS5mYWlsZWRGdXR1cmUoImFwcGlk5LiN6IO95Li656m6IikpOwogICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0LmdldAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXQucHV0KCJhcHBpZCIsIHBhcmFtLmdldFN0cmluZygiYXBwaWQiKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBKc29uT2JqZWN0IHJldCA9IG5ldyBKc29uT2JqZWN0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXQucHV0KCJhcHBpZCIsIHBhcmFtLmdldFN0cmluZygiYXBwaWQiKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBKc29uT2JqZWN0IHJldCA9IG5ldyBKc29uT2JqZWN0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICAgICAgc3FsU2VydmljZS5maW5kT25lKHNxbCwgc3FsUGFyYW0pCiAgICAgICAgICAgICAgICAuZmxhdE1hcCh1c2VyIC0+IGZpbmRUb2tlbih1c2VyLCByZXQpKQogICAgICAgICAgICAgICAgLmZsYXRNYXAodG9rZW5zIC0+IHNhdmVPclVwZGF0ZVRva2VuKHRva2VucywgcmV0KSkKICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUob2sgLT4gc3VjY2VzcyhoYW5kbGVyLCByZXQpLAogICAgICAgICAgICAgICAgICAgICAgICB0aHJvd2FibGUgLT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmVycm9yKHRocm93YWJsZSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAoKFRocm93YWJsZSkgdGhyb3dhYmxlKS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhhbmRsZXIuaGFuZGxlKEZ1dHVyZS5mYWlsZWRGdXR1cmUoImZhaWwiKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcih0aHJvd2FibGUpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgKChUaHJvd2FibGUpIHRocm93YWJsZSkucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBoYW5kbGVyLmhhbmRsZShGdXR1cmUuZmFpbGVkRnV0dXJlKCJmYWlsIikpOwo=</text>
+        <text encoding="base64">CiAgICAgICAgc3FsU2VydmljZS5maW5kT25lKHNxbCwgc3FsUGFyYW0pCiAgICAgICAgICAgICAgICAuZmxhdE1hcCh1c2VyIC0+IGZpbmRUb2tlbih1c2VyLCByZXQpKQogICAgICAgICAgICAgICAgLmZsYXRNYXAodG9rZW5zIC0+IHNhdmVPclVwZGF0ZVRva2VuKHRva2VucywgcmV0KSkKICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUob2sgLT4gc3VjY2VzcyhoYW5kbGVyLCByZXQpLAogICAgICAgICAgICAgICAgICAgICAgICB0aHJvd2FibGUgLT4gewogICAgICAgICAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmVycm9yKHRocm93YWJsZSk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAoKFRocm93YWJsZSkgdGhyb3dhYmxlKS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGhhbmRsZXIuaGFuZGxlKEZ1dHVyZS5mYWlsZWRGdXR1cmUoImZhaWwiKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcih0aHJvd2FibGUpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgKChUaHJvd2FibGUpIHRocm93YWJsZSkucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBoYW5kbGVyLmhhbmRsZShGdXR1cmUuZmFpbGVkRnV0dXJlKCJmYWlsIikpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
