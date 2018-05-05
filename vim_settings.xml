@@ -6,11 +6,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" timestamp="1525506972545">
-        <mark key="'" line="229" column="0" />
-        <mark key="[" line="68" column="136" />
-        <mark key="]" line="68" column="136" />
-        <mark key="." line="68" column="136" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" timestamp="1525508490192">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
         <mark key="^" line="68" column="8" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/mycenter/MyCenterController.java" timestamp="1524965652821">
@@ -286,7 +286,7 @@
         <mark key="^" line="36" column="31" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525505642465">
+      <file name="/Dummy.txt" timestamp="1525508475120">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -405,7 +405,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="12" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/acenode/micros/common/BaseVerticle.java" />
       <jump line="34" column="19" filename="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/acenode/micros/auth/UserAuthAPIVerticle.java" />
       <jump line="102" column="20" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/acenode/micros/common/BaseVerticle.java" />
       <jump line="189" column="21" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/acenode/micros/common/BaseVerticle.java" />
@@ -505,6 +504,7 @@
       <jump line="130" column="0" filename="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/resources/api.md" />
       <jump line="65" column="50" filename="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/acenode/micros/auth/UserAuthAPIVerticle.java" />
       <jump line="46" column="57" filename="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/acenode/micros/auth/UserAuthAPIVerticle.java" />
+      <jump line="41" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -523,31 +523,31 @@
         <text encoding="base64">YGBgCmN1cmwgLWkgLVggUE9TVCBcCiAgIC1kIFwKJ3sidXNlcm5hbWUiOiJkdWp1biIsInBhc3MiOiIxIiwiYXBwaWQiOiJjYzJmOWE2Yzg1MjM4YjJiIn0nIFwKICdodHRwOi8vbG9jYWxob3N0OjgwODkvc21uZy9sb2dpbicKYGBgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMjIyMg5p+l6K+i5b2T5YmN55So5oi3CmBgYApjdXJsIC1pIC1YIFBPU1QgXAogICAtZCBcCid7InVzZXJuYW1lIjoiZHVqdW4iLCJwYXNzIjoiMSIsImFwcGlkIjoiY2MyZjlhNmM4NTIzOGIyYiJ9JyBcCiAnaHR0cDovL2xvY2FsaG9zdDo4MDg5L3NtbmcvbG9naW4nCmBgYAo=</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">IyMjIyMg5p+l6K+i5b2T5YmN55So5oi3CmBgYApjdXJsIC1pIC1YIFBPU1QgXAogICAtZCBcCid7InVzZXJuYW1lIjoiZHVqdW4iLCJwYXNzIjoiMSIsImFwcGlkIjoiY2MyZjlhNmM4NTIzOGIyYiJ9JyBcCiAnaHR0cDovL2xvY2FsaG9zdDo4MDg5L3NtbmcvbG9naW4nCmBgYAo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEpzb25PYmplY3QgcGFyYW0gPSBuZXcgSnNvbk9iamVjdCgpLnB1dCgidG9rZW4iLCBjb250ZXh0LnJlcXVlc3QoKS5nZXRIZWFkZXIoInRva2VuIikpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEpzb25PYmplY3QgcGFyYW0gPSBuZXcgSnNvbk9iamVjdCgpLnB1dCgidG9rZW4iLCBjb250ZXh0LnJlcXVlc3QoKS5nZXRIZWFkZXIoInRva2VuIikpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAobnVsbCA9PSB0b2tlbiB8fCBudWxsID09IGFwcGlkKSB7CiAgICAgICAgICAgIHJlc3VsdEhhbmRsZXIuaGFuZGxlKEZ1dHVyZS5mYWlsZWRGdXR1cmUoImVtcHR5IikpOwogICAgICAgIH0gZWxzZSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAobnVsbCA9PSB0b2tlbiB8fCBudWxsID09IGFwcGlkKSB7CiAgICAgICAgICAgIHJlc3VsdEhhbmRsZXIuaGFuZGxlKEZ1dHVyZS5mYWlsZWRGdXR1cmUoImVtcHR5IikpOwogICAgICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5kKGNvbGwsIG5ldyBKc29uT2JqZWN0KCkucHV0KEF1dGhTZXJ2aWNlLnRva2VuLCB0b2tlbikucHV0KEF1dGhTZXJ2aWNlLmFwcGlkLCBhcHBpZCkpCiAgICAgICAgICAgICAgICAuc3Vic2NyaWJlKGxpc3QgLT4gewogICAgICAgICAgICAgICAgICAgIGlmIChsaXN0LmlzRW1wdHkoKSkgewogICAgICAgICAgICAgICAgICAgICAgICByZXN1bHRIYW5kbGVyLmhhbmRsZShGdXR1cmUuZmFpbGVkRnV0dXJlKCJlbXB0eSIpKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICByZXN1bHRIYW5kbGVyLmhhbmRsZShGdXR1cmUuc3VjY2VlZGVkRnV0dXJlKGxpc3QuZ2V0KDApKSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSwgdGhyb3dhYmxlIC0+IGxvZ2dlci5lcnJvcih0aHJvd2FibGUpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3Nlcgo=</text>
+        <text encoding="base64">ICAgICAgICBmaW5kKGNvbGwsIG5ldyBKc29uT2JqZWN0KCkucHV0KEF1dGhTZXJ2aWNlLnRva2VuLCB0b2tlbikucHV0KEF1dGhTZXJ2aWNlLmFwcGlkLCBhcHBpZCkpCiAgICAgICAgICAgICAgICAuc3Vic2NyaWJlKGxpc3QgLT4gewogICAgICAgICAgICAgICAgICAgIGlmIChsaXN0LmlzRW1wdHkoKSkgewogICAgICAgICAgICAgICAgICAgICAgICByZXN1bHRIYW5kbGVyLmhhbmRsZShGdXR1cmUuZmFpbGVkRnV0dXJlKCJlbXB0eSIpKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICByZXN1bHRIYW5kbGVyLmhhbmRsZShGdXR1cmUuc3VjY2VlZGVkRnV0dXJlKGxpc3QuZ2V0KDApKSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSwgdGhyb3dhYmxlIC0+IGxvZ2dlci5lcnJvcih0aHJvd2FibGUpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
