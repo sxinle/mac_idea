@@ -163,10 +163,11 @@
         <mark key="]" line="201" column="53" />
         <mark key="." line="201" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/anti/conf/sql/StatisticsInventory.xml" timestamp="1525669642339">
-        <mark key="[" line="407" column="89" />
-        <mark key="]" line="407" column="89" />
-        <mark key="." line="407" column="89" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/anti/conf/sql/StatisticsInventory.xml" timestamp="1525684991500">
+        <mark key="[" line="408" column="45" />
+        <mark key="]" line="408" column="45" />
+        <mark key="." line="408" column="45" />
+        <mark key="^" line="408" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/acenode/micros/auth/service/impl/AuthServiceImpl.java" timestamp="1525500479593">
         <mark key="[" line="42" column="0" />
@@ -197,6 +198,13 @@
         <mark key="]" line="6" column="36" />
         <mark key="^" line="6" column="36" />
         <mark key="." line="6" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/anti/app/views/statisticsCkSum.scala.html" timestamp="1525685533014">
+        <mark key="'" line="183" column="44" />
+        <mark key="[" line="102" column="43" />
+        <mark key="]" line="102" column="44" />
+        <mark key="." line="102" column="44" />
+        <mark key="^" line="102" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" timestamp="1525333914100">
         <mark key="'" line="597" column="25" />
@@ -250,8 +258,13 @@
         <mark key="^" line="4" column="40" />
         <mark key="." line="4" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" timestamp="1525678211018">
-        <mark key="'" line="515" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" timestamp="1525684510287">
+        <mark key="'" line="14" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/anti/app/controllers/statistics/StatisticsInventoryController.java" timestamp="1525684809590">
+        <mark key="[" line="89" column="36" />
+        <mark key="]" line="89" column="36" />
+        <mark key="." line="89" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/resources/log4j2.xml" timestamp="1524557640039">
         <mark key="[" line="23" column="21" />
@@ -424,9 +437,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="57" column="16" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/acenode/micros/common/BaseVerticle.java" />
-      <jump line="188" column="38" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/acenode/micros/common/BaseVerticle.java" />
-      <jump line="148" column="0" filename="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/acenode/micros/auth/UserAuthAPIVerticle.java" />
       <jump line="57" column="24" filename="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/acenode/micros/auth/service/adapter/impl/SmngServiceImpl.java" />
       <jump line="59" column="53" filename="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/acenode/micros/auth/service/adapter/impl/SmngServiceImpl.java" />
       <jump line="48" column="48" filename="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/acenode/micros/auth/service/adapter/impl/SmngServiceImpl.java" />
@@ -524,6 +534,9 @@
       <jump line="39" column="69" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" />
       <jump line="390" column="5" filename="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" />
       <jump line="515" column="0" filename="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" />
+      <jump line="14" column="4" filename="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" />
+      <jump line="165" column="76" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/views/statisticsCkSum.scala.html" />
+      <jump line="183" column="44" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/views/statisticsCkSum.scala.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -533,13 +546,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>notes</text>
+        <text>000000000</text>
       </register>
       <register name="/" type="4">
-        <text>getRkSum</text>
+        <text>统计</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtaXNjU2VydmljZS5maW5kKE1pc2NTZXJ2aWNlLmNvbGxfbm90ZXMsIG5ldyBKc29uT2JqZWN0KCkucHV0KCJvcGVyIiwgZ2V0VXNlck5hbWUoY29udGV4dCkpKQogICAgICAgICAgICAgICAgLnN1YnNjcmliZShsaXN0IC0+IHN1Y2Nlc3MocmVzdWx0SGFuZGxlcihjb250ZXh0KSwgbGlzdCksIHRocm93YWJsZSAtPiBlcnJvcihyZXN1bHRIYW5kbGVyKGNvbnRleHQpLCBsb2dnZXIsIHRocm93YWJsZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgb3ZlcmZsb3dYOiAnYXV0bycsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -573,9 +586,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getRkSum</last-search>
+      <last-search>统计</last-search>
       <last-offset />
-      <last-pattern>getRkSum</last-pattern>
+      <last-pattern>统计</last-pattern>
       <last-replace>8089</last-replace>
       <last-substitute>8081</last-substitute>
       <last-dir>1</last-dir>
@@ -583,8 +596,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxiaW5kUm91dGVzXD4=</entry>
-        <entry>exception</entry>
         <entry>8081</entry>
         <entry>site</entry>
         <entry>noCKMsg</entry>
@@ -603,6 +614,8 @@
         <entry>上传</entry>
         <entry>current</entry>
         <entry>getRkSum</entry>
+        <entry>getList</entry>
+        <entry>统计</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzwvc3Ryb25nPi8vZw==</entry>
