@@ -290,8 +290,8 @@
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/anti/conf/routes" timestamp="1525917831400">
-        <mark key="'" line="412" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/anti/conf/routes" timestamp="1525919566942">
+        <mark key="'" line="338" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/anti/conf/sql/StatisticsBatch.xml" timestamp="1525687277724">
         <mark key="[" line="250" column="0" />
@@ -429,13 +429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="8" filename="$USER_HOME$/workspace/micro-service/commoncurd/src/main/java/com/acenode/micros/crud/emums/json.json" />
-      <jump line="3" column="15" filename="$USER_HOME$/workspace/micro-service/commoncurd/src/main/java/com/acenode/micros/crud/emums/json.json" />
-      <jump line="48" column="22" filename="$USER_HOME$/workspace/micro-service/commoncurd/src/main/java/com/acenode/micros/crud/emums/json.json" />
-      <jump line="63" column="5" filename="$USER_HOME$/workspace/micro-service/commoncurd/src/main/java/com/acenode/micros/crud/emums/json.json" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/micro-service/commoncurd/src/main/java/com/acenode/micros/crud/emums/json.json" />
-      <jump line="71" column="0" filename="$USER_HOME$/workspace/micro-service/commoncurd/src/main/java/com/acenode/micros/crud/emums/json.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/micro-service/commoncurd/src/main/java/com/acenode/micros/crud/emums/json.json" />
       <jump line="597" column="25" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
       <jump line="72" column="6" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
       <jump line="314" column="59" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
@@ -529,6 +522,13 @@
       <jump line="369" column="104" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="392" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="412" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="517" column="6" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="576" column="115" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="577" column="68" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="590" column="95" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="276" column="76" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="278" column="5" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="338" column="4" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -588,7 +588,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxNYWluRm9ybTJcPg==</entry>
         <entry>rec</entry>
         <entry>收款模式</entry>
         <entry>payeeAcount</entry>
@@ -607,6 +606,7 @@
         <entry>出库删除</entry>
         <entry>SingleInventoryController</entry>
         <entry>del</entry>
+        <entry>inven</entry>
         <entry>single</entry>
       </history-search>
       <history-cmd>
