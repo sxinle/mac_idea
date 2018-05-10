@@ -6,7 +6,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" timestamp="1525777740973">
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" timestamp="1525916848149">
         <mark key="'" line="81" column="45" />
         <mark key="[" line="101" column="28" />
         <mark key="]" line="101" column="52" />
@@ -152,6 +152,9 @@
         <mark key="." line="28" column="35" />
         <mark key="^" line="28" column="35" />
       </file>
+      <file name="/SingleInventoryController.java" timestamp="1525917276617">
+        <mark key="'" line="10" column="9" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/resources/api.md" timestamp="1525431638701">
         <mark key="'" line="18" column="46" />
         <mark key="[" line="200" column="0" />
@@ -163,6 +166,9 @@
         <mark key="]" line="408" column="45" />
         <mark key="." line="408" column="45" />
         <mark key="^" line="408" column="45" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/anti/app/controllers/inventory/SingleInventoryController.java" timestamp="1525917528700">
+        <mark key="'" line="99" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/acenode/micros/auth/service/impl/AuthServiceImpl.java" timestamp="1525776162547" />
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/service/impl/RoleServiceImpl.java" timestamp="1524539370547">
@@ -246,8 +252,8 @@
         <mark key="^" line="4" column="40" />
         <mark key="." line="4" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" timestamp="1525684510287">
-        <mark key="'" line="14" column="4" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" timestamp="1525917167903">
+        <mark key="'" line="97" column="86" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/anti/app/controllers/statistics/StatisticsInventoryController.java" timestamp="1525684809590">
         <mark key="[" line="89" column="36" />
@@ -284,6 +290,9 @@
         <mark key="]" line="93" column="0" />
         <mark key="." line="93" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/anti/conf/routes" timestamp="1525917831400">
+        <mark key="'" line="412" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/anti/conf/sql/StatisticsBatch.xml" timestamp="1525687277724">
         <mark key="[" line="250" column="0" />
         <mark key="]" line="250" column="0" />
@@ -315,7 +324,7 @@
         <mark key="^" line="4" column="50" />
         <mark key="." line="4" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1525777489317">
+      <file name="/Dummy.txt" timestamp="1525917055093">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -420,45 +429,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="2" filename="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/resources/api.md" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/resources/api.md" />
-      <jump line="129" column="1" filename="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/resources/api.md" />
-      <jump line="53" column="0" filename="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/acenode/micros/auth/service/impl/AuthServiceImpl.java" />
-      <jump line="151" column="0" filename="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/acenode/micros/auth/UserAuthAPIVerticle.java" />
-      <jump line="195" column="134" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
-      <jump line="4" column="38" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
-      <jump line="3" column="43" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
-      <jump line="45" column="23" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/filters/UserAgent.java" />
-      <jump line="57" column="53" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" />
-      <jump line="20" column="8" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/MiscService.java" />
-      <jump line="25" column="4" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" />
-      <jump line="83" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" />
-      <jump line="52" column="39" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/MiscServiceImpl.java" />
-      <jump line="34" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/MiscServiceImpl.java" />
-      <jump line="88" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/MiscServiceImpl.java" />
-      <jump line="96" column="24" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
-      <jump line="135" column="20" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
-      <jump line="142" column="12" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
-      <jump line="97" column="12" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
-      <jump line="109" column="0" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
-      <jump line="118" column="28" filename="$USER_HOME$/workspace/jinhui/prod/prizecheck/src/main/java/com/Check.java" />
-      <jump line="207" column="29" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/Constants.java" />
-      <jump line="34" column="54" filename="$USER_HOME$/workspace/micro-service/common/micros-template/src/main/java/com/acenode/micros/template/TempAPIVerticle.java" />
-      <jump line="35" column="55" filename="$USER_HOME$/workspace/micro-service/common/micros-template/src/main/java/com/acenode/micros/template/TempAPIVerticle.java" />
-      <jump line="79" column="44" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/views/payment.scala.html" />
-      <jump line="71" column="49" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
-      <jump line="147" column="28" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
-      <jump line="114" column="20" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
-      <jump line="112" column="23" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
-      <jump line="77" column="20" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/BankUtil.java" />
-      <jump line="192" column="23" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/Constants.java" />
-      <jump line="35" column="22" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/acenode/micros/common/service/impl/SQLServiceImpl.java" />
-      <jump line="32" column="22" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/acenode/micros/common/service/impl/SQLServiceImpl.java" />
-      <jump line="12" column="13" filename="$USER_HOME$/workspace/micro-service/commoncurd/src/main/java/com/acenode/micros/crud/emums/json.json" />
-      <jump line="24" column="24" filename="$USER_HOME$/workspace/micro-service/commoncurd/src/main/java/com/acenode/micros/crud/emums/json.json" />
-      <jump line="10" column="0" filename="$USER_HOME$/workspace/micro-service/commoncurd/src/main/java/com/acenode/micros/crud/emums/json.json" />
-      <jump line="31" column="0" filename="$USER_HOME$/workspace/micro-service/commoncurd/src/main/java/com/acenode/micros/crud/emums/json.json" />
-      <jump line="34" column="13" filename="$USER_HOME$/workspace/micro-service/commoncurd/src/main/java/com/acenode/micros/crud/emums/json.json" />
       <jump line="46" column="8" filename="$USER_HOME$/workspace/micro-service/commoncurd/src/main/java/com/acenode/micros/crud/emums/json.json" />
       <jump line="3" column="15" filename="$USER_HOME$/workspace/micro-service/commoncurd/src/main/java/com/acenode/micros/crud/emums/json.json" />
       <jump line="48" column="22" filename="$USER_HOME$/workspace/micro-service/commoncurd/src/main/java/com/acenode/micros/crud/emums/json.json" />
@@ -520,6 +490,45 @@
       <jump line="281" column="43" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" />
       <jump line="81" column="45" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" />
       <jump line="16" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/MiscService.java" />
+      <jump line="45" column="0" filename="/SingleInventoryController.java" />
+      <jump line="33" column="57" filename="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" />
+      <jump line="90" column="3" filename="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" />
+      <jump line="45" column="92" filename="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" />
+      <jump line="76" column="90" filename="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" />
+      <jump line="97" column="86" filename="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" />
+      <jump line="36" column="6" filename="/SingleInventoryController.java" />
+      <jump line="252" column="20" filename="/SingleInventoryController.java" />
+      <jump line="260" column="18" filename="/SingleInventoryController.java" />
+      <jump line="270" column="29" filename="/SingleInventoryController.java" />
+      <jump line="272" column="57" filename="/SingleInventoryController.java" />
+      <jump line="275" column="54" filename="/SingleInventoryController.java" />
+      <jump line="285" column="52" filename="/SingleInventoryController.java" />
+      <jump line="301" column="18" filename="/SingleInventoryController.java" />
+      <jump line="308" column="25" filename="/SingleInventoryController.java" />
+      <jump line="310" column="50" filename="/SingleInventoryController.java" />
+      <jump line="313" column="49" filename="/SingleInventoryController.java" />
+      <jump line="319" column="52" filename="/SingleInventoryController.java" />
+      <jump line="9" column="9" filename="/SingleInventoryController.java" />
+      <jump line="10" column="9" filename="/SingleInventoryController.java" />
+      <jump line="51" column="6" filename="$USER_HOME$/workspace/jinhui/anti/app/controllers/inventory/SingleInventoryController.java" />
+      <jump line="91" column="18" filename="$USER_HOME$/workspace/jinhui/anti/app/controllers/inventory/SingleInventoryController.java" />
+      <jump line="314" column="18" filename="$USER_HOME$/workspace/jinhui/anti/app/controllers/inventory/SingleInventoryController.java" />
+      <jump line="99" column="37" filename="$USER_HOME$/workspace/jinhui/anti/app/controllers/inventory/SingleInventoryController.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="45" column="92" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="76" column="90" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="97" column="86" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="113" column="86" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="138" column="88" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="147" column="96" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="215" column="94" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="236" column="94" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="320" column="98" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="339" column="92" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="369" column="104" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="392" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="412" column="0" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -532,7 +541,7 @@
         <text>SaleUserByDeptid</text>
       </register>
       <register name="/" type="4">
-        <text>统计</text>
+        <text>single</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBGbHVlbnQKICAgIE1pc2NTZXJ2aWNlIGdldFNhbGVVc2VyQnlEZXB0aWQoSnNvbk9iamVjdCBwYXJhbSwgSGFuZGxlcjxBc3luY1Jlc3VsdDxPYmplY3Q+PiBoYW5kbGVyKTsK</text>
@@ -569,20 +578,16 @@
       </register>
     </registers>
     <search>
-      <last-search>统计</last-search>
+      <last-search>single</last-search>
       <last-offset />
-      <last-pattern>统计</last-pattern>
+      <last-pattern>single</last-pattern>
       <last-replace>8089</last-replace>
       <last-substitute>8081</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>8081</entry>
-        <entry>site</entry>
-        <entry>noCKMsg</entry>
-        <entry>diffPro</entry>
         <entry encoding="base64">XDxNYWluRm9ybTJcPg==</entry>
         <entry>rec</entry>
         <entry>收款模式</entry>
@@ -599,6 +604,10 @@
         <entry>getRkSum</entry>
         <entry>getList</entry>
         <entry>统计</entry>
+        <entry>出库删除</entry>
+        <entry>SingleInventoryController</entry>
+        <entry>del</entry>
+        <entry>single</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzwvc3Ryb25nPi8vZw==</entry>
