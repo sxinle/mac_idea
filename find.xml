@@ -2,6 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Class Hierarchy" />
     <option name="defaultScopeName" value="Class Hierarchy" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Class Hierarchy" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
@@ -13,5 +15,6 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>js</mask>
+    <mask>sql</mask>
   </component>
 </application>
