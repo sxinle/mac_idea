@@ -360,8 +360,8 @@
         <mark key="^" line="328" column="33" />
         <mark key="." line="328" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1526117174377">
-        <mark key="'" line="289" column="53" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1526120048586">
+        <mark key="'" line="309" column="133" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/anti/conf/sql/StatisticsBatch.xml" timestamp="1525687277724">
         <mark key="[" line="250" column="0" />
@@ -473,8 +473,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="576" column="115" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
-      <jump line="577" column="68" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="590" column="95" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="276" column="76" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="278" column="5" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
@@ -488,7 +486,6 @@
       <jump line="100" column="46" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/WeixinPrizeController.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="340" column="27" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
-      <jump line="309" column="28" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="489" column="8" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="512" column="66" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
       <jump line="1389" column="0" filename="$USER_HOME$/workspace/jinhui/prod/crm/app/service/impl/CustomerServiceImpl.java" />
@@ -573,6 +570,9 @@
       <jump line="289" column="53" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="330" column="25" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/MiscServiceImpl.java" />
       <jump line="260" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/MiscServiceImpl.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
+      <jump line="334" column="62" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
+      <jump line="309" column="133" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -585,7 +585,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>photo</text>
+        <text>spend</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIEFORCB0MS5kaXN0cmlidXRvcmlkID0gKHNlbGVjdCBpZCBmcm9tIGRpc3RyaWJ1dG9yX2luZm8gd2hlcmUgY3VzdGlkPSN7dXNlcklkfSBhbmQgbGV2PTEpCg==</text>
@@ -622,9 +622,9 @@
       </register>
     </registers>
     <search>
-      <last-search>photo</last-search>
+      <last-search>spend</last-search>
       <last-offset />
-      <last-pattern>photo</last-pattern>
+      <last-pattern>spend</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
@@ -632,8 +632,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxCQVNFNjREZWNvZGVyXD4=</entry>
-        <entry>585</entry>
         <entry>新增用户信息</entry>
         <entry>访销角色</entry>
         <entry>\n</entry>
@@ -652,6 +650,8 @@
         <entry>orderOnline\/init</entry>
         <entry>photopath</entry>
         <entry>photo</entry>
+        <entry>weixin</entry>
+        <entry>spend</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzxcL3N0cm9uZz4vL2c=</entry>
