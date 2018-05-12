@@ -67,7 +67,7 @@
         <mark key="^" line="11" column="48" />
         <mark key="." line="11" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/sql/DisOrderOnline.xml" timestamp="1526106310828">
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/sql/DisOrderOnline.xml" timestamp="1526108394720">
         <mark key="[" line="62" column="75" />
         <mark key="]" line="62" column="83" />
         <mark key="^" line="62" column="83" />
@@ -238,12 +238,12 @@
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" timestamp="1525923952379">
         <mark key="'" line="111" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/MiscService.java" timestamp="1526093729306">
-        <mark key="'" line="64" column="8" />
-        <mark key="[" line="67" column="67" />
-        <mark key="]" line="67" column="81" />
-        <mark key="^" line="67" column="81" />
-        <mark key="." line="67" column="81" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/MiscService.java" timestamp="1526108781581">
+        <mark key="'" line="65" column="8" />
+        <mark key="[" line="27" column="33" />
+        <mark key="]" line="27" column="45" />
+        <mark key="^" line="27" column="45" />
+        <mark key="." line="27" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/crm/app/controllers/customer/CustomerController.java" timestamp="1526105499166">
         <mark key="'" line="870" column="40" />
@@ -264,14 +264,19 @@
         <mark key="." line="302" column="63" />
         <mark key="^" line="302" column="63" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" timestamp="1526105735751">
-        <mark key="'" line="368" column="0" />
-        <mark key="[" line="37" column="21" />
-        <mark key="]" line="37" column="28" />
-        <mark key="." line="83" column="41" />
-        <mark key="^" line="83" column="41" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" timestamp="1526108874009">
+        <mark key="'" line="352" column="0" />
+        <mark key="[" line="87" column="91" />
+        <mark key="]" line="87" column="111" />
+        <mark key="^" line="87" column="111" />
+        <mark key="." line="87" column="111" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/order/DisOrderController.java" timestamp="1526090780656" />
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/order/DisOrderController.java" timestamp="1526108532373">
+        <mark key="[" line="94" column="35" />
+        <mark key="]" line="94" column="46" />
+        <mark key="^" line="94" column="46" />
+        <mark key="." line="94" column="46" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/commoncurd/src/main/java/com/acenode/micros/crud/emums/query/PGDelete.java" timestamp="1525190505735">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -298,9 +303,6 @@
         <mark key="]" line="3" column="14" />
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/io/vertx/vertx-mysql-postgresql-client/3.5.1/vertx-mysql-postgresql-client-3.5.1-sources.jar!/io/vertx/ext/asyncsql/impl/AsyncSQLConnectionImpl.java" timestamp="1526100247753">
-        <mark key="'" line="100" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/acenode/micros/common/util/CryptoUtil.java" timestamp="1525486684611">
         <mark key="[" line="44" column="4" />
@@ -423,7 +425,7 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="5" column="57" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526105752345">
+      <file name="/Dummy.txt" timestamp="1526108878682">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="5" />
@@ -629,40 +631,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>,price</text>
+        <text>compete_activity</text>
       </register>
       <register name="/" type="4">
         <text>customer_type</text>
       </register>
-      <register name="0" type="4">
-        <text>LEFT JOIN order_detail od ON od.productid=p.productid</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUocmV0IC0+IHN1Y2Nlc3MocmVzdWx0SGFuZGxlcihjb250ZXh0KSwgcmV0KSwgdGhyb3dhYmxlIC0+IGVycm9yKHJlc3VsdEhhbmRsZXIoY29udGV4dCksIGxvZ2dlciwgdGhyb3dhYmxlKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5zdQo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBPUkRFUiBCWSBwcm9kdWN0bmFtZSBkZXNjCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8aWYgdGVzdD0iYnJhbmRJZCAhPScnIGFuZCBicmFuZElkICE9IG51bGwiPgogICAgICAgICAgICBBTkQgcGR0a2luZGlkID0je2JyYW5kSWR9CiAgICAgICAgPC9pZj4K</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8aWYgdGVzdD0ibGFyZ2VQcmljZSAhPScnIGFuZCBsYXJnZVByaWNlICE9IG51bGwiPgogICAgICAgICAgICA8IVtDREFUQVsgQU5EIHByaWNlIDw9I3tsYXJnZVByaWNlfSBdXT4KICAgICAgICA8L2lmPgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCUFORCB0MS5wcmljZT4wCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBPUkRFUiBCWSBwcm9kdWN0bmFtZSBkZXNjCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICA8aWYgdGVzdD0iYnJhbmRJZCAhPScnIGFuZCBicmFuZElkICE9IG51bGwiPgogICAgICAgICAgICBBTkQgcGR0a2luZGlkID0je2JyYW5kSWR9CiAgICAgICAgPC9pZj4K</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8aWYgdGVzdD0ibGFyZ2VQcmljZSAhPScnIGFuZCBsYXJnZVByaWNlICE9IG51bGwiPgogICAgICAgICAgICA8IVtDREFUQVsgQU5EIHByaWNlIDw9I3tsYXJnZVByaWNlfSBdXT4KICAgICAgICA8L2lmPgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCUFORCB0MS5wcmljZT4wCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8aWYgdGVzdD0ic21hbGxQcmljZSAhPScnIGFuZCBzbWFsbFByaWNlICE9IG51bGwiPgogICAgICAgICAgICBBTkQgcHJpY2UgJmd0Oz0je3NtYWxsUHJpY2V9CiAgICAgICAgPC9pZj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CgoKCgoKCgogICAgICAgIFNFTEVDVCB1c2VyaWQscHJvZHVjdGlkICxwcmljZSAscHJvZHVjdG5hbWUsYW1vdW50LHJlbWFyayAsc2FsZW51bSAscGhvdG9wYXRoICJwaG90b1BhdGgiIEZST00oCiAgICAgICAgPGlmIHRlc3Q9ImlkcyAhPScnIGFuZCBpZHMgIT0gbnVsbCI+CiAgICAgICAgICAgIFNFTEVDVCB1c2VyaWQscHJvZHVjdGlkICxwcmljZSAscHJvZHVjdG5hbWUsYW1vdW50LHJlbWFyayAsc2FsZW51bSAscGR0a2luZGlkLHBob3RvcGF0aCBGUk9NCiAgICAgICAgICAgIChTRUxFQ1QgZGkuY3VzdGlkIHVzZXJpZCwKICAgICAgICAgICAgcC5wcm9kdWN0aWQsCiAgICAgICAgICAgIDxjaG9vc2U+CiAgICAgICAgICAgICAgICA8d2hlbiB0ZXN0PSJib3giPgogICAgICAgICAgICAgICAgICAgIGRwci5wcmljZSpwLnBhY2tpbmcgYXMgcHJpY2UgLAogICAgICAgICAgICAgICAgPC93aGVuPgogICAgICAgICAgICAgICAgPG90aGVyd2lzZT4KICAgICAgICAgICAgICAgICAgICBkcHIucHJpY2UgYXMgcHJpY2UgLAogICAgICAgICAgICAgICAgPC9vdGhlcndpc2U+CiAgICAgICAgICAgIDwvY2hvb3NlPgogICAgICAgICAgICBwLnByb2R1Y3RuYW1lLAogICAgICAgICAgICBjb2FsZXNjZShTVU0ob2QuYW1vdW50KSwwKSBhbW91bnQscC5yZW1hcmssCiAgICAgICAgICAgIGNvYWxlc2NlKFNVTShvZC5vcmRlcm51bSksMCkgc2FsZW51bSAscGR0a2luZGlkICwKICAgICAgICAgICAgPGNob29zZT4KICAgICAgICAgICAgICAgIDx3aGVuIHRlc3Q9ImJveCI+CiAgICAgICAgICAgICAgICAgICAgI3tob3N0UGF0aH18fHAucHJvZHVjdGlkfHwnLyd8fHAucGhvdG9ib3ggYXMgcGhvdG9wYXRoCiAgICAgICAgICAgICAgICA8L3doZW4+CiAgICAgICAgICAgICAgICA8b3RoZXJ3aXNlPgogICAgICAgICAgICAgICAgICAgICN7aG9zdFBhdGh9fHxwLnByb2R1Y3RpZHx8Jy8nfHxwLnBob3RvIGFzIHBob3RvcGF0aAogICAgICAgICAgICAgICAgPC9vdGhlcndpc2U+CiAgICAgICAgICAgIDwvY2hvb3NlPgogICAgICAgICAgICBGUk9NIGRpc3RyaWJ1dG9yX3Byb2R1Y3RfcmVsIGRwcgogICAgICAgICAgICBKT0lOIGRpc3RyaWJ1dG9yX2luZm8gZGkgT04gZHByLmRpc3RyaWJ1dG9yaWQ9ZGkuaWQKICAgICAgICAgICAgSk9JTiBwcm9kdWN0X2luZm8gcCBPTiBwLnByb2R1Y3RpZD1kcHIucHJvZHVjdGlkCiAgICAgICAgICAgIExFRlQgSk9JTiBvcmRlcl9kZXRhaWwgb2QgT04gb2QucHJvZHVjdGlkPXAucHJvZHVjdGlkCiAgICAgICAgICAgIEFORCBvZC5wcm9kdWN0aWQ9ZHByLnByb2R1Y3RpZAogICAgICAgICAgICBMRUZUIEpPSU4gb3JkZXJfaW5mbyBvaSBPTiBvaS5vcmRlcmlkPW9kLm9yZGVyaWQKICAgICAgICAgICAgV0hFUkUgZGkuY3VzdGlkID0ke3VzZXJJZH0gYW5kIGRpLnBpZCBpcyBudWxsCiAgICAgICAgICAgIEFORCBwLnByb2R1Y3RpZCBpbiAke2lkc30KICAgICAgICAgICAgR1JPVVAgQlkgZGkuY3VzdGlkICwgcC5wcm9kdWN0aWQsIGRwci5wcmljZSxwLnByb2R1Y3RuYW1lLHAucmVtYXJrLHAucGhvdG8gKUEKICAgICAgICAgICAgPCEtLSBVTklPTiAtLT4KICAgICAgICA8L2lmPgogICAgICAgIClCCiAgICAgICAgV0hFUkUgMT0xCg==</text>
+        <text encoding="base64">ICAgICAgICA8aWYgdGVzdD0ic21hbGxQcmljZSAhPScnIGFuZCBzbWFsbFByaWNlICE9IG51bGwiPgogICAgICAgICAgICBBTkQgcHJpY2UgJmd0Oz0je3NtYWxsUHJpY2V9CiAgICAgICAgPC9pZj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
