@@ -18,6 +18,12 @@
         <mark key="]" line="161" column="22" />
         <mark key="." line="161" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/acenode/micros/auth/service/impl/RoleServiceImpl.java" timestamp="1526293845903">
+        <mark key="'" line="28" column="27" />
+        <mark key="[" line="28" column="27" />
+        <mark key="]" line="28" column="27" />
+        <mark key="." line="28" column="27" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" timestamp="1526288572172">
         <mark key="'" line="282" column="26" />
         <mark key="[" line="411" column="0" />
@@ -25,13 +31,6 @@
         <mark key="." line="411" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/Application.java" timestamp="1526289594458" />
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/order/DisOrderController.java" timestamp="1526284082686">
-        <mark key="a" line="104" column="3" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="^" line="94" column="54" />
-        <mark key="." line="94" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/micro-service/commoncurd/src/main/java/com/acenode/micros/crud/emums/query/PGDelete.java" timestamp="1525190505735">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -222,6 +221,11 @@
         <mark key="^" line="6" column="36" />
         <mark key="." line="6" column="36" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/acenode/micros/auth/service/RoleService.java" timestamp="1526293877716">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="20" />
+        <mark key="." line="20" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/micros-userauth/src/main/java/com/acenode/micros/auth/service/ResService.java" timestamp="1524480757971">
         <mark key="[" line="10" column="27" />
         <mark key="]" line="10" column="47" />
@@ -323,7 +327,7 @@
         <mark key="^" line="4" column="50" />
         <mark key="." line="4" column="51" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526286473466">
+      <file name="/Dummy.txt" timestamp="1526293520002">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/resources/api.md" timestamp="1525505393799">
@@ -446,8 +450,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="12" filename="$USER_HOME$/workspace/jinhui/prod/crm/conf/sql/Customer.xml" />
-      <jump line="24" column="11" filename="$USER_HOME$/workspace/jinhui/prod/crm/sql_migrate/2018-03-09/客户类型.sql.done" />
       <jump line="23" column="33" filename="$USER_HOME$/workspace/jinhui/prod/crm/sql_migrate/2018-03-09/客户类型.sql.done" />
       <jump line="273" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/MiscServiceImpl.java" />
       <jump line="58" column="18" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" />
@@ -546,6 +548,8 @@
       <jump line="116" column="20" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
       <jump line="61" column="17" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
       <jump line="22" column="37" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
+      <jump line="4" column="31" filename="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/acenode/micros/auth/service/impl/RoleServiceImpl.java" />
+      <jump line="29" column="27" filename="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/acenode/micros/auth/service/impl/RoleServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -555,10 +559,10 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>shangxianceshi</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>mongo</text>
+        <text encoding="base64">XDxOb3ROdWxsXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Y2FtZWxBcGlVUkw9Imh0dHA6Ly9kZXYuOTFkamIubmV0L2xvdHRlcnljYWl4dWRvbmcvamhqIgo=</text>
@@ -595,9 +599,9 @@
       </register>
     </registers>
     <search>
-      <last-search>mongo</last-search>
+      <last-search encoding="base64">XDxOb3ROdWxsXD4=</last-search>
       <last-offset />
-      <last-pattern>mongo</last-pattern>
+      <last-pattern encoding="base64">XDxOb3ROdWxsXD4=</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
@@ -605,7 +609,6 @@
     </search>
     <history>
       <history-search>
-        <entry>领取奖品</entry>
         <entry>getPrize</entry>
         <entry>wexin</entry>
         <entry>weixin</entry>
@@ -625,6 +628,7 @@
         <entry>del</entry>
         <entry>toScan</entry>
         <entry>mongo</entry>
+        <entry encoding="base64">XDxOb3ROdWxsXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzxcL3N0cm9uZz4vL2c=</entry>
