@@ -139,11 +139,12 @@
         <mark key="." line="22" column="62" />
         <mark key="^" line="22" column="62" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/WeixinPrizeController.java" timestamp="1526268407252">
-        <mark key="'" line="100" column="46" />
-        <mark key="[" line="348" column="0" />
-        <mark key="]" line="360" column="8" />
-        <mark key="." line="347" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/WeixinPrizeController.java" timestamp="1526270634614">
+        <mark key="'" line="101" column="46" />
+        <mark key="[" line="371" column="35" />
+        <mark key="]" line="371" column="54" />
+        <mark key="." line="371" column="54" />
+        <mark key="^" line="371" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/micros-forms/src/main/resources/api.md" timestamp="1525431608622">
         <mark key="[" line="78" column="0" />
@@ -393,8 +394,8 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="11" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" timestamp="1525923952379">
-        <mark key="'" line="111" column="5" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" timestamp="1526270679646">
+        <mark key="'" line="16" column="7" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/micros-template/src/main/java/com/acenode/micros/template/service/TempService.java" timestamp="1524564174419">
         <mark key="[" line="10" column="28" />
@@ -471,7 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="53" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/MiscService.java" />
       <jump line="218" column="84" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/MiscServiceImpl.java" />
       <jump line="16" column="17" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/MiscService.java" />
       <jump line="84" column="60" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" />
@@ -571,6 +571,7 @@
       <jump line="624" column="28" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
       <jump line="373" column="40" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/ScanController.java" />
       <jump line="333" column="64" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
+      <jump line="16" column="7" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -580,56 +581,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>openid</text>
+        <text>o</text>
       </register>
       <register name="/" type="4">
         <text>spend</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoRW1wdHlVdGlsLmlzRW1wdHkoZXZlbnRMb2dJZCkpIHsKICAgICAgICAgICAgU2NhblByaXplRGV0YWlsIHNjYW5Qcml6ZSA9IEViZWFuLmZpbmQoU2NhblByaXplRGV0YWlsLmNsYXNzKS53aGVyZSgpLmVxKCJxcmNvZGUiLCBxckNvZGUpLmZpbmRVbmlxdWUoKTsKICAgICAgICAgICAgc2NhblByaXplLnNldFNjYW5EYXRlKG5ldyBUaW1lc3RhbXAoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpKTsKICAgICAgICAgICAgc2NhblByaXplLnNldFNjYW5GbGFnKDEpOwogICAgICAgICAgICBzY2FuUHJpemUuc2V0VGVscGhvbmUob3BlbmlkKTsKICAgICAgICAgICAgc2NhblByaXplLnNldFVzZXJBZGRyZXNzKG5pY2tuYW1lKTsKICAgICAgICAgICAgRWJlYW4uc2F2ZShzY2FuUHJpemUpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIEV2ZW50TG9nIGV2ZW50TG9nID0gRWJlYW4uZmluZChFdmVudExvZy5jbGFzcykud2hlcmUoKS5lcSgiaWQiLCBJbnRlZ2VyLnBhcnNlSW50KGV2ZW50TG9nSWQpKS5maW5kVW5pcXVlKCk7CiAgICAgICAgICAgIGV2ZW50TG9nLnNldFRlbChvcGVuaWQpOwogICAgICAgICAgICBldmVudExvZy5zZXRTZW5kRmxhZygxKTsKICAgICAgICAgICAgRWJlYW4uc2F2ZShldmVudExvZyk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyDlpZbljaHorqLljZXmm7TmlrAK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU2NhblByaXplRGV0YWlsIHNjYW5Qcml6ZSA9IEViZWFuLmZpbmQoU2NhblByaXplRGV0YWlsLmNsYXNzKS53aGVyZSgpLmVxKCJxcmNvZGUiLCBxckNvZGUpLmZpbmRVbmlxdWUoKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyDlpZbljaHorqLljZXmm7TmlrAKICAgICAgICBpZiAoRW1wdHlVdGlsLmlzRW1wdHkoZXZlbnRMb2dJZCkpIHsKICAgICAgICAgICAgU2NhblByaXplRGV0YWlsIHNjYW5Qcml6ZSA9IEViZWFuLmZpbmQoU2NhblByaXplRGV0YWlsLmNsYXNzKS53aGVyZSgpLmVxKCJxcmNvZGUiLCBxckNvZGUpLmZpbmRVbmlxdWUoKTsKICAgICAgICAgICAgc2NhblByaXplLnNldFNjYW5EYXRlKG5ldyBUaW1lc3RhbXAoU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCkpKTsKICAgICAgICAgICAgc2NhblByaXplLnNldFNjYW5GbGFnKDEpOwogICAgICAgICAgICBzY2FuUHJpemUuc2V0VGVscGhvbmUob3BlbmlkKTsKICAgICAgICAgICAgc2NhblByaXplLnNldFVzZXJBZGRyZXNzKG5pY2tuYW1lKTsKICAgICAgICAgICAgRWJlYW4uc2F2ZShzY2FuUHJpemUpOwogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIEV2ZW50TG9nIGV2ZW50TG9nID0gRWJlYW4uZmluZChFdmVudExvZy5jbGFzcykud2hlcmUoKS5lcSgiaWQiLCBJbnRlZ2VyLnBhcnNlSW50KGV2ZW50TG9nSWQpKS5maW5kVW5pcXVlKCk7CiAgICAgICAgICAgIGV2ZW50TG9nLnNldFRlbChvcGVuaWQpOwogICAgICAgICAgICBldmVudExvZy5zZXRTZW5kRmxhZygxKTsKICAgICAgICAgICAgRWJlYW4uc2F2ZShldmVudExvZyk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>else {// scanFlag 重置一下，以便继续扫码
-                    
-                }</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>else {
-                    // 奖卡订单更新
-                    if (EmptyUtil.isEmpty(eventLogId)) {
-                        scanPrize.setScanDate(new Timestamp(System.currentTimeMillis()));
-                        scanPrize.setScanFlag(1);
-                        scanPrize.setTelphone(openid);
-                        scanPrize.setUserAddress(nickname);
-                        Ebean.save(scanPrize);
-                    } else {
-                        EventLog eventLog = Ebean.find(EventLog.class).where().eq(&quot;id&quot;, Integer.parseInt(eventLogId)).findUnique();
-                        eventLog.setTel(openid);
-                        eventLog.setSendFlag(1);
-                        Ebean.save(eventLog);
-                    }
-                }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy/mn6Xor6LmipXlpZYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgZXZlbnRMb2dJZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU2NhblByaXplRGV0YWlsIHNjYW5Qcml6ZSA9IEViZWFuLmZpbmQoU2NhblByaXplRGV0YWlsLmNsYXNzKS53aGVyZSgpLmVxKCJxcmNvZGUiLCBxckNvZGUpLmZpbmRVbmlxdWUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU2NhblByaXplRGV0YWlsIHNjYW5Qcml6ZSA9IEViZWFuLmZpbmQoU2NhblByaXplRGV0YWlsLmNsYXNzKS53aGVyZSgpLmVxKCJxcmNvZGUiLCBxckNvZGUpLmZpbmRVbmlxdWUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
