@@ -356,8 +356,8 @@
         <mark key="." line="435" column="29" />
         <mark key="^" line="424" column="80" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1526355437037">
-        <mark key="'" line="319" column="4" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1526437442710">
+        <mark key="'" line="314" column="51" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/anti/conf/sql/StatisticsBatch.xml" timestamp="1525687277724">
         <mark key="[" line="250" column="0" />
@@ -453,7 +453,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="8" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/MiscService.java" />
       <jump line="294" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/MiscServiceImpl.java" />
       <jump line="339" column="23" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/MiscServiceImpl.java" />
       <jump line="293" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/MiscServiceImpl.java" />
@@ -553,6 +552,7 @@
       <jump line="55" column="39" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
       <jump line="27" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
       <jump line="124" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
+      <jump line="314" column="51" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -565,7 +565,7 @@
         <text>INSERT_ORDER_DETAIL_PREFIX + values.substring(0, values.length() - 1)</text>
       </register>
       <register name="/" type="4">
-        <text>submitOrder</text>
+        <text>sendWeixin</text>
       </register>
       <register name="0" type="4">
         <text>{&quot;custid&quot;:42, &quot;products&quot;:[{&quot;id&quot;:123, &quot;price&quot;:&quot;22.5&quot;, &quot;cnt&quot;:3},{&quot;id&quot;:456, &quot;price&quot;:&quot;122.5&quot;, &quot;cnt&quot;:1}]}</text>
@@ -602,9 +602,9 @@
       </register>
     </registers>
     <search>
-      <last-search>submitOrder</last-search>
+      <last-search>sendWeixin</last-search>
       <last-offset />
-      <last-pattern>submitOrder</last-pattern>
+      <last-pattern>sendWeixin</last-pattern>
       <last-replace encoding="base64">IA==</last-replace>
       <last-substitute>\\n</last-substitute>
       <last-dir>1</last-dir>
@@ -612,7 +612,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hongbaoFlag</entry>
         <entry>activityFlag</entry>
         <entry encoding="base64">XDxzY2FuUHJpemVcPg==</entry>
         <entry encoding="base64">XDxjdXN0b21lclw+</entry>
@@ -632,6 +631,7 @@
         <entry>where.*in</entry>
         <entry>orderOnline</entry>
         <entry>submitOrder</entry>
+        <entry>sendWeixin</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzxcL3N0cm9uZz4vL2c=</entry>
