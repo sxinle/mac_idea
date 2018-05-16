@@ -342,12 +342,12 @@
         <mark key="." line="5" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/cart/CartController.java" timestamp="1526363674153" />
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" timestamp="1526436615557">
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" timestamp="1526437978419">
         <mark key="'" line="124" column="0" />
-        <mark key="[" line="111" column="60" />
-        <mark key="]" line="111" column="62" />
-        <mark key="." line="111" column="62" />
-        <mark key="^" line="111" column="62" />
+        <mark key="[" line="112" column="54" />
+        <mark key="]" line="112" column="63" />
+        <mark key="." line="112" column="63" />
+        <mark key="^" line="112" column="63" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/MiscServiceImpl.java" timestamp="1526382148837">
         <mark key="'" line="312" column="50" />
@@ -368,7 +368,7 @@
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/config.properties" timestamp="1526381490631">
         <mark key="'" line="17" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526382154310">
+      <file name="/Dummy.txt" timestamp="1526438055687">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/commoncurd/src/main/java/com/acenode/micros/crud/emums/query/PGQuery.java" timestamp="1525190405975">
@@ -562,7 +562,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>INSERT_ORDER_DETAIL_PREFIX + values.substring(0, values.length() - 1)</text>
+        <text encoding="base64">ICsgIikiOw==</text>
       </register>
       <register name="/" type="4">
         <text>sendWeixin</text>
@@ -571,28 +571,28 @@
         <text>{&quot;custid&quot;:42, &quot;products&quot;:[{&quot;id&quot;:123, &quot;price&quot;:&quot;22.5&quot;, &quot;cnt&quot;:3},{&quot;id&quot;:456, &quot;price&quot;:&quot;122.5&quot;, &quot;cnt&quot;:1}]}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWx1ZXMuYXBwZW5kKCIpIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuYXBwZW5kKCIpLCIpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJbnRlZ2VyIGkgPQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWx1ZXMuYXBwZW5kKCIpIik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgb3JkZXJUaW1lID0gQ29uc3QuRGF0ZUZNVC55eXl5TU1kZEhIbW1zcy5mb3JtYXQobmV3IERhdGUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBJbnRlZ2VyIGkgPQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9yZGVyVGltZSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgb3JkZXJUaW1lID0gQ29uc3QuRGF0ZUZNVC55eXl5TU1kZEhIbW1zcy5mb3JtYXQobmV3IERhdGUoKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcm9kdWN0cy5mb3JFYWNoKGlkIC0+IGluQ29uZGl0LmFwcGVuZChpZCkuYXBwZW5kKCIsIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIG9yZGVyVGltZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwcm9kdWN0cy5mb3JFYWNoKGlkIC0+IGluQ29uZGl0LmFwcGVuZChpZCkuYXBwZW5kKCIsIikpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">QQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
