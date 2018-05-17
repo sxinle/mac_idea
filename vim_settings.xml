@@ -188,9 +188,9 @@
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" timestamp="1526475512741">
         <mark key="'" line="19" column="124" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" timestamp="1526452536010">
-        <mark key="'" line="55" column="0" />
-        <mark key="[" line="79" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" timestamp="1526524215520">
+        <mark key="'" line="12" column="12" />
+        <mark key="[" line="12" column="0" />
         <mark key="]" line="79" column="70" />
         <mark key="." line="79" column="69" />
         <mark key="^" line="79" column="69" />
@@ -221,12 +221,12 @@
         <mark key="." line="302" column="63" />
         <mark key="^" line="302" column="63" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" timestamp="1526455714637">
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" timestamp="1526524194915">
         <mark key="'" line="1" column="23" />
         <mark key="[" line="1" column="27" />
-        <mark key="]" line="1" column="40" />
-        <mark key="." line="1" column="40" />
-        <mark key="^" line="1" column="40" />
+        <mark key="]" line="1" column="39" />
+        <mark key="." line="1" column="39" />
+        <mark key="^" line="1" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" timestamp="1526522031969">
         <mark key="'" line="430" column="4" />
@@ -251,7 +251,7 @@
       <file name="$USER_HOME$/workspace/jinhui/prod/crm/conf/application.conf" timestamp="1526012775308">
         <mark key="'" line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/resources/config.json" timestamp="1526455394535">
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/resources/config.json" timestamp="1526524016180">
         <mark key="[" line="20" column="40" />
         <mark key="]" line="20" column="41" />
         <mark key="." line="20" column="41" />
@@ -374,7 +374,7 @@
         <mark key="'" line="49" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/cart/CartController.java" timestamp="1526363674153" />
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" timestamp="1526475137121">
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" timestamp="1526523988722">
         <mark key="'" line="250" column="33" />
         <mark key="[" line="286" column="57" />
         <mark key="]" line="286" column="59" />
@@ -429,7 +429,7 @@
         <mark key="^" line="47" column="59" />
         <mark key="." line="47" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/application.conf" timestamp="1526455229473">
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/application.conf" timestamp="1526524086669">
         <mark key="'" line="69" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/micros-template/src/main/java/com/acenode/micros/template/service/TempService.java" timestamp="1524564174419">
@@ -498,9 +498,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="124" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
-      <jump line="43" column="117" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
-      <jump line="392" column="51" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/application.conf" />
       <jump line="165" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/MiscServiceImpl.java" />
       <jump line="407" column="56" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" />
@@ -598,6 +595,9 @@
       <jump line="660" column="29" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/MiscServiceImpl.java" />
       <jump line="304" column="5" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="430" column="4" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" />
+      <jump line="49" column="48" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
+      <jump line="12" column="12" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -607,13 +607,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>bottle</text>
+        <text>localhost</text>
       </register>
       <register name="/" type="4">
         <text>allPlan</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBnZXRPcmRlcnMoUm91dGluZ0NvbnRleHQgY29udGV4dCkgewogICAgICAgIG9yZGVyU2VydmljZS5nZXRPcmRlcnMoZ2V0VXNlck5hbWUoY29udGV4dCksIHJlc3VsdEhhbmRsZXIoY29udGV4dCkpOwogICAgfQo=</text>
+        <text encoding="base64">LS0g5L+u5pS5Y29tcGFueeihqO+8jOWwhk5D57O757uf5Lit55qESUTnu5Hlrprov5vmnaUKQUxURVIgVEFCTEUgImNybSIuImNvbXBhbnkiIEFERCBDT0xVTU4gbmNfaWQgdmFyY2hhcig2KSBERUZBVUxUIDAgQ09MTEFURSAiZGVmYXVsdCI7CkNPTU1FTlQgT04gQ09MVU1OICJjcm0iLiJjb21wYW55Ii4ibmNfaWQiIElTICdOQ+ezu+e7n+S4re+8jOWFrOWPuOeahOS4u+mUrklEJzsKdXBkYXRlIGNybS5jb21wYW55IHNldCBuY19pZD0nMDEwMScgd2hlcmUgY29tcGFueW5hbWU9J+mHkeW+vemFkuWFsOW3numUgOWUruaciemZkOWFrOWPuCc7CnVwZGF0ZSBjcm0uY29tcGFueSBzZXQgbmNfaWQ9JzAxMDInIHdoZXJlIGNvbXBhbnluYW1lPSfph5Hlvr3phZLpmYfljZfplIDllK7mnInpmZDlhazlj7gnOwp1cGRhdGUgY3JtLmNvbXBhbnkgc2V0IG5jX2lkPScwMTAzJyB3aGVyZSBjb21wYW55bmFtZT0n6KW/6JeP6YeR5b695a6e5Lia5pyJ6ZmQ5YWs5Y+4JzsKdXBkYXRlIGNybS5jb21wYW55IHNldCBuY19pZD0nMDEwNCcgd2hlcmUgY29tcGFueW5hbWU9J+mHkeW+vemFkumUgOWUruilv+WuieaciemZkOWFrOWPuCc7CgotLSDorqLljZXov73liqDlpKfljLrkuJrliqHvvIxOQ+mcgOimgQpBTFRFUiBUQUJMRSAib3JkZXJzIi4ib3JkZXJfaW5mbyIgQUREIENPTFVNTiBzYWxlc21hbiB2YXJjaGFyKDUwKSBDT0xMQVRFICJkZWZhdWx0IjsKLS0g57uP6ZSA5ZWG5aKe5YqgZmluYW5jZWNvZGXvvIhOQ+eahOe7j+mUgOWVhmNvZGXvvIkKQUxURVIgVEFCTEUgImNybSIuImN1c3RvbWVyX2luZm8iIEFERCBDT0xVTU4gZmluYW5jZWNvZGUgdmFyY2hhcigyMCkgQ09MTEFURSAiZGVmYXVsdCI7Ci0tIOWHuuW6k+WNleS7k+W6k0lE5pS55Li6dmFyY2hhcgphbHRlciB0YWJsZSAib3JkZXJzIi4ibG9naXN0aWNzX2luZm8iIGFsdGVyICBzdG9yZWlkICB0eXBlIHZhcmNoYXIoMjApIENPTExBVEUgImRlZmF1bHQiIDsKLS0g6ZO26KGM5Zue6LCD5aKe5YqgdXBkYXRlX2F05a2X5q6177yM5qCH6K6w5pe26Ze0CmFsdGVyIHRhYmxlIGFjY291bnRfbG9nIGFkZCBjb2x1bW4gInVwZGF0ZV9hdCIgdGltZXN0YW1wKDYpIGRlZmF1bHQgbm93KCk7CgoKLS0gIyMj5rWB56iL5a6a5LmJ6KGoCkNSRUFURSBUQUJMRSBJRiBOT1QgRVhJU1RTICJvcmRlcnMiLiJicG1uX2Zsb3ciICgKICAiaWQiICAgICAgICBTRVJJQUwgUFJJTUFSWSBLRVkgTk9UIE5VTEwsCiAgImNvbXBpZCIgICAgSU5UNCBERUZBVUxUIDAsCiAgImJwbW5feG1sIiAgdGV4dCBDT0xMQVRFICJkZWZhdWx0IiwKICAiZGVsX2ZsYWciICBJTlQ0IERFRkFVTFQgMCwKICAiY3JlYXRlX2F0IiBUSU1FU1RBTVAoNikgREVGQVVMVCBub3coKSwKICAidXBkYXRlX2F0IiBUSU1FU1RBTVAoNikgREVGQVVMVCBub3coKQopIFdJVEggKE9JRFMgPSBGQUxTRSk7CkFMVEVSIFRBQkxFICJvcmRlcnMiLiJicG1uX2Zsb3ciIE9XTkVSIFRPICJqaF9wcm9kIjsKCkNSRUFURSBUQUJMRSAib3JkZXJzIi4iYnBtbl90YXNrIiAoCiAgImlkIiAgICAgICAgICAgICBTRVJJQUwgUFJJTUFSWSBLRVkgTk9UIE5VTEwsCiAgImZsb3dpZCIgICAgICAgICBJTlQ0LAogICJvcmRlcmlkIiAgICAgICAgSU5UNCwKICAiZXhlY3V0aW9uX2lkIiAgIFZBUkNIQVIoNTApIENPTExBVEUgImRlZmF1bHQiLAogICJleGVjdXRpb25fbmFtZSIgVkFSQ0hBUig1MCkgQ09MTEFURSAiZGVmYXVsdCIsCiAgIm93bmVyIiAgICAgICAgICBWQVJDSEFSKDIwKSBDT0xMQVRFICJkZWZhdWx0IiwKICAidmFycyIgICAgICAgICAgIFRFWFQsCiAgInN0YXR1cyIgICAgICAgICBWQVJDSEFSKDIwKSBDT0xMQVRFICJkZWZhdWx0IiwKICAiY3JlYXRlX2F0IiAgICAgIFRJTUVTVEFNUCg2KSAgICAgICBOVUxMIERFRkFVTFQgbm93KCksCiAgInVwZGF0ZV9hdCIgICAgICBUSU1FU1RBTVAoNikgICAgICAgTlVMTCBERUZBVUxUIG5vdygpCikgV0lUSCAoT0lEUyA9IEZBTFNFKTsKQUxURVIgVEFCTEUgIm9yZGVycyIuImJwbW5fdGFzayIgT1dORVIgVE8gImpoX3Byb2QiOwoKQ1JFQVRFIFRBQkxFICJvcmRlcnMiLiJicG1uX3Rhc2tfaGlzdCIgKAogICJpZCIgICAgICAgICAgICAgU0VSSUFMIFBSSU1BUlkgS0VZIE5PVCBOVUxMLAogICJ0YXNraWQiICAgICAgICAgSU5UNCwKICAiZXhlY3V0aW9uX25hbWUiIFZBUkNIQVIoMTApIENPTExBVEUgImRlZmF1bHQiLAogICJvcGVyYXRvciIgICAgICAgVkFSQ0hBUigyMCkgQ09MTEFURSAiZGVmYXVsdCIsCiAgIm9wZXIiICAgICAgICAgICBWQVJDSEFSKDEwKSBDT0xMQVRFICJkZWZhdWx0IiwKICAiZGV0YWlsIiAgICAgICAgIFZBUkNIQVIoMTAwKSBDT0xMQVRFICJkZWZhdWx0IiwKICAiY3JlYXRlX2F0IiAgICAgIFRJTUVTVEFNUCg2KSAgICAgICBOVUxMIERFRkFVTFQgbm93KCkKKSBXSVRIIChPSURTPUZBTFNFKTsKQUxURVIgVEFCTEUgIm9yZGVycyIuImJwbW5fdGFza19oaXN0IiBPV05FUiBUTyAiamhfcHJvZCI7Ci0tIOWIoOmZpG9wcmF0aW9uX2xvZ+ihqApEUk9QIFRBQkxFIG9wcmF0aW9uX2xvZzsKCkNSRUFURSBUQUJMRSAib3JkZXJzIi4ib3JkZXJfbGltaXQiICgKICAibWluX2NudCIgaW50NCwKICAiYnV5X3VuaXQiIHZhcmNoYXIoNCkgQ09MTEFURSAicGdfY2F0YWxvZyIuImRlZmF1bHQiCik7CgpBTFRFUiBUQUJMRSAib3JkZXJzIi4ib3JkZXJfbGltaXQiIE9XTkVSIFRPICJqaF9wcm9kIjsKSU5TRVJUIElOVE8gIm9yZGVycyIuIm9yZGVyX2xpbWl0IigibWluX2NudCIsICJidXlfdW5pdCIpIFZBTFVFUyAoMSwgJ+eTticpOwoKLS0g5aKe5Yqg6K6i5Y2V5YWo5bGA5Y2P6LCD566h55CG5ZGYCklOU0VSVCBJTlRPICJvcmRlcnMiLiJvcmRlcnNfcm9sZSIoInJvbGVpZCIsICJyb2xlbmFtZSIsICJyb2xlcm1rIikgVkFMVUVTICgxMCwgJ2dsb2JhbGRpc3BhdGNoJywgJ+WFqOWxgOiwg+W6picpOwoKYWx0ZXIgdGFibGUgb3JkZXJfaW5mbyBhZGQgY29sdW1uICJhcHBfc2FsZXMiIHZhcmNoYXIoMTYpIGRlZmF1bHQgTlVMTDsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
