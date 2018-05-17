@@ -65,6 +65,7 @@
         <mark key="^" line="11" column="48" />
         <mark key="." line="11" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/order/SalesOrderController.java" timestamp="1526546636127" />
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/sql/DisOrderOnline.xml" timestamp="1526379414800">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="33" column="47" />
@@ -210,9 +211,6 @@
         <mark key="^" line="4" column="50" />
         <mark key="." line="4" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" timestamp="1526475512741">
-        <mark key="'" line="19" column="124" />
-      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" timestamp="1526527951434">
         <mark key="'" line="59" column="48" />
         <mark key="[" line="0" column="0" />
@@ -242,6 +240,7 @@
         <mark key="." line="141" column="84" />
         <mark key="^" line="141" column="83" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/views/responsive/salesOrderSum.scala.html" timestamp="1526546593816" />
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/common/src/main/java/com/acenode/micros/common/RestVerticle.java" timestamp="1524123224947">
         <mark key="[" line="302" column="53" />
         <mark key="]" line="302" column="63" />
@@ -382,10 +381,7 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="5" column="14" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" timestamp="1526355120000">
-        <mark key="'" line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/BPMNServiceImpl.java" timestamp="1526455699320" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/BPMNServiceImpl.java" timestamp="1526546645751" />
       <file name="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/acenode/micros/auth/service/adapter/impl/SmngServiceImpl.java" timestamp="1526543448290">
         <mark key="'" line="99" column="0" />
         <mark key="[" line="81" column="31" />
@@ -404,12 +400,12 @@
         <mark key="." line="371" column="93" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/controllers/cart/CartController.java" timestamp="1526363674153" />
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" timestamp="1526523988722">
-        <mark key="'" line="250" column="33" />
-        <mark key="[" line="286" column="57" />
-        <mark key="]" line="286" column="59" />
-        <mark key="." line="286" column="59" />
-        <mark key="^" line="286" column="59" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" timestamp="1526547390999">
+        <mark key="'" line="61" column="25" />
+        <mark key="[" line="280" column="45" />
+        <mark key="]" line="299" column="45" />
+        <mark key="." line="98" column="67" />
+        <mark key="^" line="98" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/MiscServiceImpl.java" timestamp="1526475141615">
         <mark key="'" line="660" column="29" />
@@ -439,7 +435,7 @@
         <mark key="[" line="0" column="14" />
         <mark key="]" line="0" column="54" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526541094320">
+      <file name="/Dummy.txt" timestamp="1526546900806">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/commoncurd/src/main/java/com/acenode/micros/crud/emums/query/PGQuery.java" timestamp="1525190405975">
@@ -448,6 +444,7 @@
         <mark key="^" line="13" column="29" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/CommonServiceImpl.java" timestamp="1526546765869" />
       <file name="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/acenode/micros/auth/service/adapter/SmngService.java" timestamp="1524643088728">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="11" />
@@ -465,9 +462,6 @@
         <mark key="]" line="47" column="59" />
         <mark key="^" line="47" column="59" />
         <mark key="." line="47" column="59" />
-      </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/application.conf" timestamp="1526524086669">
-        <mark key="'" line="69" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1526537437220">
         <mark key="'" line="285" column="0" />
@@ -542,18 +536,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="59" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/MiscServiceImpl.java" />
-      <jump line="148" column="52" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/MiscServiceImpl.java" />
-      <jump line="159" column="52" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/MiscServiceImpl.java" />
-      <jump line="169" column="46" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/MiscServiceImpl.java" />
-      <jump line="173" column="43" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/MiscServiceImpl.java" />
-      <jump line="177" column="43" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/MiscServiceImpl.java" />
-      <jump line="402" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" />
-      <jump line="111" column="30" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" />
-      <jump line="27" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" />
-      <jump line="19" column="4" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/acenode/micros/common/service/BaseService.java" />
-      <jump line="22" column="10" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
-      <jump line="312" column="50" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/MiscServiceImpl.java" />
       <jump line="19" column="124" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
       <jump line="36" column="19" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/application.conf" />
@@ -594,7 +576,6 @@
       <jump line="49" column="36" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/application-context.xml" />
       <jump line="114" column="73" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
       <jump line="151" column="52" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
-      <jump line="172" column="62" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
       <jump line="150" column="52" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
       <jump line="127" column="75" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
       <jump line="168" column="93" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
@@ -642,6 +623,19 @@
       <jump line="285" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="108" column="25" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" />
       <jump line="13" column="34" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/config.properties" />
+      <jump line="38" column="14" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
+      <jump line="84" column="43" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
+      <jump line="105" column="44" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
+      <jump line="98" column="36" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
+      <jump line="99" column="36" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
+      <jump line="116" column="36" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
+      <jump line="129" column="56" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
+      <jump line="166" column="72" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
+      <jump line="170" column="72" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
+      <jump line="171" column="74" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
+      <jump line="172" column="71" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
+      <jump line="178" column="72" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
+      <jump line="61" column="25" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -654,10 +648,29 @@
         <text>String</text>
       </register>
       <register name="/" type="4">
-        <text>login</text>
+        <text encoding="base64">XDxwYXlsb2FkXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>/user/orderDetail</text>
+        <text>&quot;\nSELECT\n&quot; +
+            &quot;\tci.custname,\n&quot; +
+            &quot;\toi.amount,\n&quot; +
+            &quot;\toi.ordernum,\n&quot; +
+            &quot;\toi.orderid,\n&quot; +
+            &quot;\toi.remarks,\n&quot; +
+            &quot;\tpi.productid,\n&quot; +
+            &quot;\t'http://59.110.161.129:9223/productPhotos/box/' || pi.productid || '/' || pi.photobox AS photopath \n&quot; +
+            &quot;FROM\n&quot; +
+            &quot;\tcustomer_info ci,\n&quot; +
+            &quot;\torder_info oi,\n&quot; +
+            &quot;\tproduct_info pi,\n&quot; +
+            &quot;\torder_detail od,\n&quot; +
+            &quot;\tbpmn_task bt\n&quot; +
+            &quot;WHERE\n&quot; +
+            &quot;  bt.owner=?\n&quot; +
+            &quot;\tAND oi.userid = ci.custid \n&quot; +
+            &quot;\tAND oi.orderid = bt.orderid\n&quot; +
+            &quot;\tAND pi.productid = od.productid \n&quot; +
+            &quot;\tAND od.orderid = oi.orderid\n&quot;;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -691,9 +704,9 @@
       </register>
     </registers>
     <search>
-      <last-search>login</last-search>
+      <last-search encoding="base64">XDxwYXlsb2FkXD4=</last-search>
       <last-offset />
-      <last-pattern>login</last-pattern>
+      <last-pattern encoding="base64">XDxwYXlsb2FkXD4=</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -701,8 +714,6 @@
     </search>
     <history>
       <history-search>
-        <entry>spend</entry>
-        <entry>singleInventory</entry>
         <entry>weixin</entry>
         <entry>submit</entry>
         <entry>in</entry>
@@ -721,6 +732,8 @@
         <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
         <entry>detail</entry>
         <entry>login</entry>
+        <entry encoding="base64">XDxvcmRlcm5vXD4=</entry>
+        <entry encoding="base64">XDxwYXlsb2FkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzxcL3N0cm9uZz4vL2c=</entry>
