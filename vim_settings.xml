@@ -132,10 +132,10 @@
         <mark key="." line="132" column="122" />
         <mark key="^" line="132" column="122" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/config.properties" timestamp="1526541088754">
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/config.properties" timestamp="1526551615969">
         <mark key="'" line="13" column="34" />
-        <mark key="[" line="13" column="31" />
-        <mark key="]" line="13" column="34" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="82" />
         <mark key="." line="13" column="34" />
         <mark key="^" line="13" column="34" />
       </file>
@@ -635,27 +635,8 @@
       <register name="/" type="4">
         <text>timeout</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;\nSELECT\n&quot; +
-            &quot;\tci.custname,\n&quot; +
-            &quot;\toi.amount,\n&quot; +
-            &quot;\toi.ordernum,\n&quot; +
-            &quot;\toi.orderid,\n&quot; +
-            &quot;\toi.remarks,\n&quot; +
-            &quot;\tpi.productid,\n&quot; +
-            &quot;\t'http://59.110.161.129:9223/productPhotos/box/' || pi.productid || '/' || pi.photobox AS photopath \n&quot; +
-            &quot;FROM\n&quot; +
-            &quot;\tcustomer_info ci,\n&quot; +
-            &quot;\torder_info oi,\n&quot; +
-            &quot;\tproduct_info pi,\n&quot; +
-            &quot;\torder_detail od,\n&quot; +
-            &quot;\tbpmn_task bt\n&quot; +
-            &quot;WHERE\n&quot; +
-            &quot;  bt.owner=?\n&quot; +
-            &quot;\tAND oi.userid = ci.custid \n&quot; +
-            &quot;\tAND oi.orderid = bt.orderid\n&quot; +
-            &quot;\tAND pi.productid = od.productid \n&quot; +
-            &quot;\tAND od.orderid = oi.orderid\n&quot;;</text>
+      <register name="0" type="2">
+        <text encoding="base64">bmMud2Vic2VydmljZT1odHRwOi8vNjAuMTY0LjIwNy4xMTE6OTA4MS91YXB3cy9zZXJ2aWNlL25jLml0Zi5zb3dzLklTYWxlSW5mb1NlcnZpY2UK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB0b1JlcS5zZXRUaW1lb3V0KCkK</text>
