@@ -6,7 +6,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/order/SalesOrderController.java" timestamp="1526546636127" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/order/SalesOrderController.java" timestamp="1526609611798" />
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/sql/DisOrderOnline.xml" timestamp="1526379414800">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="33" column="47" />
@@ -91,11 +91,11 @@
         <mark key="^" line="141" column="83" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/views/responsive/salesOrderSum.scala.html" timestamp="1526546593816" />
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" timestamp="1526524194915">
-        <mark key="'" line="1" column="23" />
-        <mark key="[" line="1" column="27" />
-        <mark key="]" line="1" column="39" />
-        <mark key="." line="1" column="39" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" timestamp="1526609630954">
+        <mark key="'" line="3" column="23" />
+        <mark key="[" line="1" column="40" />
+        <mark key="]" line="1" column="41" />
+        <mark key="." line="1" column="41" />
         <mark key="^" line="1" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/MiscAPIVerticle.java" timestamp="1526539501067">
@@ -180,7 +180,7 @@
         <mark key="." line="828" column="72" />
         <mark key="^" line="828" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/user/UserController.java" timestamp="1526536917703">
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/user/UserController.java" timestamp="1526609885501">
         <mark key="'" line="215" column="49" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -190,25 +190,20 @@
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1526475171885">
         <mark key="'" line="304" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526607185686">
+      <file name="/Dummy.txt" timestamp="1526609297052">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/acenode/micros/gateway/GatewayVerticle.java" timestamp="1526548965745">
-        <mark key="[" line="125" column="0" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/util/ConfigUtil.java" timestamp="1526558000802">
         <mark key="'" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/CommonServiceImpl.java" timestamp="1526559890990">
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/CommonServiceImpl.java" timestamp="1526609892171">
         <mark key="'" line="116" column="38" />
         <mark key="[" line="61" column="31" />
         <mark key="]" line="61" column="31" />
         <mark key="^" line="61" column="31" />
         <mark key="." line="61" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/application.conf" timestamp="1526524086669">
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/application.conf" timestamp="1526609426833">
         <mark key="'" line="69" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/acenode/micros/common/service/impl/SQLServiceImpl.java" timestamp="1526441157626">
@@ -237,6 +232,7 @@
         <mark key="." line="154" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/BankServiceImpl.java" timestamp="1526557570391" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/RegionalServiceImpl.java" timestamp="1526610003683" />
       <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/acenode/micros/common/util/Const.java" timestamp="1526457083448">
         <mark key="[" line="18" column="19" />
         <mark key="]" line="18" column="34" />
@@ -248,8 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="488" column="41" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.1/vertx-core-3.5.1-sources.jar!/io/vertx/core/impl/VertxImpl.java" />
-      <jump line="617" column="37" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.1/vertx-core-3.5.1-sources.jar!/io/vertx/core/impl/VertxImpl.java" />
       <jump line="618" column="74" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.1/vertx-core-3.5.1-sources.jar!/io/vertx/core/impl/VertxImpl.java" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
       <jump line="21" column="65" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
@@ -264,7 +258,6 @@
       <jump line="1" column="23" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/application.conf" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/application.conf" />
-      <jump line="69" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/application.conf" />
       <jump line="49" column="36" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/application-context.xml" />
       <jump line="114" column="73" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
       <jump line="151" column="52" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
@@ -348,6 +341,9 @@
       <jump line="225" column="35" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/util/Constants.java" />
       <jump line="116" column="38" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/CommonServiceImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/target/scala-2.10/src_managed/main/views/html/responsive/orderDetail.template.scala" />
+      <jump line="30" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/application.conf" />
+      <jump line="69" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/application.conf" />
+      <jump line="3" column="23" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
