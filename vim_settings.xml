@@ -7,7 +7,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/order/SalesOrderController.java" timestamp="1526609611798" />
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/sql/DisOrderOnline.xml" timestamp="1526379414800">
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/sql/DisOrderOnline.xml" timestamp="1526624278754">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="33" column="47" />
         <mark key="." line="168" column="0" />
@@ -30,7 +30,8 @@
         <mark key="." line="13" column="10" />
         <mark key="^" line="13" column="10" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/util/CommonUtils.java" timestamp="1526558039875">
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/target/scala-2.10/classes/controllers/user/UserController$1.class" timestamp="1526624972269" />
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/util/CommonUtils.java" timestamp="1526624306975">
         <mark key="'" line="271" column="0" />
         <mark key="[" line="131" column="120" />
         <mark key="]" line="131" column="122" />
@@ -84,7 +85,7 @@
       <file name="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.1/vertx-core-3.5.1-sources.jar!/io/vertx/core/AbstractVerticle.java" timestamp="1526444157221">
         <mark key="'" line="83" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/UserServiceImpl.java" timestamp="1526536573282">
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/UserServiceImpl.java" timestamp="1526625340012">
         <mark key="[" line="141" column="84" />
         <mark key="]" line="141" column="87" />
         <mark key="." line="141" column="84" />
@@ -180,17 +181,17 @@
         <mark key="." line="828" column="72" />
         <mark key="^" line="828" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/user/UserController.java" timestamp="1526609885501">
-        <mark key="'" line="215" column="49" />
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="^" line="74" column="18" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/user/UserController.java" timestamp="1526625368139">
+        <mark key="'" line="88" column="0" />
+        <mark key="[" line="84" column="25" />
+        <mark key="]" line="84" column="25" />
+        <mark key="^" line="84" column="25" />
+        <mark key="." line="84" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1526475171885">
         <mark key="'" line="304" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526609297052">
+      <file name="/Dummy.txt" timestamp="1526624572334">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/util/ConfigUtil.java" timestamp="1526558000802">
@@ -205,6 +206,13 @@
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/application.conf" timestamp="1526609426833">
         <mark key="'" line="69" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1526625333346">
+        <mark key="'" line="30" column="126" />
+        <mark key="[" line="19" column="49" />
+        <mark key="]" line="19" column="49" />
+        <mark key="." line="19" column="49" />
+        <mark key="^" line="19" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/acenode/micros/common/service/impl/SQLServiceImpl.java" timestamp="1526441157626">
         <mark key="[" line="41" column="0" />
@@ -244,8 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="618" column="74" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.1/vertx-core-3.5.1-sources.jar!/io/vertx/core/impl/VertxImpl.java" />
-      <jump line="5" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
       <jump line="21" column="65" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
       <jump line="195" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
@@ -344,6 +350,8 @@
       <jump line="30" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/application.conf" />
       <jump line="69" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/application.conf" />
       <jump line="3" column="23" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" />
+      <jump line="30" column="126" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
+      <jump line="88" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/user/UserController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -353,13 +361,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">U3RyaW5nIA==</text>
+        <text encoding="base64">ICsgb3JkZXJJZA==</text>
       </register>
       <register name="/" type="4">
         <text>callback</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGludCBPUkRFUl9TVEFUVVNfQ09NUExFVEUgICAgPSAyOyAgLy8g6K6i5Y2V57uT5p2fCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVkaXJlY3QoIi91c2VyL29yZGVyRGV0YWlsLyIgKyBvcmRlcklkKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgIlx0YnBtbl90YXNrX2hpc3QgYnRoIFxuIiArCg==</text>
