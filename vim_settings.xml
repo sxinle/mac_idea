@@ -29,6 +29,11 @@
       <file name="$USER_HOME$/workspace/jinhui/prod/crm/conf/application.conf" timestamp="1526012775308">
         <mark key="'" line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application-context.xml" timestamp="1526718281218">
+        <mark key="[" line="86" column="67" />
+        <mark key="]" line="86" column="68" />
+        <mark key="." line="86" column="68" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/resources/config.json" timestamp="1526556833007">
         <mark key="[" line="10" column="15" />
         <mark key="]" line="10" column="16" />
@@ -159,8 +164,8 @@
         <mark key="^" line="70" column="21" />
         <mark key="." line="70" column="75" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1526631885269">
-        <mark key="'" line="21" column="45" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1526718501089">
+        <mark key="'" line="13" column="17" />
       </file>
       <file name="/Dummy.txt" timestamp="1526624572334">
         <mark key="[" line="0" column="0" />
@@ -188,12 +193,12 @@
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/application.conf" timestamp="1526609426833">
         <mark key="'" line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" timestamp="1526631922903">
-        <mark key="'" line="51" column="11" />
-        <mark key="[" line="51" column="11" />
-        <mark key="]" line="51" column="12" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" timestamp="1526718243960">
+        <mark key="'" line="20" column="40" />
+        <mark key="[" line="21" column="65" />
+        <mark key="]" line="21" column="66" />
         <mark key="^" line="2" column="25" />
-        <mark key="." line="51" column="12" />
+        <mark key="." line="21" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1526625333346">
         <mark key="'" line="30" column="126" />
@@ -223,6 +228,7 @@
         <mark key="." line="141" column="84" />
         <mark key="^" line="141" column="83" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/console/PrizeManager.java" timestamp="1526718630586" />
       <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/acenode/micros/common/service/BaseService.java" timestamp="1526453239119">
         <mark key="'" line="19" column="4" />
         <mark key="[" line="18" column="43" />
@@ -247,8 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="36" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/application-context.xml" />
-      <jump line="114" column="73" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
       <jump line="151" column="52" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
       <jump line="150" column="52" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
       <jump line="127" column="75" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
@@ -347,6 +351,8 @@
       <jump line="315" column="56" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="51" column="11" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
       <jump line="21" column="45" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
+      <jump line="20" column="40" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
+      <jump line="13" column="17" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -359,7 +365,7 @@
         <text encoding="base64">ICsgb3JkZXJJZA==</text>
       </register>
       <register name="/" type="4">
-        <text>luotuoma</text>
+        <text>appendPrize</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gcmVkaXJlY3QoIi91c2VyL29yZGVyRGV0YWlsLyIgKyBvcmRlcklkKTsK</text>
@@ -396,9 +402,9 @@
       </register>
     </registers>
     <search>
-      <last-search>luotuoma</last-search>
+      <last-search>appendPrize</last-search>
       <last-offset />
-      <last-pattern>luotuoma</last-pattern>
+      <last-pattern>appendPrize</last-pattern>
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
@@ -406,7 +412,6 @@
     </search>
     <history>
       <history-search>
-        <entry>tran</entry>
         <entry>already</entry>
         <entry>;</entry>
         <entry>flowid</entry>
@@ -426,6 +431,7 @@
         <entry>weixin</entry>
         <entry>spend</entry>
         <entry>luotuoma</entry>
+        <entry>appendPrize</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzxcL3N0cm9uZz4vL2c=</entry>
