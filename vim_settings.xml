@@ -167,7 +167,7 @@
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1526718501089">
         <mark key="'" line="13" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526624572334">
+      <file name="/Dummy.txt" timestamp="1526731234124">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/util/ConfigUtil.java" timestamp="1526558000802">
@@ -213,11 +213,12 @@
         <mark key="." line="42" column="12" />
         <mark key="^" line="42" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/FinanceOrderServiceImpl.java" timestamp="1526606642907">
-        <mark key="[" line="190" column="24" />
-        <mark key="]" line="190" column="39" />
-        <mark key="." line="190" column="39" />
-        <mark key="^" line="190" column="39" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/FinanceOrderServiceImpl.java" timestamp="1526731158193">
+        <mark key="'" line="208" column="51" />
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="86" column="126" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.1/vertx-core-3.5.1-sources.jar!/io/vertx/core/AbstractVerticle.java" timestamp="1526444157221">
         <mark key="'" line="83" column="20" />
@@ -228,7 +229,6 @@
         <mark key="." line="141" column="84" />
         <mark key="^" line="141" column="83" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/console/PrizeManager.java" timestamp="1526718630586" />
       <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/acenode/micros/common/service/BaseService.java" timestamp="1526453239119">
         <mark key="'" line="19" column="4" />
         <mark key="[" line="18" column="43" />
@@ -253,7 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="151" column="52" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
       <jump line="150" column="52" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
       <jump line="127" column="75" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
       <jump line="168" column="93" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
@@ -353,6 +352,7 @@
       <jump line="21" column="45" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="20" column="40" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
       <jump line="13" column="17" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
+      <jump line="208" column="51" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/FinanceOrderServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -362,7 +362,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICsgb3JkZXJJZA==</text>
+        <text encoding="base64">KFN0cmluZykg</text>
       </register>
       <register name="/" type="4">
         <text>appendPrize</text>
@@ -371,31 +371,31 @@
         <text encoding="base64">ICAgICAgICByZXR1cm4gcmVkaXJlY3QoIi91c2VyL29yZGVyRGV0YWlsLyIgKyBvcmRlcklkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlx0YnBtbl90YXNrX2hpc3QgYnRoIFxuIiArCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBjdXN0SWQgPSBvLmdldCgiY3VzdGlkIikgaW5zdAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB0b1JlcS5zZXRUaW1lb3V0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlx0YnBtbl90YXNrX2hpc3QgYnRoIFxuIiArCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0b1JlcS5zZXRUaW1lb3V0KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgICAgICAiXG5TRUxFQ1RcbiIgKwogICAgICAgICAgICAiXHRjaS5jdXN0bmFtZSxcbiIgKwogICAgICAgICAgICAiXHRvaS5hbW91bnQsXG4iICsKICAgICAgICAgICAgIlx0b2kub3JkZXJudW0sXG4iICsKICAgICAgICAgICAgIlx0b2kub3JkZXJpZCxcbiIgKwogICAgICAgICAgICAiXHRvaS5yZW1hcmtzLFxuIiArCiAgICAgICAgICAgICJcdHBpLnByb2R1Y3RpZCxcbiIgKwogICAgICAgICAgICAiXHQnaHR0cDovLzU5LjExMC4xNjEuMTI5OjkyMjMvcHJvZHVjdFBob3Rvcy9ib3gvJyB8fCBwaS5wcm9kdWN0aWQgfHwgJy8nIHx8IHBpLnBob3RvYm94IEFTIHBob3RvcGF0aCBcbiIgKwogICAgICAgICAgICAiRlJPTVxuIiArCiAgICAgICAgICAgICJcdGN1c3RvbWVyX2luZm8gY2ksXG4iICsKICAgICAgICAgICAgIlx0b3JkZXJfaW5mbyBvaSxcbiIgKwogICAgICAgICAgICAiXHRwcm9kdWN0X2luZm8gcGksXG4iICsKICAgICAgICAgICAgIlx0b3JkZXJfZGV0YWlsIG9kLFxuIiArCiAgICAgICAgICAgICJcdGJwbW5fdGFzayBidFxuIiArCiAgICAgICAgICAgICJXSEVSRVxuIiArCiAgICAgICAgICAgICIgIGJ0Lm93bmVyPT9cbiIgKwogICAgICAgICAgICAiXHRBTkQgb2kudXNlcmlkID0gY2kuY3VzdGlkIFxuIiArCiAgICAgICAgICAgICJcdEFORCBvaS5vcmRlcmlkID0gYnQub3JkZXJpZFxuIiArCiAgICAgICAgICAgICJcdEFORCBwaS5wcm9kdWN0aWQgPSBvZC5wcm9kdWN0aWQgXG4iICsKICAgICAgICAgICAgIlx0QU5EIG9kLm9yZGVyaWQgPSBvaS5vcmRlcmlkXG4iOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgICAgICAiXG5TRUxFQ1RcbiIgKwogICAgICAgICAgICAiXHRjaS5jdXN0bmFtZSxcbiIgKwogICAgICAgICAgICAiXHRvaS5hbW91bnQsXG4iICsKICAgICAgICAgICAgIlx0b2kub3JkZXJudW0sXG4iICsKICAgICAgICAgICAgIlx0b2kub3JkZXJpZCxcbiIgKwogICAgICAgICAgICAiXHRvaS5yZW1hcmtzLFxuIiArCiAgICAgICAgICAgICJcdHBpLnByb2R1Y3RpZCxcbiIgKwogICAgICAgICAgICAiXHQnaHR0cDovLzU5LjExMC4xNjEuMTI5OjkyMjMvcHJvZHVjdFBob3Rvcy9ib3gvJyB8fCBwaS5wcm9kdWN0aWQgfHwgJy8nIHx8IHBpLnBob3RvYm94IEFTIHBob3RvcGF0aCBcbiIgKwogICAgICAgICAgICAiRlJPTVxuIiArCiAgICAgICAgICAgICJcdGN1c3RvbWVyX2luZm8gY2ksXG4iICsKICAgICAgICAgICAgIlx0b3JkZXJfaW5mbyBvaSxcbiIgKwogICAgICAgICAgICAiXHRwcm9kdWN0X2luZm8gcGksXG4iICsKICAgICAgICAgICAgIlx0b3JkZXJfZGV0YWlsIG9kLFxuIiArCiAgICAgICAgICAgICJcdGJwbW5fdGFzayBidFxuIiArCiAgICAgICAgICAgICJXSEVSRVxuIiArCiAgICAgICAgICAgICIgIGJ0Lm93bmVyPT9cbiIgKwogICAgICAgICAgICAiXHRBTkQgb2kudXNlcmlkID0gY2kuY3VzdGlkIFxuIiArCiAgICAgICAgICAgICJcdEFORCBvaS5vcmRlcmlkID0gYnQub3JkZXJpZFxuIiArCiAgICAgICAgICAgICJcdEFORCBwaS5wcm9kdWN0aWQgPSBvZC5wcm9kdWN0aWQgXG4iICsKICAgICAgICAgICAgIlx0QU5EIG9kLm9yZGVyaWQgPSBvaS5vcmRlcmlkXG4iOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">R0VUICAgICAgICAgL2FwcGxvYWQvOnVzZXJOYW1lLzpwd2QvOm9yZGVySWQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRyb2xsZXJzLnVzZXIuVXNlckNvbnRyb2xsZXIuYXBwTG9hZCh1c2VyTmFtZTpTdHJpbmcsIHB3ZDpTdHJpbmcsIG9yZGVySWQ6SW50ZWdlcikK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">R0VUICAgICAgICAgL2FwcGxvYWQvOnVzZXJOYW1lLzpwd2QvOm9yZGVySWQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRyb2xsZXJzLnVzZXIuVXNlckNvbnRyb2xsZXIuYXBwTG9hZCh1c2VyTmFtZTpTdHJpbmcsIHB3ZDpTdHJpbmcsIG9yZGVySWQ6SW50ZWdlcikK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgdmlld3MuaHRtbC5vcmRlckRldGFpbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly9pbXBvcnQgdmlld3MuaHRtbC5vcmRlckRldGFpbDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -408,7 +408,7 @@
       <last-replace />
       <last-substitute>;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
