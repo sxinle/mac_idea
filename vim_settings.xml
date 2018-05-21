@@ -6,8 +6,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" timestamp="1526889030285">
-        <mark key="'" line="5" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" timestamp="1526892021805">
+        <mark key="'" line="1" column="40" />
         <mark key="[" line="1" column="40" />
         <mark key="]" line="1" column="41" />
         <mark key="." line="1" column="41" />
@@ -159,7 +159,7 @@
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/config.properties" timestamp="1526870442102">
         <mark key="'" line="33" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526891716688">
+      <file name="/Dummy.txt" timestamp="1526892180249">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -168,6 +168,7 @@
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/util/ConfigUtil.java" timestamp="1526558000802">
         <mark key="'" line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/finance/FinanceOrderController.java" timestamp="1526892163889" />
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" timestamp="1526733412214">
         <mark key="'" line="43" column="20" />
       </file>
@@ -200,14 +201,14 @@
         <mark key="^" line="2" column="25" />
         <mark key="." line="21" column="66" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1526889099693">
-        <mark key="'" line="23" column="25" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1526892062493">
+        <mark key="'" line="68" column="132" />
         <mark key="[" line="19" column="49" />
         <mark key="]" line="19" column="49" />
         <mark key="." line="19" column="49" />
         <mark key="^" line="19" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/FinanceOrderServiceImpl.java" timestamp="1526874670745">
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/FinanceOrderServiceImpl.java" timestamp="1526892145331">
         <mark key="'" line="155" column="6" />
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="0" />
@@ -232,8 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="53" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
       <jump line="59" column="48" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
       <jump line="7" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/done/login.scala.html" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/done/login.scala.html" />
@@ -332,6 +331,8 @@
       <jump line="301" column="21" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
       <jump line="304" column="42" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
       <jump line="45" column="22" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
+      <jump line="1" column="40" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" />
+      <jump line="68" column="132" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -344,7 +345,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>?</text>
+        <text>finance\/init</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKEpTT04udG9KU09OU3RyaW5nKG1hcCkuY29udGFpbnMoImRpc3BhdGNoIikpIHsKICAgICAgICAgICAgcmV0dXJuIHJlZGlyZWN0KCIvZGlzcGF0Y2gvaW5pdCIpOwogICAgICAgIH0gZWxzZSB7Cg==</text>
@@ -381,9 +382,9 @@
       </register>
     </registers>
     <search>
-      <last-search>?</last-search>
+      <last-search>finance\/init</last-search>
       <last-offset />
-      <last-pattern>?</last-pattern>
+      <last-pattern>finance\/init</last-pattern>
       <last-replace>?</last-replace>
       <last-substitute>wlq</last-substitute>
       <last-dir>1</last-dir>
@@ -391,7 +392,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXNwb25zZVw+</entry>
         <entry>detail</entry>
         <entry>login</entry>
         <entry encoding="base64">XDxvcmRlcm5vXD4=</entry>
@@ -411,6 +411,7 @@
         <entry>dispatch</entry>
         <entry>wlq</entry>
         <entry>?</entry>
+        <entry>finance\/init</entry>
       </history-search>
       <history-cmd>
         <entry>action AceAction</entry>
