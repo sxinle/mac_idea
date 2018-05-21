@@ -168,6 +168,9 @@
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/util/ConfigUtil.java" timestamp="1526558000802">
         <mark key="'" line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/crm/a/crm-1.0-SNAPSHOT/lib/a/controllers/role/RoleController.class" timestamp="1526897181650">
+        <mark key="'" line="53" column="33" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/finance/FinanceOrderController.java" timestamp="1526892163889" />
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" timestamp="1526733412214">
         <mark key="'" line="43" column="20" />
@@ -233,7 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="48" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql_update/alterDB.sql" />
       <jump line="7" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/done/login.scala.html" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/done/login.scala.html" />
       <jump line="57" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/done/login.scala.html" />
@@ -333,6 +335,7 @@
       <jump line="45" column="22" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
       <jump line="1" column="40" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" />
       <jump line="68" column="132" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
+      <jump line="53" column="33" filename="$USER_HOME$/workspace/jinhui/prod/crm/a/crm-1.0-SNAPSHOT/lib/a/controllers/role/RoleController.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -345,7 +348,7 @@
         <text>'</text>
       </register>
       <register name="/" type="4">
-        <text>finance\/init</text>
+        <text>getMenuList</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB9IGVsc2UgaWYgKEpTT04udG9KU09OU3RyaW5nKG1hcCkuY29udGFpbnMoImRpc3BhdGNoIikpIHsKICAgICAgICAgICAgcmV0dXJuIHJlZGlyZWN0KCIvZGlzcGF0Y2gvaW5pdCIpOwogICAgICAgIH0gZWxzZSB7Cg==</text>
@@ -382,9 +385,9 @@
       </register>
     </registers>
     <search>
-      <last-search>finance\/init</last-search>
+      <last-search>getMenuList</last-search>
       <last-offset />
-      <last-pattern>finance\/init</last-pattern>
+      <last-pattern>getMenuList</last-pattern>
       <last-replace>?</last-replace>
       <last-substitute>wlq</last-substitute>
       <last-dir>1</last-dir>
@@ -392,7 +395,6 @@
     </search>
     <history>
       <history-search>
-        <entry>detail</entry>
         <entry>login</entry>
         <entry encoding="base64">XDxvcmRlcm5vXD4=</entry>
         <entry encoding="base64">XDxwYXlsb2FkXD4=</entry>
@@ -412,6 +414,7 @@
         <entry>wlq</entry>
         <entry>?</entry>
         <entry>finance\/init</entry>
+        <entry>getMenuList</entry>
       </history-search>
       <history-cmd>
         <entry>action AceAction</entry>
