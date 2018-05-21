@@ -50,6 +50,7 @@
       <file name="$MAVEN_REPOSITORY$/io/vertx/vertx-mysql-postgresql-client/3.5.1/vertx-mysql-postgresql-client-3.5.1-sources.jar!/io/vertx/ext/asyncsql/impl/AsyncSQLConnectionImpl.java" timestamp="1526100247753">
         <mark key="'" line="100" column="52" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/views/responsive/cart.scala.html" timestamp="1526734700766" />
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/WeixinPrizeController.java" timestamp="1526632052461">
         <mark key="'" line="383" column="19" />
         <mark key="[" line="381" column="0" />
@@ -69,6 +70,10 @@
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/CartService.java" timestamp="1526733440352">
         <mark key="[" line="25" column="54" />
         <mark key="]" line="25" column="66" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/public/page/addr.js" timestamp="1526735084519">
+        <mark key="[" line="452" column="33" />
+        <mark key="]" line="452" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/anti/app/controllers/inventory/SingleInventoryController.java" timestamp="1525917528700">
         <mark key="'" line="99" column="37" />
@@ -91,6 +96,12 @@
         <mark key="]" line="131" column="122" />
         <mark key="." line="131" column="122" />
         <mark key="^" line="131" column="122" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/service/impl/CartServiceImpl.java" timestamp="1526735017923">
+        <mark key="[" line="418" column="34" />
+        <mark key="]" line="418" column="42" />
+        <mark key="." line="418" column="42" />
+        <mark key="^" line="418" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/config.properties" timestamp="1526551615969">
         <mark key="'" line="13" column="34" />
@@ -172,8 +183,11 @@
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1526718501089">
         <mark key="'" line="13" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1526731234124">
+      <file name="/Dummy.txt" timestamp="1526735091671">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="^" line="0" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/util/ConfigUtil.java" timestamp="1526558000802">
         <mark key="'" line="33" column="0" />
@@ -227,6 +241,10 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.1/vertx-core-3.5.1-sources.jar!/io/vertx/core/AbstractVerticle.java" timestamp="1526444157221">
         <mark key="'" line="83" column="20" />
+      </file>
+      <file name="/jdbc.properties" timestamp="1526735132005">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/UserServiceImpl.java" timestamp="1526625340012">
         <mark key="[" line="141" column="84" />
@@ -367,40 +385,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KFN0cmluZykg</text>
+        <text>多加公司校验]</text>
       </register>
       <register name="/" type="4">
         <text>submit</text>
       </register>
-      <register name="0" type="4">
-        <text>GetBindingPro</text>
+      <register name="0" type="2">
+        <text encoding="base64">amRiYy51cmw9amRiYzpwb3N0Z3Jlc3FsOi8vbG9jYWxob3N0OjU0MzIvamhfcHJvZAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBjdXN0SWQgPSBvLmdldCgiY3VzdGlkIikgaW5zdAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy/ojrflj5bmraTorqLljZXlupTor6XnlLHlk6rkupvplIDllK7lhazlj7jlrqHmibkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIlx0YnBtbl90YXNrX2hpc3QgYnRoIFxuIiArCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgTG9nZ2VyLmVycm9yKCIiKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0b1JlcS5zZXRUaW1lb3V0KCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBjdXN0SWQgPSBvLmdldCgiY3VzdGlkIikgaW5zdAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIlx0YnBtbl90YXNrX2hpc3QgYnRoIFxuIiArCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgICAgICAiXG5TRUxFQ1RcbiIgKwogICAgICAgICAgICAiXHRjaS5jdXN0bmFtZSxcbiIgKwogICAgICAgICAgICAiXHRvaS5hbW91bnQsXG4iICsKICAgICAgICAgICAgIlx0b2kub3JkZXJudW0sXG4iICsKICAgICAgICAgICAgIlx0b2kub3JkZXJpZCxcbiIgKwogICAgICAgICAgICAiXHRvaS5yZW1hcmtzLFxuIiArCiAgICAgICAgICAgICJcdHBpLnByb2R1Y3RpZCxcbiIgKwogICAgICAgICAgICAiXHQnaHR0cDovLzU5LjExMC4xNjEuMTI5OjkyMjMvcHJvZHVjdFBob3Rvcy9ib3gvJyB8fCBwaS5wcm9kdWN0aWQgfHwgJy8nIHx8IHBpLnBob3RvYm94IEFTIHBob3RvcGF0aCBcbiIgKwogICAgICAgICAgICAiRlJPTVxuIiArCiAgICAgICAgICAgICJcdGN1c3RvbWVyX2luZm8gY2ksXG4iICsKICAgICAgICAgICAgIlx0b3JkZXJfaW5mbyBvaSxcbiIgKwogICAgICAgICAgICAiXHRwcm9kdWN0X2luZm8gcGksXG4iICsKICAgICAgICAgICAgIlx0b3JkZXJfZGV0YWlsIG9kLFxuIiArCiAgICAgICAgICAgICJcdGJwbW5fdGFzayBidFxuIiArCiAgICAgICAgICAgICJXSEVSRVxuIiArCiAgICAgICAgICAgICIgIGJ0Lm93bmVyPT9cbiIgKwogICAgICAgICAgICAiXHRBTkQgb2kudXNlcmlkID0gY2kuY3VzdGlkIFxuIiArCiAgICAgICAgICAgICJcdEFORCBvaS5vcmRlcmlkID0gYnQub3JkZXJpZFxuIiArCiAgICAgICAgICAgICJcdEFORCBwaS5wcm9kdWN0aWQgPSBvZC5wcm9kdWN0aWQgXG4iICsKICAgICAgICAgICAgIlx0QU5EIG9kLm9yZGVyaWQgPSBvaS5vcmRlcmlkXG4iOwo=</text>
+        <text encoding="base64">ICAgICAgICB0b1JlcS5zZXRUaW1lb3V0KCkK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">R0VUICAgICAgICAgL2FwcGxvYWQvOnVzZXJOYW1lLzpwd2QvOm9yZGVySWQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRyb2xsZXJzLnVzZXIuVXNlckNvbnRyb2xsZXIuYXBwTG9hZCh1c2VyTmFtZTpTdHJpbmcsIHB3ZDpTdHJpbmcsIG9yZGVySWQ6SW50ZWdlcikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgIAogICAgICAgICAgICAiXG5TRUxFQ1RcbiIgKwogICAgICAgICAgICAiXHRjaS5jdXN0bmFtZSxcbiIgKwogICAgICAgICAgICAiXHRvaS5hbW91bnQsXG4iICsKICAgICAgICAgICAgIlx0b2kub3JkZXJudW0sXG4iICsKICAgICAgICAgICAgIlx0b2kub3JkZXJpZCxcbiIgKwogICAgICAgICAgICAiXHRvaS5yZW1hcmtzLFxuIiArCiAgICAgICAgICAgICJcdHBpLnByb2R1Y3RpZCxcbiIgKwogICAgICAgICAgICAiXHQnaHR0cDovLzU5LjExMC4xNjEuMTI5OjkyMjMvcHJvZHVjdFBob3Rvcy9ib3gvJyB8fCBwaS5wcm9kdWN0aWQgfHwgJy8nIHx8IHBpLnBob3RvYm94IEFTIHBob3RvcGF0aCBcbiIgKwogICAgICAgICAgICAiRlJPTVxuIiArCiAgICAgICAgICAgICJcdGN1c3RvbWVyX2luZm8gY2ksXG4iICsKICAgICAgICAgICAgIlx0b3JkZXJfaW5mbyBvaSxcbiIgKwogICAgICAgICAgICAiXHRwcm9kdWN0X2luZm8gcGksXG4iICsKICAgICAgICAgICAgIlx0b3JkZXJfZGV0YWlsIG9kLFxuIiArCiAgICAgICAgICAgICJcdGJwbW5fdGFzayBidFxuIiArCiAgICAgICAgICAgICJXSEVSRVxuIiArCiAgICAgICAgICAgICIgIGJ0Lm93bmVyPT9cbiIgKwogICAgICAgICAgICAiXHRBTkQgb2kudXNlcmlkID0gY2kuY3VzdGlkIFxuIiArCiAgICAgICAgICAgICJcdEFORCBvaS5vcmRlcmlkID0gYnQub3JkZXJpZFxuIiArCiAgICAgICAgICAgICJcdEFORCBwaS5wcm9kdWN0aWQgPSBvZC5wcm9kdWN0aWQgXG4iICsKICAgICAgICAgICAgIlx0QU5EIG9kLm9yZGVyaWQgPSBvaS5vcmRlcmlkXG4iOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgdmlld3MuaHRtbC5vcmRlckRldGFpbDsK</text>
+        <text encoding="base64">R0VUICAgICAgICAgL2FwcGxvYWQvOnVzZXJOYW1lLzpwd2QvOm9yZGVySWQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnRyb2xsZXJzLnVzZXIuVXNlckNvbnRyb2xsZXIuYXBwTG9hZCh1c2VyTmFtZTpTdHJpbmcsIHB3ZDpTdHJpbmcsIG9yZGVySWQ6SW50ZWdlcikK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
