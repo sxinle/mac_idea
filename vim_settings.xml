@@ -102,6 +102,11 @@
       <file name="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" timestamp="1526355120000">
         <mark key="'" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/BPMNServiceImpl.java" timestamp="1526968135880">
+        <mark key="'" line="143" column="0" />
+        <mark key="[" line="136" column="16" />
+        <mark key="]" line="136" column="27" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/application-context.xml" timestamp="1526455234784">
         <mark key="'" line="49" column="36" />
       </file>
@@ -235,9 +240,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/done/login.scala.html" />
-      <jump line="8" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/done/login.scala.html" />
-      <jump line="57" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/views/done/login.scala.html" />
       <jump line="18" column="50" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="35" column="87" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/UserServiceImpl.java" />
       <jump line="19" column="2" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
@@ -335,6 +337,9 @@
       <jump line="1" column="40" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/jdbc.properties" />
       <jump line="68" column="132" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="53" column="33" filename="$USER_HOME$/workspace/jinhui/prod/crm/a/crm-1.0-SNAPSHOT/lib/a/controllers/role/RoleController.class" />
+      <jump line="197" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/BPMNServiceImpl.java" />
+      <jump line="45" column="12" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/BPMNServiceImpl.java" />
+      <jump line="143" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/BPMNServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -350,7 +355,7 @@
         <text>getMenuList</text>
       </register>
       <register name="0" type="4">
-        <text>NC推送订单数据：</text>
+        <text>taskOutGoing</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
