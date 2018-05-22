@@ -198,8 +198,8 @@
         <mark key="." line="79" column="69" />
         <mark key="^" line="79" column="69" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/common/micros-mqttpush/src/main/java/com/acenode/micros/mqtt/push/PushAPIVerticle.java" timestamp="1526976763357">
-        <mark key="'" line="34" column="47" />
+      <file name="$USER_HOME$/workspace/micro-service/common/micros-mqttpush/src/main/java/com/acenode/micros/mqtt/push/PushAPIVerticle.java" timestamp="1526977709551">
+        <mark key="'" line="100" column="0" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
@@ -243,10 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="2" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
-      <jump line="379" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/WeixinPrizeController.java" />
-      <jump line="383" column="19" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/WeixinPrizeController.java" />
-      <jump line="215" column="28" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/UserServiceImpl.java" />
       <jump line="4" column="115" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="170" column="45" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="216" column="49" filename="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/user/UserController.java" />
@@ -343,6 +339,10 @@
       <jump line="143" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/BPMNServiceImpl.java" />
       <jump line="21" column="37" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/config.properties" />
       <jump line="34" column="47" filename="$USER_HOME$/workspace/micro-service/common/micros-mqttpush/src/main/java/com/acenode/micros/mqtt/push/PushAPIVerticle.java" />
+      <jump line="35" column="31" filename="$USER_HOME$/workspace/micro-service/common/micros-mqttpush/src/main/java/com/acenode/micros/mqtt/push/PushAPIVerticle.java" />
+      <jump line="45" column="40" filename="$USER_HOME$/workspace/micro-service/common/micros-mqttpush/src/main/java/com/acenode/micros/mqtt/push/PushAPIVerticle.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/micro-service/common/micros-mqttpush/src/main/java/com/acenode/micros/mqtt/push/PushAPIVerticle.java" />
+      <jump line="100" column="0" filename="$USER_HOME$/workspace/micro-service/common/micros-mqttpush/src/main/java/com/acenode/micros/mqtt/push/PushAPIVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -388,7 +388,7 @@
         <text encoding="base64">ICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICBiYWRSZXF1ZXN0KGNvbnRleHQsIGUpOwogICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -424,9 +424,6 @@
         <entry>getMenuList</entry>
       </history-search>
       <history-cmd>
-        <entry>action AceAction</entry>
-        <entry encoding="base64">JzwsJz5zL3B1YmxpYy9wcml2YXRlL2c=</entry>
-        <entry encoding="base64">JzwsJz5TLyIvL2c=</entry>
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
         <entry>nohl</entry>
         <entry>noh</entry>
@@ -443,7 +440,10 @@
         <entry>action $Redo</entry>
         <entry encoding="base64">JzwsJz5zL3dscS8/L2c=</entry>
         <entry>W</entry>
+        <entry>vsp</entry>
+        <entry>se nu</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
