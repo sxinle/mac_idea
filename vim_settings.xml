@@ -77,7 +77,7 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/views/responsive/recharge.scala.html" timestamp="1527064359637" />
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/views/responsive/recharge.scala.html" timestamp="1527069527023" />
       <file name="$USER_HOME$/workspace/jinhui/anti/app/controllers/inventory/SingleInventoryController.java" timestamp="1525917528700">
         <mark key="'" line="99" column="37" />
       </file>
@@ -182,6 +182,12 @@
       <file name="$USER_HOME$/workspace/jinhui/anti/conf/routes" timestamp="1525925376953">
         <mark key="'" line="512" column="66" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/wxzhifu/lib/WxPayConfig.java" timestamp="1527069906840">
+        <mark key="[" line="16" column="46" />
+        <mark key="]" line="16" column="63" />
+        <mark key="." line="16" column="63" />
+        <mark key="^" line="16" column="63" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1526718501089">
         <mark key="'" line="13" column="17" />
       </file>
@@ -205,7 +211,7 @@
         <mark key="." line="6" column="10" />
         <mark key="^" line="6" column="10" />
       </file>
-      <file name="/Dummy.txt" timestamp="1527064146764">
+      <file name="/Dummy.txt" timestamp="1527069913922">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
         <mark key="." line="0" column="18" />
@@ -217,8 +223,8 @@
       <file name="$USER_HOME$/workspace/jinhui/prod/crm/a/crm-1.0-SNAPSHOT/lib/a/controllers/role/RoleController.class" timestamp="1526897181650">
         <mark key="'" line="53" column="33" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" timestamp="1527064218434">
-        <mark key="'" line="115" column="24" />
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" timestamp="1527069775104">
+        <mark key="'" line="119" column="72" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/CommonServiceImpl.java" timestamp="1526889174532">
         <mark key="'" line="116" column="38" />
@@ -291,7 +297,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="349" column="5" filename="$USER_HOME$/workspace/jinhui/order-producer/app/util/CommonUtils.java" />
       <jump line="257" column="33" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/CommonServiceImpl.java" />
       <jump line="36" column="60" filename="$USER_HOME$/workspace/jinhui/order-producer/app/util/CommonUtils.java" />
       <jump line="371" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/util/CommonUtils.java" />
@@ -391,6 +396,7 @@
       <jump line="135" column="62" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/sql/BPMNMapper.xml" />
       <jump line="43" column="117" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
       <jump line="115" column="24" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
+      <jump line="119" column="72" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -400,10 +406,10 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>// App推送消息</text>
+        <text>192.168.32.104</text>
       </register>
       <register name="/" type="4">
-        <text>recharge</text>
+        <text>weixin</text>
       </register>
       <register name="0" type="4">
         <text>recharge</text>
@@ -440,9 +446,9 @@
       </register>
     </registers>
     <search>
-      <last-search>recharge</last-search>
+      <last-search>weixin</last-search>
       <last-offset />
-      <last-pattern>recharge</last-pattern>
+      <last-pattern>weixin</last-pattern>
       <last-replace>?</last-replace>
       <last-substitute>wlq</last-substitute>
       <last-dir>1</last-dir>
@@ -455,7 +461,6 @@
         <entry>领取奖品</entry>
         <entry>领 取</entry>
         <entry encoding="base64">XDxnZXRQcml6ZVw+</entry>
-        <entry>weixin</entry>
         <entry>spend</entry>
         <entry>luotuoma</entry>
         <entry>appendPrize</entry>
@@ -470,6 +475,7 @@
         <entry>resultHan</entry>
         <entry>next</entry>
         <entry>recharge</entry>
+        <entry>weixin</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
