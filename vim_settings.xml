@@ -45,11 +45,10 @@
       <file name="$MAVEN_REPOSITORY$/io/vertx/vertx-mysql-postgresql-client/3.5.1/vertx-mysql-postgresql-client-3.5.1-sources.jar!/io/vertx/ext/asyncsql/impl/AsyncSQLConnectionImpl.java" timestamp="1526100247753">
         <mark key="'" line="100" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/zest/scala/src/main/scala/test.scala" timestamp="1527129402867">
-        <mark key="[" line="6" column="11" />
-        <mark key="]" line="6" column="11" />
-        <mark key="." line="6" column="11" />
-        <mark key="^" line="6" column="14" />
+      <file name="$USER_HOME$/workspace/zest/scala/src/main/scala/test.scala" timestamp="1527133589669">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/service/AwardOrderService.java" timestamp="1527126303185" />
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/WeixinPrizeController.java" timestamp="1526632052461">
@@ -108,12 +107,6 @@
         <mark key="]" line="131" column="122" />
         <mark key="." line="131" column="122" />
         <mark key="^" line="131" column="122" />
-      </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/config.properties" timestamp="1527056332645">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="50" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" timestamp="1526631153728">
         <mark key="'" line="103" column="32" />
@@ -235,6 +228,10 @@
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" timestamp="1527069775104">
         <mark key="'" line="119" column="72" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/io/File.java" timestamp="1527131875944">
+        <mark key="'" line="148" column="13" />
+      </file>
+      <file name="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.6-sources.jar!/scala/collection/Iterator.scala" timestamp="1527133519396" />
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/CommonServiceImpl.java" timestamp="1526889174532">
         <mark key="'" line="116" column="38" />
         <mark key="[" line="61" column="31" />
@@ -273,6 +270,9 @@
         <mark key="." line="19" column="49" />
         <mark key="^" line="19" column="16" />
       </file>
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/net/URI.java" timestamp="1527131868302">
+        <mark key="'" line="240" column="1" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/FinanceOrderServiceImpl.java" timestamp="1526950699975">
         <mark key="'" line="155" column="6" />
         <mark key="[" line="174" column="22" />
@@ -306,8 +306,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="303" column="93" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
-      <jump line="299" column="32" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
       <jump line="301" column="21" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
       <jump line="304" column="42" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
       <jump line="45" column="22" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
@@ -406,6 +404,8 @@
       <jump line="342" column="27" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="227" column="152" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="386" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
+      <jump line="240" column="1" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/net/URI.java" />
+      <jump line="148" column="13" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/io/File.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -415,40 +415,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>from</text>
+        <text>elem</text>
       </register>
       <register name="/" type="4">
         <text>luotuoma</text>
       </register>
       <register name="0" type="4">
-        <text>updateSendStatus</text>
+        <text>Source.fromFile(new File(&quot;/Users/hsong/application.log&quot;)).getLines()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhbCBhOiBJbnQgPSAyCiAgICBwcmludGxuKGEpOwo=</text>
+        <text encoding="base64">ICAgIHZhciBwcmUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5ldyBDaGFyYWN0ZXJEYXRhMEUK</text>
+        <text encoding="base64">ICAgICAgaWYoZWxlbSkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGE9IDIK</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihpICsgZWxlbSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGFja2FnZSAgY29tLgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="4">
+        <text encoding="base64">LmZvcmVhY2goKHgsIGkpIC0+IHsKICAgICAKICAgIH0pOw==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50bAo=</text>
+        <text encoding="base64">ICAgIGZvciAoZWxlbSA8LSBTb3VyY2UuZnJvbUZpbGUobmV3IEZpbGUoIi9Vc2Vycy9oc29uZy9hcHBsaWNhdGlvbi5sb2ciKSkuZ2V0TGluZXMoKSkgewogICAgICBwcmludGxuKGVsZW0pCiAgICB9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaW50Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBqa2prCg==</text>
+        <text encoding="base64">ICAgICAgcHJpbnRsbihlbGVtKTt9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgewogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">aW1wb3J0IHNjYWxhLnN5cy5wcm9jZXNzLnByb2Nlc3NJbnRlcm5hbC5GaWxlCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
