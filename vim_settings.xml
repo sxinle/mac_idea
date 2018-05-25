@@ -29,9 +29,6 @@
         <mark key="." line="282" column="24" />
         <mark key="^" line="282" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/anti/app/util/KafkaProducerClient.java" timestamp="1527214590172">
-        <mark key="'" line="101" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/micros-code_center/src/main/resources/api.md" timestamp="1527217972149">
         <mark key="[" line="0" column="7" />
         <mark key="]" line="1" column="0" />
@@ -151,6 +148,11 @@
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/resources/config.json" timestamp="1527219014386">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="17" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/crm/sql_migrate/2018-05-03/审核.sql" timestamp="1527221536869">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="15" column="76" />
+        <mark key="." line="15" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/controllers/regional/RegionalController.java" timestamp="1527059863396" />
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/service/LogService.java" timestamp="1526962303315">
@@ -286,6 +288,13 @@
         <mark key="." line="57" column="0" />
         <mark key="^" line="56" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/db.sql" timestamp="1527221563674">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="23" column="7" />
+        <mark key="^" line="10" column="54" />
+        <mark key="." line="17" column="1" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1526892062493">
         <mark key="'" line="68" column="132" />
         <mark key="[" line="19" column="49" />
@@ -337,8 +346,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="8" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/config.properties" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/config.properties" />
       <jump line="171" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/BPMNServiceImpl.java" />
       <jump line="179" column="24" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/BPMNServiceImpl.java" />
       <jump line="185" column="12" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/BPMNServiceImpl.java" />
@@ -437,6 +444,8 @@
       <jump line="26" column="34" filename="$USER_HOME$/workspace/micro-service/code_center/micros-code_center/src/main/java/com/acenode/micros/ccenter/FormVerticle.java" />
       <jump line="1" column="17" filename="$USER_HOME$/workspace/micro-service/code_center/micros-code_center/src/main/resources/api.md" />
       <jump line="277" column="38" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/acenode/micros/misc/service/impl/OrderServiceImpl.java" />
+      <jump line="17" column="1" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/db.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/db.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -446,13 +455,13 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>jh_prod123</text>
+        <text>to_examine_info_id_seq</text>
       </register>
       <register name="/" type="4">
         <text>callback</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAiZGIuc3FsIjogewogICAgImhvc3QiOiAiMTI3LjAuMC4xIiwKICAgICJwb3J0IjogNTQzMiwKICAgICJtYXhQb29sU2l6ZSI6IDMwLAogICAgInVzZXJuYW1lIjogImpoX3Byb2QiLAogICAgInBhc3N3b3JkIjogImpoX3Byb2QxMjMiLAogICAgImRhdGFiYXNlIjogImpoX3Byb2QiLAogICAgImNoYXJzZXQiOiAiVVRGLTgiLAogICAgInF1ZXJ5VGltZW91dCI6IDEwMDAwCiAgfSwK</text>
+        <text encoding="base64">Q1JFQVRFIFNFUVVFTkNFICJjY2VudGVyX2NvcmUiLiJjb2RlX2JhdGNoX2lkX3NlcSIKICBJTkNSRU1FTlQgMQogIE1JTlZBTFVFIDEKICBNQVhWQUxVRSA5MjIzMzcyMDM2ODU0Nzc1ODA3CiAgU1RBUlQgMQogIENBQ0hFIDE7CkFMVEVSIFRBQkxFIGNjZW50ZXJfY29yZS5jb2RlX2JhdGNoX2lkX3NlcQogIE9XTkVSIFRPIHBvc3RncmVzOwoKQ1JFQVRFIFRBQkxFICJjY2VudGVyX2NvcmUiLiJ0Yl9jb2RlX2JhdGNoIiAoCiAgImlkIiAgICAgICAgaW50NCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBOT1QgTlVMTCBERUZBVUxUIG5leHR2YWwoJ2NvZGVfYmF0Y2hfaWRfc2VxJyA6OiByZWdjbGFzcyksCiAgImNvbXBfaWQiICAgdmFyY2hhcigyNTUpIENPTExBVEUgInBnX2NhdGFsb2ciLiJkZWZhdWx0IiBOT1QgTlVMTCwKICAicmFuZG9tX2lkIiB2YXJjaGFyKDQpIENPTExBVEUgInBnX2NhdGFsb2ciLiJkZWZhdWx0IiAgIE5PVCBOVUxMLAogICJyZW1hcmsiICAgIHZhcmNoYXIoMjU1KSBDT0xMQVRFICJwZ19jYXRhbG9nIi4iZGVmYXVsdCIsCiAgImNyZWF0ZV9hdCIgdGltZXN0YW1wKDYpICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBOT1QgTlVMTCwKICAib3BlciIgICAgICB2YXJjaGFyKDI1NSkgQ09MTEFURSAicGdfY2F0YWxvZyIuImRlZmF1bHQiIE5PVCBOVUxMLAogIENPTlNUUkFJTlQgInRiX2NvZGVfYmF0Y2hfcGtleSIgUFJJTUFSWSBLRVkgKCJpZCIpCik7CgpBTFRFUiBUQUJMRSAiY2NlbnRlcl9jb3JlIi4idGJfY29kZV9iYXRjaCIKICBPV05FUiBUTyAicG9zdGdyZXMiOwoKQ09NTUVOVCBPTiBDT0xVTU4gImNjZW50ZXJfY29yZSIuInRiX2NvZGVfYmF0Y2giLiJpZCIKSVMgJ+S4u+mUric7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
