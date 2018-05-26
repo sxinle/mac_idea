@@ -77,11 +77,11 @@
         <mark key="]" line="15" column="76" />
         <mark key="." line="15" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/acenode/micros/ccenter/service/CenterService.java" timestamp="1527300663075">
-        <mark key="[" line="13" column="68" />
-        <mark key="]" line="13" column="73" />
-        <mark key="^" line="13" column="73" />
-        <mark key="." line="13" column="73" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/acenode/micros/ccenter/service/CenterService.java" timestamp="1527303532450">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="10" />
+        <mark key="^" line="15" column="10" />
+        <mark key="." line="15" column="10" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/acenode/micros/common/BaseVerticle.java" timestamp="1527248266568">
         <mark key="'" line="251" column="0" />
@@ -277,11 +277,12 @@
         <mark key="^" line="25" column="61" />
         <mark key="." line="25" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/acenode/micros/ccenter/CenterAPIVerticle.java" timestamp="1527303444378">
-        <mark key="[" line="22" column="67" />
-        <mark key="]" line="22" column="66" />
-        <mark key="." line="27" column="78" />
-        <mark key="^" line="27" column="78" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/acenode/micros/ccenter/CenterAPIVerticle.java" timestamp="1527303660672">
+        <mark key="'" line="29" column="89" />
+        <mark key="[" line="29" column="117" />
+        <mark key="]" line="29" column="130" />
+        <mark key="." line="29" column="130" />
+        <mark key="^" line="29" column="130" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/LogBean.java" timestamp="1527041355178">
         <mark key="'" line="0" column="0" />
@@ -326,12 +327,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/acenode/micros/ccenter/service/impl/CenterServiceImpl.java" timestamp="1527302360965">
-        <mark key="'" line="32" column="71" />
-        <mark key="[" line="28" column="51" />
-        <mark key="]" line="28" column="63" />
-        <mark key="." line="28" column="63" />
-        <mark key="^" line="28" column="63" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/acenode/micros/ccenter/service/impl/CenterServiceImpl.java" timestamp="1527303545864">
+        <mark key="'" line="37" column="71" />
+        <mark key="[" line="34" column="15" />
+        <mark key="]" line="34" column="18" />
+        <mark key="." line="34" column="18" />
+        <mark key="^" line="34" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/micros-mqttpush/src/main/java/com/acenode/micros/mqtt/push/PushAPIVerticle.java" timestamp="1527054116886">
         <mark key="'" line="54" column="41" />
@@ -409,7 +410,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="148" column="13" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/io/File.java" />
       <jump line="8" column="28" filename="$USER_HOME$/workspace/zest/scala/src/main/scala/test.scala" />
       <jump line="11" column="23" filename="$USER_HOME$/workspace/zest/scala/src/main/scala/test.scala" />
       <jump line="12" column="27" filename="$USER_HOME$/workspace/zest/scala/src/main/scala/test.scala" />
@@ -509,6 +509,7 @@
       <jump line="5" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/db.sql" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/db.sql" />
       <jump line="32" column="22" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/acenode/micros/common/RestVerticle.java" />
+      <jump line="27" column="89" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/acenode/micros/ccenter/CenterAPIVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -518,7 +519,7 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>markdown</text>
+        <text>context.getBodyAsJson().put(&quot;id&quot;, context.pathParam(&quot;id&quot;))</text>
       </register>
       <register name="/" type="4">
         <text>markdown</text>
