@@ -105,7 +105,7 @@
         <mark key="^" line="33" column="11" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/acenode/micros/ccenter/util/MakeCodeThread.java" timestamp="1527753278068">
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/acenode/micros/ccenter/util/MakeCodeThread.java" timestamp="1527754588634">
         <mark key="'" line="109" column="8" />
         <mark key="[" line="56" column="85" />
         <mark key="]" line="56" column="84" />
@@ -166,12 +166,12 @@
         <mark key="^" line="25" column="61" />
         <mark key="." line="25" column="61" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/acenode/micros/ccenter/CenterAPIVerticle.java" timestamp="1527750721690">
-        <mark key="'" line="146" column="41" />
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="0" />
-        <mark key="^" line="179" column="15" />
-        <mark key="." line="177" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/acenode/micros/ccenter/CenterAPIVerticle.java" timestamp="1527754860066">
+        <mark key="'" line="108" column="4" />
+        <mark key="[" line="126" column="44" />
+        <mark key="]" line="126" column="49" />
+        <mark key="^" line="126" column="49" />
+        <mark key="." line="126" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/acenode/micros/ccenter/domain/BatchPlan.java" timestamp="1527479845569">
         <mark key="[" line="6" column="0" />
@@ -261,9 +261,6 @@
       <file name="$USER_HOME$/workspace/jinhui/prod/crm/app/util/IContents.java" timestamp="1527750820076" />
     </filemarks>
     <jumps>
-      <jump line="239" column="38" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/acenode/micros/ccenter/service/impl/CenterServiceImpl.java" />
-      <jump line="10" column="25" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/acenode/micros/ccenter/domain/Rule.java" />
-      <jump line="119" column="28" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/acenode/micros/ccenter/domain/Rule.java" />
       <jump line="35" column="19" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/acenode/micros/ccenter/domain/Rule.java" />
       <jump line="87" column="51" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/acenode/micros/ccenter/CenterAPIVerticle.java" />
       <jump line="25" column="2" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/api.md" />
@@ -361,6 +358,9 @@
       <jump line="146" column="41" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/acenode/micros/ccenter/CenterAPIVerticle.java" />
       <jump line="135" column="31" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/db.sql" />
       <jump line="153" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/db.sql" />
+      <jump line="41" column="24" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/acenode/micros/ccenter/CenterAPIVerticle.java" />
+      <jump line="177" column="29" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/acenode/micros/ccenter/CenterAPIVerticle.java" />
+      <jump line="108" column="4" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/acenode/micros/ccenter/CenterAPIVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -370,7 +370,7 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>token鉴权，挪到code_center里</text>
+        <text>page</text>
       </register>
       <register name="/" type="4">
         <text>com_jinhui</text>
