@@ -197,12 +197,12 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/db.sql" timestamp="1527747414807">
-        <mark key="'" line="50" column="93" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/db.sql" timestamp="1527751642010">
+        <mark key="'" line="153" column="0" />
         <mark key="[" line="144" column="25" />
         <mark key="]" line="144" column="27" />
         <mark key="^" line="144" column="27" />
-        <mark key="." line="144" column="27" />
+        <mark key="." line="58" column="82" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/acenode/micros/common/service/impl/SQLServiceImpl.java" timestamp="1527737840695" />
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/net/lingala/zip4j/util/ArchiveMaintainer.java" timestamp="1527643412933">
@@ -261,8 +261,6 @@
       <file name="$USER_HOME$/workspace/jinhui/prod/crm/app/util/IContents.java" timestamp="1527750820076" />
     </filemarks>
     <jumps>
-      <jump line="172" column="11" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/db.sql" />
-      <jump line="118" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/db.sql" />
       <jump line="239" column="38" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/acenode/micros/ccenter/service/impl/CenterServiceImpl.java" />
       <jump line="10" column="25" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/acenode/micros/ccenter/domain/Rule.java" />
       <jump line="119" column="28" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/acenode/micros/ccenter/domain/Rule.java" />
@@ -361,6 +359,8 @@
       <jump line="91" column="43" filename="$USER_HOME$/workspace/jinhui/prod/crm/app/controllers/product/ProductController.java" />
       <jump line="128" column="57" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/acenode/micros/ccenter/CenterAPIVerticle.java" />
       <jump line="146" column="41" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/acenode/micros/ccenter/CenterAPIVerticle.java" />
+      <jump line="135" column="31" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/db.sql" />
+      <jump line="153" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/db.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -373,7 +373,7 @@
         <text>token鉴权，挪到code_center里</text>
       </register>
       <register name="/" type="4">
-        <text>seeds</text>
+        <text>com_jinhui</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAicmVtYXJrIiAgICAgdmFyY2hhcigzMikgQ09MTEFURSAicGdfY2F0YWxvZyIuImRlZmF1bHQiLAo=</text>
@@ -410,9 +410,9 @@
       </register>
     </registers>
     <search>
-      <last-search>seeds</last-search>
+      <last-search>com_jinhui</last-search>
       <last-offset />
-      <last-pattern>seeds</last-pattern>
+      <last-pattern>com_jinhui</last-pattern>
       <last-replace>public</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
@@ -420,7 +420,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxERUZBVUxUX0NSRUFURVw+</entry>
         <entry encoding="base64">XDxjb2RlUGF5bG9hZFw+</entry>
         <entry>password</entry>
         <entry>comment</entry>
@@ -428,7 +427,6 @@
         <entry encoding="base64">XDxBcmNoaXZlTWFpbnRhaW5lclw+</entry>
         <entry>tb_batch_rules</entry>
         <entry encoding="base64">XDxUQl9SVUxFXD4=</entry>
-        <entry>com</entry>
         <entry>tb_order</entry>
         <entry>订单</entry>
         <entry>rule</entry>
@@ -440,6 +438,8 @@
         <entry>planId</entry>
         <entry>filePath</entry>
         <entry>seeds</entry>
+        <entry>com</entry>
+        <entry>com_jinhui</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzgwODEvODA4OS9n</entry>
