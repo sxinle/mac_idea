@@ -94,6 +94,9 @@
         <mark key="." line="65" column="118" />
         <mark key="^" line="65" column="118" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.1/vertx-core-3.5.1-sources.jar!/io/vertx/core/json/JsonObject.java" timestamp="1528170472538">
+        <mark key="'" line="296" column="16" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/trace_api_server/app/controllers/api/sync/KafkaConsumer.java" timestamp="1528165025199" />
       <file name="$USER_HOME$/workspace/jinhui/prod/anti/app/Global.java" timestamp="1528163494223">
         <mark key="'" line="66" column="56" />
@@ -122,11 +125,11 @@
         <mark key="." line="211" column="21" />
         <mark key="^" line="211" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/CenterServiceImpl.java" timestamp="1528167103493">
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/CenterServiceImpl.java" timestamp="1528170802090">
         <mark key="'" line="654" column="12" />
-        <mark key="[" line="718" column="83" />
-        <mark key="]" line="718" column="83" />
-        <mark key="." line="718" column="83" />
+        <mark key="[" line="635" column="16" />
+        <mark key="]" line="635" column="16" />
+        <mark key="." line="635" column="16" />
         <mark key="^" line="718" column="79" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/anti/conf/sql/SingleInventoryInfo.xml" timestamp="1528163688081">
@@ -188,7 +191,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="29" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/GithubMkdCSS.java" />
       <jump line="32" column="31" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/GithubMkdCSS.java" />
       <jump line="61" column="18" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/GithubMkdCSS.java" />
       <jump line="80" column="35" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/GithubMkdCSS.java" />
@@ -288,6 +290,7 @@
       <jump line="309" column="28" filename="$USER_HOME$/workspace/jinhui/prod/anti/conf/sql/MakeCode.xml" />
       <jump line="345" column="43" filename="$USER_HOME$/workspace/jinhui/prod/anti/conf/sql/MakeCode.xml" />
       <jump line="654" column="12" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/CenterServiceImpl.java" />
+      <jump line="296" column="16" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.1/vertx-core-3.5.1-sources.jar!/io/vertx/core/json/JsonObject.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -297,7 +300,7 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>5432</text>
+        <text>isNullOrEmpty</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb2RlXD4=</text>
