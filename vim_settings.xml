@@ -450,6 +450,12 @@
         <mark key="." line="88" column="43" />
         <mark key="^" line="88" column="43" />
       </file>
+      <file name="$USER_HOME$/workspace/scala/src/main/scala/test.scala" timestamp="1528285316018">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="1" column="22" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/common/micros-mybatis-base/src/main/java/com/uuvalue/micros/mybatis/domain/UserMapper.xml" timestamp="1528198887062">
         <mark key="[" line="12" column="34" />
         <mark key="]" line="12" column="41" />
@@ -536,7 +542,7 @@
         <mark key="^" line="10" column="10" />
         <mark key="." line="10" column="12" />
       </file>
-      <file name="/fragment.java" timestamp="1528272423340">
+      <file name="/fragment.java" timestamp="1528285347125">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="5" />
         <mark key="^" line="0" column="6" />
@@ -550,8 +556,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="56" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/Global.java" />
-      <jump line="73" column="80" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/setup/Setup.java" />
       <jump line="200" column="19" filename="$USER_HOME$/workspace/jinhui/prod/anti/conf/sql/SingleInventoryInfo.xml" />
       <jump line="264" column="22" filename="$USER_HOME$/workspace/jinhui/prod/anti/conf/sql/SingleInventoryInfo.xml" />
       <jump line="310" column="22" filename="$USER_HOME$/workspace/jinhui/prod/anti/conf/sql/SingleInventoryInfo.xml" />
@@ -650,6 +654,8 @@
       <jump line="10" column="18" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/config.properties" />
       <jump line="37" column="125" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="191" column="32" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
+      <jump line="10" column="30" filename="$USER_HOME$/workspace/scala/src/main/scala/test.scala" />
+      <jump line="13" column="0" filename="$USER_HOME$/workspace/scala/src/main/scala/test.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -659,7 +665,7 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>bean.operator</text>
+        <text>songhe</text>
       </register>
       <register name="/" type="4">
         <text>startOrderFlow</text>
@@ -668,22 +674,22 @@
         <text>param.get(&quot;vars&quot;).get(&quot;custid&quot;).asText()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0Tm9kZS4K</text>
+        <text encoding="base64">cGFja2FnZSBjb20K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8cGx1Z2lucz4KICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDwhLS0gcGx1Z2luIHRvIGNyZWF0ZSBhIGBmYXQtamFyYCAtLT4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLXNoYWRlLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPC9wbHVnaW4+CiAgICAgICAgPC9wbHVnaW5zPgo=</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Y29uZmlnRmlsZT5jb25maWcgZmlsZW5hbWU8L2NvbmZpZ0ZpbGU+Cg==</text>
+        <text encoding="base64">ICBkZWYgbWFpbihhcmdzOiBBcnJheVtTdHJpbmddKTogVW5pdCA9IHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y3VybCAtaSAtWCBQT1NUIFwKICAgLUggIkNvbnRlbnQtVHlwZTphcHBsaWNhdGlvbi9qc29uIiBcCiAgIC1kIFwKJ3sKICAidXNlck5hbWUiOiJ1c2VyMDAxIiwKICAicGFzcyI6InlzYzEiLAogICJkZXNjIjoi5byg5LiJMiIKfScgXAogJ2h0dHA6Ly9sb2NhbGhvc3Q6ODA3MC9zdXBwbGllcnMnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5lcnIucHJpbnRsbihUaHJlYWQuY3VycmVudFRocmVhZCgpLmdldE5hbWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyMjIyMg5re75Yqg5om55qyh6K6h5YiSIGAvYmF0Y2hQbGFuYApgYGAKY3VybCAtaSAtWCBQT1NUIFwKICAgLUggIkNvbnRlbnQtVHlwZTphcHBsaWNhdGlvbi9qc29uIiBcCiAgIC1kIFwKJ3sKICAicmVtYXJrIjoiYWRtaW4iCn0gCicgXAogJ2h0dHA6Ly9sb2NhbGhvc3Q6ODA3MC9iYXRjaFBsYW4nCmBgYAoKIyMjIyMg5re75Yqg6KeE5YiZIGAvcnVsZWAKYGBgCmN1cmwgLWkgLVggUE9TVCBcCiAgICAgIC1IICJDb250ZW50LVR5cGU6YXBwbGljYXRpb24vanNvbiIgXAogICAgICAtZCBcCiAgICAgICd7CiAgICAgICAgICAibmFtZSI6IuWQjeensCIsCiAgICAgICAgICAicmVtYXJrIjoi5aSH5rOoIiwKICAgICAgICAgICJjb2RlTGVuIjoxMCwKICAgICAgICAgICJwcmVmaXgiOiAiMTgiLAogICAgICAgICAgImRpZ2l0cyI6IDEsCiAgICAgICAgICAibG93ZXJDaGFyIjogMSwKICAgICAgICAgICJ1cHBlckNoYXIiOiAxLAogICAgICAgICAgInN5bWJvbCI6IDEsCiAgICAgICAgICAiY2hlY2tzdW0iOiAxLAogICAgICAgICAgImxldmVsIjowLAogICAgICAgICAgIndpdGhvdXRJTyI6IDAKICAgICAgfQogICAgJyBcCiAgICAnaHR0cDovL2xvY2FsaG9zdDo4MDcwL3J1bGUnCmBgYAojIyMjIyDop4TliJnliJfooaggYC9ydWxlYApgYGAKY3VybCAtaSAtWCBHRVQgXAogJ2h0dHA6Ly9sb2NhbGhvc3Q6ODA3MC9ydWxlJwpgYGAKCiMjIyMjIOWIoOmZpOinhOWImSBgL3J1bGUvNGAKYGBgCmN1cmwgLWkgLVggREVMRVRFIFwKICdodHRwOi8vbG9jYWxob3N0OjgwNzAvcnVsZS81JwpgYGAKCiMjIyMjIOS/ruaUueinhOWImSBgL3J1bGVgCmBgYApjdXJsIC1pIC1YIFBVVCBcCiAgIC1IICJDb250ZW50LVR5cGU6YXBwbGljYXRpb24vanNvbiIgXAogICAtZCBcCid7CiAgICAiaWQiOiA2LAogICAgIm5hbWUiOiAi5ZCN56ewbW9kaWZ5IiwKICAgICJyZW1hcmsiOiAi5aSH5rOoIiwKICAgICJjb2RlTGVuIjogMTAsCiAgICAicHJlZml4IjogIjE4IiwKICAgICJkaWdpdHMiOiAxLAogICAgImxvd2VyQ2hhciI6IDEsCiAgICAidXBwZXJDaGFyIjogMSwKICAgICJzeW1ib2wiOiAxLAogICAgImNoZWNrc3VtIjogMSwKICAgICJsZXZlbCI6IDAsCiAgICAid2l0aG91dElPIjogMQp9CicgXAogJ2h0dHA6Ly9sb2NhbGhvc3Q6ODA3MC9ydWxlJwpgYGAKCiMjIyMjIOS/ruaUueS+m+W6lOWVhiBgL3N1cHBsaWVycy8xYApgYGAKY3VybCAtaSAtWCBQVVQgXAogICAtSCAiQ29udGVudC1UeXBlOmFwcGxpY2F0aW9uL2pzb24iIFwKICAgLWQgXAonewogICJwYXNzIjoieXNjMTExIiwKICAiZGVzYyI6IuW8oOS4iTIyMiIKfScgXAogJ2h0dHA6Ly9sb2NhbGhvc3Q6ODA3MC9zdXBwbGllcnMvMTcnCmBgYAoKIyMjIyMg5p+l6K+i5YWo6YOo5L6b5bqU5ZWGIGAvc3VwcGxpZXJzYApgYGAKIGN1cmwgLWkgLVggR0VUIFwKICdodHRwOi8vbG9jYWxob3N0OjgwNzAvc3VwcGxpZXJzLycKYGBgCgojIyMjIyDmjInlkI3np7Dmn6Xor6LkvpvlupTllYYgYC9zdXBwbGllcnMv5L6b5bqU5ZWGM2AKYGBgCiBjdXJsIC1pIC1YIEdFVCBcCiAnaHR0cDovL2xvY2FsaG9zdDo4MDcwL3N1cHBsaWVycy/kvpvlupTllYYzJwpgYGAKICAKIyMjIyMg5Yig6Zmk5L6b5bqU5ZWGIGAvc3VwcGxpZXJzLzMsN2AgCmBgYApjdXJsIC1pIC1YIERFTEVURSBcCiAnaHR0cDovL2xvY2FsaG9zdDo4MDcwL3N1cHBsaWVycy8zLDcnCmBgYAoKIyMjIyMg5oyH5rS+5L6b5bqU5ZWGIGAvYXNzaWduU3VwcGxpZXJgIApgYGAKY3VybCAtaSAtWCBQT1NUIFwKICAgLUggIkNvbnRlbnQtVHlwZTphcHBsaWNhdGlvbi9qc29uIiBcCiAgIC1kIFwKJ3sKICJvcmRlck5vIjoiaGVsbG8yMjMyMyIsCiAic3VwcGxpZXIiOjE3LAogImNvZGVzQ291bnQiOjEwMDAwMCwKICJydWxlSWQiOjYsCiAiYmF0Y2hObyI6IkswNiIKIH0nIFwKICdodHRwOi8vbG9jYWxob3N0OjgwNzAvYXNzaWduU3VwcGxpZXInCmBgYAogCiMjIyMjIOeUqOaIt+eZu+W9lS3kvpvlupTllYblkoznrqHnkIblkZggYC9sb2dpbmAgCmBgYApjdXJsIC1pIC1YIFBPU1QgXAogICAtSCAiZGV2VHlwZToxIiBcCiAgIC1IICJDb250ZW50LVR5cGU6YXBwbGljYXRpb24vanNvbiIgXAogICAtZCBcCid7CiAgImxvZ2luTmFtZSI6InN1cDEiLAogICJ0aW1lc3RhbXAiOiIwNTAzMTIzMzIxIiwKICAiYXV0aGVudGljYXRvciI6ImIxMGE0MjhhMzBmMjhhNjJiZDA4YjMzMTVhOTY0NDM4Igp9CicgXAogJ2h0dHA6Ly9sb2NhbGhvc3Q6ODA3MC9sb2dpbicKYGBgCgojIyMjIyDmn6Xor6LkvpvlupTllYbkuIvorqLljZXliJfooajmgLvmnaHmlbAgYC9vcmRlckNvdW50YCAKYGBgCmN1cmwgLWkgLVggR0VUIFwKICdodHRwOi8vbG9jYWxob3N0OjgwNzAvb3JkZXJDb3VudC8zJwpgYGAKCiMjIyMjIOafpeivouS+m+W6lOWVhuS4i+inhOWImeWIl+ihqCBgL3N1cHBsaWVyT3JkZXJzYCAKYGBgCmN1cmwgLWkgLVggR0VUIFwKICdodHRwOi8vbG9jYWxob3N0OjgwNzAvc3VwcGxpZXJPcmRlcnM/bGltaXQ9MyZwYWdlPTEnCmBgYAoKIyMjIyMg5qOA5rWL6K6i5Y2V546w5pyJ6KeE5YiZIGAvY2hlY2tPcmRlcmAgCmBgYAogY3VybCAtaSAtWCBHRVQgXAogJ2h0dHA6Ly9sb2NhbGhvc3Q6ODA3MC9jaGVja09yZGVyLzEvYmF0MDAyJwpgYGAKCiMjIyMjIOafpeivouaJgOacieiuouWNleWIl+ihqCBgL29yZGVyc2AgCmBgYApjdXJsIC1pIC1YIEdFVCBcCiAnaHR0cDovL2xvY2FsaG9zdDo4MDcwL29yZGVycycKYGBgCgojIyMjIyDmn6Xor6LkvpvlupTllYbkuIvop4TliJnliJfooaggYC9vcmRlcnMvMDIyMDMwYCAKYGBgCmN1cmwgLWkgLVggR0VUIFwKICdodHRwOi8vbG9jYWxob3N0OjgwNzAvb3JkZXJzLzAyMjAzMCcKYGBgCiMjIyMjIOiOt+WPlueUn+aIkOeggeaVsOaNriBgL2dldENvZGVzYCAKYGBgCmN1cmwgLWkgLVggR0VUIFwKICdodHRwOi8vbG9jYWxob3N0OjgwNzAvZ2V0Q29kZXM/YmF0Y2hObz1LMTYmb3JkZXJObz1oZWxsbzIyMzIzJnJ1bGVJZD03JnBhZ2U9MSZsaW1pdD0xNycKYGBgCiMjIyMjIFdFQumhtemdouS4i+i9vXppcOWMhSBgL2Rvd25sb2FkLzpvcmRlck5vYCAKYGBgCmN1cmwgLWkgLVggR0VUIFwKICdodHRwOi8vbG9jYWxob3N0OjgwNzAvZG93bmxvYWQvaGVsbG8yMjMyMycKYGBgCiMjIyMjIOWFs+iBlOWFs+ezu+S4iuS8oCBgL3VwbG9hZGAgCmBgYApjdXJsIC1pIC1YIFBPU1QgXAogICAtSCAiQ29udGVudC1UeXBlOmFwcGxpY2F0aW9uL2pzb24iIFwKICAgLWQgXAonewogICAgInRva2VuIjogIkY3T2RLMDZEWlo3K1FROEppak9pS1RTb3ZrWGNnUWFXc3pEZjJpeWdSM2s9IiwKICAgICJiYXRjaE5vIjogIkQ1QiIsCiAgICAib3JkZXJObyI6ICJOTzIwMTgwNjAxMTIzMTIzIiwKICAgICJwcm9kTm8iOiAiMjEyIiwKICAgICJwcm9kTmFtZSI6ICLph5Hlvr3kupTmmJ8iLAogICAgInByb1RpbWUiOiAiMjAxOC0wMS0yMSIsCiAgICAiZGF0YSI6IFt7CiAgICAgICAgImNhcENvZGUiOiAiR0hKSyIsCiAgICAgICAgImNhcElDb2RlIjogIkdISksiLAogICAgICAgICJib3hDb2RlIjogIkdISksiLAogICAgICAgICJjYXNlQ29kZSI6ICJHSEpLIiwKICAgICAgICAic2NhbkRhdGUiOiAiR0hKSyIKICAgIH0sIHsKICAgICAgICAiY2FwQ29kZSI6ICJHSEpLIiwKICAgICAgICAiY2FwSUNvZGUiOiAiR0hKSyIsCiAgICAgICAgImJveENvZGUiOiAiR0hKSyIsCiAgICAgICAgImNhc2VDb2RlIjogIkdISksiLAogICAgICAgICJzY2FuRGF0ZSI6ICJHSEpLIgogICAgfV0KfQonIFwKICdodHRwOi8vbG9jYWxob3N0OjgwNzAvdXBsb2FkJwpgYGAKIyMjIyMg5pWw5o2u5YWz6IGU6aqM6K+B5o6l5Y+jIGAvY2hlY2tgIApgYGAKY3VybCAtaSAtWCBQT1NUIFwKICAgLUggIkNvbnRlbnQtVHlwZTphcHBsaWNhdGlvbi9qc29uIiBcCiAgIC1kIFwKJ3sKICAgICJ0b2tlbiI6ICI3MjVkOTE5NzdmMTg5ZDQ5MzBjNjM0NGIwMTZkNTVkZSIsCiAgICAiZGF0YSI6IHsKICAgICAgICAiY2FwQ29kZSI6ICJHSEpLIiwKICAgICAgICAiY2FwSUNvZGUiOiAiR0hKSyIsCiAgICAgICAgImJveENvZGUiOiAiR0hKSyIsCiAgICAgICAgImNhc2VDb2RlIjogIkdISksiLAogICAgICAgICJzY2FuRGF0ZSI6ICIyMDE4MDYwNCIKICAgIH0KfQonIFwKICdodHRwOi8vbG9jYWxob3N0OjgwNzAvY2hlY2snCmBgYAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -692,7 +698,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -705,7 +711,7 @@
       <last-replace>public</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
