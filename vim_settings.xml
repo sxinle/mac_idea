@@ -412,8 +412,8 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/common/micros-mybatis-base/src/main/java/com/uuvalue/micros/mybatis/CenterAPIVerticle.java" timestamp="1528255317182">
-        <mark key="'" line="18" column="25" />
+      <file name="$USER_HOME$/workspace/micro-service/common/micros-mybatis-base/src/main/java/com/uuvalue/micros/mybatis/CenterAPIVerticle.java" timestamp="1528265396259">
+        <mark key="'" line="10" column="37" />
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
@@ -476,10 +476,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="6" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/api.md" />
-      <jump line="176" column="2" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/api.md" />
-      <jump line="53" column="55" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
-      <jump line="71" column="78" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/RestVerticle.java" />
       <jump line="250" column="53" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/db.sql" />
       <jump line="112" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/util/CodeProducer.java" />
       <jump line="210" column="25" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
@@ -571,11 +567,15 @@
       <jump line="81" column="30" filename="$USER_HOME$/workspace/micro-service/common/micros-mybatis-base/src/main/java/com/uuvalue/micros/mybatis/domain/User.java" />
       <jump line="105" column="4" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/CenterServiceImpl.java" />
       <jump line="62" column="25" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/util/CodeProducer.java" />
-      <jump line="18" column="25" filename="$USER_HOME$/workspace/micro-service/common/micros-mybatis-base/src/main/java/com/uuvalue/micros/mybatis/CenterAPIVerticle.java" />
       <jump line="15" column="24" filename="$USER_HOME$/workspace/micro-service/common/micros-mybatis-base/src/main/resources/api.md" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/micro-service/common/micros-mybatis-base/src/main/resources/api.md" />
       <jump line="13" column="0" filename="$USER_HOME$/workspace/micro-service/common/micros-mybatis-base/src/main/resources/api.md" />
       <jump line="55" column="76" filename="$USER_HOME$/workspace/micro-service/common/micros-mybatis-base/src/main/java/com/uuvalue/micros/mybatis/CenterVerticle.java" />
+      <jump line="27" column="4" filename="$USER_HOME$/workspace/micro-service/common/micros-mybatis-base/src/main/java/com/uuvalue/micros/mybatis/CenterAPIVerticle.java" />
+      <jump line="18" column="55" filename="$USER_HOME$/workspace/micro-service/common/micros-mybatis-base/src/main/java/com/uuvalue/micros/mybatis/CenterAPIVerticle.java" />
+      <jump line="22" column="11" filename="$USER_HOME$/workspace/micro-service/common/micros-mybatis-base/src/main/java/com/uuvalue/micros/mybatis/CenterAPIVerticle.java" />
+      <jump line="14" column="13" filename="$USER_HOME$/workspace/micro-service/common/micros-mybatis-base/src/main/java/com/uuvalue/micros/mybatis/CenterAPIVerticle.java" />
+      <jump line="10" column="37" filename="$USER_HOME$/workspace/micro-service/common/micros-mybatis-base/src/main/java/com/uuvalue/micros/mybatis/CenterAPIVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -588,7 +588,7 @@
         <text>class or service name</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">XDxDZW50ZXJBUElWZXJ0aWNsZVw+</text>
       </register>
       <register name="0" type="4">
         <text>vertx-hot-maven-plugin</text>
@@ -625,17 +625,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">IA==</last-search>
+      <last-search encoding="base64">XDxDZW50ZXJBUElWZXJ0aWNsZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">IA==</last-pattern>
+      <last-pattern encoding="base64">XDxDZW50ZXJBUElWZXJ0aWNsZVw+</last-pattern>
       <last-replace>public</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>resultHandler</entry>
         <entry encoding="base64">XDxzZXJ2ZXJcPg==</entry>
         <entry>meta.txt</entry>
         <entry>\/</entry>
@@ -655,6 +654,7 @@
         <entry encoding="base64">XDxtYXBwZXJMb2NhdGlvblw+</entry>
         <entry encoding="base64">XDxtYXBwZXJTY2FubmVyQ29uZmlndXJlclw+</entry>
         <entry encoding="base64">IA==</entry>
+        <entry encoding="base64">XDxDZW50ZXJBUElWZXJ0aWNsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzgwODEvODA4OS9n</entry>
