@@ -456,11 +456,12 @@
         <mark key="." line="88" column="43" />
         <mark key="^" line="88" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/scala/src/main/scala/test.scala" timestamp="1528359408776">
-        <mark key="[" line="5" column="40" />
-        <mark key="]" line="5" column="49" />
-        <mark key="." line="5" column="49" />
-        <mark key="^" line="5" column="49" />
+      <file name="$USER_HOME$/workspace/scala/src/main/scala/test.scala" timestamp="1528360759694">
+        <mark key="'" line="13" column="27" />
+        <mark key="[" line="13" column="25" />
+        <mark key="]" line="13" column="25" />
+        <mark key="." line="13" column="25" />
+        <mark key="^" line="13" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/micros-mybatis-base/src/main/java/com/uuvalue/micros/mybatis/domain/UserMapper.xml" timestamp="1528198887062">
         <mark key="[" line="12" column="34" />
@@ -657,11 +658,11 @@
       <jump line="37" column="125" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="191" column="32" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="10" column="30" filename="$USER_HOME$/workspace/scala/src/main/scala/test.scala" />
-      <jump line="13" column="0" filename="$USER_HOME$/workspace/scala/src/main/scala/test.scala" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/scala/src/main/scala/test.scala" />
       <jump line="60" column="4" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.6-sources.jar!/scala/App.scala" />
       <jump line="186" column="50" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/uuvalue/micros/misc/MiscAPIVerticle.java" />
       <jump line="88" column="12" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.6-sources.jar!/scala/Symbol.scala" />
+      <jump line="13" column="27" filename="$USER_HOME$/workspace/scala/src/main/scala/test.scala" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -671,7 +672,7 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>Symbol.</text>
+        <text>1000</text>
       </register>
       <register name="/" type="4">
         <text>startOrderFlow</text>
@@ -680,31 +681,31 @@
         <text>param.get(&quot;vars&quot;).get(&quot;custid&quot;).asText()</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB2YWwgYSA9IExpc3QoMSwgMywgNSwgNywgOSkKCiAgcHJpbnRsbihhLm1hcChfICsgMikucmVkdWNlTGVmdChfICsgXykpCg==</text>
+        <text encoding="base64">ICB2YWwgYSA9IDEgIzo6IDIgIzo6IDMgIzo6IFN0cmVhbS5lbXB0eS5mb2xkTGVmdCgpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBhLm1hcChfLisyKS4K</text>
+        <text encoding="base64">ICB2YWwgYSA9IExpc3QoMSwgMywgNSwgNywgOSkKCiAgcHJpbnRsbihhLm1hcChfICsgMikucmVkdWNlTGVmdChfICsgXykpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcmludE5hbWUoImFjZW5vZGUiKQoKCiAgZGVmIHByaW50TmFtZSh4OiBTdHJpbmcpOiBVbml0ID0geyBwcmludGxuKCJuYW1lIGlzICIgKyB4KQogIH0K</text>
+        <text encoding="base64">ICBhLm1hcChfLisyKS4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20K</text>
+        <text encoding="base64">ICBwcmludE5hbWUoImFjZW5vZGUiKQoKCiAgZGVmIHByaW50TmFtZSh4OiBTdHJpbmcpOiBVbml0ID0geyBwcmludGxuKCJuYW1lIGlzICIgKyB4KQogIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">cGFja2FnZSBjb20K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBkZWYgbWFpbihhcmdzOiBBcnJheVtTdHJpbmddKTogVW5pdCA9IHsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBkZWYgbWFpbihhcmdzOiBBcnJheVtTdHJpbmddKTogVW5pdCA9IHsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50bG4oKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaW50bG4oKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
