@@ -64,12 +64,11 @@
         <mark key="." line="19" column="32" />
         <mark key="^" line="19" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/config/ApplicationCxtConfig.java" timestamp="1528682760005">
-        <mark key="'" line="75" column="48" />
-        <mark key="[" line="80" column="18" />
-        <mark key="]" line="80" column="27" />
-        <mark key="." line="73" column="69" />
-        <mark key="^" line="30" column="41" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/config/ApplicationCxtConfig.java" timestamp="1528699475711">
+        <mark key="[" line="30" column="36" />
+        <mark key="]" line="30" column="46" />
+        <mark key="." line="30" column="46" />
+        <mark key="^" line="30" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/uuvalue/micros/auth/service/impl/AuthServiceImpl.java" timestamp="1528093382683">
         <mark key="[" line="48" column="54" />
@@ -402,9 +401,9 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="2" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/application.properties" timestamp="1528538452843">
-        <mark key="[" line="7" column="49" />
-        <mark key="]" line="7" column="49" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/application.properties" timestamp="1528699383587">
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="48" />
         <mark key="." line="7" column="49" />
         <mark key="^" line="7" column="61" />
       </file>
@@ -554,11 +553,11 @@
         <mark key="." line="37" column="30" />
         <mark key="^" line="37" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/config.json" timestamp="1528369466279">
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="6" column="15" />
-        <mark key="." line="6" column="15" />
-        <mark key="^" line="6" column="15" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/config.json" timestamp="1528699384750">
+        <mark key="[" line="24" column="24" />
+        <mark key="]" line="24" column="58" />
+        <mark key="." line="24" column="24" />
+        <mark key="^" line="24" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/gateway/src/main/resources/config.json" timestamp="1528097564974">
         <mark key="[" line="10" column="0" />
@@ -580,7 +579,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="42" filename="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/uuvalue/micros/auth/UserAuthVerticle.java" />
       <jump line="209" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/BPMNServiceImpl.java" />
       <jump line="19" column="117" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="18" column="34" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/config.properties" />
@@ -680,6 +678,7 @@
       <jump line="49" column="45" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/CBlockServiceImpl.java" />
       <jump line="61" column="54" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
       <jump line="34" column="26" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.1/vertx-core-3.5.1-sources.jar!/io/vertx/core/DeploymentOptions.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/config/ApplicationCxtConfig.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -689,40 +688,40 @@
         <text>[]</text>
       </register>
       <register name="-" type="4">
-        <text>CommonMapper</text>
+        <text>application.properties</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxERUZBVUxUX0lOU1RBTkNFU1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">IyMjIyMg5byA5aeL55Sf5oiQ6K6i5Y2VIGAvb3JkZXIvbWtjb2Rlcy86aWRgIApgYGAKY3VybCAtaSAtWCBHRVQgXAogJ2h0dHA6Ly9sb2NhbGhvc3Q6ODA3MC9vcmRlci9ta2NvZGVzLzQnCmBgYAo=</text>
+      <register name="0" type="4">
+        <text>com.uuvalue.micros.ccenter.mappers</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJqZGJjLmRyaXZlcnQiCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGludCBpID0gMSAvIDA7Cg==</text>
+        <text encoding="base64">QEVuYWJsZVNjaGVkdWxpbmcoKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QENvbXBvbmVudFNjYW4oImNvbS51dXZhbHVlLm1pY3Jvcy5jY2VudGVyIikK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjZW50ZXJTZXJ2aWNlID0gKChDZW50ZXJTZXJ2aWNlKSBzcHJpbmdDeHQuZ2V0QmVhbigiY2VudGVyU2VydmljZSIpKTsKICAgICAgICBjZW50ZXJTZXJ2aWNlLnNldFZlcnR4KHZlcnR4KS5zZXRDb25maWcoY29uZmlnKTsK</text>
+        <text encoding="base64">QFByb3BlcnR5U291cmNlKHZhbHVlID0geyJjbGFzc3BhdGg6YXBwbGljYXRpb24ucHJvcGVydGllcyJ9KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjZW50ZXJTZXJ2aWNlID0gKENlbnRlclNlcnZpY2UpIHNwcmluZ0N4dC5nZXRCZWFuKCJjZW50ZXJTZXJ2aWNlIik7CiAgICAgICAgY2VudGVyU2VydmljZS5zZXRWZXJ0eCh2ZXJ0eCkuc2V0Q29uZmlnKGNvbmZpZyk7Cg==</text>
+        <text encoding="base64">LyoqCiAqIFNpbXBsZSBKYXZhIFNwcmluZyBjb25maWd1cmF0aW9uIHRvIGJlIHVzZWQgZm9yIHRoZSBTcHJpbmcgZXhhbXBsZSBhcHBsaWNhdGlvbi4gVGhpcyBjb25maWd1cmF0aW9uIGlzIG1haW5seQogKiBjb21wb3NlZCBvZiBhIGRhdGFiYXNlIGNvbmZpZ3VyYXRpb24gYW5kIGluaXRpYWwgcG9wdWxhdGlvbiB2aWEgdGhlIHNjcmlwdCAicHJvZHVjdHMuc3FsIiBvZiB0aGUgZGF0YWJhc2UgZm9yCiAqIHF1ZXJ5aW5nIGJ5IG91ciBTcHJpbmcgc2VydmljZSBiZWFuLgogKiA8cD4KICogVGhlIFNwcmluZyBzZXJ2aWNlIGJlYW4gYW5kIHJlcG9zaXRvcnkgYXJlIHNjYW5uZWQgZm9yIHZpYSBARW5hYmxlSnBhUmVwb3NpdG9yaWVzIGFuZCBAQ29tcG9uZW50U2NhbiBhbm5vdGF0aW9ucwogKi8K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QFRyYW5zYWN0aW9uYWwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgSnNvbkxvYWRlciBpbXBsZW1lbnRzIFByb3BlcnR5U291cmNlRmFjdG9yeSB7CiAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgcHVibGljIG9yZy5zcHJpbmdmcmFtZXdvcmsuY29yZS5lbnYuUHJvcGVydHlTb3VyY2U8Pz4gY3JlYXRlUHJvcGVydHlTb3VyY2UoU3RyaW5nIG5hbWUsCiAgICAgICAgICAgICAgICBFbmNvZGVkUmVzb3VyY2UgcmVzb3VyY2UpIHRocm93cyBJT0V4Y2VwdGlvbiB7CiAgICAgICAgICAgIE1hcCByZWFkVmFsdWUgPSBuZXcgT2JqZWN0TWFwcGVyKCkucmVhZFZhbHVlKHJlc291cmNlLmdldElucHV0U3RyZWFtKCksIE1hcC5jbGFzcyk7CiAgICAgICAgICAgIHJldHVybiBuZXcgTWFwUHJvcGVydHlTb3VyY2UoImpzb24tc291cmNlIiwgcmVhZFZhbHVlKTsKICAgICAgICB9CgogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -735,7 +734,7 @@
       <last-replace>public</last-replace>
       <last-substitute>private</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
