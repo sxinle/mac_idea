@@ -45,8 +45,8 @@
       <file name="/a.dummy" timestamp="1528701938073">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" timestamp="1528703934188">
-        <mark key="'" line="258" column="49" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" timestamp="1528704416224">
+        <mark key="'" line="184" column="33" />
         <mark key="[" line="35" column="8" />
         <mark key="]" line="35" column="12" />
         <mark key="." line="35" column="12" />
@@ -307,12 +307,12 @@
         <mark key="." line="11" column="22" />
         <mark key="^" line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterVerticle.java" timestamp="1528704013949">
-        <mark key="'" line="37" column="21" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="51" />
-        <mark key="." line="49" column="27" />
-        <mark key="^" line="49" column="27" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterVerticle.java" timestamp="1528704458105">
+        <mark key="'" line="43" column="4" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="48" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/micros-mybatis-base/target/generated-sources/archetype/target/test-classes/projects/basic/project/basic/src/main/java/it/pkg/CenterVerticle.java" timestamp="1528537490113">
         <mark key="[" line="2" column="0" />
@@ -505,7 +505,7 @@
         <mark key="^" line="25" column="61" />
         <mark key="." line="25" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528704310985">
+      <file name="/Dummy.txt" timestamp="1528704493137">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/db.sql" timestamp="1528541383594">
@@ -559,8 +559,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="125" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
-      <jump line="191" column="32" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
       <jump line="10" column="30" filename="$USER_HOME$/workspace/scala/src/main/scala/test.scala" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/scala/src/main/scala/test.scala" />
       <jump line="60" column="4" filename="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.6-sources.jar!/scala/App.scala" />
@@ -659,6 +657,8 @@
       <jump line="14" column="12" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/config.json" />
       <jump line="258" column="49" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
       <jump line="37" column="21" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterVerticle.java" />
+      <jump line="184" column="33" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
+      <jump line="44" column="4" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -680,28 +680,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgQXBwbGljYXRpb25Db250ZXh0IHNwcmluZ0N4dDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQXBwbGljYXRpb25Db250ZXh0IHNwcmluZ0N4dDsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgQXBwbGljYXRpb25Db250ZXh0IHNwcmluZ0N4dDsK</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzcHJpbmdDeHQgPSBuZXcgQW5ub3RhdGlvbkNvbmZpZ0FwcGxpY2F0aW9uQ29udGV4dChBcHBsaWNhdGlvbkN4dENvbmZpZy5jbGFzcyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBzcHJpbmdDeHQgPSBuZXcgQW5ub3RhdGlvbkNvbmZpZ0FwcGxpY2F0aW9uQ29udGV4dChBcHBsaWNhdGlvbkN4dENvbmZpZy5jbGFzcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzcHJpbmdDeHQgPSBuZXcgQW5ub3RhdGlvbkNvbmZpZ0FwcGxpY2F0aW9uQ29udGV4dChBcHBsaWNhdGlvbkN4dENvbmZpZy5jbGFzcyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgQ2VudGVyQVBJVmVydGljbGUoQXBwbGljYXRpb25Db250ZXh0IHNwcmluZ0N4dCkgewogICAgICAgIHRoaXMuc3ByaW5nQ3h0ID0gc3ByaW5nQ3h0OwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
