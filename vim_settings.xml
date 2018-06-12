@@ -123,11 +123,12 @@
       </file>
       <file name="$MAVEN_REPOSITORY$/io/vertx/vertx-redis-client/3.5.1/vertx-redis-client-3.5.1.jar!/io/vertx/redis/impl/ReplyParser.class" timestamp="1528796138002" />
       <file name="$MAVEN_REPOSITORY$/com/fasterxml/jackson/core/jackson-databind/2.9.3/jackson-databind-2.9.3.jar!/com/fasterxml/jackson/databind/deser/ValueInstantiator.class" timestamp="1528795191225" />
-      <file name="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/uuvalue/micros/auth/UserAuthAPIVerticle.java" timestamp="1528093517667">
-        <mark key="[" line="65" column="112" />
-        <mark key="]" line="65" column="118" />
-        <mark key="." line="65" column="118" />
-        <mark key="^" line="65" column="118" />
+      <file name="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/uuvalue/micros/auth/UserAuthAPIVerticle.java" timestamp="1528799001686">
+        <mark key="'" line="60" column="43" />
+        <mark key="[" line="129" column="12" />
+        <mark key="]" line="129" column="12" />
+        <mark key="." line="129" column="12" />
+        <mark key="^" line="129" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/micros-code_center/src/main/java/com/acenode/micros/ccenter/package-info.java" timestamp="1527218795630">
         <mark key="[" line="0" column="32" />
@@ -595,7 +596,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="45" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/CBlockServiceImpl.java" />
       <jump line="61" column="54" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
       <jump line="34" column="26" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.1/vertx-core-3.5.1-sources.jar!/io/vertx/core/DeploymentOptions.java" />
       <jump line="40" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/config/ApplicationCxtConfig.java" />
@@ -695,6 +695,7 @@
       <jump line="92" column="4" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-redis-client/3.5.1/vertx-redis-client-3.5.1-sources.jar!/io/vertx/redis/op/SetOptions.java" />
       <jump line="133" column="8" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-redis-client/3.5.1/vertx-redis-client-3.5.1-sources.jar!/io/vertx/redis/op/SetOptions.java" />
       <jump line="644" column="29" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-redis-client/3.5.1/vertx-redis-client-3.5.1-sources.jar!/io/vertx/redis/RedisClient.java" />
+      <jump line="60" column="43" filename="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/uuvalue/micros/auth/UserAuthAPIVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -704,7 +705,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>设置过期时间失败</text>
+        <text>void</text>
       </register>
       <register name="/" type="4">
         <text>TTL</text>
