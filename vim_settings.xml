@@ -268,12 +268,12 @@
         <mark key="." line="0" column="72" />
         <mark key="^" line="0" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" timestamp="1528858235600">
-        <mark key="'" line="49" column="12" />
-        <mark key="[" line="215" column="72" />
-        <mark key="]" line="215" column="82" />
-        <mark key="." line="215" column="82" />
-        <mark key="^" line="215" column="82" />
+      <file name="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" timestamp="1528860524369">
+        <mark key="'" line="214" column="61" />
+        <mark key="[" line="211" column="112" />
+        <mark key="]" line="211" column="112" />
+        <mark key="." line="211" column="112" />
+        <mark key="^" line="211" column="90" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/uuvalue/micros/auth/service/impl/ResServiceImpl.java" timestamp="1528782729264">
         <mark key="[" line="21" column="63" />
@@ -300,8 +300,8 @@
         <mark key="." line="105" column="3" />
         <mark key="^" line="105" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/uuvalue/micros/misc/MiscAPIVerticle.java" timestamp="1528855030804">
-        <mark key="'" line="115" column="24" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/uuvalue/micros/misc/MiscAPIVerticle.java" timestamp="1528860693171">
+        <mark key="'" line="106" column="64" />
         <mark key="[" line="109" column="21" />
         <mark key="]" line="109" column="21" />
         <mark key="." line="109" column="21" />
@@ -570,7 +570,7 @@
         <mark key="^" line="25" column="61" />
         <mark key="." line="25" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528856443393">
+      <file name="/Dummy.txt" timestamp="1528860029504">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/MkCodeThreadService.java" timestamp="1528705075039">
@@ -633,8 +633,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="286" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/util/MakeCodeThread.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/util/MakeCodeThread.java" />
       <jump line="18" column="36" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/util/FileUtil.java" />
       <jump line="244" column="53" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/util/MakeCodeThread.java" />
       <jump line="7" column="15" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/mappers/MkCodeMapper.xml" />
@@ -733,6 +731,8 @@
       <jump line="5" column="0" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/resources/config.json" />
       <jump line="4" column="18" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/resources/config.json" />
       <jump line="22" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/resources/config.json" />
+      <jump line="214" column="61" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
+      <jump line="106" column="64" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/uuvalue/micros/misc/MiscAPIVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -742,7 +742,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>login</text>
