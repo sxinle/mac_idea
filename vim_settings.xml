@@ -615,7 +615,7 @@
       <file name="/Dummy.txt" timestamp="1528878985929">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/domain/Order.java" timestamp="1528880335862">
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/domain/Order.java" timestamp="1528880974893">
         <mark key="'" line="20" column="23" />
         <mark key="[" line="13" column="25" />
         <mark key="]" line="14" column="26" />
@@ -651,11 +651,11 @@
         <mark key="." line="3" column="17" />
         <mark key="^" line="3" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/ColumnMapper.java" timestamp="1528880325140">
-        <mark key="'" line="45" column="16" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/ColumnMapper.java" timestamp="1528882404317">
+        <mark key="[" line="58" column="81" />
+        <mark key="]" line="58" column="89" />
+        <mark key="." line="58" column="89" />
+        <mark key="^" line="58" column="89" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/uuvalue/micros/auth/service/adapter/impl/SmngServiceImpl.java" timestamp="1528854430118">
         <mark key="'" line="43" column="46" />
@@ -684,7 +684,7 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="12" column="17" />
       </file>
-      <file name="/fragment.java" timestamp="1528877868069">
+      <file name="/fragment.java" timestamp="1528881832686">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="55" />
         <mark key="^" line="0" column="55" />
@@ -698,7 +698,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/CenterServiceImpl.java" />
       <jump line="28" column="54" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/CenterServiceImpl.java" />
       <jump line="92" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/CenterServiceImpl.java" />
       <jump line="21" column="15" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/config.json" />
@@ -798,6 +797,7 @@
       <jump line="48" column="46" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/ColumnMapper.java" />
       <jump line="47" column="16" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/ColumnMapper.java" />
       <jump line="1116" column="6" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_45.jdk/Contents/Home/src.zip!/java/lang/reflect/Field.java" />
+      <jump line="44" column="15" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/ColumnMapper.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -807,40 +807,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>clazz == Number.class</text>
+        <text>Integer</text>
       </register>
       <register name="/" type="4">
         <text>(</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChrLnJlcGxhY2VBbGwoIl8iLCAiIikucmVwbGFjZUFsbCgiLSIsICIiKS5lcXVhbHNJZ25vcmVDYXNlKCJ1c2VybmFtZSIpKSB7CiAgICAgICAgICAgICAgICAgICAgbmFtZSA9IG1hcC5nZXRPckRlZmF1bHQoaywgIiIpLnRvU3RyaW5nKCk7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChtYXAuZ2V0KGtleSkgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgIGZpZWxkLnNldCh0aGlzLCBtYXAuZ2V0KGtleSkpOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChtYXAuZ2V0KGtleSkgIT0gbnVsbCkgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSBlbHNlIGlmIChjbGF6eiA9PSBTdHJpbmcuY2xhc3MpIHsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChtYXAuZ2V0KGtleSkgIT0gbnVsbCkgewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZmllbGQuZ2V0VHlwZSgpID09IFN0cmluZy5jbGFzcykgewogICAgICAgICAgICAKICAgICAgICB9IGVsc2UgaWYoZmllbGQuZ2V0VHlwZSgpID09IGludC5jbGFzcykK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmllbGQuZ2V0VHlwZSgpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmllbAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
