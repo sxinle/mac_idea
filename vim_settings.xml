@@ -51,8 +51,8 @@
       <file name="/a.dummy" timestamp="1528705114425">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" timestamp="1528802279340">
-        <mark key="'" line="198" column="58" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" timestamp="1528862429078">
+        <mark key="'" line="89" column="75" />
         <mark key="[" line="186" column="0" />
         <mark key="]" line="186" column="45" />
         <mark key="^" line="170" column="41" />
@@ -300,8 +300,8 @@
         <mark key="." line="105" column="3" />
         <mark key="^" line="105" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/uuvalue/micros/misc/MiscAPIVerticle.java" timestamp="1528860693171">
-        <mark key="'" line="106" column="64" />
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/uuvalue/micros/misc/MiscAPIVerticle.java" timestamp="1528862579362">
+        <mark key="'" line="40" column="58" />
         <mark key="[" line="109" column="21" />
         <mark key="]" line="109" column="21" />
         <mark key="." line="109" column="21" />
@@ -546,11 +546,12 @@
       <file name="/JavaScript Console" timestamp="1528370422347">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/service/BaseService.java" timestamp="1528788129842">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="35" column="58" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/service/BaseService.java" timestamp="1528862533388">
+        <mark key="'" line="19" column="32" />
+        <mark key="[" line="19" column="29" />
+        <mark key="]" line="19" column="29" />
+        <mark key="^" line="19" column="29" />
+        <mark key="." line="19" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/cc_gateway/src/main/resources/config.json" timestamp="1527846942616">
         <mark key="[" line="4" column="18" />
@@ -633,9 +634,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="36" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/util/FileUtil.java" />
-      <jump line="244" column="53" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/util/MakeCodeThread.java" />
-      <jump line="7" column="15" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/mappers/MkCodeMapper.xml" />
       <jump line="126" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/util/MakeCodeThread.java" />
       <jump line="37" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/MkCodeServiceImpl.java" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/mappers/MkCodeMapper.xml" />
@@ -733,6 +731,9 @@
       <jump line="22" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/resources/config.json" />
       <jump line="214" column="61" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
       <jump line="106" column="64" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/uuvalue/micros/misc/MiscAPIVerticle.java" />
+      <jump line="89" column="75" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
+      <jump line="18" column="32" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/service/BaseService.java" />
+      <jump line="40" column="58" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/uuvalue/micros/misc/MiscAPIVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -742,7 +743,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>get()</text>
       </register>
       <register name="/" type="4">
         <text>login</text>
@@ -751,31 +752,31 @@
         <text encoding="base64">ICAicmVkaXMuaG9zdCI6ICIxMjcuMC4wLjEiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiYXV0aFNlcnZpY2UiOiAidXNlcmF1dGgiLAogICJhdXRoU2VydmljZS5jYyI6ICJjYyIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2dpbk9rCg==</text>
+        <text encoding="base64">ICAgICAgICBoYW5kbGVyLmhhbmRsZShGdXR1cmUuc3VjY2VlZGVkRnV0dXJlKHQpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAiYXV0aFNlcnZpY2UiOiAidXNlcmF1dGgiLAogICJhdXRoU2VydmljZS5jYyI6ICJjYyIsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygidG9rZW7vvJoiICsgdG9rZW4pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2dpbk9rCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlci5nZXRNYXAoKS5mb3JFYWNoKChrLCB2KSAtPiB7CiAgICAgICAgICAgICAgICBpZiAoay5lcXVhbHNJZ25vcmVDYXNlKCJ1c2VybmFtZSIpKSB7CiAgICAgICAgICAgICAgICAgICAgbmFtZSA9IHY7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygidG9rZW7vvJoiICsgdG9rZW4pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5hbWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlci5nZXRNYXAoKS5mb3JFYWNoKChrLCB2KSAtPiB7CiAgICAgICAgICAgICAgICBpZiAoay5lcXVhbHNJZ25vcmVDYXNlKCJ1c2VybmFtZSIpKSB7CiAgICAgICAgICAgICAgICAgICAgbmFtZSA9IHY7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB2LnRvU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlci5nZXRNYXAoKS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5hbWU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -792,7 +793,6 @@
     </search>
     <history>
       <history-search>
-        <entry>redirect</entry>
         <entry encoding="base64">XDxzcHJpbmdDeHRcPg==</entry>
         <entry>rando</entry>
         <entry>tb_order</entry>
@@ -811,6 +811,7 @@
         <entry>getUser</entry>
         <entry encoding="base64">XDxweFw+</entry>
         <entry>TTL</entry>
+        <entry>result</entry>
         <entry>login</entry>
       </history-search>
       <history-cmd>
