@@ -58,6 +58,12 @@
         <mark key="^" line="170" column="41" />
         <mark key="." line="186" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/common/micros-forms/src/main/resources/config.json" timestamp="1528855182699">
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="21" />
+        <mark key="^" line="1" column="22" />
+        <mark key="." line="1" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/log4j2.xml" timestamp="1527846010008">
         <mark key="[" line="19" column="26" />
         <mark key="]" line="19" column="32" />
@@ -225,6 +231,12 @@
         <mark key="^" line="30" column="7" />
         <mark key="." line="33" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/common/micros-mqttpush/src/main/resources/config.json" timestamp="1528856055452">
+        <mark key="[" line="1" column="18" />
+        <mark key="]" line="1" column="18" />
+        <mark key="^" line="1" column="14" />
+        <mark key="." line="1" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/uuvalue/micros/auth/service/adapter/SmngService.java" timestamp="1528782212827">
         <mark key="[" line="15" column="66" />
         <mark key="]" line="15" column="71" />
@@ -256,12 +268,12 @@
         <mark key="." line="0" column="72" />
         <mark key="^" line="0" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" timestamp="1528802951198">
-        <mark key="'" line="111" column="23" />
-        <mark key="[" line="197" column="81" />
-        <mark key="]" line="197" column="82" />
-        <mark key="." line="197" column="82" />
-        <mark key="^" line="204" column="52" />
+      <file name="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" timestamp="1528855692056">
+        <mark key="'" line="115" column="23" />
+        <mark key="[" line="215" column="72" />
+        <mark key="]" line="215" column="82" />
+        <mark key="." line="215" column="82" />
+        <mark key="^" line="215" column="82" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/micros-userauth/src/main/java/com/uuvalue/micros/auth/service/impl/ResServiceImpl.java" timestamp="1528782729264">
         <mark key="[" line="21" column="63" />
@@ -558,7 +570,7 @@
         <mark key="^" line="25" column="61" />
         <mark key="." line="25" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1528854969565">
+      <file name="/Dummy.txt" timestamp="1528856443393">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/MkCodeThreadService.java" timestamp="1528705075039">
@@ -729,40 +741,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>/smng</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>login</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbS5wdXQoInBhc3MiLCBDcnlwdG9VdGlsLk1ENShwYXJhbS5nZXRTdHJpbmcoInBhc3MiKSkpOwogICAgICAgIGZpbmFsIEpzb25PYmplY3QgcmV0ID0gbmV3IEpzb25PYmplY3QoKTsKICAgICAgICByZXQucHV0KCJkZXZUeXBlIiwgcGFyYW0uZ2V0U3RyaW5nKCJkZXZUeXBlIikpOwogICAgICAgIFN0cmluZyBzcWwgPSAic2VsZWN0ICogZnJvbSB1c2VyX2luZm8gd2hlcmUgdXNlcm5hbWU9PyBhbmQgcGFzcz0/IjsKICAgICAgICBKc29uQXJyYXkgc3FsUGFyYW0gPSBuZXcgSnNvbkFycmF5KCkuYWRkKHBhcmFtLmdldFN0cmluZygidXNlcm5hbWUiKSkuYWRkKHBhcmFtLmdldFN0cmluZygicGFzcyIpKTsKCiAgICAgICAgaWYgKHJldC5nZXRTdHJpbmcoImRldlR5cGUiKSA9PSBudWxsKSB7CiAgICAgICAgICAgIGhhbmRsZXIuaGFuZGxlKEZ1dHVyZS5mYWlsZWRGdXR1cmUoImRldlR5cGXkuI3og73kuLrnqboiKSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgc3FsU2VydmljZS5maW5kT25lKHNxbCwgc3FsUGFyYW0pCiAgICAgICAgICAgICAgICAgICAgLmZsYXRNYXAodXNlciAtPiBmaW5kVG9rZW4odXNlciwgcmV0KSkKICAgICAgICAgICAgICAgICAgICAuZmxhdE1hcCh0b2tlbnMgLT4gc2F2ZU9yVXBkYXRlVG9rZW4odG9rZW5zLCByZXQpKQogICAgICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUob2sgLT4gc3VjY2VzcyhoYW5kbGVyLCByZXQpLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3dhYmxlIC0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IodGhyb3dhYmxlKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAoKFRocm93YWJsZSkgdGhyb3dhYmxlKS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoYW5kbGVyLmhhbmRsZShGdXR1cmUuZmFpbGVkRnV0dXJlKCJmYWlsIikpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgfQogICAgICAgIHJldHVybiB0aGlzOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiUmVkaXMg5LiN5a2Y5ZyodG9rZW7vvIwga2V577yae30iLCB0b2tlbik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlci5nZXRNYXAoKS5mb3JFYWNoKChrLCB2KSAtPiB7CiAgICAgICAgICAgICAgICBpZiAoay5lcXVhbHNJZ25vcmVDYXNlKCJ1c2VybmFtZSIpKSB7CiAgICAgICAgICAgICAgICAgICAgbmFtZSA9IHY7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBsb2dpbk9rCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5hbWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5kZWJ1ZygidG9rZW7vvJoiICsgdG9rZW4pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB2LnRvU3RyaW5nKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlci5nZXRNYXAoKS5mb3JFYWNoKChrLCB2KSAtPiB7CiAgICAgICAgICAgICAgICBpZiAoay5lcXVhbHNJZ25vcmVDYXNlKCJ1c2VybmFtZSIpKSB7CiAgICAgICAgICAgICAgICAgICAgbmFtZSA9IHY7CiAgICAgICAgICAgICAgICB9CgogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlci5nZXRNYXAoKS4K</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbCA9PSB1c2VyID8gIiIgOjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5hbWU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXQucHV0KCJkZXZUeXBlIiwgcGFyYW0uZ2V0U3RyaW5nKCJkZXZUeXBlIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB2LnRvU3RyaW5nKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlci5nZXRNYXAoKS4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3dhYmxlIC0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcih0aHJvd2FibGUpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGhyb3dhYmxlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgaGFuZGxlci5oYW5kbGUoRnV0dXJlLmZhaWxlZEZ1dHVyZSgiZmFpbCIpKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbCA9PSB1c2VyID8gIiIgOjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
