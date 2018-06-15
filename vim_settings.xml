@@ -274,11 +274,11 @@
         <mark key="." line="31" column="77" />
         <mark key="^" line="31" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/api.md" timestamp="1529028095098">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/api.md" timestamp="1529030329110">
+        <mark key="'" line="12" column="17" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/gateway/pom.xml" timestamp="1528776943681">
         <mark key="[" line="33" column="25" />
@@ -286,11 +286,11 @@
         <mark key="^" line="30" column="7" />
         <mark key="." line="33" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/IDocument.java" timestamp="1528991396778">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="25" column="15" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/IDocument.java" timestamp="1529028731687">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="27" />
+        <mark key="." line="12" column="27" />
+        <mark key="^" line="12" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/micros-mqttpush/src/main/resources/config.json" timestamp="1528992565556">
         <mark key="[" line="4" column="17" />
@@ -429,12 +429,12 @@
         <mark key="." line="28" column="69" />
         <mark key="^" line="28" column="69" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/RestVerticle.java" timestamp="1529028438224">
+      <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/RestVerticle.java" timestamp="1529030318666">
         <mark key="'" line="408" column="0" />
-        <mark key="[" line="129" column="52" />
-        <mark key="]" line="129" column="74" />
-        <mark key="^" line="129" column="74" />
-        <mark key="." line="129" column="74" />
+        <mark key="[" line="119" column="54" />
+        <mark key="]" line="119" column="54" />
+        <mark key="^" line="120" column="24" />
+        <mark key="." line="119" column="54" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/BaseVerticle.java" timestamp="1528989366746">
         <mark key="'" line="146" column="24" />
@@ -705,7 +705,7 @@
         <mark key="." line="24" column="16" />
         <mark key="^" line="24" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529028167464">
+      <file name="/Dummy.txt" timestamp="1529030354093">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/domain/Order.java" timestamp="1528966206277">
@@ -792,9 +792,9 @@
         <mark key="." line="15" column="93" />
         <mark key="^" line="15" column="93" />
       </file>
+      <file name="/api.md" timestamp="1529030315783" />
     </filemarks>
     <jumps>
-      <jump line="33" column="18" filename="$MAVEN_REPOSITORY$/javax/persistence/persistence-api/1.0/persistence-api-1.0.jar!/javax/persistence/Column.class" />
       <jump line="7" column="0" filename="$MAVEN_REPOSITORY$/javax/persistence/persistence-api/1.0/persistence-api-1.0.jar!/javax/persistence/Column.class" />
       <jump line="2" column="26" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/ApiParam.java" />
       <jump line="11" column="0" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/ApiParam.java" />
@@ -894,6 +894,7 @@
       <jump line="107" column="1" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/api.md" />
       <jump line="129" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/api.md" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/api.md" />
+      <jump line="12" column="17" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/api.md" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -903,53 +904,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>.param()</text>
+        <text encoding="base64">IH0=</text>
       </register>
       <register name="/" type="4">
         <text>\/rule</text>
       </register>
-      <register name="0" type="4">
-        <text>{
-    &quot;id&quot;: 6,
-    &quot;name&quot;: &quot;名称modify&quot;,
-    &quot;remark&quot;: &quot;备注&quot;,
-    &quot;codeLen&quot;: 10,
-    &quot;prefix&quot;: &quot;18&quot;,
-    &quot;digits&quot;: 1,
-    &quot;lowerChar&quot;: 1,
-    &quot;upperChar&quot;: 1,
-    &quot;symbol&quot;: 1,
-    &quot;checksum&quot;: 1,
-    &quot;level&quot;: 0,
-    &quot;withoutIO&quot;: 1
-}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcm91dGVyLmdldFJvdXRlcygpLmZvckVhY2gocm91dGUgLT4gewogICAgICAgICAgICAgICAgaWYgKG51bGwgIT0gcm91dGUuZ2V0UGF0aCgpKSB7CiAgICAgICAgICAgICAgICAgICAgbmVlZFBhdGhzLmFkZChyb3V0ZS5nZXRQYXRoKCkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyMjIyMg6KeE5YiZ5YiX6KGoIGAvcnVsZWAKYGBgCmN1cmwgLWkgLVggR0VUIFwKICdodHRwOi8vbG9jYWxob3N0OjgwNzAvcnVsZScKYGBgCgojIyMjIyDliKDpmaTop4TliJkgYC9ydWxlLzRgCmBgYApjdXJsIC1pIC1YIERFTEVURSBcCiAnaHR0cDovL2xvY2FsaG9zdDo4MDcwL3J1bGUvNScKYGBgCgojIyMjIyDkv67mlLnop4TliJkgYC9ydWxlYApgYGAKY3VybCAtaSAtWCBQVVQgXAogICAtSCAiQ29udGVudC1UeXBlOmFwcGxpY2F0aW9uL2pzb24iIFwKICAgLWQgXAonewogICAgImlkIjogNiwKICAgICJuYW1lIjogIuWQjeensG1vZGlmeSIsCiAgICAicmVtYXJrIjogIuWkh+azqCIsCiAgICAiY29kZUxlbiI6IDEwLAogICAgInByZWZpeCI6ICIxOCIsCiAgICAiZGlnaXRzIjogMSwKICAgICJsb3dlckNoYXIiOiAxLAogICAgInVwcGVyQ2hhciI6IDEsCiAgICAic3ltYm9sIjogMSwKICAgICJjaGVja3N1bSI6IDEsCiAgICAibGV2ZWwiOiAwLAogICAgIndpdGhvdXRJTyI6IDEKfQonIFwKICdodHRwOi8vbG9jYWxob3N0OjgwNzAvcnVsZScKYGBgCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL3JvdXRlci5wdXQoIi9ydWxlIikuaGFuZGxlcih0aGlzOjptb2RSdWxlKTsvLyDkv67mlLnop4TliJkgICAgICAgIGZpeG1lIG9rCg==</text>
+        <text encoding="base64">IyMjIyMg5re75Yqg6KeE5YiZIGAvcnVsZWAKYGBgCmN1cmwgLWkgLVggUE9TVCBcCiAgICAgIC1IICJDb250ZW50LVR5cGU6YXBwbGljYXRpb24vanNvbiIgXAogICAgICAtZCBcCiAgICAgICd7CiAgICAgICAgICAibmFtZSI6IuWQjeensCIsCiAgICAgICAgICAicmVtYXJrIjoi5aSH5rOoIiwKICAgICAgICAgICJjb2RlTGVuIjoxMCwKICAgICAgICAgICJwcmVmaXgiOiAiMTgiLAogICAgICAgICAgImRpZ2l0cyI6IDEsCiAgICAgICAgICAibG93ZXJDaGFyIjogMSwKICAgICAgICAgICJ1cHBlckNoYXIiOiAxLAogICAgICAgICAgInN5bWJvbCI6IDEsCiAgICAgICAgICAiY2hlY2tzdW0iOiAxLAogICAgICAgICAgImxldmVsIjowLAogICAgICAgICAgIndpdGhvdXRJTyI6IDAKICAgICAgfQogICAgJyBcCiAgICAnaHR0cDovL2xvY2FsaG9zdDo4MDcwL3J1bGUnCmBgYAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL3JvdXRlci5kZWxldGUoIi9ydWxlLzppZCIpLmhhbmRsZXIodGhpczo6ZGVsUnVsZSk7Ly8g5Yig6Zmk6KeE5YiZICBmaXhtZSBvawo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmlnaHRDb3VudC5mb3JFYWNoKChrLHYpLT57CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByb3V0ZXIucG9zdCgiL3J1bGUiKS5oYW5kbGVyKHRoaXM6OmFkZFJ1bGUpOy8vIOinhOWImSAgICAgICAgICAgZml4bWUgb2sK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhZGREb2MobmUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKHJpZ2h0Q291bnQuZ2V0KGspICE9IGRvY3VtZW50cy5kb2NzKCkuZ2V0KGspLnNpemUoKSkgewogICAgICAgICAgICAgICAgICAgIHRocm93IG5ldyBFeGNlcHRpb24oIuaOpeWPoyAiK2srIiDmlofmoaPkuKrmlbDkuI3lhagiKTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHVibGlzaEFQSURvYyhyb3V0ZXIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZG9jdW1lbnRzLmRvY3MoKS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhZGREb2MoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBEbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgTGlzdDxTdHJpbmc+IG5lZWRQYXRocyA9IG5ldyBBcnJheUxpc3Q8PigpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
