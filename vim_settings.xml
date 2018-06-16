@@ -163,11 +163,12 @@
         <mark key="." line="80" column="28" />
         <mark key="^" line="80" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/dragon/pom.xml" timestamp="1529137787845">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
+      <file name="$USER_HOME$/workspace/demo/dragon/pom.xml" timestamp="1529138920254">
+        <mark key="'" line="90" column="0" />
+        <mark key="[" line="82" column="17" />
+        <mark key="]" line="92" column="20" />
+        <mark key="." line="92" column="20" />
+        <mark key="^" line="92" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/BaseAppContextConfig.java" timestamp="1529051551216">
         <mark key="'" line="33" column="53" />
@@ -264,7 +265,7 @@
         <mark key="^" line="3" column="32" />
         <mark key="." line="3" column="24" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529136774254">
+      <file name="/Dummy.txt" timestamp="1529138927917">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/domain/Order.java" timestamp="1528966206277">
@@ -377,7 +378,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="389" column="55" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/RestVerticle.java" />
       <jump line="392" column="53" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/RestVerticle.java" />
       <jump line="395" column="59" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/RestVerticle.java" />
       <jump line="398" column="52" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/RestVerticle.java" />
@@ -477,6 +477,7 @@
       <jump line="88" column="0" filename="$USER_HOME$/workspace/demo/dragon/pom.xml" />
       <jump line="39" column="11" filename="$USER_HOME$/workspace/demo/dragon/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/demo/dragon/pom.xml" />
+      <jump line="89" column="0" filename="$USER_HOME$/workspace/demo/dragon/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -486,7 +487,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>resources</text>
+        <text>war</text>
       </register>
       <register name="/" type="4">
         <text>camel</text>
@@ -495,28 +496,28 @@
         <text>update dragon_fake.codes set scan_time=now(),scanflag=1,scan_times=scan_times+1 where code=#{code}</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8cGx1Z2lucz4KICAgICAgICA8L3BsdWdpbnM+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPnByb3ZpZGVkPC9zY29wZT4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3QtbWF2ZW4tcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8L3BsdWdpbj4KCg==</text>
+        <text encoding="base64">ICAgICAgICA8cGx1Z2lucz4KICAgICAgICA8L3BsdWdpbnM+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPC9wbHVnaW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICA8cGx1Z2luPgogICAgICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICAgICAgPGFydGlmYWN0SWQ+c3ByaW5nLWJvb3QtbWF2ZW4tcGx1Z2luPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8L3BsdWdpbj4KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5zcHJpbmdmcmFtZXdvcmsuYm9vdDwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPnNwcmluZy1ib290LW1hdmVuLXBsdWdpbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPC9wbHVnaW4+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBUaW1lc3RhbXAgZ2V0U2VuZFRpbWUoKSB7CiAgICAgICAgcmV0dXJuIHNlbmRUaW1lOwogICAgfQoKICAgIHB1YmxpYyBDYW1lbExvZyBzZXRTZW5kVGltZShUaW1lc3RhbXAgc2VuZFRpbWUpIHsKICAgICAgICB0aGlzLnNlbmRUaW1lID0gc2VuZFRpbWU7CiAgICAgICAgcmV0dXJuIHRoaXM7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBGb3JtYXRzLkRhdGVUaW1lKHBhdHRlcm4gPSAieXl5eS1NTS1kZFRoaDptbTpzcyIpCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBUaW1lc3RhbXAgZ2V0U2VuZFRpbWUoKSB7CiAgICAgICAgcmV0dXJuIHNlbmRUaW1lOwogICAgfQoKICAgIHB1YmxpYyBDYW1lbExvZyBzZXRTZW5kVGltZShUaW1lc3RhbXAgc2VuZFRpbWUpIHsKICAgICAgICB0aGlzLnNlbmRUaW1lID0gc2VuZFRpbWU7CiAgICAgICAgcmV0dXJuIHRoaXM7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBGb3JtYXRzLkRhdGVUaW1lKHBhdHRlcm4gPSAieXl5eS1NTS1kZFRoaDptbTpzcyIpCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
