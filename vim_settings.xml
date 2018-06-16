@@ -232,8 +232,8 @@
       <file name="/JavaScript Console" timestamp="1528370422347">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1529129427092">
-        <mark key="'" line="337" column="4" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1529159440931">
+        <mark key="'" line="312" column="130" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1529056469483">
         <mark key="[" line="0" column="0" />
@@ -382,9 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="0" filename="$USER_HOME$/workspace/micro-service/common/micros-forms/src/main/java/com/uuvalue/micros/forms/FormAPIVerticle.java" />
-      <jump line="9" column="51" filename="$USER_HOME$/workspace/micro-service/common/micros-forms/src/main/java/com/uuvalue/micros/forms/Docs.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/micro-service/common/micros-forms/src/main/java/com/uuvalue/micros/forms/Docs.java" />
       <jump line="57" column="0" filename="$USER_HOME$/workspace/micro-service/common/micros-forms/src/main/java/com/uuvalue/micros/forms/Docs.java" />
       <jump line="46" column="47" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/RestVerticle.java" />
       <jump line="407" column="0" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/RestVerticle.java" />
@@ -450,7 +447,6 @@
       <jump line="17" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="74" column="7" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
       <jump line="341" column="37" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
-      <jump line="344" column="137" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="345" column="137" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="62" column="60" filename="$USER_HOME$/workspace/demo/dragon/src/main/java/com/uuvalue/fake/dragon/service/impl/FakeServiceImpl.java" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/demo/dragon/src/main/java/com/uuvalue/fake/dragon/service/impl/FakeServiceImpl.java" />
@@ -482,6 +478,10 @@
       <jump line="79" column="38" filename="$USER_HOME$/workspace/demo/dragon/src/main/resources/META-INF/resources/WEB-INF/jsp/security.jsp" />
       <jump line="102" column="38" filename="$USER_HOME$/workspace/demo/dragon/src/main/resources/META-INF/resources/WEB-INF/jsp/security.jsp" />
       <jump line="107" column="38" filename="$USER_HOME$/workspace/demo/dragon/src/main/resources/META-INF/resources/WEB-INF/jsp/security.jsp" />
+      <jump line="344" column="145" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
+      <jump line="53" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
+      <jump line="269" column="14" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
+      <jump line="312" column="130" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -494,7 +494,7 @@
         <text>// 未领取</text>
       </register>
       <register name="/" type="4">
-        <text>img</text>
+        <text>securityCalls</text>
       </register>
       <register name="0" type="4">
         <text>172.17.254.214</text>
@@ -531,9 +531,9 @@
       </register>
     </registers>
     <search>
-      <last-search>img</last-search>
+      <last-search>securityCalls</last-search>
       <last-offset />
-      <last-pattern>img</last-pattern>
+      <last-pattern>securityCalls</last-pattern>
       <last-replace />
       <last-substitute>\\&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -541,8 +541,6 @@
     </search>
     <history>
       <history-search>
-        <entry>login</entry>
-        <entry>rule</entry>
         <entry>\/rule</entry>
         <entry>order</entry>
         <entry>supplier</entry>
@@ -561,6 +559,8 @@
         <entry>oauth</entry>
         <entry>camel</entry>
         <entry>img</entry>
+        <entry>\/</entry>
+        <entry>securityCalls</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcdC8gL2c=</entry>
