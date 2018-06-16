@@ -4,7 +4,7 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="rxtry" value="vertx.rxExecuteBlocking(future-&gt;{&#10;    try {&#10;        future.complete(true);&#10;    } catch (Exception e) {&#10;        future.fail(e);&#10;    }&#10;}).subscribe(ret -&gt; success(handler, ret), throwable -&gt; error(handler, logger, throwable));" toReformat="false" toShortenFQNames="true">
+  <template name="rxtry" value="vertx.rxExecuteBlocking(future-&gt;{&#10;    try {&#10;        future.complete(true);&#10;    } catch (Exception e) {&#10;        future.fail(e);&#10;    }&#10;}).subscribe(ret -&gt; success(handler, ret), throwable -&gt; error(handler, logger, throwable));" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
