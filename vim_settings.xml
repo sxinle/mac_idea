@@ -128,12 +128,12 @@
         <mark key="^" line="18" column="82" />
         <mark key="." line="18" column="82" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/dragon/src/main/java/com/uuvalue/fake/dragon/controller/FakeController.java" timestamp="1529124368390">
-        <mark key="'" line="22" column="53" />
-        <mark key="[" line="30" column="33" />
-        <mark key="]" line="30" column="34" />
-        <mark key="." line="30" column="34" />
-        <mark key="^" line="32" column="24" />
+      <file name="$USER_HOME$/workspace/demo/dragon/src/main/java/com/uuvalue/fake/dragon/controller/FakeController.java" timestamp="1529127815691">
+        <mark key="'" line="43" column="48" />
+        <mark key="[" line="29" column="19" />
+        <mark key="]" line="29" column="25" />
+        <mark key="." line="29" column="19" />
+        <mark key="^" line="28" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/mappers/MkCodeMapper.xml" timestamp="1528960285935">
         <mark key="'" line="29" column="0" />
@@ -166,11 +166,12 @@
         <mark key="." line="80" column="28" />
         <mark key="^" line="80" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/dragon/pom.xml" timestamp="1529120067926">
-        <mark key="[" line="70" column="23" />
-        <mark key="]" line="70" column="25" />
-        <mark key="." line="70" column="25" />
-        <mark key="^" line="70" column="25" />
+      <file name="$USER_HOME$/workspace/demo/dragon/pom.xml" timestamp="1529127703125">
+        <mark key="'" line="68" column="30" />
+        <mark key="[" line="35" column="21" />
+        <mark key="]" line="40" column="12" />
+        <mark key="." line="40" column="12" />
+        <mark key="^" line="40" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/BaseAppContextConfig.java" timestamp="1529051551216">
         <mark key="'" line="33" column="53" />
@@ -262,11 +263,11 @@
         <mark key="." line="150" column="38" />
         <mark key="^" line="150" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/dragon/src/main/resources/application.yml" timestamp="1529116525502">
-        <mark key="[" line="7" column="40" />
-        <mark key="]" line="7" column="41" />
-        <mark key="^" line="9" column="23" />
-        <mark key="." line="7" column="41" />
+      <file name="$USER_HOME$/workspace/demo/dragon/src/main/resources/application.yml" timestamp="1529127075000">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="15" column="3" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1529057068039">
         <mark key="[" line="0" column="0" />
@@ -308,6 +309,10 @@
         <mark key="]" line="845" column="0" />
         <mark key="." line="845" column="0" />
         <mark key="^" line="855" column="15" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" timestamp="1529126798434">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="5" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/uuvalue/micros/misc/MiscAPIVerticle.java" timestamp="1529027346033">
         <mark key="'" line="110" column="30" />
@@ -363,8 +368,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="184" column="34" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/CenterServiceImpl.java" />
-      <jump line="222" column="51" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/CenterServiceImpl.java" />
       <jump line="192" column="19" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/CenterServiceImpl.java" />
       <jump line="194" column="75" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/db_init.sql" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/db_init.sql" />
@@ -463,6 +466,8 @@
       <jump line="129" column="88" filename="$USER_HOME$/workspace/demo/dragon/src/main/resources/META-INF/resources/WEB-INF/jsp/security.jsp" />
       <jump line="66" column="33" filename="$USER_HOME$/workspace/demo/dragon/src/main/resources/META-INF/resources/WEB-INF/jsp/security.jsp" />
       <jump line="352" column="23" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobGetPrize.scala.html" />
+      <jump line="29" column="48" filename="$USER_HOME$/workspace/demo/dragon/src/main/java/com/uuvalue/fake/dragon/controller/FakeController.java" />
+      <jump line="63" column="30" filename="$USER_HOME$/workspace/demo/dragon/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -472,40 +477,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>RedirectView</text>
+        <text>apiUrl</text>
       </register>
       <register name="/" type="4">
         <text>已领取</text>
       </register>
       <register name="0" type="4">
-        <text>已经领取成功，请注意查收，如有问题，请联系我们工作人员。</text>
+        <text>notify</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gInJlZGlyZWN0Omh0dHA6Ly9iYWlkdS5jb20iOwo=</text>
+        <text encoding="base64">ICAgIEBWYWx1ZSgiJHthcGlVcmx9IikKICAgIHByaXZhdGUgU3RyaW5nIGFwaVVybDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXNwb24K</text>
+        <text encoding="base64">ICAgIEBWCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJC5nZXQoJ3VybCcpCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gRklYTUUgZG8gcmVhbCBnZXQK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGgK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGh0bWwgKz0gJ++8jOafpeivouaXtumXtOWPiuasoeaVsOato+W4uO+8gSc7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oYXBpVXJsKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">QENvbnRleHRDb25maWd1cmF0aW9uKGluaXRpYWxpemVycyA9IENvbmZpZ0ZpbGVBcHBsaWNhdGlvbkNvbnRleHRJbml0aWFsaXplci5jbGFzcykK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">QFByb3BlcnR5U291cmNlKCJjbGFzc3BhdGg6YXBwbGljYXRpb24ueW1sIikK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJCgnI3NjYW5IaW50JykuaHRtbCgn5oKo5b2T5YmN5piv56ysJyArIChjb2RlLnNjYW5fdGltZXMgKyAxKSArICfmrKHmn6Xor6InKTsK</text>
+        <text encoding="base64">ICAgIGNhbWVsQXBpVVJMPSJodHRwOi8vY2hlY2subHVvdHVvbWEuY24vbG90dGVyeV9vZmZjaWFsL2poaiIKY2FtZWxBcHBJZD0ic2hhZ254aWFuY2VzaGkiCmNhbWVsQXBwS2V5PSIwNjI3NGQ0ODdhODI1MGU0M2VmOWUzZGQ5ZGM3ZDEzOSIKY2FtZWxOb3RpZnlVUkw9Imx1b3R1b21hL3JlZFBhY2tDYWxsYmFjay8iCmNhbWVsVGVsTm90aWZ5VVJMPSJsdW90dW9tYS90ZWxDYWxsYmFjay8iCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICDmgqjlvZPliY3mmK88c3BhbiBpZD0ic2Nhbl90aW1lcyI+PC9zcGFuPuafpeivou+8jOafpeivouaXtumXtOWPiuasoeaVsOato+W4uO+8gQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
