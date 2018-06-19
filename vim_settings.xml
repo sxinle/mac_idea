@@ -43,11 +43,6 @@
         <mark key="." line="186" column="7" />
         <mark key="^" line="171" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application-context.xml" timestamp="1529206532177">
-        <mark key="[" line="86" column="67" />
-        <mark key="]" line="86" column="68" />
-        <mark key="." line="86" column="68" />
-      </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterVerticle.java" timestamp="1528886044185">
         <mark key="'" line="41" column="4" />
         <mark key="[" line="22" column="52" />
@@ -79,6 +74,7 @@
         <mark key="." line="117" column="124" />
         <mark key="^" line="117" column="121" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/trace_api_server/app/service/DimensionService.java" timestamp="1529390093693" />
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/config/ApplicationCxtConfig.java" timestamp="1528701148089">
         <mark key="'" line="144" column="0" />
         <mark key="[" line="36" column="33" />
@@ -179,6 +175,10 @@
         <mark key="." line="35" column="32" />
         <mark key="^" line="35" column="32" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/trace_api_server/app/controllers/api/sync/KafkaConsumer.java" timestamp="1529390151731">
+        <mark key="[" line="154" column="25" />
+        <mark key="]" line="154" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/domain/Supplier.java" timestamp="1528966037349">
         <mark key="'" line="22" column="22" />
         <mark key="[" line="7" column="0" />
@@ -214,13 +214,17 @@
         <mark key="^" line="3" column="3" />
         <mark key="." line="3" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/RequestProcessing.java" timestamp="1529161730306">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/Global.java" timestamp="1529161837269">
+        <mark key="'" line="87" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/ScanController.java" timestamp="1529391482774">
+        <mark key="'" line="281" column="12" />
       </file>
       <file name="/JavaScript Console" timestamp="1528370422347">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1529391439925">
+        <mark key="'" line="4" column="38" />
       </file>
       <file name="/HTML File.txt.ft" timestamp="1529056469483">
         <mark key="[" line="0" column="0" />
@@ -249,12 +253,18 @@
       <file name="/Dummy.txt" timestamp="1529387918892">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/anti/conf/sql/SingleInventoryInfo.xml" timestamp="1529391159746">
+        <mark key="'" line="214" column="30" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/domain/Order.java" timestamp="1529380725586">
         <mark key="'" line="20" column="23" />
         <mark key="[" line="83" column="0" />
         <mark key="]" line="84" column="30" />
         <mark key="^" line="84" column="30" />
         <mark key="." line="84" column="30" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/models/Article.java" timestamp="1529114613066">
+        <mark key="'" line="164" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" timestamp="1529041621383">
         <mark key="'" line="108" column="15" />
@@ -269,6 +279,9 @@
         <mark key="]" line="121" column="52" />
         <mark key="." line="121" column="52" />
         <mark key="^" line="121" column="52" />
+      </file>
+      <file name="$USER_HOME$/http_main.conf" timestamp="1529134101794">
+        <mark key="'" line="25" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/uuvalue/micros/misc/service/MiscService.java" timestamp="1528854373464">
         <mark key="'" line="107" column="3" />
@@ -297,6 +310,7 @@
         <mark key="." line="458" column="28" />
         <mark key="^" line="458" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/CustSynServiceImpl.java" timestamp="1529391044567" />
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/Docs.java" timestamp="1529388063603">
         <mark key="'" line="19" column="48" />
         <mark key="[" line="104" column="115" />
@@ -351,15 +365,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="48" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
-      <jump line="10" column="17" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/CenterService.java" />
-      <jump line="32" column="17" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
-      <jump line="297" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
-      <jump line="33" column="53" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/BaseAppContextConfig.java" />
-      <jump line="17" column="55" filename="$USER_HOME$/workspace/micro-service/jhshop/shop-misc/pom.xml" />
-      <jump line="37" column="25" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/RestVerticle.java" />
-      <jump line="60" column="42" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/RestVerticle.java" />
-      <jump line="91" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/CBlockServiceImpl.java" />
       <jump line="109" column="36" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/CBlockServiceImpl.java" />
       <jump line="8" column="34" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/models/Article.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/models/Article.java" />
@@ -451,6 +456,15 @@
       <jump line="82" column="67" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/DataBinder.java" />
       <jump line="137" column="56" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/MkCodeServiceImpl.java" />
       <jump line="19" column="48" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/Docs.java" />
+      <jump line="218" column="15" filename="$USER_HOME$/workspace/jinhui/prod/anti/conf/sql/SingleInventoryInfo.xml" />
+      <jump line="220" column="15" filename="$USER_HOME$/workspace/jinhui/prod/anti/conf/sql/SingleInventoryInfo.xml" />
+      <jump line="203" column="74" filename="$USER_HOME$/workspace/jinhui/prod/anti/conf/sql/SingleInventoryInfo.xml" />
+      <jump line="213" column="29" filename="$USER_HOME$/workspace/jinhui/prod/anti/conf/sql/SingleInventoryInfo.xml" />
+      <jump line="216" column="15" filename="$USER_HOME$/workspace/jinhui/prod/anti/conf/sql/SingleInventoryInfo.xml" />
+      <jump line="214" column="30" filename="$USER_HOME$/workspace/jinhui/prod/anti/conf/sql/SingleInventoryInfo.xml" />
+      <jump line="10" column="60" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
+      <jump line="4" column="38" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
+      <jump line="281" column="12" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/ScanController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -463,10 +477,10 @@
         <text>&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>user_name</text>
+        <text encoding="base64">XDxzZXJpYWxjb2RlXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmaWVsZC5zZXQodGhpcywgbmV3IFRpbWVzdGFtcChDb25zdC5EYXRlRk1ULnBnVGltZVN0YW1wLnBhcnNlKHZhbCkuZ2V0VGltZSgpKSk7Cg==</text>
+      <register name="0" type="4">
+        <text>TRACEMSG</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBUaHJlYWQobmV3IE1ha2VDb2RlVGhyZWFkKGNlbnRlclNlcnZpY2UsIGNvbmZpZygpLCB2ZXJ0eCkpLnN0YXJ0KCk7Cg==</text>
@@ -500,9 +514,9 @@
       </register>
     </registers>
     <search>
-      <last-search>user_name</last-search>
+      <last-search encoding="base64">XDxzZXJpYWxjb2RlXD4=</last-search>
       <last-offset />
-      <last-pattern>user_name</last-pattern>
+      <last-pattern encoding="base64">XDxzZXJpYWxjb2RlXD4=</last-pattern>
       <last-replace />
       <last-substitute>\\&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -510,9 +524,6 @@
     </search>
     <history>
       <history-search>
-        <entry>userLogin</entry>
-        <entry encoding="base64">XDxjZW50ZXJTZXJ2aWNlXD4=</entry>
-        <entry>publish</entry>
         <entry>发货</entry>
         <entry>已领取</entry>
         <entry>domain</entry>
@@ -530,6 +541,9 @@
         <entry>saveOrder</entry>
         <entry encoding="base64">XDxyYW5kb21DaGVja1JlbFw+</entry>
         <entry>user_name</entry>
+        <entry encoding="base64">XDxjaTJcPg==</entry>
+        <entry>spend</entry>
+        <entry encoding="base64">XDxzZXJpYWxjb2RlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcdC8gL2c=</entry>
