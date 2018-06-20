@@ -20,21 +20,15 @@
         <mark key="^" line="109" column="41" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/CenterService.java" timestamp="1529384926986">
-        <mark key="'" line="66" column="9" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
       <file name="/a.dummy" timestamp="1528705114425">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/RestVerticle.java" timestamp="1529386159345">
-        <mark key="'" line="60" column="42" />
-        <mark key="[" line="114" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
-        <mark key="^" line="112" column="43" />
+      <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/RestVerticle.java" timestamp="1529464882229">
+        <mark key="'" line="62" column="42" />
+        <mark key="[" line="255" column="88" />
+        <mark key="]" line="255" column="101" />
+        <mark key="." line="255" column="101" />
+        <mark key="^" line="255" column="101" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/BaseVerticle.java" timestamp="1528989366746">
         <mark key="'" line="146" column="24" />
@@ -74,7 +68,6 @@
         <mark key="." line="157" column="0" />
         <mark key="^" line="157" column="11" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/trace_api_server/app/service/DimensionService.java" timestamp="1529390093693" />
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/config/ApplicationCxtConfig.java" timestamp="1528701148089">
         <mark key="'" line="144" column="0" />
         <mark key="[" line="36" column="33" />
@@ -244,7 +237,7 @@
         <mark key="^" line="7" column="35" />
         <mark key="." line="7" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1529461301930">
+      <file name="/Dummy.txt" timestamp="1529465038246">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/anti/conf/sql/SingleInventoryInfo.xml" timestamp="1529391159746">
@@ -260,12 +253,11 @@
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/models/Article.java" timestamp="1529114613066">
         <mark key="'" line="164" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" timestamp="1529460979662">
+      <file name="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" timestamp="1529463809902">
         <mark key="'" line="111" column="28" />
-        <mark key="[" line="104" column="47" />
-        <mark key="]" line="104" column="83" />
-        <mark key="^" line="104" column="83" />
-        <mark key="." line="104" column="83" />
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="205" column="0" />
+        <mark key="." line="205" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/CBlockServiceImpl.java" timestamp="1529385293727">
         <mark key="'" line="80" column="4" />
@@ -291,13 +283,7 @@
         <mark key="." line="845" column="0" />
         <mark key="^" line="855" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" timestamp="1529206520120">
-        <mark key="'" line="110" column="4" />
-        <mark key="[" line="22" column="65" />
-        <mark key="]" line="22" column="66" />
-        <mark key="." line="22" column="66" />
-      </file>
-      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/uuvalue/micros/misc/MiscAPIVerticle.java" timestamp="1529027346033">
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/uuvalue/micros/misc/MiscAPIVerticle.java" timestamp="1529463577423">
         <mark key="'" line="110" column="30" />
         <mark key="[" line="63" column="22" />
         <mark key="]" line="63" column="41" />
@@ -356,7 +342,7 @@
         <mark key="." line="11" column="19" />
         <mark key="^" line="11" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1529459766000">
+      <file name="/fragment.java" timestamp="1529463779201">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -470,40 +456,42 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>data</text>
       </register>
       <register name="/" type="4">
         <text>tb_user</text>
       </register>
       <register name="0" type="4">
-        <text>TRACEMSG</text>
+        <text>body.toJsonObject().getInteger(&quot;code&quot;, -1) == 0</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjYmxvCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBPYmplY3QgZGF0YTsKICAgICAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgICAgICBkYXRhID0gbmV3IEpzb25PYmplY3QoSnNvbi5tYXBwZXIud3JpdGVWYWx1ZUFzU3RyaW5nKGFyLnJlc3VsdCgpKSk7CiAgICAgICAgICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICAgICAgZGF0YSA9ICIiOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBUaHJlYWQobmV3IE1ha2VDb2RlVGhyZWFkKGNlbnRlclNlcnZpY2UsIGNvbmZpZygpLCB2ZXJ0eCkpLnN0YXJ0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9kYXRhID0gbmV3IEpzb25PYmplY3QoYXIucmVzdWx0KCkudG9TdHJpbmcoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBiYXRjaE5vID0gbWFwLmdldE9yRGVmYXVsdCgiYmF0Y2hfbm8iLCAiIikudG9TdHJpbmcoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChleGlzdHNDbnQgPT0gMCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBuZXcgSnNvbk9iamVjdChKc29uLm1hcHBlci53cml0ZVZhbHVlQXNTdHJpbmcoYXIucmVzdWx0KCkpKTsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCJjb21famluaHVpX2NvZGVzIOihqOS4reW3suaciee8lueggeiusOW9lS0tPiBvcmRlck5vOlt7fV0sIGJhdGNoTm86W3t9XSwgcGxhbklkOlt7fV0sIHJ1bGVJZDpbe31dIiwgb3JkZXJObywgYmF0Y2hObywgcGxhbklkLCBydWxlSWQpOwogICAgICAgICAgICAgICAgfQo=</text>
+      <register name="5" type="4">
+        <text>else {
+                        data
+                    }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBib29sZWFuIGxvZ2luT2sgPSBib2R5LnRvSnNvbk9iamVjdCgpLmdldEludGVnZXIoImNvZGUiLCAtMSkgPT0gMDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgdmFsID0gU3RyaW5nLnZhbHVlT2YobWFwLmdldChrZXkpKTsKICAgICAgICAgICAgICAgICAgICBmaWVsZC5zZXQodGhpcywgbmV3IFRpbWVzdGFtcChDb25zdC5EYXRlRk1ULnBnVGltZVN0YW1wLnBhcnNlKHZhbCkuZ2V0VGltZSgpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZihpc0xvZ2luKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYmxvCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -516,7 +504,7 @@
       <last-replace />
       <last-substitute>\\&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
