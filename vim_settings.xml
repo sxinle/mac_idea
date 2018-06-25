@@ -247,8 +247,8 @@
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/ScanController.java" timestamp="1529391482774">
         <mark key="'" line="281" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1529391439925">
-        <mark key="'" line="4" column="38" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1529906727369">
+        <mark key="'" line="55" column="31" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/vertx/vertx-web/3.5.1/vertx-web-3.5.1-sources.jar!/io/vertx/reactivex/ext/web/Route.java" timestamp="1529473982313">
         <mark key="'" line="151" column="15" />
@@ -388,11 +388,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="0" filename="$USER_HOME$/workspace/demo/dragon/pom.xml" />
-      <jump line="56" column="33" filename="$USER_HOME$/workspace/demo/dragon/src/main/resources/META-INF/resources/WEB-INF/jsp/security.jsp" />
-      <jump line="80" column="20" filename="$USER_HOME$/workspace/demo/dragon/src/main/resources/META-INF/resources/WEB-INF/jsp/security.jsp" />
-      <jump line="117" column="13" filename="$USER_HOME$/workspace/demo/dragon/src/main/resources/META-INF/resources/WEB-INF/jsp/security.jsp" />
-      <jump line="143" column="36" filename="$USER_HOME$/workspace/demo/dragon/src/main/resources/META-INF/resources/WEB-INF/jsp/security.jsp" />
       <jump line="144" column="20" filename="$USER_HOME$/workspace/demo/dragon/src/main/resources/META-INF/resources/WEB-INF/jsp/security.jsp" />
       <jump line="26" column="38" filename="$USER_HOME$/workspace/demo/dragon/src/main/resources/META-INF/resources/WEB-INF/jsp/security.jsp" />
       <jump line="79" column="38" filename="$USER_HOME$/workspace/demo/dragon/src/main/resources/META-INF/resources/WEB-INF/jsp/security.jsp" />
@@ -406,7 +401,6 @@
       <jump line="72" column="12" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/Global.java" />
       <jump line="87" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/Global.java" />
       <jump line="110" column="4" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
-      <jump line="18" column="2" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="97" column="65" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="53" column="15" filename="$USER_HOME$/workspace/demo/dragon/src/main/java/com/uuvalue/fake/dragon/service/impl/FakeServiceImpl.java" />
       <jump line="31" column="57" filename="$USER_HOME$/workspace/demo/dragon/src/main/java/com/uuvalue/fake/dragon/controller/FakeController.java" />
@@ -488,6 +482,12 @@
       <jump line="8" column="0" filename="$USER_HOME$/Desktop/anti/app/service/impl/ObsoleteCode.java" />
       <jump line="28" column="0" filename="$USER_HOME$/Desktop/anti/app/service/impl/ObsoleteCode.java" />
       <jump line="69" column="38" filename="$USER_HOME$/Desktop/anti/app/service/impl/CodeObsoleteServiceImpl.java" />
+      <jump line="18" column="2" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
+      <jump line="122" column="9" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
+      <jump line="258" column="7" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
+      <jump line="120" column="9" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
+      <jump line="107" column="10" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
+      <jump line="55" column="31" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -500,7 +500,7 @@
         <text>hsong</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpcFw+</text>
+        <text>scanEvent</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">Q1JFQVRFIFNFUVVFTkNFIGFudGkuc3RvcmFnZV9leHRfZmllbGRzX2lkX3NlcQogIElOQ1JFTUVOVCAxCiAgTUlOVkFMVUUgMQogIE1BWFZBTFVFIDkyMjMzNzIwMzY4NTQ3NzU4MDcKICBTVEFSVCA2CiAgQ0FDSEUgMTsK</text>
@@ -537,19 +537,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpcFw+</last-search>
+      <last-search>scanEvent</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpcFw+</last-pattern>
+      <last-pattern>scanEvent</last-pattern>
       <last-replace />
       <last-substitute>\\&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>camel</entry>
-        <entry>img</entry>
-        <entry>\/</entry>
         <entry>securityCalls</entry>
         <entry>notFound</entry>
         <entry encoding="base64">XDxjYWxsYmFja1VybFw+</entry>
@@ -567,6 +564,9 @@
         <entry>tb_user</entry>
         <entry>保存并设置过期时间失败</entry>
         <entry encoding="base64">XDxpcFw+</entry>
+        <entry>添加奖卡</entry>
+        <entry>添加</entry>
+        <entry>scanEvent</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcdC8gL2c=</entry>
