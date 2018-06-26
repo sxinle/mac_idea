@@ -35,6 +35,12 @@
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/anti/app/service/StatisticsInventoryService.java" timestamp="1529999227179">
+        <mark key="'" line="82" column="6" />
+        <mark key="[" line="292" column="0" />
+        <mark key="]" line="292" column="0" />
+        <mark key="." line="292" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/anti/app/service/impl/CodeObsoleteServiceImpl.java" timestamp="1529907613309">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="94" column="0" />
@@ -258,6 +264,12 @@
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/ScanController.java" timestamp="1529391482774">
         <mark key="'" line="281" column="12" />
       </file>
+      <file name="$USER_HOME$/Desktop/anti/app/service/impl/StatisticsInventoryServiceImpl.java" timestamp="1529999265042">
+        <mark key="[" line="63" column="13" />
+        <mark key="]" line="64" column="14" />
+        <mark key="^" line="64" column="14" />
+        <mark key="." line="64" column="14" />
+      </file>
       <file name="/sbtShell" timestamp="1529993539790">
         <mark key="[" line="0" column="0" />
       </file>
@@ -405,7 +417,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="0" filename="$USER_HOME$/workspace/demo/dragon/src/main/java/com/uuvalue/fake/dragon/controller/FakeController.java" />
       <jump line="22" column="15" filename="$USER_HOME$/workspace/demo/dragon/src/main/java/com/uuvalue/fake/dragon/controller/FakeController.java" />
       <jump line="16" column="0" filename="$USER_HOME$/workspace/demo/dragon/src/main/java/com/uuvalue/fake/dragon/controller/FakeController.java" />
       <jump line="64" column="0" filename="$USER_HOME$/workspace/demo/dragon/src/main/java/com/uuvalue/fake/dragon/controller/FakeController.java" />
@@ -505,6 +516,7 @@
       <jump line="229" column="97" filename="$USER_HOME$/Desktop/anti/conf/routes" />
       <jump line="232" column="97" filename="$USER_HOME$/Desktop/anti/conf/routes" />
       <jump line="42" column="23" filename="$USER_HOME$/Desktop/anti/app/util/CommonDao.java" />
+      <jump line="82" column="6" filename="$USER_HOME$/Desktop/anti/app/service/StatisticsInventoryService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -523,31 +535,31 @@
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTeXN0ZW0uZ2V0UHJvcGVydHkoImphdmEubGlicmFyeS5wYXRoIikpOwoKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">R0VUICAgICAvY3VzdG9tZXIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAY29udHJvbGxlcnMuQXBwbGljYXRpb24uaW5kZXhDdXN0b21lcigpCg==</text>
+        <text encoding="base64">ICAgIEBEZXByZWNhdGVkCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKXsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3lzdGVtLmdldFByb3BlcnR5KCJqYXZhLmxpYnJhcnkucGF0aCIpKTsKCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIEBEZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTb2Z0VHVuaW5nCg==</text>
+        <text encoding="base64">R0VUICAgICAvY3VzdG9tZXIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAY29udHJvbGxlcnMuQXBwbGljYXRpb24uaW5kZXhDdXN0b21lcigpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL1BEQeaXoOe6v+aOpeWPo+i/lOWbnuWvueixoQo=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKXsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3lzdGVtLmdldFByb3BlcnR5KCJqYXZhLmxpYnJhcnkucGF0aCIpKTsKCiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgT3JkZXJObyA9IHNBcnJba10uc3BsaXQoIj0iKVsxXTsK</text>
+        <text encoding="base64">ICAgICAgICBTb2Z0VHVuaW5nCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL+S4iuS8oOaWh+S7tuexu+Weiwo=</text>
+        <text encoding="base64">ICAgICAgICAvL1BEQeaXoOe6v+aOpeWPo+i/lOWbnuWvueixoQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gICAgICBwYXJhbSA9IHBhcmFtLnJlcGxhY2VBbGwoIlxccyoiLCAiIik7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICAgT3JkZXJObyA9IHNBcnJba10uc3BsaXQoIj0iKVsxXTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Izw8PDw8PDwgSEVBRAo=</text>
+        <text encoding="base64">ICAgICAgICAvL+S4iuS8oOaWh+S7tuexu+Weiwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiAqIOmHkeW+vemYsueqnOi0p+ezu+e7nwoKICoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiAqIFN5bmNJbnZlbnRvcnkuamF2YQogKi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICogKEMpIOayiOmYs+WFq+e7tOaXtuepuuenkeaKgOWPkeWxlQogKiAgICAgU0hFTllBTkcgRUlHSFRTUEFDRSBURUNITk9MT0dZIERFVkVMT1BNRU5UIENPLixMVEQuICAyMDE0CiAqLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogKiBWZXJzaW9uICAgIERhdGUgICAgICAgQnkgICAgICAgICAgICBDb21tZW50CiAqIDEuMCAgICAgICAgMjAxNC0xMS0yNSAgICAgICAgICAgICAg5paw5bu6CiAqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKi8K</text>
+        <text encoding="base64">Ly8gICAgICBwYXJhbSA9IHBhcmFtLnJlcGxhY2VBbGwoIlxccyoiLCAiIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
