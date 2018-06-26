@@ -13,11 +13,11 @@
         <mark key="." line="44" column="103" />
         <mark key="^" line="44" column="103" />
       </file>
-      <file name="$USER_HOME$/Desktop/anti/conf/routes" timestamp="1529920648932">
-        <mark key="'" line="317" column="0" />
-        <mark key="[" line="519" column="0" />
-        <mark key="]" line="519" column="0" />
-        <mark key="." line="519" column="0" />
+      <file name="$USER_HOME$/Desktop/anti/conf/routes" timestamp="1529992529636">
+        <mark key="'" line="232" column="97" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/MkCodeServiceImpl.java" timestamp="1529392844845">
         <mark key="'" line="129" column="56" />
@@ -26,7 +26,8 @@
         <mark key="^" line="109" column="41" />
         <mark key="." line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/anti/app/Global.java" timestamp="1529898589491">
+      <file name="$USER_HOME$/Desktop/anti/app/Global.java" timestamp="1529992288844">
+        <mark key="'" line="30" column="13" />
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
@@ -95,9 +96,6 @@
       </file>
       <file name="$USER_HOME$/Desktop/anti/app/service/impl/InventoryServiceImpl.java" timestamp="1529910541267">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1511" column="0" />
-        <mark key="]" line="1511" column="0" />
-        <mark key="." line="1511" column="0" />
       </file>
       <file name="/MakeCode.xml" timestamp="1529915540666">
         <mark key="'" line="352" column="8" />
@@ -315,6 +313,7 @@
       <file name="$USER_HOME$/http_main.conf" timestamp="1529134101794">
         <mark key="'" line="25" column="5" />
       </file>
+      <file name="/ManualInBatchController.java" timestamp="1529991731557" />
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/uuvalue/micros/misc/service/MiscService.java" timestamp="1528854373464">
         <mark key="'" line="107" column="3" />
         <mark key="[" line="104" column="80" />
@@ -399,14 +398,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="19" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
-      <jump line="72" column="12" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/Global.java" />
-      <jump line="87" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/Global.java" />
-      <jump line="110" column="4" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
-      <jump line="97" column="65" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
-      <jump line="53" column="15" filename="$USER_HOME$/workspace/demo/dragon/src/main/java/com/uuvalue/fake/dragon/service/impl/FakeServiceImpl.java" />
-      <jump line="31" column="57" filename="$USER_HOME$/workspace/demo/dragon/src/main/java/com/uuvalue/fake/dragon/controller/FakeController.java" />
-      <jump line="29" column="57" filename="$USER_HOME$/workspace/demo/dragon/src/main/java/com/uuvalue/fake/dragon/controller/FakeController.java" />
       <jump line="20" column="0" filename="$USER_HOME$/workspace/demo/dragon/src/main/java/com/uuvalue/fake/dragon/controller/FakeController.java" />
       <jump line="19" column="0" filename="$USER_HOME$/workspace/demo/dragon/src/main/java/com/uuvalue/fake/dragon/controller/FakeController.java" />
       <jump line="22" column="15" filename="$USER_HOME$/workspace/demo/dragon/src/main/java/com/uuvalue/fake/dragon/controller/FakeController.java" />
@@ -499,6 +490,14 @@
       <jump line="352" column="8" filename="/MakeCode.xml" />
       <jump line="22" column="0" filename="$USER_HOME$/Desktop/anti/app/service/impl/MakeCodeServiceImpl.java" />
       <jump line="317" column="0" filename="$USER_HOME$/Desktop/anti/conf/routes" />
+      <jump line="30" column="13" filename="$USER_HOME$/Desktop/anti/app/Global.java" />
+      <jump line="192" column="0" filename="$USER_HOME$/Desktop/anti/conf/routes" />
+      <jump line="42" column="45" filename="$USER_HOME$/Desktop/anti/conf/routes" />
+      <jump line="590" column="0" filename="$USER_HOME$/Desktop/anti/conf/routes" />
+      <jump line="2" column="0" filename="$USER_HOME$/Desktop/anti/conf/routes" />
+      <jump line="241" column="97" filename="$USER_HOME$/Desktop/anti/conf/routes" />
+      <jump line="229" column="97" filename="$USER_HOME$/Desktop/anti/conf/routes" />
+      <jump line="232" column="97" filename="$USER_HOME$/Desktop/anti/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -511,55 +510,53 @@
         <text>java.library</text>
       </register>
       <register name="/" type="4">
-        <text>makeCode</text>
+        <text>distr</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBtYWluKFN0cmluZ1tdIGFyZ3MpewogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihTeXN0ZW0uZ2V0UHJvcGVydHkoImphdmEubGlicmFyeS5wYXRoIikpOwoKICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKXsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3lzdGVtLmdldFByb3BlcnR5KCJqYXZhLmxpYnJhcnkucGF0aCIpKTsKCiAgICB9Cg==</text>
+        <text encoding="base64">R0VUICAgICAvY3VzdG9tZXIgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAY29udHJvbGxlcnMuQXBwbGljYXRpb24uaW5kZXhDdXN0b21lcigpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTb2Z0VHVuaW5nCg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKXsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oU3lzdGVtLmdldFByb3BlcnR5KCJqYXZhLmxpYnJhcnkucGF0aCIpKTsKCiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL1BEQeaXoOe6v+aOpeWPo+i/lOWbnuWvueixoQo=</text>
+        <text encoding="base64">ICAgICAgICBTb2Z0VHVuaW5nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgT3JkZXJObyA9IHNBcnJba10uc3BsaXQoIj0iKVsxXTsK</text>
+        <text encoding="base64">ICAgICAgICAvL1BEQeaXoOe6v+aOpeWPo+i/lOWbnuWvueixoQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL+S4iuS8oOaWh+S7tuexu+Weiwo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgT3JkZXJObyA9IHNBcnJba10uc3BsaXQoIj0iKVsxXTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICBwYXJhbSA9IHBhcmFtLnJlcGxhY2VBbGwoIlxccyoiLCAiIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL+S4iuS8oOaWh+S7tuexu+Weiwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Izw8PDw8PDwgSEVBRAo=</text>
+        <text encoding="base64">Ly8gICAgICBwYXJhbSA9IHBhcmFtLnJlcGxhY2VBbGwoIlxccyoiLCAiIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiAqIOmHkeW+vemYsueqnOi0p+ezu+e7nwoKICoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiAqIFN5bmNJbnZlbnRvcnkuamF2YQogKi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICogKEMpIOayiOmYs+WFq+e7tOaXtuepuuenkeaKgOWPkeWxlQogKiAgICAgU0hFTllBTkcgRUlHSFRTUEFDRSBURUNITk9MT0dZIERFVkVMT1BNRU5UIENPLixMVEQuICAyMDE0CiAqLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogKiBWZXJzaW9uICAgIERhdGUgICAgICAgQnkgICAgICAgICAgICBDb21tZW50CiAqIDEuMCAgICAgICAgMjAxNC0xMS0yNSAgICAgICAgICAgICAg5paw5bu6CiAqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKi8K</text>
+        <text encoding="base64">Izw8PDw8PDwgSEVBRAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAvL+WwhuWPr+S9nOW6n+agh+ivhuWPmOWbnmZhbHNlCi8vICAgICAgICBtYXAucHV0KCJvYnNvbGV0ZUZsYWciLCJmYWxzZSIpOwovLyAgICAgICAgbWFwLnB1dCgiZm9ybUlkIixmb3JtaWQpOwovLyAgICAgICAgZGFvLnVwZGF0ZShVUERBVEVfT0JTT0xFVEVGTEFHLG1hcCk7CiAgICAgICAgLy/lsIblj6/ph43nlKjmoIfor4blj5jlm550cnVlCi8vICAgICAgICBtYXAucHV0KCJyZXVzZUZsYWciLCJ0cnVlIik7Ci8vICAgICAgICBtYXAucHV0KCJmb3JtSWQiLGZvcm1pZCk7Ci8vICAgICAgICBkYW8udXBkYXRlKFVQREFURV9SRVVTRUZMQUcsbWFwKTsK</text>
+        <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiAqIOmHkeW+vemYsueqnOi0p+ezu+e7nwoKICoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqCiAqIFN5bmNJbnZlbnRvcnkuamF2YQogKi0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICogKEMpIOayiOmYs+WFq+e7tOaXtuepuuenkeaKgOWPkeWxlQogKiAgICAgU0hFTllBTkcgRUlHSFRTUEFDRSBURUNITk9MT0dZIERFVkVMT1BNRU5UIENPLixMVEQuICAyMDE0CiAqLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogKiBWZXJzaW9uICAgIERhdGUgICAgICAgQnkgICAgICAgICAgICBDb21tZW50CiAqIDEuMCAgICAgICAgMjAxNC0xMS0yNSAgICAgICAgICAgICAg5paw5bu6CiAqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKi8K</text>
       </register>
       <register name=":" type="4">
-        <text>action $Redo</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>makeCode</last-search>
+      <last-search>distr</last-search>
       <last-offset />
-      <last-pattern>makeCode</last-pattern>
+      <last-pattern>distr</last-pattern>
       <last-replace />
       <last-substitute>\\&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYWxsYmFja1VybFw+</entry>
-        <entry>ruleId</entry>
         <entry>name</entry>
         <entry>password</entry>
         <entry>saveOrder</entry>
@@ -578,6 +575,8 @@
         <entry>scanEvent</entry>
         <entry>scala</entry>
         <entry>makeCode</entry>
+        <entry>distributorRenderSfcSum</entry>
+        <entry>distr</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcdC8gL2c=</entry>
@@ -598,8 +597,8 @@
         <entry encoding="base64">JzwsJz5zLygvL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1xcIi8vZw==</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>action $Redo</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
