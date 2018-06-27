@@ -401,6 +401,11 @@
         <mark key="." line="845" column="0" />
         <mark key="^" line="855" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" timestamp="1530082061714">
+        <mark key="'" line="2" column="25" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="40" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/uuvalue/micros/misc/MiscAPIVerticle.java" timestamp="1529463577423">
         <mark key="'" line="110" column="30" />
         <mark key="[" line="63" column="22" />
@@ -477,8 +482,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
-      <jump line="124" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
       <jump line="74" column="45" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
       <jump line="89" column="39" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/Docs.java" />
       <jump line="33" column="15" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
@@ -577,6 +580,8 @@
       <jump line="110" column="47" filename="$USER_HOME$/Desktop/anti/app/views/fakeAnalysis.scala.html" />
       <jump line="24" column="18" filename="$USER_HOME$/Desktop/anti/sql_migrate/2018-05-11/假货分析.sql" />
       <jump line="22" column="13" filename="$USER_HOME$/Desktop/anti/app/setup/Setup.java" />
+      <jump line="25" column="11" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
+      <jump line="2" column="25" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -591,8 +596,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxlbWFpbFw+</text>
       </register>
-      <register name="0" type="4">
-        <text>fake_analysis_id_seq</text>
+      <register name="0" type="2">
+        <text encoding="base64">dXNlQ2FtZWw9dHJ1ZQpjYW1lbEFwaVVSTD0iaHR0cDovL2NoZWNrLmx1b3R1b21hLmNuL2xvdHRlcnlfb2ZmY2lhbC9qaGoiCmNhbWVsQXBwSWQ9InNoYWdueGlhbmNlc2hpIgpjYW1lbEFwcEtleT0iMDYyNzRkNDg3YTgyNTBlNDNlZjllM2RkOWRjN2QxMzkiCmNhbWVsTm90aWZ5VVJMPSJsdW90dW9tYS9yZWRQYWNrQ2FsbGJhY2svIgpjYW1lbFRlbE5vdGlmeVVSTD0ibHVvdHVvbWEvdGVsQ2FsbGJhY2svIgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
