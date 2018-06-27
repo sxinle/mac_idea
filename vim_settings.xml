@@ -29,11 +29,12 @@
       <file name="$USER_HOME$/Desktop/anti/app/util/CommonDao.java" timestamp="1529993701656">
         <mark key="'" line="42" column="23" />
       </file>
-      <file name="$USER_HOME$/Desktop/anti/app/Global.java" timestamp="1529992288844">
-        <mark key="'" line="30" column="13" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Desktop/anti/app/Global.java" timestamp="1530092827448">
+        <mark key="'" line="66" column="67" />
+        <mark key="[" line="75" column="48" />
+        <mark key="]" line="78" column="11" />
+        <mark key="." line="78" column="11" />
+        <mark key="^" line="78" column="11" />
       </file>
       <file name="$USER_HOME$/Desktop/anti/app/service/StatisticsInventoryService.java" timestamp="1529999227179">
         <mark key="'" line="82" column="6" />
@@ -97,10 +98,6 @@
         <mark key="]" line="157" column="0" />
         <mark key="." line="157" column="0" />
         <mark key="^" line="157" column="11" />
-      </file>
-      <file name="$USER_HOME$/Desktop/anti/app/service/impl/InventoryServiceImpl.java" timestamp="1530008034304">
-        <mark key="'" line="1234" column="13" />
-        <mark key="." line="268" column="79" />
       </file>
       <file name="/MakeCode.xml" timestamp="1529915540666">
         <mark key="'" line="352" column="8" />
@@ -361,6 +358,7 @@
       <file name="$USER_HOME$/workspace/jinhui/prod/anti/conf/sql/SingleInventoryInfo.xml" timestamp="1529391159746">
         <mark key="'" line="214" column="30" />
       </file>
+      <file name="$USER_HOME$/Desktop/anti/app/util/ScheduleJob.java" timestamp="1530092814290" />
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/domain/Order.java" timestamp="1529380725586">
         <mark key="'" line="20" column="23" />
         <mark key="[" line="83" column="0" />
@@ -482,7 +480,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="74" column="45" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
       <jump line="89" column="39" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/Docs.java" />
       <jump line="33" column="15" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
       <jump line="295" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
@@ -582,6 +579,7 @@
       <jump line="22" column="13" filename="$USER_HOME$/Desktop/anti/app/setup/Setup.java" />
       <jump line="25" column="11" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
       <jump line="2" column="25" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
+      <jump line="66" column="67" filename="$USER_HOME$/Desktop/anti/app/Global.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -591,7 +589,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>obsolete_orcode_seq</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlbWFpbFw+</text>
@@ -600,13 +598,13 @@
         <text encoding="base64">dXNlQ2FtZWw9dHJ1ZQpjYW1lbEFwaVVSTD0iaHR0cDovL2NoZWNrLmx1b3R1b21hLmNuL2xvdHRlcnlfb2ZmY2lhbC9qaGoiCmNhbWVsQXBwSWQ9InNoYWdueGlhbmNlc2hpIgpjYW1lbEFwcEtleT0iMDYyNzRkNDg3YTgyNTBlNDNlZjllM2RkOWRjN2QxMzkiCmNhbWVsTm90aWZ5VVJMPSJsdW90dW9tYS9yZWRQYWNrQ2FsbGJhY2svIgpjYW1lbFRlbE5vdGlmeVVSTD0ibHVvdHVvbWEvdGVsQ2FsbGJhY2svIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QUxURVIgVEFCTEUgImFudGkiLiJmYWtlX2FuYWx5c2lzX2lkX3NlcSIKICBPV05FUiBUTyAiamhfcHJvZCI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QUxURVIgVEFCTEUgImFudGkiLiJmYWtlX2FuYWx5c2lzX2lkX3NlcSIKICBPV05FUiBUTyAiamhfcHJvZCI7Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -615,16 +613,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Q1JFQVRFIFNFUVVFTkNFIGFudGkuZmFrZV9hbmFseXNpc19pZF9zZXEKICBJTkNSRU1FTlQgMQogIE1JTlZBTFVFIDEKICBNQVhWQUxVRSA5MjIzMzcyMDM2ODU0Nzc1ODA3CiAgU1RBUlQgMQogIENBQ0hFIDEKICBDWUNMRTsKQUxURVIgVEFCTEUgYW50aS5vYnNvbGV0ZV9vcmNvZGVfc2VxCiAgT1dORVIgVE8gamhfcHJvZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">T1dORUQgQlkgImFudGkiLiJmYWtlX2FuYWx5c2lzIi4iaWQiOwo=</text>
+        <text encoding="base64">Q1JFQVRFIFNFUVVFTkNFIGFudGkuZmFrZV9hbmFseXNpc19pZF9zZXEKICBJTkNSRU1FTlQgMQogIE1JTlZBTFVFIDEKICBNQVhWQUxVRSA5MjIzMzcyMDM2ODU0Nzc1ODA3CiAgU1RBUlQgMQogIENBQ0hFIDEKICBDWUNMRTsKQUxURVIgVEFCTEUgYW50aS5vYnNvbGV0ZV9vcmNvZGVfc2VxCiAgT1dORVIgVE8gamhfcHJvZDsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">T1dORUQgQlkgImFudGkiLiJmYWtlX2FuYWx5c2lzIi4iaWQiOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PT09PT09PQogICAgICAgICAgICBTdHJpbmcgaW50ZXJmbG93Y29kZSA9IGxzLmdldCgwKTsKICAgICAgICAgICAgaW50IGluID0gaW50ZXJmbG93Y29kZS5zcGxpdCgiLCIpLmxlbmd0aDsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIHNlcnZpY2UuaW5mb191cChpbmZvLCBsZyk7CiAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBpZiAobGcgPT0gMSkgewogICAgICAgICAgICAgICAgcmV0dXJuIG9rKG1hbnVhbEluQmF0Y2gucmVuZGVyKG1lbnVJZCwgdXNlckluZm9FbnRpdHkuZ2V0VXNlck5hbWUoKSwgIiIsIGludGVyZmxvd2NvZGUsIGxvZ18xKSk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIG9rKHNpbmdsZUludmVudG9yeUluZm8ucmVuZGVyKDI1LCB1c2VySW5mb0VudGl0eS5nZXRVc2VyTmFtZSgpLCAiIiwgaW50ZXJmbG93Y29kZSwgbG9nXzEsIGluKSk7Cj4+Pj4+Pj4gdXBzdHJlYW0vbWFzdGVyCg==</text>
+        <text encoding="base64">T1dORUQgQlkgImFudGkiLiJmYWtlX2FuYWx5c2lzIi4iaWQiOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
