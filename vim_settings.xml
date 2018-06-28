@@ -72,10 +72,10 @@
         <mark key="." line="23" column="29" />
         <mark key="^" line="23" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/db_init.sql" timestamp="1529461296357">
-        <mark key="'" line="156" column="35" />
-        <mark key="[" line="173" column="45" />
-        <mark key="]" line="173" column="45" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/db_init.sql" timestamp="1530166590191">
+        <mark key="'" line="2" column="12" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="151" column="23" />
         <mark key="." line="173" column="45" />
         <mark key="^" line="173" column="45" />
       </file>
@@ -466,9 +466,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="49" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
-      <jump line="110" column="0" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
-      <jump line="78" column="39" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
       <jump line="249" column="63" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
       <jump line="143" column="57" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/db_init.sql" />
       <jump line="156" column="35" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/db_init.sql" />
@@ -566,6 +563,9 @@
       <jump line="247" column="42" filename="$USER_HOME$/Desktop/anti/app/views/singleInventoryInfo.scala.html" />
       <jump line="9" column="9" filename="$USER_HOME$/workspace/demo/zest/src/main/java/http/RechargeUtil.java" />
       <jump line="240" column="4" filename="$USER_HOME$/workspace/demo/zest/src/main/java/http/RechargeUtil.java" />
+      <jump line="187" column="8" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/db_init.sql" />
+      <jump line="1" column="6" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/db_init.sql" />
+      <jump line="2" column="12" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/db_init.sql" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -578,10 +578,10 @@
         <text>7xU0Jm9P</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbWFpbFw+</text>
+        <text>password</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dXNlQ2FtZWw9dHJ1ZQpjYW1lbEFwaVVSTD0iaHR0cDovL2NoZWNrLmx1b3R1b21hLmNuL2xvdHRlcnlfb2ZmY2lhbC9qaGoiCmNhbWVsQXBwSWQ9InNoYWdueGlhbmNlc2hpIgpjYW1lbEFwcEtleT0iMDYyNzRkNDg3YTgyNTBlNDNlZjllM2RkOWRjN2QxMzkiCmNhbWVsTm90aWZ5VVJMPSJsdW90dW9tYS9yZWRQYWNrQ2FsbGJhY2svIgpjYW1lbFRlbE5vdGlmeVVSTD0ibHVvdHVvbWEvdGVsQ2FsbGJhY2svIgo=</text>
+        <text encoding="base64">Q1JFQVRFIFRBQkxFICJjb3JlIi4idGJfb3JkZXIiICgKICAiaWQiICAgICAgICAgIGludDQgTk9UIE5VTEwgREVGQVVMVCBuZXh0dmFsKCdvcmRlcl9zZXEnIDo6IHJlZ2NsYXNzKSwKICAib3JkZXJfbm8iICAgIHZhcmNoYXIoMjQpIENPTExBVEUgInBnX2NhdGFsb2ciLiJkZWZhdWx0IiwKICAic3VwcGxpZXIiICAgIGludDQsCiAgInJ1bGVfaWQiICAgICBpbnQ0LAogICJjcmVhdGVfYXQiICAgdGltZXN0YW1wKDYpICBERUZBVUxUIG5vdygpLAogICJyZW1hcmsiICAgICAgdmFyY2hhcigzMikgQ09MTEFURSAicGdfY2F0YWxvZyIuImRlZmF1bHQiLAogICJjb2Rlc19jb3VudCIgaW50OCwKICAicGFzc3dvcmQiICAgIHZhcmNoYXIoNjQpIENPTExBVEUgInBnX2NhdGFsb2ciLiJkZWZhdWx0IiwKICAiZmlsZV9wYXRoIiAgIHZhcmNoYXIoMjU1KSBDT0xMQVRFICJwZ19jYXRhbG9nIi4iZGVmYXVsdCIsCiAgImJhdGNoX25vIiAgICB2YXJjaGFyKDMyKSBDT0xMQVRFICJwZ19jYXRhbG9nIi4iZGVmYXVsdCIsCiAgInN0YXR1cyIgICAgICBpbnQ0ICAgICAgICAgIERFRkFVTFQgLTEsCiAgQ09OU1RSQUlOVCAidGJfb3JkZXJfcGtleSIgUFJJTUFSWSBLRVkgKCJpZCIpCik7CgpBTFRFUiBUQUJMRSAiY29yZSIuInRiX29yZGVyIgogIE9XTkVSIFRPICJjb2RlY2VudGVyIjsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -615,17 +615,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbWFpbFw+</last-search>
+      <last-search>password</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbWFpbFw+</last-pattern>
+      <last-pattern>password</last-pattern>
       <last-replace />
       <last-substitute>\\&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaTJcPg==</entry>
         <entry>spend</entry>
         <entry encoding="base64">XDxzZXJpYWxjb2RlXD4=</entry>
         <entry>need</entry>
@@ -645,6 +644,7 @@
         <entry>HEAD</entry>
         <entry>list1</entry>
         <entry encoding="base64">XDxlbWFpbFw+</entry>
+        <entry>password</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcdC8gL2c=</entry>
