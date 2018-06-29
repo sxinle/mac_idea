@@ -53,11 +53,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/RestVerticle.java" timestamp="1530252385257">
-        <mark key="'" line="229" column="32" />
-        <mark key="[" line="317" column="0" />
-        <mark key="]" line="317" column="0" />
-        <mark key="." line="317" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/RestVerticle.java" timestamp="1530264817721">
+        <mark key="'" line="299" column="25" />
+        <mark key="[" line="318" column="26" />
+        <mark key="]" line="318" column="52" />
+        <mark key="." line="61" column="31" />
+        <mark key="^" line="61" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/BaseVerticle.java" timestamp="1528989366746">
         <mark key="'" line="146" column="24" />
@@ -382,12 +383,12 @@
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/models/Article.java" timestamp="1529114613066">
         <mark key="'" line="164" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" timestamp="1530250060782">
+      <file name="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" timestamp="1530265242004">
         <mark key="'" line="104" column="0" />
-        <mark key="[" line="61" column="45" />
-        <mark key="]" line="62" column="31" />
-        <mark key="." line="62" column="31" />
-        <mark key="^" line="62" column="31" />
+        <mark key="[" line="193" column="0" />
+        <mark key="]" line="193" column="0" />
+        <mark key="." line="193" column="0" />
+        <mark key="^" line="193" column="78" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/CBlockServiceImpl.java" timestamp="1530174583902">
         <mark key="'" line="77" column="4" />
@@ -481,12 +482,11 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="11" column="19" />
       </file>
-      <file name="/fragment.java" timestamp="1530248831518">
+      <file name="/fragment.java" timestamp="1530265076728">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/Desktop/anti/app/service/impl/ObsoleteCode.java" />
       <jump line="69" column="38" filename="$USER_HOME$/Desktop/anti/app/service/impl/CodeObsoleteServiceImpl.java" />
       <jump line="18" column="2" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="122" column="9" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
@@ -586,6 +586,7 @@
       <jump line="317" column="19" filename="$MAVEN_REPOSITORY$/com/uuvalue/micros/common/1.0.0-SNAPSHOT/common-1.0.0-20180622.021413-1.jar!/com/uuvalue/micros/common/RestVerticle.class" />
       <jump line="24" column="42" filename="$MAVEN_REPOSITORY$/com/uuvalue/micros/common/1.0.0-SNAPSHOT/common-1.0.0-20180622.021413-1.jar!/com/uuvalue/micros/common/RestVerticle.class" />
       <jump line="37" column="13" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-web/3.5.1/vertx-web-3.5.1-sources.jar!/io/vertx/ext/web/handler/impl/CorsHandlerImpl.java" />
+      <jump line="299" column="25" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/RestVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -595,40 +596,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>http://localhost:8000</text>
+        <text>rep</text>
       </register>
       <register name="/" type="4">
         <text>*</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbGxvd0hlYWRlcnMuYWRkKCJhY2NlcHQiKTsK</text>
+      <register name="0" type="4">
+        <text>Access-Control-Allow-Origin</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBBY2Nlc3MtQ29udHJvbC1BbGxvdy1PcmlnaW4K</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oY29udGV4dC5yZXF1ZXN0KCkuZ2V0RGVsZWdhdGUoKS5yZXNwb25zZSgpLmhlYWRlcnMoKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGthZmthLmNvbnN1bWVyLkNvbnN1bWVySXRlcmF0b3I7CmltcG9ydCBrYWZrYS5jb25zdW1lci5LYWZrYVN0cmVhbTsKaW1wb3J0IGthZmthLm1lc3NhZ2UuTWVzc2FnZUFuZE1ldGFkYXRhOwo=</text>
+        <text encoding="base64">ICAgICAgICBlbmFibGVDb3JzU3VwcG9ydChyb3V0ZXIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I21vbmdkYgpIT1NUID0gIjEyNy4wLjAuMSIKUE9SVCA9IDI3MDE3ClBPT0xfU0laRSA9IDEwCkJMT0NLX1NJWkUgPSAxMApJTklUX0ZMQUcgPSAwCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBBY2Nlc3MtQ29udHJvbC1BbGxvdy1PcmlnaW4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IGthZmthLmNvbnN1bWVyLkNvbnN1bWVySXRlcmF0b3I7CmltcG9ydCBrYWZrYS5jb25zdW1lci5LYWZrYVN0cmVhbTsKaW1wb3J0IGthZmthLm1lc3NhZ2UuTWVzc2FnZUFuZE1ldGFkYXRhOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I21vbmdkYgpIT1NUID0gIjEyNy4wLjAuMSIKUE9SVCA9IDI3MDE3ClBPT0xfU0laRSA9IDEwCkJMT0NLX1NJWkUgPSAxMApJTklUX0ZMQUcgPSAwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1pdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8c2VsZWN0S2V5IGtleVByb3BlcnR5PSJpZCIgcmVzdWx0VHlwZT0iamF2YS5sYW5nLkxvbmciIG9yZGVyPSJBRlRFUiI+CiAgICAgICAgICAgIFNFTEVDVCBjdXJydmFsKCdjb3JlLnRiX3VzZXJfaWRfc2VxJykKICAgICAgICA8L3NlbGVjdEtleT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1pdAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0VmFsKCd0Yl91c2VyX2lkX3NlcScpLAo=</text>
+        <text encoding="base64">ICAgICAgICA8c2VsZWN0S2V5IGtleVByb3BlcnR5PSJpZCIgcmVzdWx0VHlwZT0iamF2YS5sYW5nLkxvbmciIG9yZGVyPSJBRlRFUiI+CiAgICAgICAgICAgIFNFTEVDVCBjdXJydmFsKCdjb3JlLnRiX3VzZXJfaWRfc2VxJykKICAgICAgICA8L3NlbGVjdEtleT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
