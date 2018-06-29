@@ -53,12 +53,11 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/RestVerticle.java" timestamp="1529647146508">
+      <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/RestVerticle.java" timestamp="1530252385257">
         <mark key="'" line="229" column="32" />
-        <mark key="[" line="255" column="88" />
-        <mark key="]" line="255" column="101" />
-        <mark key="." line="255" column="101" />
-        <mark key="^" line="255" column="101" />
+        <mark key="[" line="317" column="0" />
+        <mark key="]" line="317" column="0" />
+        <mark key="." line="317" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/BaseVerticle.java" timestamp="1528989366746">
         <mark key="'" line="146" column="24" />
@@ -397,6 +396,9 @@
         <mark key="." line="189" column="27" />
         <mark key="^" line="189" column="27" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/vertx/vertx-web/3.5.1/vertx-web-3.5.1-sources.jar!/io/vertx/ext/web/handler/impl/CorsHandlerImpl.java" timestamp="1530251835195">
+        <mark key="'" line="37" column="13" />
+      </file>
       <file name="$USER_HOME$/http_main.conf" timestamp="1529134101794">
         <mark key="'" line="25" column="5" />
       </file>
@@ -484,7 +486,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="0" filename="$USER_HOME$/Desktop/anti/app/service/impl/ObsoleteCode.java" />
       <jump line="28" column="0" filename="$USER_HOME$/Desktop/anti/app/service/impl/ObsoleteCode.java" />
       <jump line="69" column="38" filename="$USER_HOME$/Desktop/anti/app/service/impl/CodeObsoleteServiceImpl.java" />
       <jump line="18" column="2" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
@@ -584,6 +585,7 @@
       <jump line="103" column="0" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
       <jump line="317" column="19" filename="$MAVEN_REPOSITORY$/com/uuvalue/micros/common/1.0.0-SNAPSHOT/common-1.0.0-20180622.021413-1.jar!/com/uuvalue/micros/common/RestVerticle.class" />
       <jump line="24" column="42" filename="$MAVEN_REPOSITORY$/com/uuvalue/micros/common/1.0.0-SNAPSHOT/common-1.0.0-20180622.021413-1.jar!/com/uuvalue/micros/common/RestVerticle.class" />
+      <jump line="37" column="13" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-web/3.5.1/vertx-web-3.5.1-sources.jar!/io/vertx/ext/web/handler/impl/CorsHandlerImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -593,49 +595,49 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>description</text>
+        <text>http://localhost:8000</text>
       </register>
       <register name="/" type="4">
-        <text>cors</text>
+        <text>*</text>
       </register>
-      <register name="0" type="4">
-        <text>description</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhbGxvd0hlYWRlcnMuYWRkKCJhY2NlcHQiKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGthZmthLmNvbnN1bWVyLkNvbnN1bWVySXRlcmF0b3I7CmltcG9ydCBrYWZrYS5jb25zdW1lci5LYWZrYVN0cmVhbTsKaW1wb3J0IGthZmthLm1lc3NhZ2UuTWVzc2FnZUFuZE1ldGFkYXRhOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICBBY2Nlc3MtQ29udHJvbC1BbGxvdy1PcmlnaW4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">I21vbmdkYgpIT1NUID0gIjEyNy4wLjAuMSIKUE9SVCA9IDI3MDE3ClBPT0xfU0laRSA9IDEwCkJMT0NLX1NJWkUgPSAxMApJTklUX0ZMQUcgPSAwCg==</text>
+        <text encoding="base64">aW1wb3J0IGthZmthLmNvbnN1bWVyLkNvbnN1bWVySXRlcmF0b3I7CmltcG9ydCBrYWZrYS5jb25zdW1lci5LYWZrYVN0cmVhbTsKaW1wb3J0IGthZmthLm1lc3NhZ2UuTWVzc2FnZUFuZE1ldGFkYXRhOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">I21vbmdkYgpIT1NUID0gIjEyNy4wLjAuMSIKUE9SVCA9IDI3MDE3ClBPT0xfU0laRSA9IDEwCkJMT0NLX1NJWkUgPSAxMApJTklUX0ZMQUcgPSAwCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1pdAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8c2VsZWN0S2V5IGtleVByb3BlcnR5PSJpZCIgcmVzdWx0VHlwZT0iamF2YS5sYW5nLkxvbmciIG9yZGVyPSJBRlRFUiI+CiAgICAgICAgICAgIFNFTEVDVCBjdXJydmFsKCdjb3JlLnRiX3VzZXJfaWRfc2VxJykKICAgICAgICA8L3NlbGVjdEtleT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbW1pdAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZCwK</text>
+        <text encoding="base64">ICAgICAgICA8c2VsZWN0S2V5IGtleVByb3BlcnR5PSJpZCIgcmVzdWx0VHlwZT0iamF2YS5sYW5nLkxvbmciIG9yZGVyPSJBRlRFUiI+CiAgICAgICAgICAgIFNFTEVDVCBjdXJydmFsKCdjb3JlLnRiX3VzZXJfaWRfc2VxJykKICAgICAgICA8L3NlbGVjdEtleT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBuZXh0VmFsKCd0Yl91c2VyX2lkX3NlcScpLAo=</text>
+        <text encoding="base64">ICAgICAgICBpZCwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8c2VsZWN0S2V5IHJlc3VsdFR5cGU9ImludCIga2V5UHJvcGVydHk9ImlkIiBvcmRlcj0iQUZURVIiPgogICAgICAgICAgICBTRUxFQ1QgTEFTVF9JTlNFUlRfSUQoKQogICAgICAgIDwvc2VsZWN0S2V5Pgo=</text>
+        <text encoding="base64">ICAgICAgICBuZXh0VmFsKCd0Yl91c2VyX2lkX3NlcScpLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cors</last-search>
+      <last-search>*</last-search>
       <last-offset />
-      <last-pattern>cors</last-pattern>
+      <last-pattern>*</last-pattern>
       <last-replace />
       <last-substitute>\\&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -643,7 +645,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXJpYWxjb2RlXD4=</entry>
         <entry>need</entry>
         <entry>请求</entry>
         <entry>保存并设置过期时间失败</entry>
@@ -663,6 +664,7 @@
         <entry>password</entry>
         <entry>tb_user</entry>
         <entry>cors</entry>
+        <entry>*</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcdC8gL2c=</entry>
