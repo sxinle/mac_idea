@@ -332,8 +332,8 @@
         <mark key="^" line="486" column="3" />
         <mark key="." line="487" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1529906727369">
-        <mark key="'" line="55" column="31" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1530524694748">
+        <mark key="'" line="60" column="57" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/vertx/vertx-web/3.5.1/vertx-web-3.5.1-sources.jar!/io/vertx/reactivex/ext/web/Route.java" timestamp="1529473982313">
         <mark key="'" line="151" column="15" />
@@ -487,9 +487,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="38" filename="$USER_HOME$/Desktop/anti/app/service/impl/CodeObsoleteServiceImpl.java" />
-      <jump line="18" column="2" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
-      <jump line="122" column="9" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="258" column="7" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="120" column="9" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="107" column="10" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
@@ -587,6 +584,9 @@
       <jump line="24" column="42" filename="$MAVEN_REPOSITORY$/com/uuvalue/micros/common/1.0.0-SNAPSHOT/common-1.0.0-20180622.021413-1.jar!/com/uuvalue/micros/common/RestVerticle.class" />
       <jump line="37" column="13" filename="$MAVEN_REPOSITORY$/io/vertx/vertx-web/3.5.1/vertx-web-3.5.1-sources.jar!/io/vertx/ext/web/handler/impl/CorsHandlerImpl.java" />
       <jump line="299" column="25" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/RestVerticle.java" />
+      <jump line="49" column="72" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
+      <jump line="7" column="72" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
+      <jump line="60" column="57" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -599,7 +599,7 @@
         <text>//.setAll(response.headers());</text>
       </register>
       <register name="/" type="4">
-        <text>*</text>
+        <text>oauth</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnRleHQucmVxdWVzdCgpLmdldERlbGVnYXRlKCkucmVzcG9uc2UoKS5oZWFkZXJzKCkuYWRkQWxsKHJlc3BvbnNlLmhlYWRlcnMoKSk7Ly8uc2V0QWxsKHJlc3BvbnNlLmhlYWRlcnMoKSk7Cg==</text>
@@ -636,9 +636,9 @@
       </register>
     </registers>
     <search>
-      <last-search>*</last-search>
+      <last-search>oauth</last-search>
       <last-offset />
-      <last-pattern>*</last-pattern>
+      <last-pattern>oauth</last-pattern>
       <last-replace />
       <last-substitute>\\&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -646,8 +646,6 @@
     </search>
     <history>
       <history-search>
-        <entry>need</entry>
-        <entry>请求</entry>
         <entry>保存并设置过期时间失败</entry>
         <entry encoding="base64">XDxpcFw+</entry>
         <entry>添加奖卡</entry>
@@ -666,6 +664,8 @@
         <entry>tb_user</entry>
         <entry>cors</entry>
         <entry>*</entry>
+        <entry>spend</entry>
+        <entry>oauth</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcdC8gL2c=</entry>
