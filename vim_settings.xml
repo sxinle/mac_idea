@@ -355,8 +355,8 @@
         <mark key="^" line="486" column="3" />
         <mark key="." line="487" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1530585739129">
-        <mark key="'" line="365" column="141" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1530602313944">
+        <mark key="'" line="5" column="70" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/vertx/vertx-web/3.5.1/vertx-web-3.5.1-sources.jar!/io/vertx/reactivex/ext/web/Route.java" timestamp="1529473982313">
         <mark key="'" line="151" column="15" />
@@ -516,8 +516,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="23" filename="$USER_HOME$/Desktop/anti/app/util/CommonDao.java" />
-      <jump line="82" column="6" filename="$USER_HOME$/Desktop/anti/app/service/StatisticsInventoryService.java" />
       <jump line="1234" column="13" filename="$USER_HOME$/Desktop/anti/app/service/impl/InventoryServiceImpl.java" />
       <jump line="52" column="3" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/InventoryServiceImpl.java" />
       <jump line="62" column="0" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/InventoryService.java" />
@@ -609,13 +607,15 @@
       <jump line="13" column="30" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/mappers/UserMapper.xml" />
       <jump line="3" column="41" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/CBlockServiceImpl.java" />
       <jump line="138" column="51" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="428" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="28" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
-      <jump line="365" column="141" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/online.conf" />
       <jump line="32" column="32" filename="$USER_HOME$/workspace/micro-service/jhshop/micros-weixin/src/main/java/com/uuvalue/micros/weixin/WeixinAPIVerticle.java" />
+      <jump line="365" column="141" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
+      <jump line="325" column="82" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
+      <jump line="5" column="70" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -628,7 +628,7 @@
         <text>&quot;wechat.snsapi_base&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>web.ip</text>
+        <text>spend</text>
       </register>
       <register name="0" type="4">
         <text>snsapi_base</text>
@@ -665,9 +665,9 @@
       </register>
     </registers>
     <search>
-      <last-search>web.ip</last-search>
+      <last-search>spend</last-search>
       <last-offset />
-      <last-pattern>web.ip</last-pattern>
+      <last-pattern>spend</last-pattern>
       <last-replace />
       <last-substitute>\\&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -675,7 +675,6 @@
     </search>
     <history>
       <history-search>
-        <entry>添加奖卡</entry>
         <entry>添加</entry>
         <entry>scanEvent</entry>
         <entry>scala</entry>
@@ -691,10 +690,11 @@
         <entry>tb_user</entry>
         <entry>cors</entry>
         <entry>*</entry>
-        <entry>spend</entry>
         <entry encoding="base64">XDxVc2VyXD4=</entry>
-        <entry>oauth</entry>
         <entry>web.ip</entry>
+        <entry>oauth</entry>
+        <entry>toScan</entry>
+        <entry>spend</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcdC8gL2c=</entry>
