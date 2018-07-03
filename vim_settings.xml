@@ -220,6 +220,12 @@
       <file name="$USER_HOME$/Desktop/anti/app/setup/Setup.java" timestamp="1530237771168">
         <mark key="'" line="94" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/jhshop/micros-weixin/src/main/resources/config.json" timestamp="1530598645155">
+        <mark key="[" line="6" column="32" />
+        <mark key="]" line="6" column="32" />
+        <mark key="." line="6" column="32" />
+        <mark key="^" line="6" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/BaseAppContextConfig.java" timestamp="1529051551216">
         <mark key="'" line="33" column="53" />
         <mark key="[" line="35" column="21" />
@@ -258,6 +264,13 @@
         <mark key="]" line="7" column="0" />
         <mark key="^" line="14" column="25" />
         <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/jhshop/micros-weixin/src/main/java/com/uuvalue/micros/weixin/WeixinAPIVerticle.java" timestamp="1530598661877">
+        <mark key="'" line="28" column="32" />
+        <mark key="[" line="48" column="61" />
+        <mark key="]" line="48" column="81" />
+        <mark key="." line="48" column="61" />
+        <mark key="^" line="48" column="60" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/domain/User.java" timestamp="1530583688398">
         <mark key="'" line="77" column="35" />
@@ -372,7 +385,7 @@
         <mark key="^" line="7" column="35" />
         <mark key="." line="7" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1530582083918">
+      <file name="/Dummy.txt" timestamp="1530598678357">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/anti/conf/sql/SingleInventoryInfo.xml" timestamp="1529391159746">
@@ -503,7 +516,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="232" column="97" filename="$USER_HOME$/Desktop/anti/conf/routes" />
       <jump line="42" column="23" filename="$USER_HOME$/Desktop/anti/app/util/CommonDao.java" />
       <jump line="82" column="6" filename="$USER_HOME$/Desktop/anti/app/service/StatisticsInventoryService.java" />
       <jump line="1234" column="13" filename="$USER_HOME$/Desktop/anti/app/service/impl/InventoryServiceImpl.java" />
@@ -603,6 +615,7 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="365" column="141" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/online.conf" />
+      <jump line="32" column="32" filename="$USER_HOME$/workspace/micro-service/jhshop/micros-weixin/src/main/java/com/uuvalue/micros/weixin/WeixinAPIVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -612,49 +625,49 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>DB_COLUMN</text>
+        <text>&quot;wechat.snsapi_base&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>oauth</text>
+        <text>web.ip</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">QERhdGFPYmplY3QoZ2VuZXJhdGVDb252ZXJ0ZXIgPSB0cnVlKQo=</text>
+      <register name="0" type="4">
+        <text>snsapi_base</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAid2VjaGF0LnJlZGlyZWN0VXJsIjogImh0dHA6Ly9xLmppbmh1aWppdS5jb20uY246OTcxOC9qaHNob3AvIiwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBVc2VyKCkgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAid2ViLnBvcnQiOiA5MDAwLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFVzZXIgdXNlciA9IG5ldyBVc2VyKGpzb25PYmosIEFQSV9QQVJBTSk7Cg==</text>
+        <text encoding="base64">ICAid2ViLmlwIjogIjE5Mi4xNjguMS4xMDkiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAid2ViLmlwIjogIjE5Mi4xNjguMS4xMDkiLAogICJ3ZWIucG9ydCI6IDkwMDAsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Q1JFQVRFIFNFUVVFTkNFICJwcml6ZSIuInRiX2FjdGl2aXR5X2lkX3NlcSIgCklOQ1JFTUVOVCAxCk1JTlZBTFVFICAxCk1BWFZBTFVFIDkyMjMzNzIwMzY4NTQ3NzU4MDcKU1RBUlQgMQpDQUNIRSAxOwoKU0VMRUNUIHNldHZhbCgnInByaXplIi4idGJfYWN0aXZpdHlfaWRfc2VxIicsIDEsIGZhbHNlKTsKCkFMVEVSIFNFUVVFTkNFICJwcml6ZSIuInRiX2FjdGl2aXR5X2lkX3NlcSIKT1dORUQgQlkgInByaXplIi4idGJfYWN0aXZpdHkiLiJpZCI7CgpBTFRFUiBTRVFVRU5DRSAicHJpemUiLiJ0Yl9hY3Rpdml0eV9pZF9zZXEiIE9XTkVSIFRPICJjb2RlY2VudGVyIjsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBVc2VyKCkgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Q1JFQVRFIFNFUVVFTkNFIElGIE5PVCBFWElTVFMgImNvcmUiLiJjb2RlX2JhdGNoX2lkX3NlcSIKICBJTkNSRU1FTlQgMQogIE1JTlZBTFVFIDEKICBNQVhWQUxVRSA5MjIzMzcyMDM2ODU0Nzc1ODA3CiAgU1RBUlQgMQogIENBQ0hFIDE7CkFMVEVSIFRBQkxFIGNvcmUuY29kZV9iYXRjaF9pZF9zZXEKICBPV05FUiBUTyAiY29kZWNlbnRlciI7CgpDUkVBVEUgVEFCTEUgImNvcmUiLiJ0Yl9iYXRjaF9wbGFuIiAoCiAgImlkIiAgICAgICBpbnQ0ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIE5PVCBOVUxMIERFRkFVTFQgbmV4dHZhbCgnY29kZV9iYXRjaF9pZF9zZXEnIDo6IHJlZ2NsYXNzKSwKICAiY29tcElkIiAgIGludDQgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgTk9UIE5VTEwsCiAgImJhdGNoTm8iICB2YXJjaGFyKDQpIENPTExBVEUgInBnX2NhdGFsb2ciLiJkZWZhdWx0IiAgIE5PVCBOVUxMLAogICJyZW1hcmsiICAgdmFyY2hhcigyNTUpIENPTExBVEUgInBnX2NhdGFsb2ciLiJkZWZhdWx0IiwKICAiY3JlYXRlQXQiIHRpbWVzdGFtcCg2KSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgREVGQVVMVCBub3coKSwKICAib3BlciIgICAgIHZhcmNoYXIoMjU1KSBDT0xMQVRFICJwZ19jYXRhbG9nIi4iZGVmYXVsdCIgTk9UIE5VTEwsCiAgQ09OU1RSQUlOVCAidGJfYmF0Y2hfcGxhbl9wa2V5IiBQUklNQVJZIEtFWSAoImlkIikKKTsKCkFMVEVSIFRBQkxFICJjb3JlIi4idGJfYmF0Y2hfcGxhbiIKICBPV05FUiBUTyAiY29kZWNlbnRlciI7CgpDT01NRU5UIE9OIENPTFVNTiAiY29yZSIuInRiX2JhdGNoX3BsYW4iLiJpZCIKSVMgJ+S4u+mUric7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFVzZXIgdXNlciA9IG5ldyBVc2VyKGpzb25PYmosIEFQSV9QQVJBTSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q1JFQVRFIFJPTEUgImNvZGVjZW50ZXIiCiAgTE9HSU4KICBFTkNSWVBURUQgUEFTU1dPUkQgJ2NvZGVjZW50ZXInOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGprCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>oauth</last-search>
+      <last-search>web.ip</last-search>
       <last-offset />
-      <last-pattern>oauth</last-pattern>
+      <last-pattern>web.ip</last-pattern>
       <last-replace />
       <last-substitute>\\&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -662,7 +675,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpcFw+</entry>
         <entry>添加奖卡</entry>
         <entry>添加</entry>
         <entry>scanEvent</entry>
@@ -682,6 +694,7 @@
         <entry>spend</entry>
         <entry encoding="base64">XDxVc2VyXD4=</entry>
         <entry>oauth</entry>
+        <entry>web.ip</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcdC8gL2c=</entry>
