@@ -108,6 +108,11 @@
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/online.conf" timestamp="1530586469416">
         <mark key="'" line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" timestamp="1530684693950">
+        <mark key="'" line="570" column="0" />
+        <mark key="[" line="544" column="13" />
+        <mark key="]" line="544" column="21" />
+      </file>
       <file name="/CHAnalysisController.java" timestamp="1529889373049">
         <mark key="'" line="84" column="0" />
       </file>
@@ -220,8 +225,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="294" column="0" filename="/InventoryController.java" />
-      <jump line="0" column="0" filename="/InventoryController.java" />
       <jump line="563" column="83" filename="$USER_HOME$/Desktop/anti/app/controllers/inventory/InventoryController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/anti/app/controllers/inventory/InventoryController.java" />
       <jump line="56" column="6" filename="$USER_HOME$/Desktop/anti/app/controllers/inventory/InventoryController.java" />
@@ -320,6 +323,8 @@
       <jump line="288" column="15" filename="$USER_HOME$/workspace/jinhui/anti/app/service/impl/InventoryServiceImpl.java" />
       <jump line="752" column="31" filename="$USER_HOME$/workspace/jinhui/anti/app/service/impl/InventoryServiceImpl.java" />
       <jump line="594" column="95" filename="$USER_HOME$/workspace/jinhui/anti/conf/routes" />
+      <jump line="241" column="11" filename="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" />
+      <jump line="570" column="0" filename="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -332,10 +337,10 @@
         <text>c</text>
       </register>
       <register name="/" type="4">
-        <text>Pallet</text>
+        <text>Market</text>
       </register>
-      <register name="0" type="8">
-        <text encoding="base64">L2pocGRhL3BkYUxvZ2luICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKL2pocGRhL3BkYUdldFByb2R1Y3QgICAgICAgICAgICAgICAgICAgICAgICAgICAKL2pocGRhL3BkYUdldFN0b3JlYWdlICAgICAgICAgICAgICAgICAgICAgICAgICAKL2pocGRhL3BkYUdldEN1c3RvbWVyICAgICAgICAgICAgICAgICAgICAgICAgICAKL2pocGRhL3BkYUludmVudG9yeSAgICAgICAgICAgICAgICAgICAgICAgICAgICAKL2pocGRhL3BkYU1hcmtldCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA=</text>
+      <register name="0" type="4">
+        <text>pdaPallet</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -369,9 +374,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Pallet</last-search>
+      <last-search>Market</last-search>
       <last-offset />
-      <last-pattern>Pallet</last-pattern>
+      <last-pattern>Market</last-pattern>
       <last-replace />
       <last-substitute>\\&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -379,7 +384,6 @@
     </search>
     <history>
       <history-search>
-        <entry>list</entry>
         <entry>head</entry>
         <entry>HEAD</entry>
         <entry>list1</entry>
@@ -399,6 +403,7 @@
         <entry>codeArr</entry>
         <entry encoding="base64">XDx1cGxvYWRQYWxsZXRcPg==</entry>
         <entry>Pallet</entry>
+        <entry>Market</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcdC8gL2c=</entry>
