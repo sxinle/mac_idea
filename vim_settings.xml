@@ -83,10 +83,6 @@
         <mark key="." line="48" column="61" />
         <mark key="^" line="48" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/MobileController.java" timestamp="1530609817532">
-        <mark key="[" line="110" column="28" />
-        <mark key="]" line="111" column="79" />
-      </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/CenterAPIVerticle.java" timestamp="1530526624905">
         <mark key="[" line="14" column="30" />
       </file>
@@ -160,6 +156,9 @@
       <file name="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" timestamp="1530686344967">
         <mark key="'" line="317" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" timestamp="1530692555189">
+        <mark key="'" line="43" column="123" />
+      </file>
       <file name="$USER_HOME$/http_main.conf" timestamp="1529134101794">
         <mark key="'" line="25" column="5" />
       </file>
@@ -208,6 +207,9 @@
         <mark key="'" line="284" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/anti/app/service/impl/ManualBatchServiceImpl.java" timestamp="1530683719556" />
+      <file name="$USER_HOME$/workspace/jinhui/order-dealer/app/views/done/login.scala.html" timestamp="1530692541727">
+        <mark key="'" line="8" column="56" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/CenterVerticle.java" timestamp="1530526636397">
         <mark key="[" line="17" column="27" />
       </file>
@@ -222,8 +224,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="12" filename="/InventoryController.java" />
-      <jump line="304" column="52" filename="$USER_HOME$/Desktop/anti/app/views/fakeAnalysis.scala.html" />
       <jump line="180" column="47" filename="$USER_HOME$/Desktop/anti/app/views/fakeAnalysis.scala.html" />
       <jump line="181" column="48" filename="$USER_HOME$/Desktop/anti/app/views/fakeAnalysis.scala.html" />
       <jump line="182" column="56" filename="$USER_HOME$/Desktop/anti/app/views/fakeAnalysis.scala.html" />
@@ -322,6 +322,8 @@
       <jump line="131" column="27" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
       <jump line="265" column="34" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
       <jump line="300" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
+      <jump line="8" column="56" filename="$USER_HOME$/workspace/jinhui/order-dealer/app/views/done/login.scala.html" />
+      <jump line="43" column="123" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -334,7 +336,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>Market</text>
+        <text>cust</text>
       </register>
       <register name="0" type="4">
         <text>pdaPallet</text>
@@ -371,9 +373,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Market</last-search>
+      <last-search>cust</last-search>
       <last-offset />
-      <last-pattern>Market</last-pattern>
+      <last-pattern>cust</last-pattern>
       <last-replace />
       <last-substitute>\\&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -381,7 +383,6 @@
     </search>
     <history>
       <history-search>
-        <entry>head</entry>
         <entry>HEAD</entry>
         <entry>list1</entry>
         <entry encoding="base64">XDxlbWFpbFw+</entry>
@@ -401,6 +402,7 @@
         <entry encoding="base64">XDx1cGxvYWRQYWxsZXRcPg==</entry>
         <entry>Pallet</entry>
         <entry>Market</entry>
+        <entry>cust</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1xcdC8gL2c=</entry>
