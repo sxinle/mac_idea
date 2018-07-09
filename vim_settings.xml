@@ -74,10 +74,11 @@
       <file name="$USER_HOME$/workspace/review/scxzdy/anti/app/controllers/storage/ProductlineDefineController.java" timestamp="1529653583125">
         <mark key="'" line="138" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/PrizeAPIVerticle.java" timestamp="1531108048203">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/PrizeAPIVerticle.java" timestamp="1531125796517">
+        <mark key="[" line="77" column="38" />
+        <mark key="]" line="77" column="50" />
+        <mark key="." line="77" column="50" />
+        <mark key="^" line="77" column="50" />
       </file>
       <file name="/CHAnalysisServiceImpl.java" timestamp="1529891807858">
         <mark key="'" line="69" column="21" />
@@ -180,13 +181,6 @@
         <mark key="[" line="1" column="17" />
         <mark key="]" line="1" column="17" />
         <mark key="." line="1" column="17" />
-      </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/Docs.java" timestamp="1531107112510">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="32" column="111" />
-        <mark key="]" line="32" column="113" />
-        <mark key="^" line="32" column="113" />
-        <mark key="." line="32" column="113" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/CustSynServiceImpl.java" timestamp="1529391794770">
         <mark key="'" line="33" column="6" />
@@ -333,28 +327,28 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>OneContigSpaceCardGeneration.</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>docs</text>
       </register>
       <register name="0" type="4">
-        <text>scope</text>
+        <text>template</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByb3V0ZXIucG9zdCgiL3RtcGwiKS5oYW5kbGVyKHRoaXM6OmFkZFRlbXBsYXRlKTsvLyDmt7vliqDmqKHmnb8K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1dHVyZS5mYWlsKG5ldyBFeGNlcHRpb24oInVzZXIgbm90IGZvdW5kIikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFVzZXIgdXNlciA9IG51bGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1dHVyZS5mYWlsKG5ldyBFeGNlcHRpb24oInVzZXIgbm90IGZvdW5kIikpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFVzZXIgdXNlciA9IG51bGw7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -363,10 +357,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAgICAgdmVydHgucnhFeGVjdXRlQmxvY2tpbmcoZnV0dXJlLT57CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBmdXR1cmUuY29tcGxldGUodHJ1ZSk7CiAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBmdXR1cmUuZmFpbChlKTsKICAgICAgICAgICAgfQogICAgICAgIH0pLnN1YnNjcmliZShyZXQgLT4gc3VjY2VzcyhoYW5kbGVyLCByZXQpLCB0aHJvd2FibGUgLT4gZXJyb3IoaGFuZGxlciwgbG9nZ2VyLCB0aHJvd2FibGUpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJ0eC5yeEV4ZWN1dGVCbG9ja2luZyhmdXR1cmUtPnsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGZ1dHVyZS5jb21wbGV0ZSh0cnVlKTsKICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGZ1dHVyZS5mYWlsKGUpOwogICAgICAgICAgICB9CiAgICAgICAgfSkuc3Vic2NyaWJlKHJldCAtPiBzdWNjZXNzKGhhbmRsZXIsIHJldCksIHRocm93YWJsZSAtPiBlcnJvcihoYW5kbGVyLCBsb2dnZXIsIHRocm93YWJsZSkpOwo=</text>
+        <text encoding="base64">CiAgICAgICAgdmVydHgucnhFeGVjdXRlQmxvY2tpbmcoZnV0dXJlLT57CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBmdXR1cmUuY29tcGxldGUodHJ1ZSk7CiAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBmdXR1cmUuZmFpbChlKTsKICAgICAgICAgICAgfQogICAgICAgIH0pLnN1YnNjcmliZShyZXQgLT4gc3VjY2VzcyhoYW5kbGVyLCByZXQpLCB0aHJvd2FibGUgLT4gZXJyb3IoaGFuZGxlciwgbG9nZ2VyLCB0aHJvd2FibGUpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
