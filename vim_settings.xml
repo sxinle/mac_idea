@@ -22,6 +22,12 @@
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/domain/Template.java" timestamp="1531368254091">
         <mark key="'" line="144" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/jhshop/micros-weixin/src/main/java/com/uuvalue/micros/weixin/Constant.java" timestamp="1531470591952">
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="17" column="53" />
+        <mark key="^" line="12" column="21" />
+        <mark key="." line="17" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/BaseVerticle.java" timestamp="1531276050180">
         <mark key="[" line="77" column="81" />
         <mark key="]" line="77" column="80" />
@@ -80,6 +86,19 @@
         <mark key="^" line="255" column="79" />
         <mark key="." line="255" column="79" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/jhshop/micros-weixin/src/main/java/com/uuvalue/micros/weixin/WeixinVerticle.java" timestamp="1531469919619">
+        <mark key="'" line="37" column="41" />
+        <mark key="[" line="102" column="65" />
+        <mark key="]" line="102" column="65" />
+        <mark key="^" line="102" column="65" />
+        <mark key="." line="102" column="65" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/jhshop/shop-misc/src/main/java/com/uuvalue/micros/shop/mappers/ShopInfoMapper.java" timestamp="1531470075800">
+        <mark key="[" line="56" column="17" />
+        <mark key="]" line="56" column="17" />
+        <mark key="^" line="56" column="17" />
+        <mark key="." line="56" column="17" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1531379247488">
         <mark key="'" line="298" column="38" />
       </file>
@@ -95,7 +114,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1531373940008">
+      <file name="/Dummy.txt" timestamp="1531470595351">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -199,10 +218,10 @@
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" timestamp="1531464518038">
         <mark key="'" line="738" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jhshop/micros-weixin/src/main/java/com/uuvalue/micros/weixin/WeixinAPIVerticle.java" timestamp="1531203918134">
+      <file name="$USER_HOME$/workspace/micro-service/jhshop/micros-weixin/src/main/java/com/uuvalue/micros/weixin/WeixinAPIVerticle.java" timestamp="1531470142340">
         <mark key="'" line="55" column="45" />
-        <mark key="[" line="48" column="69" />
-        <mark key="]" line="48" column="74" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="79" />
         <mark key="." line="48" column="69" />
         <mark key="^" line="48" column="60" />
       </file>
@@ -212,9 +231,14 @@
         <mark key="^" line="0" column="28" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/jhshop/micros-weixin/src/main/java/com/uuvalue/micros/weixin/util/TokenUtil.java" timestamp="1531470197603">
+        <mark key="[" line="44" column="22" />
+        <mark key="]" line="44" column="32" />
+        <mark key="." line="44" column="32" />
+        <mark key="^" line="44" column="32" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="12" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/online.conf" />
       <jump line="32" column="32" filename="$USER_HOME$/workspace/micro-service/jhshop/micros-weixin/src/main/java/com/uuvalue/micros/weixin/WeixinAPIVerticle.java" />
@@ -314,6 +338,7 @@
       <jump line="641" column="42" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" />
       <jump line="54" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" />
       <jump line="728" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" />
+      <jump line="37" column="41" filename="$USER_HOME$/workspace/micro-service/jhshop/micros-weixin/src/main/java/com/uuvalue/micros/weixin/WeixinVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -323,40 +348,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>c8e85be13b55b03ea22593344e509fdd</text>
       </register>
       <register name="/" type="4">
         <text>spend</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSZXN1bHQgY2hhaW5UZXN0KCkgewogICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gcmVxID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIHJlcS5wdXQoImZyb20iLCAiSklOX0hVSSIpOwogICAgICAgIHJlcS5wdXQoImNvZGUiLCBVVUlELnJhbmRvbVVVSUQoKS50b1N0cmluZygpLnJlcGxhY2VBbGwoIi0iLCAiIikpOwogICAgICAgIHJlcS5wdXQoInRpbWUiLCBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSk7CgogICAgICAgIExpc3Q8TWFwPFN0cmluZywgT2JqZWN0Pj4gb2JqcyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gb2JqZWN0ID0gbmV3IEhhc2hNYXA8PigpOwogICAgICAgIG9iamVjdC5wdXQoImlkIiwgVVVJRC5yYW5kb21VVUlEKCkudG9TdHJpbmcoKS5yZXBsYWNlQWxsKCItIiwgIiIpKTsKICAgICAgICBvYmplY3QucHV0KCJkb21haW4iLCAiamluaHVpaml1LmNvbS5jbiIpOwogICAgICAgIG9iamVjdC5wdXQoInFyY29kZSIsICI0MjY4MjY1MTk5NzMxNiIpOwogICAgICAgIG9iamVjdC5wdXQoImRhdGUiLCAiMjAxOC0wNy0xMSIpOwogICAgICAgIG9iamVjdC5wdXQoImNoYW5uYWwiLCAi5Lit5b+D5bqTLemHkeW+vemFkumZh+WNl+mUgOWUruaciemZkOWFrOWPuC/lvr3miJDlpKfljLov5b695Y6/L+W+veWOv+mHkeW7uuWVhui0uOaciemZkOWFrOWPuCIpOwogICAgICAgIC8vb2JqZWN0LnB1dCgiY2hhbm5hbCIsICLkuK3lv4PlupMtIOmHkeW+vemFkumZh+WNl+mUgOWUruaciemZkOWFrOWPuC/lvr3miJDlpKfljLov5b695Y6/L+W+veWOv+mHkeW7uuWVhui0uOaciemZkOWFrOWPuCIpOwoKICAgICAgICBvYmpzLmFkZChvYmplY3QpOwoKICAgICAgICByZXEucHV0KCJkYXRhIiwgb2Jqcyk7CgogICAgICAgIGZpbmFsIFN0cmluZyByYXdUZXh0ID0gSnNvbi50b0pzb24ocmVxKS50b1N0cmluZygpOwoKICAgICAgICBTdHJpbmcgcmVzcEpzb24gPSAiIjsKICAgICAgICB0cnkgewogICAgICAgICAgICBTdHJpbmcgYm9keSA9IG5ldyBBZXNTeW1tZXRyaWMoKS5lbmNvZGVyKHJhd1RleHQpOwoKICAgICAgICAgICAgV1MuUmVzcG9uc2UgcmVzcCA9IFdTLnVybCgiaHR0cDovLzQ3LjEwNS4xMDIuODkvYXRtcy9tYXRlZGF0YS9zdWJtaXQiKS5zZXRIZWFkZXIoInZlcnNpb24iLCAiMS4wLioiKS5wb3N0KGJvZHkpLmdldCgzMDAwKTsKICAgICAgICAgICAgcmVzcEpzb24gPSBKc29uLnBhcnNlKHJlc3AuZ2V0Qm9keSgpKS50b1N0cmluZygpOwogICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gb2socmVzcEpzb24pOwogICAgfQo=</text>
+        <text encoding="base64">ICAgIFN0cmluZyBTRUNSRVQgPSAiYzhlODViZTEzYjU1YjAzZWEyMjU5MzM0NGU1MDlmZGQiOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSZXN1bHQgY2hhaW5UZXN0KCkgewo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBSZXN1bHQgY2hhaW5UZXN0KCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CgoKCiAgICAgICAgICAgICAgICAgICAgZWxzZSBpZiAobWFwLmdldChrZXkpIGluc3RhbmNlb2YgVGltZXN0YW1wKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyB2YWwgPSBTdHJpbmcudmFsdWVPZihtYXAuZ2V0KGtleSkpOwogICAgICAgICAgICAgICAgICAgICAgICBmaWVsZC5zZXQodGhpcywgQ29uc3QuRGF0ZUZNVC5wZ1RpbWVTdGFtcC5wYXJzZSh2YWwpKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgdmFsID0gU3RyaW5nLnZhbHVlT2YobWFwLmdldChrZXkpKTsKICAgICAgICAgICAgICAgICAgICAgICAgZmllbGQuc2V0KHRoaXMsIENvbnN0LkRhdGVGTVQubm9ybWFsLnBhcnNlKHZhbCkpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CgoKCiAgICAgICAgICAgICAgICAgICAgZWxzZSBpZiAobWFwLmdldChrZXkpIGluc3RhbmNlb2YgVGltZXN0YW1wKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIFN0cmluZyB2YWwgPSBTdHJpbmcudmFsdWVPZihtYXAuZ2V0KGtleSkpOwogICAgICAgICAgICAgICAgICAgICAgICBmaWVsZC5zZXQodGhpcywgQ29uc3QuRGF0ZUZNVC5wZ1RpbWVTdGFtcC5wYXJzZSh2YWwpKTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcgdmFsID0gU3RyaW5nLnZhbHVlT2YobWFwLmdldChrZXkpKTsKICAgICAgICAgICAgICAgICAgICAgICAgZmllbGQuc2V0KHRoaXMsIENvbnN0LkRhdGVGTVQubm9ybWFsLnBhcnNlKHZhbCkpOwogICAgICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
