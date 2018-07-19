@@ -133,8 +133,8 @@
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" timestamp="1531805517637">
         <mark key="'" line="731" column="18" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" timestamp="1531990660518">
-        <mark key="'" line="380" column="60" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" timestamp="1531991033005">
+        <mark key="'" line="363" column="28" />
         <mark key="[" line="989" column="0" />
         <mark key="]" line="989" column="31" />
       </file>
@@ -250,14 +250,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="27" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/uuvalue/micros/misc/MiscAPIVerticle.java" />
-      <jump line="131" column="17" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/uuvalue/micros/misc/MiscAPIVerticle.java" />
-      <jump line="198" column="27" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/uuvalue/micros/misc/MiscAPIVerticle.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/uuvalue/micros/misc/MiscAPIVerticle.java" />
-      <jump line="251" column="81" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/uuvalue/micros/misc/service/impl/OrderServiceImpl.java" />
-      <jump line="142" column="35" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/uuvalue/micros/misc/MiscAPIVerticle.java" />
-      <jump line="642" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" />
-      <jump line="274" column="59" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
       <jump line="276" column="0" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/uuvalue/micros/misc/service/impl/OrderServiceImpl.java" />
       <jump line="59" column="0" filename="$USER_HOME$/BPMNServiceImpl.class" />
       <jump line="542" column="42" filename="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" />
@@ -350,6 +342,14 @@
       <jump line="927" column="22" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
       <jump line="1394" column="51" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
       <jump line="380" column="60" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
+      <jump line="1138" column="13" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
+      <jump line="1341" column="16" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
+      <jump line="964" column="21" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
+      <jump line="989" column="12" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
+      <jump line="1023" column="12" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
+      <jump line="264" column="28" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
+      <jump line="341" column="28" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
+      <jump line="363" column="28" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -362,7 +362,7 @@
         <text>A}eQzilH</text>
       </register>
       <register name="/" type="4">
-        <text>!= null</text>
+        <text>scanPrize != null</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBAaWYoc2NhblByaXplICE9IG51bGwpIHsK</text>
@@ -399,9 +399,9 @@
       </register>
     </registers>
     <search>
-      <last-search>!= null</last-search>
+      <last-search>scanPrize != null</last-search>
       <last-offset />
-      <last-pattern>!= null</last-pattern>
+      <last-pattern>scanPrize != null</last-pattern>
       <last-replace>imagepath</last-replace>
       <last-substitute>productid</last-substitute>
       <last-dir>1</last-dir>
@@ -409,8 +409,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Pallet</entry>
-        <entry>Market</entry>
         <entry>cust</entry>
         <entry>current</entry>
         <entry>docs</entry>
@@ -429,6 +427,8 @@
         <entry>content</entry>
         <entry>#loginTel</entry>
         <entry>!= null</entry>
+        <entry>@</entry>
+        <entry>scanPrize != null</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3dscS8/L2c=</entry>
