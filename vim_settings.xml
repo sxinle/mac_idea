@@ -188,8 +188,8 @@
         <mark key="^" line="56" column="17" />
         <mark key="." line="56" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1532003087209">
-        <mark key="'" line="229" column="31" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1532054859338">
+        <mark key="'" line="203" column="61" />
         <mark key="[" line="365" column="15" />
         <mark key="]" line="365" column="20" />
         <mark key="." line="365" column="15" />
@@ -268,7 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/workspace/jinhui/order-dealer/conf/config.properties" />
       <jump line="299" column="54" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
       <jump line="31" column="30" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/mappers/TemplateMapper.xml" />
       <jump line="39" column="33" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/mappers/TemplateMapper.xml" />
@@ -368,6 +367,7 @@
       <jump line="784" column="68" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/awardOrder.scala.html" />
       <jump line="435" column="295" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/awardOrder.scala.html" />
       <jump line="178" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
+      <jump line="203" column="61" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -380,7 +380,7 @@
         <text encoding="base64">Ii9jb25zb2xlL0Bjb21wLmRvbWFpbi9hd2FyZE9yZGVyLyIrc2VsVGVsKyIvIiskKCIjc2VsU3RhdHVzIikudmFsKCkrIi8iKyQoIiNzZWxUeXBlIikudmFsKCkrIi8iK2VuY29kZVVSSShzZWxOYW1lKSsiLyIrcGFnZSsiLzEwP3FyY29kZT0iKyQoIiNxcmNvZGUiKS52YWwoKSsiJnNlcmlhbGNvZGU9IiskKCIjc2VyaWFsY29kZSIpLnZhbCgpKyImd2lubmluZ0NvdW50PSIrY291bnQrIiZzdGFydFRpbWU9IitzdGFydFRpbWUrIiZlbmRUaW1lPSIrZW5kVGltZTs=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhd2FyZE9yZGVyXD4=</text>
+        <text>oauth</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8cHJvcGVydHkgbmFtZT0idXJsIiB2YWx1ZT0iamRiYzpwb3N0Z3Jlc3FsOi8vNDcuOTMuMTg2LjkxOjk0MDQvamhfcHJvZCIvPgo=</text>
@@ -419,17 +419,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhd2FyZE9yZGVyXD4=</last-search>
+      <last-search>oauth</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhd2FyZE9yZGVyXD4=</last-pattern>
+      <last-pattern>oauth</last-pattern>
       <last-replace>imagepath</last-replace>
       <last-substitute>productid</last-substitute>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>apache</entry>
         <entry>productid</entry>
         <entry>weixin</entry>
         <entry>content</entry>
@@ -449,6 +448,7 @@
         <entry>awardOrder</entry>
         <entry encoding="base64">XDx1cGRhdGVTZW5kU3RhdHVzXD4=</entry>
         <entry encoding="base64">XDxhd2FyZE9yZGVyXD4=</entry>
+        <entry>oauth</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3dscS8/L2c=</entry>
