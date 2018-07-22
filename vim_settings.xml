@@ -23,11 +23,11 @@
       <file name="$USER_HOME$/workspace/jinhui/order-dealer/conf/application.conf" timestamp="1531897404122">
         <mark key="'" line="69" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jhshop/micros-weixin/src/main/java/com/uuvalue/micros/weixin/Constant.java" timestamp="1531471919487">
-        <mark key="[" line="11" column="20" />
-        <mark key="]" line="11" column="37" />
-        <mark key="^" line="17" column="64" />
-        <mark key="." line="17" column="64" />
+      <file name="$USER_HOME$/workspace/micro-service/jhshop/micros-weixin/src/main/java/com/uuvalue/micros/weixin/Constant.java" timestamp="1532226195179">
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="17" column="53" />
+        <mark key="^" line="18" column="70" />
+        <mark key="." line="17" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/awardOrder.scala.html" timestamp="1532003414557">
         <mark key="'" line="435" column="295" />
@@ -202,7 +202,7 @@
         <mark key="]" line="37" column="34" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1532056080514">
+      <file name="/Dummy.txt" timestamp="1532226236520">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -371,13 +371,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>'http://host'</text>
+        <text>120776c9483ecf10393fe1880e32c72b</text>
       </register>
       <register name="/" type="4">
         <text>oauth</text>
       </register>
-      <register name="0" type="4">
-        <text>#{hostPath}</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIFN0cmluZyBBUFBJRCA9ICJ3eDdhMWJmZTlmMTJmYWJkMDMiOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBTRUxFQ1QKICAgICAgICAgICAgc28uaWQsCiAgICAgICAgICAgIHNvLm9yZGVybm8sCiAgICAgICAgICAgIHNvLnNob3BpZCwKICAgICAgICAgICAgc28ucmVtYXJrcywKICAgICAgICAgICAgc28uc3RhdHVzLAogICAgICAgICAgICBzby5kZWFsZXIsCiAgICAgICAgICAgIGNpLmN1c3RuYW1lLAogICAgICAgICAgICB0b19jaGFyKHNvLm9yZGVydGltZSwgJ3l5eXktTU0tZGQgSEgyNDpNSTpTUycpICAgYXMgb3JkZXJ0aW1lLAogICAgICAgICAgICB0b19jaGFyKHNvLnJldmlld3RpbWUsICd5eXl5LU1NLWRkIEhIMjQ6TUk6U1MnKSAgYXMgcmV2aWV3dGltZSwKICAgICAgICAgICAgdG9fY2hhcihzby5jb25maXJtdGltZSwgJ3l5eXktTU0tZGQgSEgyNDpNSTpTUycpIGFzIGNvbmZpcm10aW1lLAogICAgICAgICAgICB0b19jaGFyKHNvLmZpbmlzaHRpbWUsICd5eXl5LU1NLWRkIEhIMjQ6TUk6U1MnKSAgYXMgZmluaXNodGltZSwKICAgICAgICAgICAgc2kuc2hvcG5hbWUsCiAgICAgICAgICAgIG9kLnByb2R1Y3RpZCwKICAgICAgICAgICAgI3tob3N0UGF0aH0gfHwgcHJvLnByb2R1Y3RpZCB8fCAnLycgfHwgcHJvLnBob3RvIGFzIGltYWdlUGF0aCwKICAgICAgICAgICAgb2QucHJpY2UsCiAgICAgICAgICAgIG9kLm9yZGVybnVtLAogICAgICAgICAgICBwcm8ucHJvZHVjdG5hbWUsCiAgICAgICAgICAgIHByby5wcm9kdWN0cnVsZSwKICAgICAgICAgICAgY2kuY3VzdGFkZHIKICAgICAgICBGUk9NCiAgICAgICAgICAgIHNob3Bfb3JkZXIgc28KICAgICAgICAgICAgSk9JTiBzaG9wX29yZGVyX2RldGFpbCBvZCBPTiBzby5JRCA9IG9kLm9yZGVyaWQKICAgICAgICAgICAgSk9JTiBwcm9kdWN0X2luZm8gcHJvIE9OIHByby5wcm9kdWN0aWQgPSBvZC5wcm9kdWN0aWQKICAgICAgICAgICAgSk9JTiBzaG9wX2luZm8gc2kgT04gc2kuaWQgPSBzby5zaG9waWQKICAgICAgICAgICAgSk9JTiBjdXN0b21lcl9pbmZvIGNpIE9OIChjaS5jdXN0Y29kZSA9IHNpLmN1c3Rjb2RlIE9SIGNpLmN1c3Rjb2RlID0gc28uZGVhbGVyKQogICAgICAgIHdoZXJlIHNvLnNhbGVzbWFuID0gI3tzYWxlc21hbn0KCgo=</text>
@@ -417,7 +417,7 @@
       <last-replace>imagepath</last-replace>
       <last-substitute>productid</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
