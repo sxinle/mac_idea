@@ -103,7 +103,6 @@
       <file name="$USER_HOME$/workspace/micro-service/jhshop/micros-order/src/main/java/com/uuvalue/micros/order/OrderAPIVerticle.java" timestamp="1532315001424">
         <mark key="'" line="100" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/WeixinPrizeController.java" timestamp="1532326683833" />
       <file name="$USER_HOME$/workspace/demo/BlockChain/src/main/java/HttpClient.java" timestamp="1531891277895">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -169,13 +168,6 @@
         <mark key="]" line="690" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/console/PicController.java" timestamp="1532328498494">
-        <mark key="'" line="409" column="41" />
-        <mark key="[" line="409" column="38" />
-        <mark key="]" line="409" column="50" />
-        <mark key="." line="409" column="50" />
-        <mark key="^" line="409" column="50" />
-      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/BPMNServiceImpl.java" timestamp="1531794566929">
         <mark key="'" line="224" column="28" />
       </file>
@@ -194,6 +186,13 @@
         <mark key="]" line="58" column="20" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/util/ftp/UpLoadImageUtil.java" timestamp="1532328595503">
+        <mark key="[" line="150" column="52" />
+        <mark key="]" line="150" column="51" />
+        <mark key="." line="150" column="51" />
+        <mark key="^" line="150" column="51" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/anti/conf/sql/InventoryInfo.xml" timestamp="1532332016737" />
       <file name="$USER_HOME$/workspace/micro-service/jhshop/shop-misc/src/main/java/com/uuvalue/micros/shop/mappers/ShopInfoMapper.java" timestamp="1531470075800">
         <mark key="[" line="56" column="17" />
         <mark key="]" line="56" column="17" />
@@ -226,12 +225,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/picimg.scala.html" timestamp="1532328204769">
-        <mark key="[" line="206" column="107" />
-        <mark key="]" line="206" column="107" />
-        <mark key="." line="206" column="107" />
-        <mark key="^" line="224" column="101" />
-      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/application.conf" timestamp="1531793041687">
         <mark key="'" line="11" column="6" />
       </file>
@@ -253,6 +246,9 @@
         <mark key="]" line="33" column="0" />
         <mark key="^" line="34" column="7" />
         <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/anti/app/setup/Setup.java" timestamp="1532331947399">
+        <mark key="'" line="28" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/anti/app/util/SendMailUtils.java" timestamp="1531363073647">
         <mark key="'" line="17" column="21" />
@@ -287,7 +283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="20" filename="$USER_HOME$/workspace/demo/BlockChain/src/main/java/AesSymmetric.java" />
       <jump line="16" column="2" filename="$USER_HOME$/workspace/demo/BlockChain/src/main/java/AesSymmetric.java" />
       <jump line="4" column="1" filename="$USER_HOME$/workspace/demo/BlockChain/src/main/java/MongoObj.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/demo/BlockChain/src/main/java/MongoObj.java" />
@@ -387,6 +382,7 @@
       <jump line="365" column="145" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="57" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/Global.java" />
       <jump line="409" column="41" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/console/PicController.java" />
+      <jump line="28" column="27" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/setup/Setup.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -396,10 +392,10 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>filename</text>
+        <text>filepath</text>
       </register>
       <register name="/" type="4">
-        <text>pic</text>
+        <text encoding="base64">XDxzdHJvcmFnZUJhdGNoU3luVGhyZWFkXD4=</text>
       </register>
       <register name="0" type="4">
         <text>domain:String</text>
@@ -436,9 +432,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pic</last-search>
+      <last-search encoding="base64">XDxzdHJvcmFnZUJhdGNoU3luVGhyZWFkXD4=</last-search>
       <last-offset />
-      <last-pattern>pic</last-pattern>
+      <last-pattern encoding="base64">XDxzdHJvcmFnZUJhdGNoU3luVGhyZWFkXD4=</last-pattern>
       <last-replace>imagepath</last-replace>
       <last-substitute>productid</last-substitute>
       <last-dir>1</last-dir>
@@ -446,7 +442,6 @@
     </search>
     <history>
       <history-search>
-        <entry>#loginTel</entry>
         <entry>!= null</entry>
         <entry>@</entry>
         <entry>scanPrize != null</entry>
@@ -466,6 +461,7 @@
         <entry>getBar</entry>
         <entry>callback</entry>
         <entry>pic</entry>
+        <entry encoding="base64">XDxzdHJvcmFnZUJhdGNoU3luVGhyZWFkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3dscS8/L2c=</entry>
