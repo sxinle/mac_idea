@@ -141,14 +141,13 @@
         <mark key="." line="317" column="122" />
         <mark key="^" line="317" column="122" />
       </file>
-      <file name="/application.conf" timestamp="1532049943068">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="11" />
-      </file>
       <file name="$USER_HOME$/workspace/micro-service/common/micros-mqttpush/pom.xml" timestamp="1531200818738">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="46" column="20" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/config.properties" timestamp="1532337144455">
+        <mark key="'" line="0" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" timestamp="1531805517637">
         <mark key="'" line="731" column="18" />
@@ -170,10 +169,6 @@
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/BPMNServiceImpl.java" timestamp="1531794566929">
         <mark key="'" line="224" column="28" />
-      </file>
-      <file name="/application-context.xml" timestamp="1532049975578">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="81" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/Global.java" timestamp="1532328345967">
         <mark key="'" line="57" column="0" />
@@ -199,6 +194,7 @@
         <mark key="^" line="56" column="17" />
         <mark key="." line="56" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/UserService.java" timestamp="1532337295932" />
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1532328415964">
         <mark key="'" line="365" column="145" />
         <mark key="[" line="429" column="158" />
@@ -225,8 +221,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/application.conf" timestamp="1531793041687">
-        <mark key="'" line="11" column="6" />
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/application.conf" timestamp="1532337063098">
+        <mark key="'" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/uuvalue/micros/misc/service/impl/MiscServiceImpl.java" timestamp="1531203944495">
         <mark key="[" line="132" column="27" />
@@ -249,6 +245,9 @@
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/anti/app/setup/Setup.java" timestamp="1532331947399">
         <mark key="'" line="28" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1532337036026">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/anti/app/util/SendMailUtils.java" timestamp="1531363073647">
         <mark key="'" line="17" column="21" />
@@ -283,10 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="2" filename="$USER_HOME$/workspace/demo/BlockChain/src/main/java/AesSymmetric.java" />
-      <jump line="4" column="1" filename="$USER_HOME$/workspace/demo/BlockChain/src/main/java/MongoObj.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/demo/BlockChain/src/main/java/MongoObj.java" />
-      <jump line="209" column="0" filename="$USER_HOME$/workspace/demo/BlockChain/src/main/java/MongoObj.java" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/demo/BlockChain/src/main/java/MongoObj.java" />
       <jump line="8" column="0" filename="$USER_HOME$/workspace/demo/BlockChain/src/main/java/MongoObj.java" />
       <jump line="89" column="31" filename="$USER_HOME$/workspace/demo/BlockChain/src/main/java/pojo/MongoObj.java" />
@@ -383,6 +378,10 @@
       <jump line="57" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/Global.java" />
       <jump line="409" column="41" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/console/PicController.java" />
       <jump line="28" column="27" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/setup/Setup.java" />
+      <jump line="281" column="121" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/application.conf" />
+      <jump line="0" column="21" filename="$USER_HOME$/workspace/jinhui/order-producer/conf/config.properties" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -395,7 +394,7 @@
         <text>filepath</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdHJvcmFnZUJhdGNoU3luVGhyZWFkXD4=</text>
+        <text>redis</text>
       </register>
       <register name="0" type="4">
         <text>domain:String</text>
@@ -432,9 +431,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdHJvcmFnZUJhdGNoU3luVGhyZWFkXD4=</last-search>
+      <last-search>redis</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdHJvcmFnZUJhdGNoU3luVGhyZWFkXD4=</last-pattern>
+      <last-pattern>redis</last-pattern>
       <last-replace>imagepath</last-replace>
       <last-substitute>productid</last-substitute>
       <last-dir>1</last-dir>
@@ -442,8 +441,6 @@
     </search>
     <history>
       <history-search>
-        <entry>!= null</entry>
-        <entry>@</entry>
         <entry>scanPrize != null</entry>
         <entry>27017</entry>
         <entry>已被</entry>
@@ -462,6 +459,8 @@
         <entry>callback</entry>
         <entry>pic</entry>
         <entry encoding="base64">XDxzdHJvcmFnZUJhdGNoU3luVGhyZWFkXD4=</entry>
+        <entry>appload</entry>
+        <entry>redis</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3dscS8/L2c=</entry>
