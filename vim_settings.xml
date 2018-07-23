@@ -53,6 +53,13 @@
         <mark key="]" line="6" column="44" />
         <mark key="." line="6" column="36" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/jhshop/shop-misc/src/main/java/com/uuvalue/micros/shop/service/impl/ShopMiscServiceImpl.java" timestamp="1532316791422">
+        <mark key="'" line="146" column="12" />
+        <mark key="[" line="231" column="38" />
+        <mark key="]" line="231" column="48" />
+        <mark key="." line="231" column="48" />
+        <mark key="^" line="231" column="48" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/resources/config.json" timestamp="1531294723815">
         <mark key="[" line="10" column="14" />
         <mark key="]" line="10" column="15" />
@@ -271,7 +278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="33" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/mappers/TemplateMapper.xml" />
       <jump line="7" column="9" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/mappers/TemplateMapper.xml" />
       <jump line="746" column="18" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" />
       <jump line="128" column="27" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/PrizeAPIVerticle.java" />
@@ -371,6 +377,7 @@
       <jump line="203" column="61" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="100" column="46" filename="$USER_HOME$/workspace/micro-service/jhshop/micros-order/src/main/java/com/uuvalue/micros/order/OrderAPIVerticle.java" />
       <jump line="49" column="46" filename="$USER_HOME$/workspace/micro-service/jhshop/micros-weixin/src/main/java/com/uuvalue/micros/weixin/WeixinVerticle.java" />
+      <jump line="146" column="12" filename="$USER_HOME$/workspace/micro-service/jhshop/shop-misc/src/main/java/com/uuvalue/micros/shop/service/impl/ShopMiscServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -380,7 +387,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>getInteger</text>
       </register>
       <register name="/" type="4">
         <text>getBar</text>
@@ -426,7 +433,7 @@
       <last-replace>imagepath</last-replace>
       <last-substitute>productid</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
