@@ -284,12 +284,12 @@
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/application.conf" timestamp="1532337063098">
         <mark key="'" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/opencv/src/main/java/com/hsong/HandleNum.java" timestamp="1532588019001">
-        <mark key="'" line="33" column="81" />
-        <mark key="[" line="83" column="73" />
-        <mark key="]" line="83" column="75" />
-        <mark key="." line="83" column="75" />
-        <mark key="^" line="83" column="75" />
+      <file name="$USER_HOME$/workspace/demo/opencv/src/main/java/com/hsong/HandleNum.java" timestamp="1532589862645">
+        <mark key="'" line="50" column="7" />
+        <mark key="[" line="11" column="49" />
+        <mark key="]" line="11" column="52" />
+        <mark key="." line="11" column="52" />
+        <mark key="^" line="11" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/uuvalue/micros/misc/service/impl/MiscServiceImpl.java" timestamp="1531203944495">
         <mark key="[" line="132" column="27" />
@@ -349,9 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/target/scala-2.10/src_managed/main/views/html/mobCalls.template.scala" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
-      <jump line="528" column="29" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
       <jump line="420" column="28" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
       <jump line="536" column="23" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
       <jump line="92" column="23" filename="$USER_HOME$/workspace/demo/zest/src/main/java/http/RechargeUtil.java" />
@@ -449,6 +446,9 @@
       <jump line="31" column="76" filename="$USER_HOME$/workspace/demo/opencv/src/main/java/com/hsong/HandleNum.java" />
       <jump line="33" column="81" filename="$USER_HOME$/workspace/demo/opencv/src/main/java/com/hsong/HandleNum.java" />
       <jump line="34" column="81" filename="$USER_HOME$/workspace/demo/opencv/src/main/java/com/hsong/HandleNum.java" />
+      <jump line="39" column="47" filename="$USER_HOME$/workspace/demo/opencv/src/main/java/com/hsong/HandleNum.java" />
+      <jump line="79" column="0" filename="$USER_HOME$/workspace/demo/opencv/src/main/java/com/hsong/HandleNum.java" />
+      <jump line="53" column="7" filename="$USER_HOME$/workspace/demo/opencv/src/main/java/com/hsong/HandleNum.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -458,40 +458,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>cut</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
         <text>3</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBJbWdwcm9jLmRyYXdDb250b3Vycyhlcm9kZU1hdCwgcG9pbnRzLCAxLCBuZXcgU2NhbGFyKDAsIDAsIDI1NSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICBJbWdjb2RlY3MuaW13cml0ZSgiYWJjLzMuanBnIiwgYmluYXJ5TWF0KTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBNYXQgZXJvZGVNYXQgPSBzcmNNYXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzYXZlSW1hZ2UoTWF0QnVmZmVyZWRJbWFnZS5NYXQyQnVmSW1nKGVyb2RlTWF0LCAiLmpwZyIpLCAiNCIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzYXZlSW1hZ2UoTWF0QnVmZmVyZWRJbWFnZS5NYXQyQnVmSW1nKGJpbmFyeU1hdCwgIi5qcGciKSwgIjMiKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBNYXQgZXJvZGVNYXQgPSBzcmNNYXQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzYXZlSW1hZ2UoTWF0QnVmZmVyZWRJbWFnZS5NYXQyQnVmSW1nKGdyYXlNYXQsICIuanBnIiksICIyIik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIHZvaWQgc2F2ZUltYWdlKEJ1ZmZlcmVkSW1hZ2UgaW1nLCBTdHJpbmcgbmFtZSkgdGhyb3dzIEV4Y2VwdGlvbiB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IDE7IGkrKykgewogICAgICAgICAgICBCeXRlQXJyYXlPdXRwdXRTdHJlYW0gYiA9IG5ldyBCeXRlQXJyYXlPdXRwdXRTdHJlYW0oKTsKICAgICAgICAgICAgSW1hZ2VJTy53cml0ZShpbWcsICJqcGciLCBiKTsKICAgICAgICAgICAgYnl0ZVtdIGJpdCA9IGIudG9CeXRlQXJyYXkoKTsKICAgICAgICAgICAgQnVmZmVyZWRPdXRwdXRTdHJlYW0gb3V0ID0gbnVsbDsKICAgICAgICAgICAgaWYgKGJpdC5sZW5ndGggPiAwKSB7CiAgICAgICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgICAgIG91dCA9IG5ldyBCdWZmZXJlZE91dHB1dFN0cmVhbShuZXcgRmlsZU91dHB1dFN0cmVhbSgiYWJjLyIgKyBuYW1lICsgIi5qcGciKSk7CiAgICAgICAgICAgICAgICAgICAgb3V0LndyaXRlKGJpdCk7CiAgICAgICAgICAgICAgICAgICAgb3V0LmZsdXNoKCk7CiAgICAgICAgICAgICAgICB9IGNhdGNoIChFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICB9IGZpbmFsbHkgewogICAgICAgICAgICAgICAgICAgIGlmIChvdXQgIT0gbnVsbCkKICAgICAgICAgICAgICAgICAgICAgICAgb3V0LmNsb3NlKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBJbWdjb2RlY3MuaW13cml0ZSgiYWJjLyIgKyBpbmRleCArICIuanBnIiwgcmVzMik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbWFnZVByb2R1Y2VyCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXQgcmV0ID0gbmV3IE1hdCgpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXQgZXJvZGVNYXQgPSBuZXcgTWF0KCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
