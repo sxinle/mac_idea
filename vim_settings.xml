@@ -284,12 +284,12 @@
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/application.conf" timestamp="1532337063098">
         <mark key="'" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/opencv/src/main/java/com/hsong/HandleNum.java" timestamp="1532586979554">
-        <mark key="'" line="34" column="81" />
-        <mark key="[" line="30" column="64" />
-        <mark key="]" line="30" column="76" />
-        <mark key="." line="30" column="76" />
-        <mark key="^" line="30" column="76" />
+      <file name="$USER_HOME$/workspace/demo/opencv/src/main/java/com/hsong/HandleNum.java" timestamp="1532588019001">
+        <mark key="'" line="33" column="81" />
+        <mark key="[" line="83" column="73" />
+        <mark key="]" line="83" column="75" />
+        <mark key="." line="83" column="75" />
+        <mark key="^" line="83" column="75" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/uuvalue/micros/misc/service/impl/MiscServiceImpl.java" timestamp="1531203944495">
         <mark key="[" line="132" column="27" />
@@ -349,7 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="36" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/ScanController.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/target/scala-2.10/src_managed/main/views/html/mobCalls.template.scala" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
       <jump line="528" column="29" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
@@ -449,6 +448,7 @@
       <jump line="122" column="0" filename="$USER_HOME$/workspace/demo/opencv/src/main/java/com/hsong/OpenCVBankCard.java" />
       <jump line="31" column="76" filename="$USER_HOME$/workspace/demo/opencv/src/main/java/com/hsong/HandleNum.java" />
       <jump line="33" column="81" filename="$USER_HOME$/workspace/demo/opencv/src/main/java/com/hsong/HandleNum.java" />
+      <jump line="34" column="81" filename="$USER_HOME$/workspace/demo/opencv/src/main/java/com/hsong/HandleNum.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -458,7 +458,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>THRESH_OTSU</text>
+        <text>cut</text>
       </register>
       <register name="/" type="4">
         <text>3</text>
@@ -476,22 +476,22 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXQgZXJvZGVNYXQgPSBzcmNNYXQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBJbWdjb2RlY3MuaW13cml0ZSgiYWJjLyIgKyBpbmRleCArICIuanBnIiwgcmVzMik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbWdjb2RlY3MuaW13cml0ZSgiYWJjLyIgKyBpbmRleCArICIuanBnIiwgcmVzMik7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBSZWN0IHJvaSA9IG5ldyBSZWN0KDU1MCwgMjAwLCAxMDAsIDE1MCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -547,8 +547,8 @@
         <entry encoding="base64">JzwsJz5zLyIvL2c=</entry>
         <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zL3Byb2R1Y3RpZC9pbWFnZXBhdGgvZw==</entry>
-        <entry>action $Redo</entry>
         <entry encoding="base64">JzwsJz5zLzMvMS9n</entry>
+        <entry>action $Redo</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
