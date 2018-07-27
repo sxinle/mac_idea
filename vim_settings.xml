@@ -298,11 +298,12 @@
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/application.conf" timestamp="1532337063098">
         <mark key="'" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/opencv/src/main/java/com/hsong/HandleNum.java" timestamp="1532664973589">
-        <mark key="[" line="87" column="47" />
-        <mark key="]" line="87" column="54" />
-        <mark key="^" line="87" column="54" />
-        <mark key="." line="87" column="54" />
+      <file name="$USER_HOME$/workspace/demo/opencv/src/main/java/com/hsong/HandleNum.java" timestamp="1532669783271">
+        <mark key="'" line="89" column="42" />
+        <mark key="[" line="30" column="45" />
+        <mark key="]" line="30" column="47" />
+        <mark key="." line="30" column="47" />
+        <mark key="^" line="30" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/uuvalue/micros/misc/service/impl/MiscServiceImpl.java" timestamp="1531203944495">
         <mark key="[" line="132" column="27" />
@@ -362,7 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="492" column="71" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
       <jump line="834" column="12" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
       <jump line="894" column="22" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
       <jump line="927" column="22" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/mobCalls.scala.html" />
@@ -462,6 +462,7 @@
       <jump line="79" column="0" filename="$USER_HOME$/workspace/demo/opencv/src/main/java/com/hsong/HandleNum.java" />
       <jump line="122" column="84" filename="$USER_HOME$/workspace/demo/opencv/src/main/java/com/hsong/HandleNum.java" />
       <jump line="106" column="56" filename="$USER_HOME$/workspace/demo/opencv/src/main/java/com/hsong/HandleNum.java" />
+      <jump line="89" column="42" filename="$USER_HOME$/workspace/demo/opencv/src/main/java/com/hsong/HandleNum.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -471,57 +472,56 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>dest</text>
+        <text>src</text>
       </register>
       <register name="/" type="4">
-        <text>candy</text>
+        <text>Scala</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBCdWZmZXJlZEltYWdlIGltYWdlMSA9IE1hdEJ1ZmZlcmVkSW1hZ2UuTWF0MkJ1ZkltZyhtYXQxLCAiLmpwZyIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBtYXRzLmFkZChyZXNpemVNYXQpOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgTWF0IG1lcmdlU2ltcGxlKE1hdCBtYXQxLCBNYXQgbWF0MiwgaW50IHBvc3csIGludCBwb3NoKSB7CiAgICAgICAgQnVmZmVyZWRJbWFnZSBpbWFnZTEgPSBNYXRCdWZmZXJlZEltYWdlLk1hdDJCdWZJbWcobWF0MSwgIi5qcGciKTsKICAgICAgICBCdWZmZXJlZEltYWdlIGltYWdlMiA9IE1hdEJ1ZmZlcmVkSW1hZ2UuTWF0MkJ1ZkltZyhtYXQyLCAiLmpwZyIpOwoKICAgICAgICAvL+WQiOW5tuS4pOS4quWbvuWDjwogICAgICAgIGludCB3MSA9IGltYWdlMS5nZXRXaWR0aCgpOwogICAgICAgIGludCBoMSA9IGltYWdlMS5nZXRIZWlnaHQoKTsKICAgICAgICBpbnQgdzIgPSBpbWFnZTIuZ2V0V2lkdGgoKTsKICAgICAgICBpbnQgaDIgPSBpbWFnZTIuZ2V0SGVpZ2h0KCk7CgogICAgICAgIEJ1ZmZlcmVkSW1hZ2UgaW1hZ2VTYXZlZCA9IG5ldyBCdWZmZXJlZEltYWdlKHcxLCBoMSwgQnVmZmVyZWRJbWFnZS5UWVBFX0JZVEVfR1JBWSk7CiAgICAgICAgR3JhcGhpY3MyRCBnMmQgPSBpbWFnZVNhdmVkLmNyZWF0ZUdyYXBoaWNzKCk7CiAgICAgICAgZzJkLmRyYXdJbWFnZShpbWFnZTEsIG51bGwsIHBvc3csIHBvc2gpOwoKICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHcyOyBpKyspIHsKICAgICAgICAgICAgZm9yIChpbnQgaiA9IDA7IGogPCBoMjsgaisrKSB7CiAgICAgICAgICAgICAgICBpbnQgcmdiMSA9IGltYWdlMS5nZXRSR0IoaSArIHBvc3csIGogKyBwb3NoKTsKICAgICAgICAgICAgICAgIGludCByZ2IyID0gaW1hZ2UyLmdldFJHQihpLCBqKTsKCiAgICAgICAgICAgICAgICBpZiAocmdiMSAhPSByZ2IyKSB7CiAgICAgICAgICAgICAgICAgICAgcmdiMiA9IHJnYjEgJiByZ2IyOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgaW1hZ2VTYXZlZC5zZXRSR0IoaSArIHBvc3csIGogKyBwb3NoLCByZ2IyKTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIE1hdEJ1ZmZlcmVkSW1hZ2UuQnVmSW1nMk1hdChpbWFnZVNhdmVkLCBCdWZmZXJlZEltYWdlLlRZUEVfQllURV9HUkFZLCBDdlR5cGUuQ1ZfOFVDMSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBDb3JlLmhjb25jYXQobmV3IEFycmF5TGlzdDxNYXQ+KCl7ewogICAgICAgICAgICBhZGQobGVmdFJpZ2h0KTsKICAgICAgICAgICAgYWRkKGNlbnRlck1hdCk7CiAgICAgICAgICAgIGFkZChsZWZ0UmlnaHQyKTsKICAgICAgICB9fSwgaG9yTWF0cyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXQgbGVmdFJpZ2h0MiA9IG5ldyBNYXQoY2VudGVyTWF0LndpZHRoKCkgLyAyLCBjZW50ZXJNYXQuaGVpZ2h0KCksIEN2VHlwZS5DVl84VUMxLCBuZXcgU2NhbGFyKDAsIDAsIDI1NSkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXQgdXBEb3duMiA9IG5ldyBNYXQoY2VudGVyTWF0LndpZHRoKCkgKiAyLCBjZW50ZXJNYXQuaGVpZ2h0KCksIEN2VHlwZS5DVl84VUMxLCBuZXcgU2NhbGFyKDAsIDAsIDI1NSkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL21hdHMuYWRkKG51bU1hdCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBJbWdwcm9jLmZpbGwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXQgbGVmdFJpZ2h0MiA9IG5ldyBNYXQoY2VudGVyTWF0LndpZHRoKCkgLyAyLCBjZW50ZXJNYXQuaGVpZ2h0KCksIEN2VHlwZS5DVl84VUMxKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Q29yZS5oY29uY2F0KHNyYywgZHN0KTsK</text>
+        <text encoding="base64">ICAgICAgICBNYXQgZmlsZU1hdENvbWJpbmUgPSBuZXcgTWF0KCk7CiAgICAgICAgQ29yZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBNYXQgaW1nX2xlZnQsIGltZ19yaWdodDsKTWF0IGRzdCA9IG5ldyBNYXQoKTsKTGlzdDxNYXQ+IHNyYyA9IEFycmF5cy5hc0xpc3QoaW1nX2xlZnQsIGltZ19yaWdodCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXQgdXAgPSBuZXcgTWF0KGNlbnRlck1hdC53aWR0aCgpICogMiwgY2VudGVyTWF0LmhlaWdodCgpLCBDdlR5cGUuQ1ZfOFVDMSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>candy</last-search>
+      <last-search>Scala</last-search>
       <last-offset />
-      <last-pattern>candy</last-pattern>
+      <last-pattern>Scala</last-pattern>
       <last-replace>1</last-replace>
       <last-substitute>3</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>2</entry>
         <entry>verifyStr</entry>
         <entry>api</entry>
         <entry encoding="base64">XDx2ZXJpZnlTdHJcPg==</entry>
@@ -541,6 +541,7 @@
         <entry>System.out</entry>
         <entry>3</entry>
         <entry>candy</entry>
+        <entry>Scala</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
