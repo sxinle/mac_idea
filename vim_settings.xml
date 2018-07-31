@@ -186,6 +186,12 @@
         <mark key="." line="317" column="122" />
         <mark key="^" line="317" column="122" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/code_center/fangbianmian/src/main/java/com/uuvalue/micros/fangbianmian/Docs.java" timestamp="1533024939009">
+        <mark key="[" line="7" column="89" />
+        <mark key="]" line="7" column="111" />
+        <mark key="." line="7" column="111" />
+        <mark key="^" line="7" column="111" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/public/statics/salesorder.js" timestamp="1532342239427">
         <mark key="'" line="120" column="25" />
         <mark key="[" line="11" column="0" />
@@ -290,7 +296,12 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/fangbianmian/src/main/java/com/uuvalue/micros/fangbianmian/FangBianMianAPIVerticle.java" timestamp="1533017807230" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/fangbianmian/src/main/java/com/uuvalue/micros/fangbianmian/FangBianMianAPIVerticle.java" timestamp="1533025138909">
+        <mark key="[" line="49" column="54" />
+        <mark key="]" line="50" column="35" />
+        <mark key="." line="50" column="35" />
+        <mark key="^" line="50" column="35" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jhshop/shop-misc/src/main/java/com/uuvalue/micros/shop/mappers/ShopInfoMapper.java" timestamp="1531470075800">
         <mark key="[" line="56" column="17" />
         <mark key="]" line="56" column="17" />
@@ -380,7 +391,8 @@
         <mark key="]" line="51" column="20" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/fangbianmian/src/main/resources/config.json" timestamp="1533023862881">
+      <file name="$USER_HOME$/workspace/micro-service/code_center/fangbianmian/src/main/resources/config.json" timestamp="1533024574976">
+        <mark key="'" line="13" column="28" />
         <mark key="[" line="13" column="14" />
         <mark key="]" line="13" column="26" />
         <mark key="." line="18" column="5" />
@@ -400,7 +412,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
       <jump line="1161" column="27" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/newpage/mobCalls.scala.html" />
       <jump line="1356" column="52" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/newpage/mobCalls.scala.html" />
       <jump line="1392" column="26" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/newpage/mobCalls.scala.html" />
@@ -500,6 +511,7 @@
       <jump line="21" column="13" filename="$USER_HOME$/workspace/micro-service/code_center/fangbianmian/src/main/java/com/uuvalue/micros/fangbianmian/service/impl/CenterServiceImpl.java" />
       <jump line="20" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/fangbianmian/src/main/java/com/uuvalue/micros/fangbianmian/service/impl/CenterServiceImpl.java" />
       <jump line="28" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/fangbianmian/src/main/java/com/uuvalue/micros/fangbianmian/CenterAPIVerticle.java" />
+      <jump line="13" column="28" filename="$USER_HOME$/workspace/micro-service/code_center/fangbianmian/src/main/resources/config.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -509,40 +521,45 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>Object::finalize</text>
       </register>
       <register name="/" type="4">
         <text>combine</text>
       </register>
       <register name="0" type="4">
-        <text>2012124124431</text>
+        <text>/code/:code/:type</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgImNvZGUiOiIyMDEyMTI0MTIzMTIzIiwKICAgICAgIm5hbWUiOiIiLAogICAgICAic2VyaWFsIjoi6YeR5b69MTjlubQiLAogICAgICAiZHVzaHUiOiAiNDAiLAogICAgICAiaGFubGlhbmciOiAiMjAiCiAgICB9LAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgImNvZGUiOiIyMDEyMTI0MTIzMTIzIiwKICAgICAgIm5hbWUiOiLlurfluIjlgoVBQkMiLAogICAgICAic2VyaWEiOiLku4DkuYjns7vliJciLAogICAgICAiZHVzaHUiOiAiNDAiLAogICAgICAiaGFubGlhbmciOiAiMjAiCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBhZGRVc2VyKFJvdXRpbmdDb250ZXh0IGNvbnRleHQpIHsKICAgIH0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>.param(new JsonObject(&quot;{\n&quot; +
+                &quot;  \&quot;userName\&quot;:\&quot;testMybatis\&quot;,\n&quot; +
+                &quot;  \&quot;pass\&quot;:\&quot;oOo\&quot;,\n&quot; +
+                &quot;  \&quot;desc\&quot;:\&quot;描述信息\&quot;,\n&quot; +
+                &quot;  \&quot;createAt\&quot;:\&quot;2018-05-04 12:33:21\&quot;\n&quot; +
+                &quot;}&quot;)));</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgImNvZGUiOiIyMDEyMTI0MTIzMTIzIiwKICAgICAgIm5hbWUiOiIiLAogICAgICAic2VyaWFsIjoi6YeR5b69MTjlubQiLAogICAgICAiZHVzaHUiOiAiNDAiLAogICAgICAiaGFubGlhbmciOiAiMjAiCiAgICB9LAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgImNvZGUiOiIyMDEyMTI0MTIzMTIzIiwKICAgICAgIm5hbWUiOiLlurfluIjlgoVBQkMiLAogICAgICAic2VyaWEiOiLku4DkuYjns7vliJciLAogICAgICAiZHVzaHUiOiAiNDAiLAogICAgICAiaGFubGlhbmciOiAiMjAiCiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
