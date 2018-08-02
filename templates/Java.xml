@@ -9,4 +9,10 @@
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
+  <template name="af" value="($start$) -&gt; {&#10;&#10;}" description="()=&gt;{}" toReformat="false" toShortenFQNames="true">
+    <variable name="start" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
 </templateSet>
