@@ -49,6 +49,12 @@
       <file name="/a.dummy" timestamp="1533017790485">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/RestVerticle.java" timestamp="1533196501706">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+        <mark key="^" line="63" column="24" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/BaseVerticle.java" timestamp="1531276050180">
         <mark key="[" line="77" column="81" />
         <mark key="]" line="77" column="80" />
@@ -291,8 +297,11 @@
         <mark key="]" line="17" column="0" />
         <mark key="." line="17" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/fangbianmian/src/main/java/com/uuvalue/micros/fangbianmian/FangBianMianAPIVerticle.java" timestamp="1533195223899">
-        <mark key="'" line="78" column="48" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/fangbianmian/src/main/java/com/uuvalue/micros/fangbianmian/FangBianMianAPIVerticle.java" timestamp="1533196910415">
+        <mark key="'" line="141" column="0" />
+        <mark key="[" line="123" column="0" />
+        <mark key="]" line="123" column="0" />
+        <mark key="." line="123" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jhshop/shop-misc/src/main/java/com/uuvalue/micros/shop/mappers/ShopInfoMapper.java" timestamp="1531470075800">
         <mark key="[" line="56" column="17" />
@@ -317,7 +326,7 @@
       <file name="$USER_HOME$/a/views/newpage/mobCalls.scala.html" timestamp="1531989969926">
         <mark key="'" line="194" column="52" />
       </file>
-      <file name="/Dummy.txt" timestamp="1533032620011">
+      <file name="/Dummy.txt" timestamp="1533196563052">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -406,8 +415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="20" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/newpage/mobCalls.scala.html" />
-      <jump line="735" column="46" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/newpage/mobCalls.scala.html" />
       <jump line="736" column="32" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/newpage/mobCalls.scala.html" />
       <jump line="738" column="39" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/newpage/mobCalls.scala.html" />
       <jump line="739" column="36" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/newpage/mobCalls.scala.html" />
@@ -506,6 +513,8 @@
       <jump line="14" column="16" filename="$USER_HOME$/workspace/micro-service/code_center/fangbianmian/src/main/resources/config.json" />
       <jump line="42" column="48" filename="$USER_HOME$/workspace/micro-service/code_center/fangbianmian/src/main/java/com/uuvalue/micros/fangbianmian/FangBianMianAPIVerticle.java" />
       <jump line="102" column="31" filename="$MAVEN_REPOSITORY$/com/uuvalue/micros/common/1.0.0-SNAPSHOT/common-1.0.0-20180712.053926-4.jar!/com/uuvalue/micros/common/RestVerticle.class" />
+      <jump line="22" column="50" filename="$USER_HOME$/workspace/micro-service/code_center/fangbianmian/src/main/java/com/uuvalue/micros/fangbianmian/FangBianMianAPIVerticle.java" />
+      <jump line="141" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/fangbianmian/src/main/java/com/uuvalue/micros/fangbianmian/FangBianMianAPIVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -520,29 +529,29 @@
       <register name="/" type="4">
         <text>combine</text>
       </register>
-      <register name="0" type="4">
-        <text>xfzsm</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcm91dGVyLnJvdXRlKCkuaGFuZGxlcihCb2R5SGFuZGxlci5jcmVhdGUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZW5hYmxlQ29yc1N1cHBvcnQocm91dGVyKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcm91dGVyLnJvdXRlKCkuaGFuZGxlcihCb2R5SGFuZGxlci5jcmVhdGUoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgamtqZAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmluZFJvdXRlcyhyb3V0ZXIpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBlbmFibGVibwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
