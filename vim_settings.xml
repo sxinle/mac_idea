@@ -402,6 +402,13 @@
         <mark key="." line="14" column="18" />
         <mark key="^" line="7" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/common/gateway/src/main/resources/config.json" timestamp="1533289085414">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="8" column="11" />
+        <mark key="]" line="8" column="11" />
+        <mark key="^" line="7" column="12" />
+        <mark key="." line="8" column="11" />
+      </file>
       <file name="/fragment.java" timestamp="1533194327905">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -416,8 +423,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="736" column="32" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/newpage/mobCalls.scala.html" />
-      <jump line="738" column="39" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/newpage/mobCalls.scala.html" />
       <jump line="739" column="36" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/newpage/mobCalls.scala.html" />
       <jump line="652" column="55" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/newpage/mobCalls.scala.html" />
       <jump line="45" column="49" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/newpage/mobCalls.scala.html" />
@@ -516,6 +521,8 @@
       <jump line="102" column="31" filename="$MAVEN_REPOSITORY$/com/uuvalue/micros/common/1.0.0-SNAPSHOT/common-1.0.0-20180712.053926-4.jar!/com/uuvalue/micros/common/RestVerticle.class" />
       <jump line="22" column="50" filename="$USER_HOME$/workspace/micro-service/code_center/fangbianmian/src/main/java/com/uuvalue/micros/fangbianmian/FangBianMianAPIVerticle.java" />
       <jump line="141" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/fangbianmian/src/main/java/com/uuvalue/micros/fangbianmian/FangBianMianAPIVerticle.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/resources/config.json" />
+      <jump line="21" column="0" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/resources/config.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -525,7 +532,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>clear</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>combine</text>
