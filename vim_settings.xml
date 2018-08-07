@@ -173,10 +173,8 @@
         <mark key="^" line="62" column="30" />
         <mark key="." line="62" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/fangbianmian/src/main/java/com/uuvalue/micros/fangbianmian/FangBianMianVerticle.java" timestamp="1533021272816">
-        <mark key="]" line="16" column="32" />
-        <mark key="^" line="16" column="32" />
-        <mark key="." line="16" column="32" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/anti/lib/quartz-2.2.0.jar!/org/quartz/impl/StdScheduler.class" timestamp="1533604913125">
+        <mark key="'" line="40" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jhshop/micros-order/src/main/java/com/uuvalue/micros/order/service/impl/OrderServiceImpl.java" timestamp="1532056076342">
         <mark key="'" line="148" column="42" />
@@ -232,6 +230,12 @@
         <mark key="]" line="39" column="45" />
         <mark key="." line="39" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/anti/app/Global.java" timestamp="1533604630415">
+        <mark key="[" line="64" column="73" />
+        <mark key="]" line="64" column="72" />
+        <mark key="^" line="64" column="72" />
+        <mark key="." line="64" column="72" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" timestamp="1531805517637">
         <mark key="'" line="731" column="18" />
       </file>
@@ -268,6 +272,9 @@
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/app/service/impl/BPMNServiceImpl.java" timestamp="1531794566929">
         <mark key="'" line="224" column="28" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/anti/lib/quartz-2.2.0.jar!/org/quartz/impl/StdSchedulerFactory.class" timestamp="1533604857073">
+        <mark key="'" line="1075" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/fangbianmian/src/main/java/com/uuvalue/micros/fangbianmian/CenterVerticle.java" timestamp="1533017775900">
         <mark key="[" line="16" column="27" />
@@ -361,8 +368,8 @@
         <mark key="^" line="34" column="7" />
         <mark key="." line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/anti/app/setup/Setup.java" timestamp="1532331947399">
-        <mark key="'" line="28" column="27" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/anti/app/setup/Setup.java" timestamp="1533604390921">
+        <mark key="'" line="90" column="37" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/routes" timestamp="1532339749462">
         <mark key="'" line="0" column="0" />
@@ -437,9 +444,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="51" column="11" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
-      <jump line="731" column="21" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/awardOrder.scala.html" />
-      <jump line="434" column="29" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/awardOrder.scala.html" />
       <jump line="644" column="48" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/awardOrder.scala.html" />
       <jump line="654" column="48" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/awardOrder.scala.html" />
       <jump line="30" column="51" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
@@ -537,6 +541,9 @@
       <jump line="85" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/Docs.java" />
       <jump line="203" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/PrizeAPIVerticle.java" />
       <jump line="33" column="35" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/PrizeAPIVerticle.java" />
+      <jump line="90" column="37" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/setup/Setup.java" />
+      <jump line="1075" column="21" filename="$USER_HOME$/workspace/jinhui/prod/anti/lib/quartz-2.2.0.jar!/org/quartz/impl/StdSchedulerFactory.class" />
+      <jump line="40" column="42" filename="$USER_HOME$/workspace/jinhui/prod/anti/lib/quartz-2.2.0.jar!/org/quartz/impl/StdScheduler.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -549,7 +556,7 @@
         <text>getDistricts</text>
       </register>
       <register name="/" type="4">
-        <text>combine</text>
+        <text>Scheduler with name</text>
       </register>
       <register name="0" type="4">
         <text>cjrk</text>
@@ -586,20 +593,16 @@
       </register>
     </registers>
     <search>
-      <last-search>combine</last-search>
+      <last-search>Scheduler with name</last-search>
       <last-offset />
-      <last-pattern>combine</last-pattern>
+      <last-pattern>Scheduler with name</last-pattern>
       <last-replace>1</last-replace>
       <last-substitute>3</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx2ZXJpZnlTdHJcPg==</entry>
-        <entry encoding="base64">XDxmaW5pc2hlZFw+</entry>
-        <entry>pageNext</entry>
-        <entry>console</entry>
         <entry>awardOrder</entry>
         <entry encoding="base64">XDx1cGRhdGVTZW5kU3RhdHVzXD4=</entry>
         <entry encoding="base64">XDxhd2FyZE9yZGVyXD4=</entry>
@@ -616,6 +619,10 @@
         <entry>callback</entry>
         <entry>luotuoma</entry>
         <entry>combine</entry>
+        <entry>with name</entry>
+        <entry>Scheduler</entry>
+        <entry>already</entry>
+        <entry>Scheduler with name</entry>
       </history-search>
       <history-cmd>
         <entry>vsp</entry>
