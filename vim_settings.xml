@@ -58,12 +58,12 @@
         <mark key="." line="77" column="80" />
         <mark key="^" line="77" column="80" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/mappers/TemplateMapper.xml" timestamp="1533706067903">
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/mappers/TemplateMapper.xml" timestamp="1533709955958">
         <mark key="'" line="15" column="31" />
-        <mark key="[" line="23" column="77" />
-        <mark key="]" line="23" column="85" />
-        <mark key="^" line="23" column="85" />
-        <mark key="." line="23" column="85" />
+        <mark key="[" line="5" column="63" />
+        <mark key="]" line="5" column="71" />
+        <mark key="^" line="5" column="71" />
+        <mark key="." line="5" column="71" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application-context.xml" timestamp="1532049982195">
         <mark key="[" line="86" column="0" />
@@ -258,11 +258,11 @@
         <mark key="." line="61" column="0" />
         <mark key="^" line="62" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" timestamp="1533705986728">
-        <mark key="[" line="90" column="32" />
-        <mark key="]" line="90" column="34" />
-        <mark key="." line="90" column="34" />
-        <mark key="^" line="90" column="34" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" timestamp="1533710708092">
+        <mark key="[" line="193" column="58" />
+        <mark key="]" line="193" column="59" />
+        <mark key="." line="193" column="59" />
+        <mark key="^" line="193" column="59" />
       </file>
       <file name="/prize_init.sql" timestamp="1533636895791">
         <mark key="'" line="36" column="0" />
@@ -589,7 +589,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>param.getInteger(&quot;id&quot;)</text>
       </register>
       <register name="/" type="4">
         <text>activity</text>
@@ -598,31 +598,31 @@
         <text encoding="base64">ICAgICAgICBzZWxlY3QgKiBmcm9tIHByaXplLnRiX2FjdGl2aXR5LCBwcml6ZS50Yl90ZW1wbGF0ZSB0bXBsIHdoZXJlIHRtcGwuaWQ9YXR5LnRtcGxfaWQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3QgY291bnQoMSkgZnJvbSBwcml6ZS50Yl9hY3Rpdml0eSB3aGVyZSB0bXBsLmlkPWF0eS4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVNYXAuZm9yRWFjaCgoZmlsZXR5cGUsIGZpbGVQYXRoKSAtPiB7CiAgICAgICAgICAgICAgICAgICAgRmlsZSBmaWxlID0gbmV3IEZpbGUoZmlsZVBhdGgpOwogICAgICAgICAgICAgICAgICAgIGRlbEZpbGUoZmlsZSwgZmlsZVBhdGgpOwogICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kIGZpbHRlci0+PidkYXRlWzBdJyAmbHQ7PSAje2FjdGl2aXR5LmRhdGV9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kIGZpbAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVsZXRlCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kIGZpbHRlciBsaWtlICclJHthY3Rpdml0eS50aXRsZX0lJwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0bXBsLmdldFRtcFppcCgpICE9IG51bGwpIHsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8aWYgdGVzdD0nYWN0aXZpdHkhPW51bGwgYW5kIGFjdGl2aXR5LmxpbWl0IT1udWxsIGFuZCBhY3Rpdml0eS5saW1pdCA+IDAnPgogICAgICAgICAgICBsaW1pdCAje2FjdGl2aXR5LmxpbWl0fQogICAgICAgIDwvaWY+CiAgICAgICAgPGlmIHRlc3Q9J2FjdGl2aXR5IT1udWxsIGFuZCBhY3Rpdml0eS5vZmZzZXQhPW51bGwgYW5kIGFjdGl2aXR5Lm9mZnNldCA+IDAnPgogICAgICAgICAgICBvZmZzZXQgI3thY3Rpdml0eS5vZmZzZXR9CiAgICAgICAgPC9pZj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEhhc2hNYXA8U3RyaW5nLCBTdHJpbmc+IGZpbGVNYXAgPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpbGVNYXAucHV0KCJ0bXBfemlwIiwgdG1wX3ppcCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBTZWxlY3QoIjxzY3JpcHQ+IiArCiAgICAgICAgICAgICJzZWxlY3QgY291bnQoKikgZnJvbSBwcml6ZS50Yl9hY3Rpdml0eSB3aGVyZSAxPTEiICsKICAgICAgICAgICAgIjxpZiB0ZXN0PSdhY3Rpdml0eSE9bnVsbCBhbmQgYWN0aXZpdHkuaWQhPW51bGwgYW5kIGFjdGl2aXR5LmlkIT0wJz4iICsKICAgICAgICAgICAgIiBhbmQgIGlkPSN7YWN0aXZpdHkuaWR9IiArCiAgICAgICAgICAgICI8L2lmPiIgKwogICAgICAgICAgICAiPGlmIHRlc3Q9J2FjdGl2aXR5IT1udWxsIGFuZCBhY3Rpdml0eS50aXRsZSE9bnVsbCBhbmQgYWN0aXZpdHkudGl0bGUhPVwiXCInPiIgKwogICAgICAgICAgICAiIGFuZCAgdGl0bGUgbGlrZSAnJSR7YWN0aXZpdHkudGl0bGV9JSciICsKICAgICAgICAgICAgIjwvaWY+IiArCiAgICAgICAgICAgICI8L3NjcmlwdD4iKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyB0bXBfemlwID0gKFN0cmluZykgbWFwLmdldCgidG1wX3ppcCIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
