@@ -142,11 +142,11 @@
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="59" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/mappers/ActivityMapper.java" timestamp="1533724525484">
-        <mark key="[" line="20" column="8" />
-        <mark key="]" line="20" column="13" />
-        <mark key="^" line="20" column="13" />
-        <mark key="." line="20" column="13" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/mappers/ActivityMapper.java" timestamp="1533725048479">
+        <mark key="[" line="20" column="31" />
+        <mark key="]" line="20" column="33" />
+        <mark key="^" line="20" column="33" />
+        <mark key="." line="20" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jhshop/micros-order/src/main/java/com/uuvalue/micros/order/OrderAPIVerticle.java" timestamp="1532315001424">
         <mark key="'" line="100" column="46" />
@@ -277,7 +277,7 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="16" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/domain/Activity.java" timestamp="1533694494035">
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/domain/Activity.java" timestamp="1533724945256">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="45" column="23" />
         <mark key="^" line="45" column="23" />
@@ -379,12 +379,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/mappers/ActivityMapper.xml" timestamp="1533724649660">
-        <mark key="'" line="8" column="34" />
-        <mark key="[" line="8" column="69" />
-        <mark key="]" line="8" column="71" />
-        <mark key="." line="8" column="71" />
-        <mark key="^" line="8" column="71" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/mappers/ActivityMapper.xml" timestamp="1533725309475">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="11" column="83" />
+        <mark key="]" line="11" column="89" />
+        <mark key="^" line="11" column="89" />
+        <mark key="." line="11" column="89" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/order-producer/conf/application.conf" timestamp="1532337063098">
         <mark key="'" line="1" column="0" />
@@ -489,8 +489,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="$USER_HOME$/workspace/demo/BlockChain/src/main/java/Upload.java" />
-      <jump line="429" column="145" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="337" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="483" column="25" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/ScanController.java" />
       <jump line="686" column="22" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/ScanController.java" />
@@ -589,6 +587,8 @@
       <jump line="318" column="39" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" />
       <jump line="68" column="68" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/DataBinder.java" />
       <jump line="8" column="34" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/mappers/ActivityMapper.xml" />
+      <jump line="10" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/mappers/ActivityMapper.xml" />
+      <jump line="11" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/mappers/ActivityMapper.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -598,58 +598,56 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>template</text>
       </register>
       <register name="/" type="4">
-        <text>name</text>
+        <text>info</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGUgdGJfdGVtcGxhdGUKICAgICAgICA8c2V0PgogICAgICAgICAgICA8aWYgdGVzdD0idGVtcGxhdGUubmFtZSAhPSBudWxsIGFuZCB0ZW1wbGF0ZS5uYW1lICE9ICcnIj5uYW1lPSN7dGVtcGxhdGUubmFtZX0sPC9pZj4KICAgICAgICAgICAgPGlmIHRlc3Q9InRlbXBsYXRlLmlzVXNlcmRlZmluZSAhPSBudWxsIGFuZCB0ZW1wbGF0ZS5pc1VzZXJkZWZpbmUgIT0gJyciPgogICAgICAgICAgICAgICAgaXNfdXNlcmRlZmluZT0je3RlbXBsYXRlLmlzVXNlcmRlZmluZX0sCiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJ0ZW1wbGF0ZS50bXBaaXAgIT0gbnVsbCBhbmQgdGVtcGxhdGUudG1wWmlwICE9ICcnIj50bXBfemlwPSN7dGVtcGxhdGUudG1wWmlwfSw8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0idGVtcGxhdGUuZ3JvdXBDbnQgIT0gbnVsbCBhbmQgdGVtcGxhdGUuZ3JvdXBDbnQgIT0gJyciPmdyb3VwX2NudD0je3RlbXBsYXRlLmdyb3VwQ250fSw8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0idGVtcGxhdGUucHJpemVEZXRhaWwgIT0gbnVsbCBhbmQgdGVtcGxhdGUucHJpemVEZXRhaWwgIT0gJyciPgogICAgICAgICAgICAgICAgcHJpemVfZGV0YWlsPSN7dGVtcGxhdGUucHJpemVEZXRhaWx9Ojpqc29uYiwKICAgICAgICAgICAgPC9pZj4KICAgICAgICAgICAgPGlmIHRlc3Q9InRydWUiPnVwZGF0ZV9hdD1ub3coKSw8L2lmPgogICAgICAgIDwvc2V0PgogICAgICAgIHdoZXJlIGlkPSN7dGVtcGxhdGUuaWR9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9ImF0eS5maWx0ZXIgIT0gbnVsbCBhbmQgYXR5LmZpbHRlciAhPSAnJyI+ZmlsdGVyPSN7YXR5LmZpbHRlcn0sPC9pZj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9ImF0eS5maWx0ZXIgIT0gbnVsbCBhbmQgYXR5LmZpbHRlciAhPSAnJyI+ZmlsdGVyPSN7YXR5LmZpbHRlcn0sPC9pZj4K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9InRlbXBsYXRlLmlzVXNlcmRlZmluZSAhPSBudWxsIGFuZCB0ZW1wbGF0ZS5pc1VzZXJkZWZpbmUgIT0gJyciPgogICAgICAgICAgICAgICAgaXNfdXNlcmRlZmluZT0je3RlbXBsYXRlLmlzVXNlcmRlZmluZX0sCiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJ0ZW1wbGF0ZS50bXBaaXAgIT0gbnVsbCBhbmQgdGVtcGxhdGUudG1wWmlwICE9ICcnIj50bXBfemlwPSN7dGVtcGxhdGUudG1wWmlwfSw8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0idGVtcGxhdGUuZ3JvdXBDbnQgIT0gbnVsbCBhbmQgdGVtcGxhdGUuZ3JvdXBDbnQgIT0gJyciPmdyb3VwX2NudD0je3RlbXBsYXRlLmdyb3VwQ250fSw8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0idGVtcGxhdGUucHJpemVEZXRhaWwgIT0gbnVsbCBhbmQgdGVtcGxhdGUucHJpemVEZXRhaWwgIT0gJyciPgogICAgICAgICAgICAgICAgcHJpemVfZGV0YWlsPSN7dGVtcGxhdGUucHJpemVEZXRhaWx9Ojpqc29uYiwKICAgICAgICAgICAgPC9pZj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9ImF0eS50aXRsZSAhPSBudWxsIGFuZCBhdHkudGl0bGUgIT0gJyciPnRpdGxlPSN7YXR5LnRpdGxlfSw8L2lmPgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlmIHRlc3Q9InRlbXBsYXRlLmlzVXNlcmRlZmluZSAhPSBudWxsIGFuZCB0ZW1wbGF0ZS5pc1VzZXJkZWZpbmUgIT0gJyciPgogICAgICAgICAgICAgICAgaXNfdXNlcmRlZmluZT0je3RlbXBsYXRlLmlzVXNlcmRlZmluZX0sCiAgICAgICAgICAgIDwvaWY+CiAgICAgICAgICAgIDxpZiB0ZXN0PSJ0ZW1wbGF0ZS50bXBaaXAgIT0gbnVsbCBhbmQgdGVtcGxhdGUudG1wWmlwICE9ICcnIj50bXBfemlwPSN7dGVtcGxhdGUudG1wWmlwfSw8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0idGVtcGxhdGUuZ3JvdXBDbnQgIT0gbnVsbCBhbmQgdGVtcGxhdGUuZ3JvdXBDbnQgIT0gJyciPmdyb3VwX2NudD0je3RlbXBsYXRlLmdyb3VwQ250fSw8L2lmPgogICAgICAgICAgICA8aWYgdGVzdD0idGVtcGxhdGUucHJpemVEZXRhaWwgIT0gbnVsbCBhbmQgdGVtcGxhdGUucHJpemVEZXRhaWwgIT0gJyciPgogICAgICAgICAgICAgICAgcHJpemVfZGV0YWlsPSN7dGVtcGxhdGUucHJpemVEZXRhaWx9Ojpqc29uYiwKICAgICAgICAgICAgPC9pZj4K</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpZWxkLnNldCh0aGlzLCBtYXAuZ2V0T3JEZWZhdWx0KGtleSwgIiIpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBKc29uT2JqZWN0Lm1hcEZyb20obWFwLmdldCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZpZWxkLnNldCh0aGlzLCBtYXAuZ2V0T3JEZWZhdWx0KGtleSwgIiIpKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBKU09OUE9iamVjCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>name</last-search>
+      <last-search>info</last-search>
       <last-offset />
-      <last-pattern>name</last-pattern>
-      <last-replace>title</last-replace>
-      <last-substitute>name</last-substitute>
+      <last-pattern>info</last-pattern>
+      <last-replace>filter</last-replace>
+      <last-substitute>info</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>candy</entry>
-        <entry>Scala</entry>
         <entry>callback</entry>
         <entry>luotuoma</entry>
         <entry>combine</entry>
@@ -668,11 +666,10 @@
         <entry encoding="base64">XDxhZGRBY3Rpdml0eVJ1bGVcPg==</entry>
         <entry>activity</entry>
         <entry>name</entry>
+        <entry>title</entry>
+        <entry>info</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zL2NjZW50ZXJfY29yZS9jb3JlL2c=</entry>
-        <entry encoding="base64">JzwsJz5zL2AvXFwiL2c=</entry>
-        <entry>action AceAction</entry>
         <entry encoding="base64">JzwsJz5zL3RiX2JhdGNoX3J1bGVzL3RiX3J1bGUvZw==</entry>
         <entry encoding="base64">JzwsJz5zL3ByaXZhdGUvcHVibGljL2c=</entry>
         <entry encoding="base64">JzwsJz5zL1xcLy9n</entry>
@@ -689,6 +686,9 @@
         <entry>vsp config.json</entry>
         <entry encoding="base64">JzwsJz5zL2RvbWFpbi9wYXJhbS9n</entry>
         <entry encoding="base64">JzwsJz5zL25hbWUvdGl0bGUvZw==</entry>
+        <entry>vsp Activity.java</entry>
+        <entry encoding="base64">JzwsJz5zL3RpdGxlL2luZm8vZw==</entry>
+        <entry encoding="base64">JzwsJz5zL2luZm8vZmlsdGVyL2c=</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
