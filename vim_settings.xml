@@ -85,7 +85,8 @@
         <mark key="." line="15" column="45" />
         <mark key="^" line="15" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" timestamp="1531984346508">
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" timestamp="1533803773992">
+        <mark key="'" line="74" column="53" />
         <mark key="[" line="287" column="9" />
         <mark key="]" line="281" column="0" />
         <mark key="." line="281" column="0" />
@@ -122,11 +123,6 @@
         <mark key="]" line="319" column="0" />
         <mark key="^" line="393" column="0" />
         <mark key="." line="319" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/resources/prize_init.sql" timestamp="1533636518129">
-        <mark key="'" line="18" column="25" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="59" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/mappers/ActivityMapper.java" timestamp="1533786106436">
         <mark key="'" line="17" column="0" />
@@ -246,11 +242,6 @@
         <mark key="]" line="191" column="74" />
         <mark key="^" line="191" column="74" />
         <mark key="." line="191" column="74" />
-      </file>
-      <file name="/prize_init.sql" timestamp="1533636895791">
-        <mark key="'" line="36" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="16" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/domain/Activity.java" timestamp="1533724945256">
         <mark key="[" line="44" column="0" />
@@ -403,17 +394,18 @@
         <mark key="]" line="51" column="20" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="/PrizeServiceImpl.java" timestamp="1533631344772">
-        <mark key="'" line="283" column="16" />
-        <mark key="[" line="315" column="0" />
-        <mark key="]" line="339" column="4" />
-      </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/fangbianmian/src/main/resources/config.json" timestamp="1533203094728">
         <mark key="'" line="14" column="16" />
         <mark key="[" line="21" column="5" />
         <mark key="]" line="21" column="8" />
         <mark key="." line="14" column="18" />
         <mark key="^" line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/config.json" timestamp="1533803739177">
+        <mark key="[" line="7" column="12" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="^" line="7" column="15" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/gateway/src/main/resources/config.json" timestamp="1533289085414">
         <mark key="'" line="22" column="0" />
@@ -436,8 +428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/resources/config.json" />
-      <jump line="55" column="33" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/Docs.java" />
       <jump line="6" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/Docs.java" />
       <jump line="85" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/Docs.java" />
       <jump line="203" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/PrizeAPIVerticle.java" />
@@ -536,6 +526,8 @@
       <jump line="8" column="3" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/resources/config.json" />
       <jump line="37" column="32" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" />
       <jump line="70" column="71" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/DataBinder.java" />
+      <jump line="262" column="56" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
+      <jump line="74" column="53" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -545,13 +537,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>STORE_PATH_KEY</text>
+        <text>5432</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTVE9SRV9QQVRIX0tFWVw+</text>
       </register>
       <register name="0" type="4">
-        <text>micro-uploads</text>
+        <text>q.jinhuijiu.com.cn</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVsRmlsZShuZXcgRmlsZSh0bXBsLmdldFRtcFppcCgpKSwgdG1wbC5nZXRUbXBaaXAoKSk7Cg==</text>
