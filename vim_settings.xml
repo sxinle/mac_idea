@@ -99,6 +99,12 @@
         <mark key="." line="21" column="12" />
         <mark key="^" line="21" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/util/Req.java" timestamp="1534310648559">
+        <mark key="[" line="9" column="4" />
+        <mark key="]" line="9" column="9" />
+        <mark key="^" line="9" column="9" />
+        <mark key="." line="9" column="9" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/domain/Role.java" timestamp="1534220017410">
         <mark key="[" line="9" column="24" />
         <mark key="]" line="9" column="24" />
@@ -216,10 +222,10 @@
         <mark key="^" line="208" column="92" />
         <mark key="." line="208" column="92" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/task/TestTask.java" timestamp="1534309214979">
+      <file name="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/task/TestTask.java" timestamp="1534310573866">
         <mark key="'" line="29" column="4" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="64" />
         <mark key="." line="15" column="0" />
         <mark key="^" line="17" column="71" />
       </file>
@@ -536,12 +542,12 @@
         <mark key="^" line="122" column="50" />
         <mark key="." line="122" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/SessionMng.java" timestamp="1534309111364">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="20" column="38" />
-        <mark key="]" line="20" column="44" />
-        <mark key="." line="20" column="44" />
-        <mark key="^" line="20" column="44" />
+      <file name="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/SessionMng.java" timestamp="1534310508073">
+        <mark key="'" line="10" column="13" />
+        <mark key="[" line="64" column="11" />
+        <mark key="]" line="64" column="17" />
+        <mark key="." line="64" column="17" />
+        <mark key="^" line="64" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_product/src/main/java/com/uuvalue/micros/product/mappers/ProductMapper.java" timestamp="1533866761555">
         <mark key="[" line="19" column="32" />
@@ -599,6 +605,18 @@
         <mark key="^" line="132" column="16" />
         <mark key="." line="132" column="27" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/task/Alarm.java" timestamp="1534310792280">
+        <mark key="[" line="26" column="37" />
+        <mark key="]" line="26" column="48" />
+        <mark key="." line="26" column="37" />
+        <mark key="^" line="13" column="21" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/TestTask.java" timestamp="1534310668941">
+        <mark key="[" line="7" column="61" />
+        <mark key="]" line="9" column="37" />
+        <mark key="." line="9" column="37" />
+        <mark key="^" line="9" column="37" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/ccenterAll/code_user/src/main/java/com/uuvalue/micros/cuser/UserAPIVerticle.java" timestamp="1533898498941">
         <mark key="[" line="31" column="8" />
         <mark key="]" line="31" column="18" />
@@ -625,7 +643,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/pom.xml" />
       <jump line="94" column="16" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/service/impl/UserServiceImpl.java" />
       <jump line="69" column="15" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/domain/User.java" />
       <jump line="50" column="71" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/UserVerticle.java" />
@@ -725,6 +742,7 @@
       <jump line="24" column="0" filename="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/SessionMng.java" />
       <jump line="23" column="0" filename="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/SessionMng.java" />
       <jump line="43" column="0" filename="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/SessionMng.java" />
+      <jump line="10" column="13" filename="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/SessionMng.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -734,40 +752,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>getCookies</text>
+        <text>url</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
       </register>
       <register name="0" type="4">
-        <text>cookies</text>
+        <text>url_history</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgc2Vzc2lvbklEID0gU2Vzc2lvbk1uZy5sb2dpbigiYWRtaW4iLCAiRU1vbml0b3IiKTsKCiAgICAgICAgU3RyaW5nIHVybCA9ICJodHRwOi8vMzkuMTA3LjMyLjg4L2luZGV4L3J1bm5pbmcvbGlzdD90aXRsZT1ydW5uaW5nJnNvcnQ9YXNjJnJuZD0iICsgU3lzdGVtLmN1cnJlbnRUaW1lTWlsbGlzKCk7CgogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihSZXEuanNvbkNvbm4oanVybCwgU2Vzc2lvbk1uZy5jb29raWVzKHNlc3Npb25JRCkpLmV4ZWN1dGUoKS5ib2R5KCkpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIENvbm5lY3Rpb24ganNvbkNvbm4oU3RyaW5nIGFwaVVybCwgTWFwPFN0cmluZywgU3RyaW5nPiBjb29raWVzKSB7CiAgICAgICAgcmV0dXJuIEpzb3VwLmNvbm5lY3QoYXBpVXJsKQogICAgICAgICAgICAgICAgLmhlYWRlcigiQWNjZXB0IiwgIiovKiIpCiAgICAgICAgICAgICAgICAuaGVhZGVyKCJBY2NlcHQtRW5jb2RpbmciLCAiZ3ppcCwgZGVmbGF0ZSIpCiAgICAgICAgICAgICAgICAuaGVhZGVyKCJBY2NlcHQtTGFuZ3VhZ2UiLCAiemgtQ04semg7cT0wLjgsZW4tVVM7cT0wLjUsZW47cT0wLjMiKQogICAgICAgICAgICAgICAgLmhlYWRlcigiQ29udGVudC1UeXBlIiwgImFwcGxpY2F0aW9uL2pzb247Y2hhcnNldD1VVEYtOCIpCiAgICAgICAgICAgICAgICAuaGVhZGVyKCJVc2VyLUFnZW50IiwgIk1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDYuMTsgV09XNjQ7IHJ2OjQ4LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvNDguMCIpCiAgICAgICAgICAgICAgICAuaWdub3JlQ29udGVudFR5cGUodHJ1ZSkKICAgICAgICAgICAgICAgIC50aW1lb3V0KDEwMDAwKQogICAgICAgICAgICAgICAgLmNvb2tpZXMoY29va2llcyk7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTZXNzaW9uTW5nLmxvZ2luKCIiLCAiIik7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmV0LmdldCgidGlja2V0VXJsIikpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IGNvb2tpZXMgPSAoTWFwPFN0cmluZywgU3RyaW5nPikgcmV0LmdldCgiY29va2llcyIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBNYXA8U3RyaW5nLCBPYmplY3Q+IGdldChTdHJpbmcgc2Vzc2lvbklkKSB7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
