@@ -215,12 +215,12 @@
         <mark key="^" line="208" column="92" />
         <mark key="." line="208" column="92" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/task/TestTask.java" timestamp="1534296237668">
-        <mark key="'" line="20" column="18" />
-        <mark key="[" line="21" column="121" />
-        <mark key="]" line="22" column="14" />
-        <mark key="." line="22" column="14" />
-        <mark key="^" line="22" column="14" />
+      <file name="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/task/TestTask.java" timestamp="1534298053278">
+        <mark key="'" line="41" column="4" />
+        <mark key="[" line="34" column="13" />
+        <mark key="]" line="34" column="25" />
+        <mark key="." line="34" column="13" />
+        <mark key="^" line="33" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/demo/opencv/src/main/java/com/hsong/OpenCVT.java" timestamp="1532505601791">
         <mark key="[" line="28" column="76" />
@@ -615,7 +615,7 @@
         <mark key="." line="7" column="15" />
         <mark key="^" line="7" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1534234381080">
+      <file name="/fragment.java" timestamp="1534297804623">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="28" />
@@ -629,7 +629,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="47" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
       <jump line="67" column="46" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
       <jump line="60" column="46" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/resources/config.json" />
@@ -729,6 +728,7 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/BaseAppContextConfig.java" />
       <jump line="108" column="0" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/BaseAppContextConfig.java" />
       <jump line="24" column="18" filename="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/task/TestTask.java" />
+      <jump line="28" column="4" filename="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/task/TestTask.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -738,40 +738,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>loginDoc</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgZXhlY3V0aW9uID0gbG9naW5Eb2Muc2VsZWN0KCJpbnB1dFtuYW1lPWV4ZWN1dGlvbl0iKS52YWwoKTsK</text>
+      <register name="0" type="4">
+        <text>firstRespDoc</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsdCA9IGZpcnN0UmVzcC5zZWxlY3QoKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsID0gImh0dHA6Ly8zOS4xMDcuMzIuODgvYWFhL3VzZXJzL2FkbWluL3Bhc3N3b3JkIjsK</text>
+        <text encoding="base64">ICAgICAgICByZXNwLnBhcnNlKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL0Nvbm5lY3Rpb24uUmVzcG9uc2UgcmVzcCA9IEpzb3VwLmNvbm5lY3QoImh0dHA6Ly8zOS4xMDcuMzIuODgvYWFhL3VzZXJzL2FkbWluL3Bhc3N3b3JkIikubWV0aG9kKENvbm5lY3Rpb24uTWV0aG9kLkdFVCkKICAgICAgICAvLyAgICAgICAgLmlnbm9yZUNvbnRlbnRUeXBlKHRydWUpLmNvb2tpZXMobG9naW5QYWdlQ29va2llcykKICAgICAgICAvLyAgICAgICAgLmV4ZWN1dGUoKTsKCiAgICAgICAgLy9TeXN0ZW0ub3V0LnByaW50bG4ocmVzcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZXhlY3V0aW9uID0gbG9naW5Eb2Muc2VsZWN0KCJpbnB1dFtuYW1lPSIgKyBISURERU5fRVhFICsgIl0iKS52YWwoKTsKICAgICAgICBTdHJpbmcgZXZlbnRJZCA9IGxvZ2luRG9jLnNlbGVjdCgiaW5wdXRbbmFtZT0iICsgSElEREVOX0VWRU5USUQgKyAiXSIpLnZhbCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4odXNlcm5hbWUpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgZXhlY3V0aW9uID0gbG9naW5Eb2Muc2VsZWN0KCJpbnB1dFtuYW1lPSIgKyBISURERU5fRVhFICsgIl0iKS52YWwoKTsKICAgICAgICBTdHJpbmcgZXZlbnRJZCA9IGxvZ2luRG9jLnNlbGVjdCgiaW5wdXRbbmFtZT0iICsgSElEREVOX0VWRU5USUQgKyAiXSIpLnZhbCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXNlcm5hbWUgPSAiYWRtaW4iOwogICAgICAgIFN0cmluZyBwYXNzd29yZCA9ICJFTW9uaXRvciI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dpbi5nZXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IGxvZ2luUGFnZUNvb2tpZXMgPSBKc291cC5jb25uZWN0KCJodHRwOi8vMzkuMTA3LjMyLjg4L2Nhcy9sb2dpbj9zZXJ2aWNlPWh0dHA6Ly8xMC45LjAuMi9wb3J0YWwvIikK</text>
+        <text encoding="base64">ICAgICAgICByZXNwLnVybCgpOwo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obG9naW5QYWdlQ29va2llcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
