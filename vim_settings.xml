@@ -216,12 +216,12 @@
         <mark key="^" line="208" column="92" />
         <mark key="." line="208" column="92" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/task/TestTask.java" timestamp="1534302253164">
-        <mark key="'" line="37" column="4" />
-        <mark key="[" line="28" column="31" />
-        <mark key="]" line="29" column="31" />
-        <mark key="." line="29" column="31" />
-        <mark key="^" line="29" column="31" />
+      <file name="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/task/TestTask.java" timestamp="1534309214979">
+        <mark key="'" line="29" column="4" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="17" column="71" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/StatisticsInventoryServiceImpl.java" timestamp="1534141880055" />
       <file name="$USER_HOME$/workspace/demo/opencv/src/main/java/com/hsong/OpenCVT.java" timestamp="1532505601791">
@@ -536,6 +536,13 @@
         <mark key="^" line="122" column="50" />
         <mark key="." line="122" column="50" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/SessionMng.java" timestamp="1534309111364">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="20" column="38" />
+        <mark key="]" line="20" column="44" />
+        <mark key="." line="20" column="44" />
+        <mark key="^" line="20" column="44" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_product/src/main/java/com/uuvalue/micros/product/mappers/ProductMapper.java" timestamp="1533866761555">
         <mark key="[" line="19" column="32" />
         <mark key="]" line="19" column="43" />
@@ -604,7 +611,7 @@
         <mark key="." line="7" column="15" />
         <mark key="^" line="7" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1534299515943">
+      <file name="/fragment.java" timestamp="1534304271261">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="28" />
@@ -618,10 +625,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="46" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
-      <jump line="60" column="46" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
-      <jump line="15" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/resources/config.json" />
-      <jump line="45" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/pom.xml" />
       <jump line="43" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/pom.xml" />
       <jump line="94" column="16" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/service/impl/UserServiceImpl.java" />
       <jump line="69" column="15" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/domain/User.java" />
@@ -718,6 +721,10 @@
       <jump line="108" column="0" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/BaseAppContextConfig.java" />
       <jump line="24" column="18" filename="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/task/TestTask.java" />
       <jump line="28" column="4" filename="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/task/TestTask.java" />
+      <jump line="41" column="4" filename="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/task/TestTask.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/SessionMng.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/SessionMng.java" />
+      <jump line="43" column="0" filename="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/SessionMng.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -727,37 +734,37 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>Constant.DATA_URL</text>
+        <text>getCookies</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
       </register>
       <register name="0" type="4">
-        <text>firstRespDoc</text>
+        <text>cookies</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBKc291cC5jb25uZWN0KCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4obG9naW4oKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBTdHJpbmcgbG9naW5VUkwgPSAiaHR0cDovLzM5LjEwNy4zMi44OC9jYXMvbG9naW4/c2VydmljZT1odHRwOi8vMTAuOS4wLjIvcG9ydGFsLyI7CiAgICBzdGF0aWMgU3RyaW5nIEhJRERFTl9MVCAgICAgID0gImx0IjsKICAgIHN0YXRpYyBTdHJpbmcgSElEREVOX0VYRSAgICAgPSAiZXhlY3V0aW9uIjsKICAgIHN0YXRpYyBTdHJpbmcgSElEREVOX0VWRU5USUQgPSAiX2V2ZW50SWQiOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmV0LmdldCgidGlja2V0VXJsIikpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IGNvb2tpZXMgPSBuZXcgSGFzaE1hcDw+KCk7CgogICAgICAgIFN0cmluZyB1c2VybmFtZSA9ICJhZG1pbiI7CiAgICAgICAgU3RyaW5nIHBhc3N3b3JkID0gIkVNb25pdG9yIjsKCiAgICAgICAgLy8g6aaW6aG1CiAgICAgICAgRG9jdW1lbnQgaG9tZURvYyA9IEpzb3VwLmNvbm5lY3QobG9naW5VUkwpLm1ldGhvZChDb25uZWN0aW9uLk1ldGhvZC5HRVQpLmV4ZWN1dGUoKS5wYXJzZSgpOwogICAgICAgIFN0cmluZyBsdCA9IGhvbWVEb2Muc2VsZWN0KCJpbnB1dFtuYW1lPSIgKyBISURERU5fTFQgKyAiXSIpLnZhbCgpOwogICAgICAgIFN0cmluZyBleGVjdXRpb24gPSBob21lRG9jLnNlbGVjdCgiaW5wdXRbbmFtZT0iICsgSElEREVOX0VYRSArICJdIikudmFsKCk7CiAgICAgICAgU3RyaW5nIGV2ZW50SWQgPSBob21lRG9jLnNlbGVjdCgiaW5wdXRbbmFtZT0iICsgSElEREVOX0VWRU5USUQgKyAiXSIpLnZhbCgpOwoKICAgICAgICAvLyDpppbmrKHngrnnmbvpmYYgTFQg5Y+Y5YyWLCBVUkzlj5jmiJDluKZKU0VTU0lPTklE55qECiAgICAgICAgQ29ubmVjdGlvbi5SZXNwb25zZSByZXNwID0gbG9naW5TdWJtaXQobG9naW5VUkwsIHVzZXJuYW1lLCBwYXNzd29yZCwgbHQsIGV4ZWN1dGlvbiwgZXZlbnRJZCk7CiAgICAgICAgRG9jdW1lbnQgZmlyc3RSZXNwRG9jID0gcmVzcC5wYXJzZSgpOwogICAgICAgIGx0ID0gZmlyc3RSZXNwRG9jLnNlbGVjdCgiaW5wdXRbbmFtZT0iICsgSElEREVOX0xUICsgIl0iKS52YWwoKTsKICAgICAgICBjb29raWVzLnB1dEFsbChyZXNwLmNvb2tpZXMoKSk7CiAgICAgICAgCiAgICAgICAgLy8g55So5bimSlNFU1NJT05JROeahFVSTOWGjeasoeeZu+W9lQogICAgICAgIENvbm5lY3Rpb24uUmVzcG9uc2UgbG9naW5SZXNwID0gbG9naW5TdWJtaXQocmVzcC51cmwoKS50b1N0cmluZygpLCB1c2VybmFtZSwgcGFzc3dvcmQsIGx0LCBleGVjdXRpb24sIGV2ZW50SWQpOwogICAgICAgIAogICAgICAgIGNvb2tpZXMucHV0QWxsKGxvZ2luUmVzcC5jb29raWVzKCkpOwogICAgICAgIAogICAgICAgIHJldHVybiBjb29raWVzOwo=</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBTdHJpbmc+IGNvb2tpZXMgPSAoTWFwPFN0cmluZywgU3RyaW5nPikgcmV0LmdldCgiY29va2llcyIpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBNYXA8U3RyaW5nLCBPYmplY3Q+IGdldChTdHJpbmcgc2Vzc2lvbklkKSB7CiAgICB9Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
