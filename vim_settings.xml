@@ -51,7 +51,6 @@
         <mark key="^" line="393" column="0" />
         <mark key="." line="319" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/anti/conf/producer.properties" timestamp="1534141476866" />
       <file name="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/crawler/RunningStat.java" timestamp="1534319520720">
         <mark key="'" line="22" column="30" />
         <mark key="[" line="14" column="0" />
@@ -189,6 +188,12 @@
         <mark key="^" line="59" column="81" />
         <mark key="." line="59" column="81" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/zest/src/main/java/T50WTel.java" timestamp="1534408109926">
+        <mark key="[" line="13" column="32" />
+        <mark key="]" line="13" column="32" />
+        <mark key="." line="13" column="32" />
+        <mark key="^" line="13" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/service/SpiderService.java" timestamp="1534327061065">
         <mark key="]" line="13" column="1" />
         <mark key="^" line="13" column="1" />
@@ -253,7 +258,6 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="17" column="71" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/StatisticsInventoryServiceImpl.java" timestamp="1534141880055" />
       <file name="$USER_HOME$/workspace/demo/opencv/src/main/java/com/hsong/OpenCVT.java" timestamp="1532505601791">
         <mark key="[" line="28" column="76" />
         <mark key="]" line="28" column="76" />
@@ -368,7 +372,6 @@
         <mark key="^" line="37" column="9" />
         <mark key="." line="36" column="31" />
       </file>
-      <file name="/MiscServiceImpl.java" timestamp="1534300327526" />
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/domain/Rule.java" timestamp="1534227449869">
         <mark key="'" line="33" column="17" />
         <mark key="[" line="169" column="5" />
@@ -419,7 +422,6 @@
         <mark key="." line="6" column="43" />
         <mark key="^" line="6" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/anti/conf/sql/StatisticsInventory.xml" timestamp="1534141820707" />
       <file name="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/crawler/HealthStat.java" timestamp="1534320962293">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
@@ -562,7 +564,6 @@
         <mark key="^" line="56" column="17" />
         <mark key="." line="56" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/crawler/monitor/AlarmCrawler.java" timestamp="1534325579678" />
       <file name="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/GuardTest.java" timestamp="1534386041612">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="6" column="52" />
@@ -665,7 +666,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="18" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/CenterService.java" />
       <jump line="22" column="7" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/service/UserService.java" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/service/UserService.java" />
       <jump line="24" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/service/UserService.java" />
@@ -765,6 +765,7 @@
       <jump line="21" column="52" filename="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/crawler/monitor/RecentAutoPolling.java" />
       <jump line="46" column="33" filename="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/crawler/monitor/RecentAutoPolling.java" />
       <jump line="12" column="17" filename="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/GuardTest.java" />
+      <jump line="6" column="58" filename="$USER_HOME$/workspace/demo/zest/src/main/java/T50WTel.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -774,7 +775,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>Monitor</text>
+        <text encoding="base64">TGlzdDxIYXNoTWFwPg==</text>
       </register>
       <register name="/" type="4">
         <text>texts</text>
@@ -783,31 +784,31 @@
         <text encoding="base64">ICAgICAgICAgICAgUmVjZW50QXV0b1BvbGxCZWFuIGJlYW4gPSBuZXcgUmVjZW50QXV0b1BvbGxCZWFuKCk7CgogICAgICAgICAgICBiZWFuLnJlcG9ydE5hbWUgPSBlbGVtZW50LmdldEVsZW1lbnRCeUlkKCJuYW1lIikudGV4dCgpOwogICAgICAgICAgICBiZWFuLnJlcG9ydFR5cGUgPSBlbGVtZW50LmdldEVsZW1lbnRCeUlkKCJwYXRyb2xUeXBlIikudGV4dCgpOwogICAgICAgICAgICBiZWFuLnRpbWUgPSBlbGVtZW50LmdldEVsZW1lbnRCeUlkKCJiZWdpbnRpbWUiKS50ZXh0KCk7CiAgICAgICAgICAgIGJlYW4ucmVzdWx0ID0gZWxlbWVudC5nZXRFbGVtZW50QnlJZCgicmVzdWx0Y29udGVudCIpLnRleHQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBKc29ubwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA8IS0tPGRlcGVuZGVuY3k+LS0+CiAgICAgICAgPCEtLTxncm91cElkPmNvbW1vbnMtZGJjcDwvZ3JvdXBJZD4tLT4KICAgICAgICA8IS0tPGFydGlmYWN0SWQ+Y29tbW9ucy1kYmNwPC9hcnRpZmFjdElkPi0tPgogICAgICAgIDwhLS08L2RlcGVuZGVuY3k+LS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICBCdWZmZXJlZFJlYWRlciBiciA9IG5ldyBCdWZmZXJlZFJlYWRlcihuZXcgSW5wdXRTdHJlYW1SZWFkZXIobmV3IEZpbGVJbnB1dFN0cmVhbSgiL1VzZXJzL2hzb25nL0Rlc2t0b3Avc3Bhbi50eHQiKSkpOwoKICAgICAgICBGaWxlV3JpdGVyIGZ3ID0gbmV3IEZpbGVXcml0ZXIoIi9Vc2Vycy9oc29uZy9EZXNrdG9wL3NwYW4yLnR4dCIpOwoKICAgICAgICBTdHJpbmcgbGluZTsKCiAgICAgICAgU2V0PFN0cmluZz4gdGVsU2V0ID0gbmV3IEhhc2hTZXQ8PigpOwoKICAgICAgICB3aGlsZSAoKGxpbmUgPSBici5yZWFkTGluZSgpKSAhPSBudWxsKSB7CgogICAgICAgICAgICBTdHJpbmdbXSBjb2x1bW5zID0gbGluZS5zcGxpdCgiLCIpOwogICAgICAgICAgICBpZiAodGVsU2V0LmFkZChjb2x1bW5zWzNdKSkgewogICAgICAgICAgICAgICAgZncud3JpdGUoY29sdW1uc1szXSArICIsIiArIGNvbHVtbnNbNF0gKyAiXG4iKTsKICAgICAgICAgICAgICAgIC8vU3lzdGVtLm91dC5wcmludGxuKGNvbHVtbnNbM10gKyAiLCIgKyBjb2x1bW5zWzRdKTsKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgZncuY2xvc2UoKTsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDlvZPliY0r5Y6G5Y+y5ZGK6K2mCiAgICAgICAgLy9MaXN0PEFsYXJtQmVhbj4gYWxhcm1zID0gbmV3IEFsYXJtQ3Jhd2xlcigpLmdldEFsYXJtKHRydWUsIDEpOwogICAgICAgIC8vU3lzdGVtLm91dC5wcmludGxuKGFsYXJtcyk7CgogICAgICAgIC8vIOWHuuWPo+i/kOihjOeKtuaAgQogICAgICAgIC8vTGlzdDxSdW5uaW5nU3RhdEJlYW4+IHN0YXRzID0gbmV3IFJ1bm5pbmdTdGF0KCkuZ2V0U3RhdCgpOwogICAgICAgIC8vU3lzdGVtLm91dC5wcmludGxuKHN0YXRzKTsKCiAgICAgICAgLy8g6Ieq5Yqo5beh5qOACiAgICAgICAgLy9BdXRvUG9sbGluZ0JlYW4gcG9sbCA9IG5ldyBBdXRvUG9sbGluZygpLmdldEF1dG9Qb2xsUmV0KCk7CiAgICAgICAgLy9TeXN0ZW0ub3V0LnByaW50bG4ocG9sbCk7CgogICAgICAgIC8vIOWBpeW6t+eKtuaAgQogICAgICAgIC8vSGVhbHRoU3RhdEJlYW4gc3RhdCA9IG5ldyBIZWFsdGhTdGF0KCkuZ2V0SGVhbHRoU3RhdCgpOwogICAgICAgIC8vU3lzdGVtLm91dC5wcmludGxuKHN0YXQpOwoKICAgICAgICAvLyBwaW5n566h55CGCiAgICAgICAgLy9MaXN0PFBpbmdNbmdCZWFuPiBwaW5ncyA9IG5ldyBQaW5nTW5nKCkuZ2V0UGluZ01uZygpOwogICAgICAgIC8vU3lzdGVtLm91dC5wcmludGxuKHBpbmdzKTsKCgogICAgICAgIC8vIOe9kee7nENQVei0n+i9vQogICAgICAgIC8vTGlzdDxOZXRDUFVCZWFuPiBjcHVzID0gbmV3IE5ldENQVSgpLmdldE5ldENwdSgpOwogICAgICAgIC8vU3lzdGVtLm91dC5wcmludGxuKGNwdXMpOwoKICAgICAgICAvLyDnvZHnu5zlhoXlrZjotJ/ovb0KICAgICAgICAvL0xpc3Q8TmV0UmFtQmVhbj4gcmFtcyA9IG5ldyBOZXRSYW0oKS5nZXROZXRSYW0oKTsKICAgICAgICAvL1N5c3RlbS5vdXQucHJpbnRsbihyYW1zKTsKCiAgICAgICAgLy8g5pyA6L+RNeasoeiHquWKqOW3oeajgOaKpeihqAogICAgICAgIExpc3Q8UmVjZW50QXV0b1BvbGxCZWFuPiByZWNlbnRzID0gbmV3IFJlY2VudEF1dG9Qb2xsaW5nKCkuZ2V0UmVjZW50QXV0b1BvbGwoKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVjZW50cyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8IS0tPGRlcGVuZGVuY3k+LS0+CiAgICAgICAgPCEtLTxncm91cElkPmNvbW1vbnMtZGJjcDwvZ3JvdXBJZD4tLT4KICAgICAgICA8IS0tPGFydGlmYWN0SWQ+Y29tbW9ucy1kYmNwPC9hcnRpZmFjdElkPi0tPgogICAgICAgIDwhLS08L2RlcGVuZGVuY3k+LS0+Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDlvZPliY0r5Y6G5Y+y5ZGK6K2mCiAgICAgICAgLy9MaXN0PEFsYXJtQmVhbj4gYWxhcm1zID0gbmV3IEFsYXJtQ3Jhd2xlcigpLmdldEFsYXJtKHRydWUsIDEpOwogICAgICAgIC8vU3lzdGVtLm91dC5wcmludGxuKGFsYXJtcyk7CgogICAgICAgIC8vIOWHuuWPo+i/kOihjOeKtuaAgQogICAgICAgIC8vTGlzdDxSdW5uaW5nU3RhdEJlYW4+IHN0YXRzID0gbmV3IFJ1bm5pbmdTdGF0KCkuZ2V0U3RhdCgpOwogICAgICAgIC8vU3lzdGVtLm91dC5wcmludGxuKHN0YXRzKTsKCiAgICAgICAgLy8g6Ieq5Yqo5beh5qOACiAgICAgICAgLy9BdXRvUG9sbGluZ0JlYW4gcG9sbCA9IG5ldyBBdXRvUG9sbGluZygpLmdldEF1dG9Qb2xsUmV0KCk7CiAgICAgICAgLy9TeXN0ZW0ub3V0LnByaW50bG4ocG9sbCk7CgogICAgICAgIC8vIOWBpeW6t+eKtuaAgQogICAgICAgIC8vSGVhbHRoU3RhdEJlYW4gc3RhdCA9IG5ldyBIZWFsdGhTdGF0KCkuZ2V0SGVhbHRoU3RhdCgpOwogICAgICAgIC8vU3lzdGVtLm91dC5wcmludGxuKHN0YXQpOwoKICAgICAgICAvLyBwaW5n566h55CGCiAgICAgICAgLy9MaXN0PFBpbmdNbmdCZWFuPiBwaW5ncyA9IG5ldyBQaW5nTW5nKCkuZ2V0UGluZ01uZygpOwogICAgICAgIC8vU3lzdGVtLm91dC5wcmludGxuKHBpbmdzKTsKCgogICAgICAgIC8vIOe9kee7nENQVei0n+i9vQogICAgICAgIC8vTGlzdDxOZXRDUFVCZWFuPiBjcHVzID0gbmV3IE5ldENQVSgpLmdldE5ldENwdSgpOwogICAgICAgIC8vU3lzdGVtLm91dC5wcmludGxuKGNwdXMpOwoKICAgICAgICAvLyDnvZHnu5zlhoXlrZjotJ/ovb0KICAgICAgICAvL0xpc3Q8TmV0UmFtQmVhbj4gcmFtcyA9IG5ldyBOZXRSYW0oKS5nZXROZXRSYW0oKTsKICAgICAgICAvL1N5c3RlbS5vdXQucHJpbnRsbihyYW1zKTsKCiAgICAgICAgLy8g5pyA6L+RNeasoeiHquWKqOW3oeajgOaKpeihqAogICAgICAgIExpc3Q8UmVjZW50QXV0b1BvbGxCZWFuPiByZWNlbnRzID0gbmV3IFJlY2VudEF1dG9Qb2xsaW5nKCkuZ2V0UmVjZW50QXV0b1BvbGwoKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4ocmVjZW50cyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAKCiAgICAgICAgcGFnZS5nZXRFbGVtZW50c0J5VGFnKCJ0ciIpLmZvckVhY2goZWxlbWVudCAtPiB7CiAgICAgICAgICAgIFJlY2VudEF1dG9Qb2xsQmVhbiBiZWFuID0gbmV3IFJlY2VudEF1dG9Qb2xsQmVhbigpOwoKICAgICAgICAgICAgYmVhbi5yZXBvcnROYW1lID0gZWxlbWVudC5nZXRFbGVtZW50QnlJZCgibmFtZSIpLnRleHQoKTsKICAgICAgICAgICAgYmVhbi5yZXBvcnRUeXBlID0gZWxlbWVudC5nZXRFbGVtZW50QnlJZCgicGF0cm9sVHlwZSIpLnRleHQoKTsKICAgICAgICAgICAgYmVhbi50aW1lID0gZWxlbWVudC5nZXRFbGVtZW50QnlJZCgiYmVnaW50aW1lIikudGV4dCgpOwogICAgICAgICAgICBiZWFuLnJlc3VsdCA9IGVsZW1lbnQuZ2V0RWxlbWVudEJ5SWQoInJlc3VsdGNvbnRlbnQiKS50ZXh0KCk7CgogICAgICAgICAgICByZXRzLmFkZChiZWFuKTsKICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAKCiAgICAgICAgcGFnZS5nZXRFbGVtZW50c0J5VGFnKCJ0ciIpLmZvckVhY2goZWxlbWVudCAtPiB7CiAgICAgICAgICAgIFJlY2VudEF1dG9Qb2xsQmVhbiBiZWFuID0gbmV3IFJlY2VudEF1dG9Qb2xsQmVhbigpOwoKICAgICAgICAgICAgYmVhbi5yZXBvcnROYW1lID0gZWxlbWVudC5nZXRFbGVtZW50QnlJZCgibmFtZSIpLnRleHQoKTsKICAgICAgICAgICAgYmVhbi5yZXBvcnRUeXBlID0gZWxlbWVudC5nZXRFbGVtZW50QnlJZCgicGF0cm9sVHlwZSIpLnRleHQoKTsKICAgICAgICAgICAgYmVhbi50aW1lID0gZWxlbWVudC5nZXRFbGVtZW50QnlJZCgiYmVnaW50aW1lIikudGV4dCgpOwogICAgICAgICAgICBiZWFuLnJlc3VsdCA9IGVsZW1lbnQuZ2V0RWxlbWVudEJ5SWQoInJlc3VsdGNvbnRlbnQiKS50ZXh0KCk7CgogICAgICAgICAgICByZXRzLmFkZChiZWFuKTsKICAgICAgICB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -820,7 +821,7 @@
       <last-replace>copys</last-replace>
       <last-substitute>texts</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
