@@ -204,8 +204,8 @@
         <mark key="." line="18" column="72" />
         <mark key="^" line="18" column="72" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/service/impl/UserServiceImpl.java" timestamp="1534903205017">
-        <mark key="'" line="34" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/service/impl/UserServiceImpl.java" timestamp="1535015420981">
+        <mark key="'" line="271" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/ccenterAll/code_user/src/main/java/com/uuvalue/micros/cuser/domain/User.java" timestamp="1533900248887">
         <mark key="[" line="55" column="0" />
@@ -372,11 +372,8 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="11" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/UserAPIVerticle.java" timestamp="1534229877008">
-        <mark key="[" line="34" column="71" />
-        <mark key="]" line="34" column="75" />
-        <mark key="." line="34" column="75" />
-        <mark key="^" line="34" column="75" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/UserAPIVerticle.java" timestamp="1535015073987">
+        <mark key="'" line="71" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/CBlockService.java" timestamp="1534238086704">
         <mark key="'" line="15" column="0" />
@@ -708,8 +705,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
-      <jump line="61" column="7" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
       <jump line="194" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
       <jump line="16" column="33" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/service/UserService.java" />
       <jump line="147" column="34" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/service/impl/UserServiceImpl.java" />
@@ -808,6 +803,8 @@
       <jump line="102" column="27" filename="$USER_HOME$/workspace/micro-service/code_center/code_product/src/main/java/com/uuvalue/micros/product/domain/ProductInfo.java" />
       <jump line="17" column="24" filename="$USER_HOME$/Desktop/code_product/src/main/java/com/bld365/mall/basic/product/domain/ProductInfo.java" />
       <jump line="62" column="15" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/MkCodeServiceImpl.java" />
+      <jump line="71" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/UserAPIVerticle.java" />
+      <jump line="271" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/service/impl/UserServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -817,40 +814,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>id=#{oid}&quot;)</text>
+        <text>entries.getMap().putAll(user.getMap())</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxiYXNlRGlyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vQFVwZGF0ZSgidXBkYXRlICIgKyBUQl9PUkRFUiArICIgc2V0IHN0YXR1cz0wIHdoZXJlIGlkPSN7b2lkfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbnRyaWVzLmdldE1hcCgpLnB1dEFsbCh1c2VyLmdldE1hcCgpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1c2VyLmdldE1hcCgpCiAgICAgICAgSnNvbk9iamVjdCBlbnRyaWVzID0gcGFyYW0yanNvbihjb250ZXh0KTsKICAgICAgICBlbnRyaWVzLmdldE1hcCgpLnB1dEFsbCh1c2VyLmdldE1hcCgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vQFVwZGF0ZSgidXBkYXRlICIgKyBUQl9PUkRFUiArICIgc2V0IHN0YXR1cz0wIHdoZXJlIGlkPSN7b2lkfSIpCg==</text>
+        <text encoding="base64">ICAgICAgICBlbnQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1ha2VDb2RlVGhyZWFkLm1ha2VJbWVkaWF0ZWx5KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICBwcml2YXRlIHN0YXRpYyBib29sZWFuIGlzTWFraW5nKCkgewogICAgICAgIHJldHVybgogICAgfQo=</text>
+        <text encoding="base64">ICAgIC8vQFVwZGF0ZSgidXBkYXRlICIgKyBUQl9PUkRFUiArICIgc2V0IHN0YXR1cz0wIHdoZXJlIGlkPSN7b2lkfSIpCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
