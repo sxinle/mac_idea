@@ -28,12 +28,12 @@
         <mark key="^" line="42" column="86" />
         <mark key="." line="42" column="86" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" timestamp="1535268538991">
-        <mark key="'" line="235" column="0" />
-        <mark key="[" line="75" column="86" />
-        <mark key="]" line="75" column="102" />
-        <mark key="." line="75" column="102" />
-        <mark key="^" line="75" column="102" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" timestamp="1535332268999">
+        <mark key="'" line="234" column="0" />
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
+        <mark key="^" line="151" column="101" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/domain/PingMngBean.java" timestamp="1534322605461">
         <mark key="[" line="8" column="28" />
@@ -652,14 +652,14 @@
         <mark key="." line="32" column="25" />
         <mark key="^" line="32" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535269222348">
+      <file name="/Dummy.txt" timestamp="1535332272036">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/CenterVerticle.java" timestamp="1534327082151">
         <mark key="[" line="17" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/CBlockServiceImpl.java" timestamp="1535268697290">
-        <mark key="'" line="282" column="30" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/CBlockServiceImpl.java" timestamp="1535332181813">
+        <mark key="'" line="340" column="34" />
         <mark key="[" line="297" column="32" />
         <mark key="]" line="297" column="35" />
         <mark key="." line="297" column="35" />
@@ -744,7 +744,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="21" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/domain/Rule.java" />
       <jump line="69" column="12" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/mappers/CommonMapper.xml" />
       <jump line="55" column="4" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/mappers/CommonMapper.xml" />
       <jump line="35" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/CenterService.java" />
@@ -844,6 +843,7 @@
       <jump line="39" column="30" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/mappers/RepoMapper.xml" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/mappers/RepoMapper.xml" />
       <jump line="6" column="53" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/mappers/RepoMapper.xml" />
+      <jump line="340" column="34" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/CBlockServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -853,7 +853,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>new JsonObject().put()</text>
+        <text>userName</text>
       </register>
       <register name="/" type="4">
         <text>return</text>
@@ -862,31 +862,31 @@
         <text encoding="base64">ICAgICAgICBjb21wX2lkID0gI3tyZXBvLmNvbXBJZH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAxPTEK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXNlck5hbWUgPSAieHh4IjsvLyBmaXhtZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAxPTEK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGdldENvbXBJZCgpIHsKICAgICAgICByZXR1cm4gY29tcElkOwogICAgfQoKICAgIHB1YmxpYyBSZXBvIHNldENvbXBJZChTdHJpbmcgY29tcElkKSB7CiAgICAgICAgdGhpcy5jb21wSWQgPSBjb21wSWQ7CiAgICAgICAgcmV0dXJuIHRoaXM7CiAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIGdldENvbXBJZCgpIHsKICAgICAgICByZXR1cm4gY29tcElkOwogICAgfQoKICAgIHB1YmxpYyBSZXBvIHNldENvbXBJZChTdHJpbmcgY29tcElkKSB7CiAgICAgICAgdGhpcy5jb21wSWQgPSBjb21wSWQ7CiAgICAgICAgcmV0dXJuIHRoaXM7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3Q8TWFwPFN0cmluZywgOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8aWYgdGVzdD0icmVwby5vZmZzZXQgIT0gbnVsbCBhbmQgcmVwby5vZmZzZXQgIT0gMCI+CiAgICAgICAgICAgIG9mZnNldCAje3JlcG8ub2Zmc2V0fQogICAgICAgIDwvaWY+CiAgICAgICAgPGlmIHRlc3Q9InJlcG8ubGltaXQhPSBudWxsIGFuZCByZXBvLmxpbWl0ICE9IDAiPgogICAgICAgICAgICBsaW1pdCAje3JlcG8ubGltaXR9IG9yZGVyIGJ5IGNyZWF0ZV9hdAogICAgICAgIDwvaWY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3Q8TWFwPFN0cmluZywgOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICA8aWYgdGVzdD0icmVwby5vZmZzZXQgIT0gbnVsbCBhbmQgcmVwby5vZmZzZXQgIT0gMCI+CiAgICAgICAgICAgIG9mZnNldCAje3JlcG8ub2Zmc2V0fQogICAgICAgIDwvaWY+CiAgICAgICAgPGlmIHRlc3Q9InJlcG8ubGltaXQhPSBudWxsIGFuZCByZXBvLmxpbWl0ICE9IDAiPgogICAgICAgICAgICBsaW1pdCAje3JlcG8ubGltaXR9IG9yZGVyIGJ5IGNyZWF0ZV9hdAogICAgICAgIDwvaWY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -899,7 +899,7 @@
       <last-replace>copys</last-replace>
       <last-substitute>texts</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
