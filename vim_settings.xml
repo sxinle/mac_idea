@@ -224,12 +224,12 @@
         <mark key="^" line="97" column="31" />
         <mark key="." line="97" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" timestamp="1535616710921">
-        <mark key="'" line="37" column="20" />
-        <mark key="[" line="51" column="54" />
-        <mark key="]" line="51" column="54" />
-        <mark key="." line="51" column="54" />
-        <mark key="^" line="53" column="19" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" timestamp="1535619307345">
+        <mark key="'" line="74" column="58" />
+        <mark key="[" line="29" column="80" />
+        <mark key="]" line="29" column="79" />
+        <mark key="." line="29" column="79" />
+        <mark key="^" line="29" column="79" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/UserVerticle.java" timestamp="1535616501367">
         <mark key="'" line="33" column="17" />
@@ -362,12 +362,12 @@
         <mark key="^" line="21" column="48" />
         <mark key="." line="21" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/resources/config.json" timestamp="1535446222988">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="8" column="19" />
-        <mark key="]" line="8" column="28" />
-        <mark key="." line="9" column="27" />
-        <mark key="^" line="9" column="27" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/resources/config.json" timestamp="1535619131543">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="30" />
+        <mark key="." line="4" column="30" />
+        <mark key="^" line="4" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/resources/config.json" timestamp="1535445637666">
         <mark key="[" line="8" column="28" />
@@ -451,12 +451,11 @@
         <mark key="." line="12" column="48" />
         <mark key="^" line="12" column="48" />
       </file>
-      <file name="/fragment.java" timestamp="1535616095667">
+      <file name="/fragment.java" timestamp="1535618749202">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="290" column="24" filename="$USER_HOME$/aaa/bb/ro/yo3ggx/btvna/main.class" />
       <jump line="751" column="12" filename="$USER_HOME$/aaa/bb/ro/yo3ggx/btvna/main.class" />
       <jump line="2270" column="33" filename="$USER_HOME$/aaa/bb/ro/yo3ggx/btvna/main.class" />
       <jump line="2262" column="37" filename="$USER_HOME$/aaa/bb/ro/yo3ggx/btvna/main.class" />
@@ -556,6 +555,7 @@
       <jump line="510" column="17" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/service/impl/UserServiceImpl.java" />
       <jump line="11" column="17" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/service/UserService.java" />
       <jump line="30" column="73" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/service/impl/UserServiceImpl.java" />
+      <jump line="70" column="58" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -565,40 +565,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>, null</text>
+        <text>path()</text>
       </register>
       <register name="/" type="4">
         <text>sele</text>
       </register>
       <register name="0" type="4">
-        <text>respMessage</text>
+        <text>wechat_appId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1dHVyZS5jb21wbGV0ZSh0cnVlKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJ0eC5ldmVudEJ1cygpLgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJ0eC5zZXQK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFNpbmdsZS5qdXN0KGNvbXApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGNvbXA7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb250ZXh0LnJlc3BvbnNlKCkuc2V0U3RhdHVzQ29kZSgzMDIpLnB1dEhlYWRlcihIdHRwSGVhZGVyTmFtZXMuTE9DQVRJT04udG9TdHJpbmcoKSwgb2F1dGhVcmwudG9TdHJpbmcoKSkuZW5kKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
