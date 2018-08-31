@@ -6,7 +6,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/mappers/UserMapper.xml" timestamp="1535601036415">
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/mappers/UserMapper.xml" timestamp="1535701212499">
         <mark key="'" line="148" column="0" />
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -15,9 +15,21 @@
       <file name="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/service/CenterService.java" timestamp="1534327046315">
         <mark key="[" line="9" column="30" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/bean/EventBusCmd.java" timestamp="1535702375165">
+        <mark key="[" line="11" column="30" />
+        <mark key="]" line="11" column="32" />
+        <mark key="^" line="11" column="32" />
+        <mark key="." line="11" column="32" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/util/redpack/bean/WechatRedPackResponse.java" timestamp="1535682780529">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="152" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/jhshop/micros-weixin/src/main/java/com/uuvalue/micros/weixin/Constant.java" timestamp="1535507397883">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="19" column="64" />
+        <mark key="^" line="18" column="70" />
+        <mark key="." line="17" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/CenterService.java" timestamp="1535697914817">
         <mark key="[" line="12" column="0" />
@@ -33,32 +45,51 @@
       <file name="/a.dummy" timestamp="1535682968888">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/RestVerticle.java" timestamp="1535624181040">
-        <mark key="'" line="230" column="52" />
-      </file>
       <file name="$USER_HOME$/workspace/micro-service/common/common/pom.xml" timestamp="1535694327298">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="54" column="21" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/redis/clients/jedis/2.9.0/jedis-2.9.0-sources.jar!/redis/clients/jedis/JedisPool.java" timestamp="1535694790317">
-        <mark key="'" line="248" column="14" />
+      <file name="$USER_HOME$/workspace/demo/zest/src/main/java/map/County.java" timestamp="1535520799516">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="5" column="28" />
+        <mark key="^" line="5" column="28" />
+        <mark key="." line="5" column="28" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/mappers/QRScanMapper.java" timestamp="1535512318221">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="12" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" timestamp="1535697810251">
         <mark key="[" line="112" column="0" />
         <mark key="]" line="112" column="0" />
         <mark key="." line="112" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jhshop/micros-weixin/src/main/java/com/uuvalue/micros/weixin/WeixinVerticle.java" timestamp="1535698185601">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
-        <mark key="^" line="100" column="49" />
+      <file name="$USER_HOME$/workspace/demo/zest/src/main/java/map/CityBean.java" timestamp="1535522591683">
+        <mark key="[" line="7" column="32" />
+        <mark key="]" line="7" column="50" />
+        <mark key="^" line="7" column="50" />
+        <mark key="." line="7" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/WeixinPrizeController.java" timestamp="1535686316887">
-        <mark key="'" line="44" column="26" />
-        <mark key="[" line="774" column="0" />
-        <mark key="]" line="786" column="20" />
+      <file name="$USER_HOME$/workspace/micro-service/jhshop/micros-weixin/src/main/java/com/uuvalue/micros/weixin/WeixinVerticle.java" timestamp="1535702438971">
+        <mark key="[" line="70" column="53" />
+        <mark key="]" line="70" column="61" />
+        <mark key="." line="70" column="61" />
+        <mark key="^" line="70" column="61" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/redpack/RedpackReqParam.java" timestamp="1535684044427">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="36" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_product/src/main/resources/config.json" timestamp="1535445401847">
+        <mark key="[" line="9" column="19" />
+        <mark key="]" line="9" column="27" />
+        <mark key="." line="9" column="27" />
+        <mark key="^" line="9" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/PrizeService.java" timestamp="1535610687173">
         <mark key="'" line="51" column="9" />
@@ -66,10 +97,22 @@
         <mark key="]" line="22" column="80" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/PrizeAPIVerticle.java" timestamp="1535626624930">
+      <file name="$USER_HOME$/workspace/demo/zest/src/main/java/map/A.java" timestamp="1535598619002">
+        <mark key="[" line="4" column="8" />
+        <mark key="]" line="5" column="52" />
+        <mark key="^" line="5" column="52" />
+        <mark key="." line="5" column="52" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/zest/src/main/java/map/City.java" timestamp="1535522546908">
+        <mark key="[" line="75" column="0" />
+        <mark key="]" line="75" column="0" />
+        <mark key="^" line="29" column="57" />
+        <mark key="." line="75" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/PrizeAPIVerticle.java" timestamp="1535701394524">
         <mark key="'" line="116" column="0" />
-        <mark key="[" line="61" column="17" />
-        <mark key="]" line="61" column="27" />
+        <mark key="[" line="56" column="21" />
+        <mark key="]" line="56" column="31" />
         <mark key="." line="61" column="27" />
         <mark key="^" line="61" column="27" />
       </file>
@@ -77,30 +120,29 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="165" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" timestamp="1535695364941">
-        <mark key="'" line="308" column="12" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="79" />
-      </file>
       <file name="$USER_HOME$/workspace/micro-service/jhshop/micros-weixin/src/main/java/com/uuvalue/micros/weixin/WeixinAPIVerticle.java" timestamp="1535699926189">
         <mark key="[" line="51" column="22" />
         <mark key="]" line="51" column="21" />
         <mark key="." line="51" column="21" />
         <mark key="^" line="51" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" timestamp="1535697639671">
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" timestamp="1535701897551">
         <mark key="'" line="156" column="27" />
-        <mark key="[" line="147" column="59" />
-        <mark key="]" line="147" column="62" />
-        <mark key="." line="147" column="62" />
-        <mark key="^" line="147" column="62" />
+        <mark key="[" line="48" column="36" />
+        <mark key="]" line="48" column="43" />
+        <mark key="." line="48" column="43" />
+        <mark key="^" line="48" column="43" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/UserVerticle.java" timestamp="1535616501367">
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/UserVerticle.java" timestamp="1535702314215">
         <mark key="'" line="33" column="17" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="74" column="31" />
-        <mark key="." line="74" column="0" />
+        <mark key="[" line="66" column="34" />
+        <mark key="]" line="66" column="42" />
+        <mark key="^" line="66" column="42" />
+        <mark key="." line="66" column="42" />
+      </file>
+      <file name="/EventBusCmd.java" timestamp="1535702353981">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="13" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/util/redpack/bean/WeiXinAccessToken.java" timestamp="1535696655612">
         <mark key="[" line="8" column="0" />
@@ -123,12 +165,18 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="285" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/service/impl/UserServiceImpl.java" timestamp="1535616491434">
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/service/impl/UserServiceImpl.java" timestamp="1535701218318">
         <mark key="'" line="30" column="73" />
         <mark key="[" line="515" column="47" />
         <mark key="]" line="515" column="48" />
         <mark key="." line="515" column="47" />
         <mark key="^" line="515" column="33" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/QRScanService.java" timestamp="1535626614906">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="9" column="43" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/redpack/RedpackResponse.java" timestamp="1535686345153">
         <mark key="'" line="4" column="4" />
@@ -142,9 +190,6 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1535620357626">
-        <mark key="'" line="16" column="39" />
-      </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/CenterServiceImpl.java" timestamp="1535697908800">
         <mark key="'" line="243" column="12" />
         <mark key="[" line="50" column="0" />
@@ -157,7 +202,7 @@
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535698282353">
+      <file name="/Dummy.txt" timestamp="1535702532677">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/CenterVerticle.java" timestamp="1534327082151">
@@ -176,16 +221,23 @@
         <mark key="]" line="234" column="0" />
         <mark key="." line="234" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/CBlockServiceImpl.java" timestamp="1535506382080">
+        <mark key="[" line="245" column="0" />
+        <mark key="]" line="245" column="0" />
+        <mark key="." line="245" column="0" />
+        <mark key="^" line="47" column="57" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/resources/config.json" timestamp="1535695549008">
         <mark key="'" line="20" column="0" />
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" timestamp="1535686220490">
-        <mark key="'" line="1" column="5" />
-        <mark key="[" line="113" column="10" />
-        <mark key="]" line="113" column="68" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/resources/config.json" timestamp="1535445637666">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+        <mark key="^" line="8" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/Docs.java" timestamp="1535700103701">
         <mark key="'" line="9" column="0" />
@@ -198,11 +250,12 @@
         <mark key="[" line="139" column="0" />
         <mark key="]" line="151" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jhshop/shop-misc/src/main/java/com/uuvalue/micros/shop/ShopMiscAPIVerticle.java" timestamp="1535698067350">
-        <mark key="[" line="88" column="39" />
-        <mark key="]" line="88" column="51" />
-        <mark key="." line="88" column="51" />
-        <mark key="^" line="88" column="51" />
+      <file name="$USER_HOME$/workspace/micro-service/jhshop/shop-misc/src/main/java/com/uuvalue/micros/shop/ShopMiscAPIVerticle.java" timestamp="1535702525730">
+        <mark key="'" line="254" column="0" />
+        <mark key="[" line="186" column="17" />
+        <mark key="]" line="186" column="24" />
+        <mark key="." line="186" column="24" />
+        <mark key="^" line="186" column="24" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/domain/NetCPU.java" timestamp="1534323186094">
         <mark key="[" line="2" column="19" />
@@ -221,21 +274,26 @@
         <mark key="." line="1128" column="11" />
         <mark key="^" line="153" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/common/gateway/src/main/resources/config.json" timestamp="1535695541292">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="12" column="21" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/resources/config.json" timestamp="1535597535558">
+        <mark key="[" line="10" column="17" />
+        <mark key="]" line="10" column="25" />
+        <mark key="." line="20" column="19" />
+        <mark key="^" line="9" column="25" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/mappers/QRScanMapper.xml" timestamp="1535512302473">
+        <mark key="[" line="3" column="53" />
+        <mark key="]" line="3" column="64" />
+        <mark key="." line="3" column="64" />
+        <mark key="^" line="3" column="64" />
+      </file>
+      <file name="/fragment.java" timestamp="1535701371072">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/PrizeService.java" />
-      <jump line="6" column="13" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/Docs.java" />
-      <jump line="14" column="3" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/resources/config.json" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/resources/config.json" />
-      <jump line="16" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/resources/config.json" />
-      <jump line="44" column="19" filename="$MAVEN_REPOSITORY$/net/sf/json-lib/json-lib/2.4/json-lib-2.4-jdk15.jar!/net/sf/json/JSONObject.class" />
-      <jump line="188" column="4" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
-      <jump line="170" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
       <jump line="54" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
       <jump line="13" column="32" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/ScanService.java" />
       <jump line="51" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/ScanService.java" />
@@ -328,6 +386,14 @@
       <jump line="3" column="0" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/RedisUtil.java" />
       <jump line="1128" column="17" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/RedisUtil.java" />
       <jump line="9" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/Docs.java" />
+      <jump line="8" column="27" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/bean/EventBusCmd.java" />
+      <jump line="32" column="23" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/bean/EventBusCmd.java" />
+      <jump line="22" column="1" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/bean/EventBusCmd.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/bean/EventBusCmd.java" />
+      <jump line="11" column="31" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/bean/EventBusCmd.java" />
+      <jump line="193" column="24" filename="$USER_HOME$/workspace/micro-service/jhshop/shop-misc/src/main/java/com/uuvalue/micros/shop/ShopMiscAPIVerticle.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/workspace/micro-service/jhshop/shop-misc/src/main/java/com/uuvalue/micros/shop/ShopMiscAPIVerticle.java" />
+      <jump line="254" column="0" filename="$USER_HOME$/workspace/micro-service/jhshop/shop-misc/src/main/java/com/uuvalue/micros/shop/ShopMiscAPIVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -337,40 +403,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>DELETE</text>
+        <text>sendBody</text>
       </register>
       <register name="/" type="4">
         <text>redis</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhZGREb2MobmV3IEFQSURvYygpLmRlc2MoIumihuWPluWlluWTgSIpLnBhdGgoIi9vYXV0aC86Y29tcGNvZGUvOnFyY29kZSIpLm1ldGhvZChIdHRwTWV0aG9kLkRFTEVURSkuZXhhbXBsZVVybCgiLy8vIikpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgRXZlbnRCdXNDbWQgaW5zdGFuY2UoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBFdmVudEJ1c0NtZCgpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICIgCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgRXZlbnRCdXNDbWQgaW5zdGFuY2UoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBFdmVudEJ1c0NtZCgpOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0VGFyZ2V0QXBpTmFtZSgpIHsKICAgICAgICByZXR1cm4gdGFyZ2V0QXBpTmFtZTsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldENtZCgpIHsKICAgICAgICByZXR1cm4gY21kOwogICAgfQoKICAgIHB1YmxpYyBKc29uT2JqZWN0IGdldEJvZHkoKSB7CiAgICAgICAgcmV0dXJuIGJvZHk7CiAgICB9CgogICAgcHVibGljIEV2ZW50QnVzQ21kIHRhcmdldEFwaU5hbWUoU3RyaW5nIHRhcmdldEFwaU5hbWUpIHsKICAgICAgICB0aGlzLnRhcmdldEFwaU5hbWUgPSB0YXJnZXRBcGlOYW1lOwogICAgICAgIHJldHVybiB0aGlzOwogICAgfQoKICAgIHB1YmxpYyBFdmVudEJ1c0NtZCBjbWQoU3RyaW5nIGNtZCkgewogICAgICAgIHRoaXMuY21kID0gY21kOwogICAgICAgIHJldHVybiB0aGlzOwogICAgfQoKICAgIHB1YmxpYyBFdmVudEJ1c0NtZCBib2R5KEpzb25PYmplY3QgYm9keSkgewogICAgICAgIHRoaXMuYm9keSA9IGJvZHk7CiAgICAgICAgcmV0dXJuIHRoaXM7CiAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKG8gaW5zdGFuY2VvZiBSZXN1bHRTZXQpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgIG1lc3NhZ2UucmVwbHkoRXZlbnRCdXNDbWQuaW5zdGFuY2UoKS5yZXBseUJvZHkobmV3IEpzb25PYmplY3QoKS5wdXQoIm9wZW5pZCIsICJvMFJ6MTFlaUFlM1lMS1pxejNCcDJNN3I5TnpZIikucHV0KCJzdWNjZXNzIiwgdHJ1ZSkpKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0VGFyZ2V0QXBpTmFtZSgpIHsKICAgICAgICByZXR1cm4gdGFyZ2V0QXBpTmFtZTsKICAgIH0KCiAgICBwdWJsaWMgU3RyaW5nIGdldENtZCgpIHsKICAgICAgICByZXR1cm4gY21kOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBGbHVlbnQKICAgIENlbnRlclNlcnZpY2UgYWRkQmF0Y2hQbGFuKEpzb25PYmplY3QganNvbiwgSGFuZGxlcjxBc3luY1Jlc3VsdDxPYmplY3Q+PiBoYW5kbGVyKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBFdmVudEJ1c0NtZCBzZXRUYXJnZXRBcGlOYW1lKFN0cmluZyB0YXJnZXRBcGlOYW1lKSB7CiAgICAgICAgdGhpcy50YXJnZXRBcGlOYW1lID0gdGFyZ2V0QXBpTmFtZTsKICAgICAgICByZXR1cm4gdGhpczsKICAgIH0KCiAgICBwdWJsaWMgRXZlbnRCdXNDbWQgY21kKFN0cmluZyBjbWQpIHsKICAgICAgICB0aGlzLmNtZCA9IGNtZDsKICAgICAgICByZXR1cm4gdGhpczsKICAgIH0KCgogICAgcHVibGljIEV2ZW50QnVzQ21kIHRhcmdldEFwaU5hbWUoU3RyaW5nIHRhcmdldEFwaU5hbWUpIHsKICAgICAgICB0aGlzLnRhcmdldEFwaU5hbWUgPSB0YXJnZXRBcGlOYW1lOwogICAgICAgIHJldHVybiB0aGlzOwogICAgfQoKICAgIHB1YmxpYyBFdmVudEJ1c0NtZCBib2R5KEpzb25PYmplY3QgYm9keSkgewogICAgICAgIHRoaXMuYm9keSA9IGJvZHk7CiAgICAgICAgcmV0dXJuIHRoaXM7CiAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBKc29uT2JqZWN0IGdldFNlbmRCb2R5KCkgewogICAgICAgIHJldHVybiBzZW5kQm9keTsKICAgIH0KCiAgICBwdWJsaWMgRXZlbnRCdXNDbWQgc2VuZEJvZHkoSnNvbk9iamVjdCBzZW5kQm9keSkgewogICAgICAgIHRoaXMuc2VuZEJvZHkgPSBzZW5kQm9keTsKICAgICAgICByZXR1cm4gdGhpczsKICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIENlbnRlclNlcnZpY2UgYWRkQmF0Y2hQbGFuKEpzb25PYmplY3QganNvbiwgSGFuZGxlcjxBc3luY1Jlc3VsdDxPYmplY3Q+PiBoYW5kbGVyKSB7CiAgICAgICAgLy8gZml4bWUgdXNlck5hbWUg5bqU6K+l5LuOSGVhZGVy6YeM5Y+WCiAgICAgICAganNvbi5wdXQoInVzZXJOYW1lIiwgImFkbWluIik7CgogICAgICAgIEpzb25PYmplY3QgcGF5bG9hZCA9IG5ldyBKc29uT2JqZWN0KCk7CiAgICAgICAgRXZlbnRCdXNDbWQgY21kID0gRXZlbnRCdXNDbWQuaW5zdGFuY2UoKS5zZW5kQm9keShuZXcgSnNvbk9iamVjdCgpLnB1dCgidXNlcm5hbWUiLCBqc29uLnJlbW92ZSgidXNlck5hbWUiKSkpLnRhcmdldEFwaU5hbWUoImNjX2F1dGgiKS5jbWQoInVzZXJJbmZvIik7CiAgICAgICAgc2VuZEV2ZW50QnVzKHZlcnR4LCBjbWQpLmZsYXRNYXAobXNnIC0+IHsKICAgICAgICAgICAgRXZlbnRCdXNDbWQgcmVwbHkgPSAoRXZlbnRCdXNDbWQpIG1zZy5ib2R5KCk7CiAgICAgICAgICAgIEpzb25PYmplY3QgcmVzcCA9IHJlcGx5LmdldFJlc3BCb2R5KCk7CgogICAgICAgICAgICBpZiAoIXJlc3AuZ2V0Qm9vbGVhbigic3VjY2VzcyIpKSB7CiAgICAgICAgICAgICAgICBTaW5nbGUuZXJyb3IobmV3IEV4Y2VwdGlvbigi5om+5LiN5Yiw55So5oi3IikpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIHJlc3AuZ2V0SnNvbk9iamVjdCgidXNlciIpLmZvckVhY2goZW50cnkgLT4gcGF5bG9hZC5wdXQoZW50cnkuZ2V0S2V5KCksIGVudHJ5LmdldFZhbHVlKCkpKTsKICAgICAgICAgICAgU3RyaW5nIHNxbCA9ICJTRUxFQ1QgRElTVElOQ1QoYmF0Y2hfbm8pIEZST00gIiArIFRCX0JBVENIX1BMQU4gKyAiIFdIRVJFIGNvbXBfaWQ9PyI7CiAgICAgICAgICAgIHJldHVybiBmaW5kTGlzdChhcnJQYXJhbShwYXlsb2FkLmdldEludGVnZXIoImNvbXBpZCIpICsgIiIpLCBzcWwpOwogICAgICAgIH0pLmZsYXRNYXAoYmF0Y2hOb3MgLT4gewogICAgICAgICAgICBMaXN0PFN0cmluZz4gZXhpc3ROb3MgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICAgICAgYmF0Y2hOb3MuZ2V0Um93cygpLmZvckVhY2gociAtPiBleGlzdE5vcy5hZGQoci5nZXRTdHJpbmcoImJhdGNoX25vIikpKTsKICAgICAgICAgICAgU3RyaW5nIGJhdGNoTm8gPSAiIjsKICAgICAgICAgICAgaW50IGkgPSAxOwogICAgICAgICAgICB3aGlsZSAoYmF0Y2hOby5pc0VtcHR5KCkgfHwgZXhpc3ROb3MuY29udGFpbnMoYmF0Y2hObykpIHsKICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigi55Sf5oiQ5om55Y+3IiArIGkgKyAi5qyhIik7CiAgICAgICAgICAgICAgICBpKys7CiAgICAgICAgICAgICAgICBiYXRjaE5vID0gQ29kZVByb2R1Y2VyLmdlbkJhdGNoTm8oMywgdHJ1ZSwgZmFsc2UsIHRydWUsIG51bGwpOwogICAgICAgICAgICB9CgogICAgICAgICAgICBCYXRjaFBsYW4gYmF0Y2hQbGFuID0gbmV3IEJhdGNoUGxhbihqc29uLCBBUElfUEFSQU0pOwogICAgICAgICAgICBiYXRjaFBsYW4uc2V0QmF0Y2hObyhiYXRjaE5vKTsKICAgICAgICAgICAgYmF0Y2hQbGFuLnNldENvbXBJZChwYXlsb2FkLmdldEludGVnZXIoImNvbXBpZCIpKTsKICAgICAgICAgICAgYmF0Y2hQbGFuLnNldE9wZXIocGF5bG9hZC5nZXRTdHJpbmcoInVzZXJuYW1lIikpOwoKICAgICAgICAgICAgU3RyaW5nIHNxbCA9ICJJTlNFUlQgSU5UTyAiICsgVEJfQkFUQ0hfUExBTiArICIgKGNvbXBfaWQsIGJhdGNoX25vLCByZW1hcmssIG9wZXIpIFZBTFVFUyg/LD8sPyw/KSI7CgogICAgICAgICAgICByZXR1cm4gZXhlY3V0ZU5vUmVzdWx0KGFyclBhcmFtKGJhdGNoUGxhbi5nZXRDb21wSWQoKSwgYmF0Y2hQbGFuLmdldEJhdGNoTm8oKSwgYmF0Y2hQbGFuLmdldFJlbWFyaygpLCBiYXRjaFBsYW4uZ2V0T3BlcigpKSwgc3FsKTsKICAgICAgICB9KS5zdWJzY3JpYmUocmV0IC0+IHN1Y2Nlc3MoaGFuZGxlciwgcmV0LmdldFJvd3MoKSksIHRocm93YWJsZSAtPiBlcnJvcihoYW5kbGVyLCBsb2dnZXIsIHRocm93YWJsZSkpOwoKICAgICAgICByZXR1cm4gdGhpczsKICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBKc29uT2JqZWN0IGdldEJvZHkoKSB7CiAgICAgICAgcmV0dXJuIGJvZHk7CiAgICB9CgogICAgcHVibGljIEV2ZW50QnVzQ21kIHNldEJvZHkoSnNvbk9iamVjdCBib2R5KSB7CiAgICAgICAgdGhpcy5ib2R5ID0gYm9keTsKICAgICAgICByZXR1cm4gdGhpczsKICAgIH0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb250ZXh0LnJlc3BvbnNlKCkKICAgICAgICAgICAgICAgIC5wdXRIZWFkZXIoSHR0cEhlYWRlck5hbWVzLkFDQ0VTU19DT05UUk9MX0FMTE9XX0NSRURFTlRJQUxTICsgIiIsICJ0cnVlIikKICAgICAgICAgICAgICAgIC5wdXRIZWFkZXIoSHR0cEhlYWRlck5hbWVzLkFDQ0VTU19DT05UUk9MX0FMTE9XX09SSUdJTi50b1N0cmluZygpLCAiaHR0cDovL2xvY2FsaG9zdDo4MDAwIik7Cgo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBKc29uT2JqZWN0IGdldFJlcUJvZHkoKSB7CiAgICAgICAgcmV0dXJuIHJlcUJvZHk7CiAgICB9CgogICAgcHVibGljIEpzb25PYmplY3QgZ2V0UmVzcEJvZHkoKSB7CiAgICAgICAgcmV0dXJuIHJlc3BCb2R5OwogICAgfQoKICAgIHB1YmxpYyBFdmVudEJ1c0NtZCB0YXJnZXRBcGlOYW1lKFN0cmluZyB0YXJnZXRBcGlOYW1lKSB7CiAgICAgICAgdGhpcy50YXJnZXRBcGlOYW1lID0gdGFyZ2V0QXBpTmFtZTsKICAgICAgICByZXR1cm4gdGhpczsKICAgIH0KCiAgICBwdWJsaWMgRXZlbnRCdXNDbWQgY21kKFN0cmluZyBjbWQpIHsKICAgICAgICB0aGlzLmNtZCA9IGNtZDsKICAgICAgICByZXR1cm4gdGhpczsKICAgIH0KCiAgICBwdWJsaWMgRXZlbnRCdXNDbWQgc2VuZEJvZHkoSnNvbk9iamVjdCBzZW5kQm9keSkgewogICAgICAgIHRoaXMucmVxQm9keSA9IHNlbmRCb2R5OwogICAgICAgIHJldHVybiB0aGlzOwogICAgfQoKICAgIHB1YmxpYyBFdmVudEJ1c0NtZCByZXBseUJvZHkoSnNvbk9iamVjdCByZXBseUJvZHkpIHsKICAgICAgICB0aGlzLnJlc3BCb2R5ID0gcmVwbHlCb2R5OwogICAgICAgIHJldHVybiB0aGlzOwogICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL0ZJWE1FIOWFqOWxgOWkhOeQhgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgSnNvbk9iamVjdCByZXNwQm9keTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBhY3ROYW1lID0gIua0u+WKqOWQjeensCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICIgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
