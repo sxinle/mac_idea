@@ -85,9 +85,9 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="11" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/UserAPIVerticle.java" timestamp="1535943231912">
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/UserAPIVerticle.java" timestamp="1535943725896">
         <mark key="'" line="104" column="24" />
-        <mark key="[" line="20" column="30" />
+        <mark key="[" line="21" column="26" />
         <mark key="]" line="21" column="40" />
         <mark key="." line="21" column="40" />
         <mark key="^" line="21" column="40" />
@@ -677,7 +677,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>new UserAPIVerticle(springCxt)</text>
+        <text>ApplicationContext springCxt</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxpbmplY3RTZXJ2aWNlXD4=</text>
@@ -686,31 +686,31 @@
         <text encoding="base64">Q2FuJ3Qgc3BlY2lmeSA+IDEgaW5zdGFuY2VzIGZvciBhbHJlYWR5IGNyZWF0ZWQgdmVydGljbGU=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnNwcmluZ0N4dCA9IChBcHBsaWNhdGlvbkNvbnRleHQpIHZlcnR4LnNoYXJlZERhdGEoKS5nZXRMb2NhbE1hcCgibG9jYWxNYXAiKS5nZXQoInNwcmludEN0eCIpOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJ0eC5zaGFyZWREYXRhKCkuZ2V0TG9jYWxNYXAoImxvY2FsTWFwIikucHV0KCJzcHJpbnRDdHgiLCB0aGlzLnNwcmluZ0N4dCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLnNwcmluZ0N4dCA9IHNwcmluZ0N4dDsK</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnNwcmluZ0N4dCA9IChBcHBsaWNhdGlvbkNvbnRleHQpIHZlcnR4LnNoYXJlZERhdGEoKS5nZXRMb2NhbE1hcCgibG9jYWxNYXAiKS5nZXQoInNwcmludEN0eCIpOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB2ZXJ0eC5zaGFyZWREYXRhKCkuZ2V0TG9jYWxNYXAoImxvY2FsTWFwIikucHV0KCJzcHJpbnRDdHgiLCB0aGlzLnNwcmluZ0N4dCk7Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJ0eC5nZXREZWxlZ2F0ZSgpLmRlCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNwcmluZ0N4dCA9IHNwcmluZ0N4dDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByb3V0ZXIuZ2V0KCIvY3VzdG9tZXJzIikuaGFuZGxlcih0aGlzOjpsaXN0Q3VzdG9tZXIpOy8vIOafpeeci+e7j+mUgOWVhgo=</text>
+        <text encoding="base64">ICAgICAgICB2ZXJ0eC5nZXREZWxlZ2F0ZSgpLmRlCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByb3V0ZXIucG9zdCgiL2N1c3RvbWVycyIpLmhhbmRsZXIodGhpczo6YWRkQ3VzdG9tZXIpOy8vIOa3u+WKoOe7j+mUgOWVhgo=</text>
+        <text encoding="base64">ICAgICAgICByb3V0ZXIuZ2V0KCIvY3VzdG9tZXJzIikuaGFuZGxlcih0aGlzOjpsaXN0Q3VzdG9tZXIpOy8vIOafpeeci+e7j+mUgOWVhgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAvLyAgIFN5c3RlbS5vdXQucHJpbnRsbihjb250ZXh0LmdldEJvZHlBc0pzb24oKS5wdXQoInVzZXJOYW1lIixnZXRVc2VyTmFtZShjb250ZXh0KSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICByb3V0ZXIucG9zdCgiL2N1c3RvbWVycyIpLmhhbmRsZXIodGhpczo6YWRkQ3VzdG9tZXIpOy8vIOa3u+WKoOe7j+mUgOWVhgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICByb3V0ZXIucG9zdCgiL21hbnVyZXBvaW4iKS5oYW5kbGVyKHRoaXM6OmFkZFN0b3JhZ2VNYW51YWwpOyAvL+aJi+W3peWFpeW6kwo=</text>
+        <text encoding="base64">ICAgICAvLyAgIFN5c3RlbS5vdXQucHJpbnRsbihjb250ZXh0LmdldEJvZHlBc0pzb24oKS5wdXQoInVzZXJOYW1lIixnZXRVc2VyTmFtZShjb250ZXh0KSkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICByb3V0ZXIucG9zdCgiL21hbnVyZXBvaW4iKS5oYW5kbGVyKHRoaXM6OmFkZFN0b3JhZ2VNYW51YWwpOyAvL+aJi+W3peWFpeW6kwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
