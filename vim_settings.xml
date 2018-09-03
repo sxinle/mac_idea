@@ -211,12 +211,12 @@
         <mark key="^" line="40" column="32" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/InventoryServiceImpl.java" timestamp="1535968076007">
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/InventoryServiceImpl.java" timestamp="1535968884230">
         <mark key="'" line="77" column="10" />
-        <mark key="[" line="120" column="54" />
-        <mark key="]" line="120" column="61" />
-        <mark key="^" line="120" column="61" />
-        <mark key="." line="120" column="61" />
+        <mark key="[" line="94" column="45" />
+        <mark key="]" line="94" column="47" />
+        <mark key="^" line="94" column="47" />
+        <mark key="." line="94" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/HTTPSender.java" timestamp="1535703029571">
         <mark key="'" line="67" column="65" />
@@ -403,8 +403,8 @@
         <mark key="." line="116" column="26" />
         <mark key="^" line="116" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/PrizeAPIVerticle.java" timestamp="1535957357851">
-        <mark key="'" line="123" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/PrizeAPIVerticle.java" timestamp="1535968744762">
+        <mark key="'" line="97" column="25" />
         <mark key="[" line="97" column="58" />
         <mark key="]" line="97" column="76" />
         <mark key="." line="97" column="76" />
@@ -488,8 +488,8 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/domain/ComputedPrize.java" timestamp="1535967654619">
-        <mark key="'" line="79" column="35" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/domain/ComputedPrize.java" timestamp="1535968524890">
+        <mark key="'" line="12" column="0" />
         <mark key="[" line="77" column="5" />
         <mark key="]" line="79" column="35" />
         <mark key="^" line="79" column="35" />
@@ -582,7 +582,7 @@
         <mark key="." line="12" column="48" />
         <mark key="^" line="12" column="48" />
       </file>
-      <file name="/fragment.java" timestamp="1535967169362">
+      <file name="/fragment.java" timestamp="1535968548222">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="17" />
         <mark key="^" line="0" column="17" />
@@ -590,8 +590,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="5" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
-      <jump line="44" column="26" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/WeixinPrizeController.java" />
       <jump line="4" column="4" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/redpack/RedpackResponse.java" />
       <jump line="146" column="27" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
       <jump line="241" column="10" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
@@ -690,6 +688,8 @@
       <jump line="47" column="35" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
       <jump line="44" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
       <jump line="317" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/domain/ComputedPrize.java" />
+      <jump line="97" column="25" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/PrizeAPIVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -699,7 +699,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>()Body</text>
+        <text>key</text>
       </register>
       <register name="/" type="4">
         <text>start</text>
