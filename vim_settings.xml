@@ -31,7 +31,7 @@
         <mark key="^" line="16" column="3" />
         <mark key="." line="16" column="3" />
       </file>
-      <file name="/a.dummy" timestamp="1535682968888">
+      <file name="/a.dummy" timestamp="1536211264056">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/domain/ComputedPrize.java" timestamp="1535960619639">
@@ -250,6 +250,11 @@
         <mark key="^" line="126" column="67" />
         <mark key="." line="75" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/mappers/PrizeMapper.java" timestamp="1536211287586">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/HTTPSender.java" timestamp="1535703029571">
         <mark key="'" line="67" column="65" />
         <mark key="[" line="76" column="0" />
@@ -322,6 +327,12 @@
         <mark key="^" line="26" column="142" />
         <mark key="." line="26" column="142" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/domain/Prize.java" timestamp="1536212467241">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="67" column="26" />
+        <mark key="^" line="67" column="26" />
+        <mark key="." line="67" column="26" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/service/CenterService.java" timestamp="1534327046315">
         <mark key="[" line="9" column="30" />
       </file>
@@ -369,6 +380,13 @@
         <mark key="]" line="72" column="18" />
         <mark key="." line="72" column="18" />
         <mark key="^" line="72" column="18" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/mappers/PrizeMapper.xml" timestamp="1536214492012">
+        <mark key="'" line="34" column="68" />
+        <mark key="[" line="34" column="64" />
+        <mark key="]" line="34" column="69" />
+        <mark key="." line="34" column="64" />
+        <mark key="^" line="35" column="83" />
       </file>
       <file name="$USER_HOME$/Desktop/code_product/src/main/java/com/bld365/mall/basic/product/domain/ProductInfo.java" timestamp="1535007452269">
         <mark key="'" line="26" column="24" />
@@ -458,8 +476,8 @@
         <mark key="." line="116" column="26" />
         <mark key="^" line="116" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/PrizeAPIVerticle.java" timestamp="1536114535233">
-        <mark key="'" line="95" column="25" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/PrizeAPIVerticle.java" timestamp="1536212645559">
+        <mark key="'" line="83" column="25" />
         <mark key="[" line="63" column="42" />
         <mark key="]" line="63" column="61" />
         <mark key="." line="63" column="61" />
@@ -472,12 +490,11 @@
         <mark key="." line="38" column="57" />
         <mark key="^" line="38" column="57" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" timestamp="1535957468440">
-        <mark key="'" line="365" column="0" />
-        <mark key="[" line="132" column="88" />
-        <mark key="]" line="133" column="42" />
-        <mark key="." line="133" column="42" />
-        <mark key="^" line="133" column="42" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" timestamp="1536213858958">
+        <mark key="'" line="44" column="19" />
+        <mark key="[" line="355" column="0" />
+        <mark key="]" line="355" column="0" />
+        <mark key="." line="355" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jhshop/micros-weixin/src/main/java/com/uuvalue/micros/weixin/WeixinAPIVerticle.java" timestamp="1535699926189">
         <mark key="[" line="51" column="22" />
@@ -544,6 +561,7 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="4" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/service/BaseService.java" timestamp="1536212724139" />
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1536204677094">
         <mark key="'" line="368" column="146" />
       </file>
@@ -648,16 +666,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="16" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
-      <jump line="103" column="15" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
-      <jump line="112" column="30" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
-      <jump line="117" column="46" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
-      <jump line="86" column="19" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
-      <jump line="115" column="30" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
-      <jump line="119" column="0" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
-      <jump line="138" column="78" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
-      <jump line="149" column="168" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
-      <jump line="233" column="104" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
       <jump line="43" column="43" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
       <jump line="108" column="35" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
       <jump line="120" column="52" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
@@ -748,49 +756,59 @@
       <jump line="340" column="138" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="342" column="130" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="368" column="146" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
+      <jump line="34" column="30" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/domain/Prize.java" />
+      <jump line="79" column="35" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/domain/Prize.java" />
+      <jump line="76" column="22" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/domain/Prize.java" />
+      <jump line="25" column="53" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/mappers/PrizeMapper.java" />
+      <jump line="44" column="19" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" />
+      <jump line="83" column="25" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/PrizeAPIVerticle.java" />
+      <jump line="18" column="34" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/mappers/PrizeMapper.xml" />
+      <jump line="32" column="69" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/mappers/PrizeMapper.xml" />
+      <jump line="33" column="45" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/mappers/PrizeMapper.xml" />
+      <jump line="34" column="68" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/mappers/PrizeMapper.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text>\基本废物......\</text>
       </register>
       <register name="*" type="4">
-        <text>''</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>品</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>callback</text>
       </register>
       <register name="0" type="4">
-        <text>/public/getprize/</text>
+        <text>description</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIHByaXZhdGUgUVJTY2FuTWFwcGVyICAgICAgICBtYXBwZXI7Cg==</text>
+      <register name="1" type="4">
+        <text>&quot;&quot;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text>value</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgRXhjZXB0aW9uKCJzc3MiKTsK</text>
+      <register name="3" type="4">
+        <text>&quot;&quot;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text>type</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA7CiAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgLy8gZml4bWUg5Y+R6K+d6LS5Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzZWprOwo=</text>
+        <text encoding="base64">ICAgIDxpZiB0ZXN0PSJwcml6ZS5uYW1lICE9IG51bGwgYW5kIHByaXplLm5hbWUgIT0gJyciPnByaXplLm5hbWUgPSAje3ByaXplLm5hbWV9PC90ZXN0Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYXJhbTJqc29uCg==</text>
+        <text encoding="base64">ICAgIDxpZiB0ZXN0PSJwciAhPSBudWxsIGFuZCAgIT0gJyciPiA9ICN7fTwvdGVzdD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb250ZXh0LnJlcXVlc3QoKS5xdWVyeSgpCg==</text>
+        <text encoding="base64">ICAgIENECg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>

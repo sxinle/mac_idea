@@ -1,0 +1,9 @@
+<templateSet group="html/xml">
+  <template name="iftest" value="&lt;if test=&quot;$var$ != null and $var$ != ''&quot;&gt;$var$ = #{$var$}&lt;/test&gt;" description="mybatis test empty str" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+</templateSet>
