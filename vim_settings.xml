@@ -86,7 +86,7 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="36" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/WeixinPrizeController.java" timestamp="1536198760494" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/WeixinPrizeController.java" timestamp="1536202815551" />
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/mappers/MkCodeMapper.xml" timestamp="1536110898877">
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
@@ -544,8 +544,8 @@
         <mark key="." line="4" column="4" />
         <mark key="^" line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1536198764540">
-        <mark key="'" line="329" column="73" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1536202788526">
+        <mark key="'" line="297" column="78" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/domain/ComputedPrize.java" timestamp="1536114072726">
         <mark key="'" line="85" column="4" />
@@ -648,8 +648,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="78" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
-      <jump line="224" column="31" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
       <jump line="113" column="19" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
       <jump line="118" column="53" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
       <jump line="227" column="31" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
@@ -748,6 +746,8 @@
       <jump line="15" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
       <jump line="206" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
+      <jump line="331" column="46" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
+      <jump line="297" column="78" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -760,7 +760,7 @@
         <text>品</text>
       </register>
       <register name="/" type="4">
-        <text>spend</text>
+        <text>oauth</text>
       </register>
       <register name="0" type="4">
         <text>/public/getprize/</text>
@@ -797,9 +797,9 @@
       </register>
     </registers>
     <search>
-      <last-search>spend</last-search>
+      <last-search>oauth</last-search>
       <last-offset />
-      <last-pattern>spend</last-pattern>
+      <last-pattern>oauth</last-pattern>
       <last-replace>AND</last-replace>
       <last-substitute>and</last-substitute>
       <last-dir>1</last-dir>
@@ -807,8 +807,6 @@
     </search>
     <history>
       <history-search>
-        <entry>&quot;token&quot;</entry>
-        <entry>noNeed</entry>
         <entry>header</entry>
         <entry>doc</entry>
         <entry>login</entry>
@@ -825,8 +823,10 @@
         <entry>username</entry>
         <entry>and</entry>
         <entry>users</entry>
-        <entry>oauth</entry>
         <entry>spend</entry>
+        <entry>sendre</entry>
+        <entry>sendRed</entry>
+        <entry>oauth</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Activity.java</entry>
