@@ -303,6 +303,9 @@
         <mark key="." line="37" column="0" />
         <mark key="^" line="13" column="53" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/uuvalue/micros/misc/MiscAPIVerticle.java" timestamp="1536549958479">
+        <mark key="'" line="576" column="23" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/Docs.java" timestamp="1536115915091">
         <mark key="'" line="6" column="13" />
         <mark key="[" line="50" column="38" />
@@ -362,8 +365,8 @@
         <mark key="^" line="18" column="70" />
         <mark key="." line="17" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/RestVerticle.java" timestamp="1536052629463">
-        <mark key="'" line="93" column="14" />
+      <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/RestVerticle.java" timestamp="1536549929837">
+        <mark key="'" line="57" column="8" />
         <mark key="[" line="184" column="26" />
         <mark key="]" line="184" column="27" />
         <mark key="^" line="184" column="28" />
@@ -670,10 +673,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="87" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/mappers/MkCodeMapper.xml" />
-      <jump line="17" column="12" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/mappers/MkCodeMapper.xml" />
-      <jump line="19" column="16" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/mappers/MkCodeMapper.xml" />
-      <jump line="75" column="33" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/MkCodeServiceImpl.java" />
       <jump line="224" column="16" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
       <jump line="285" column="52" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
       <jump line="46" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
@@ -770,6 +769,10 @@
       <jump line="67" column="123" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="68" column="38" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="552" column="14" filename="$USER_HOME$/.ivy2/cache/ch.qos.logback/logback-classic/srcs/logback-classic-1.0.13-sources.jar!/ch/qos/logback/classic/Logger.java" />
+      <jump line="57" column="8" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/RestVerticle.java" />
+      <jump line="35" column="72" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/uuvalue/micros/misc/MiscAPIVerticle.java" />
+      <jump line="556" column="23" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/uuvalue/micros/misc/MiscAPIVerticle.java" />
+      <jump line="576" column="23" filename="$USER_HOME$/workspace/micro-service/jh_sales/smng-misc/src/main/java/com/uuvalue/micros/misc/MiscAPIVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -782,7 +785,7 @@
         <text>reason：</text>
       </register>
       <register name="/" type="4">
-        <text>weixin\/prize</text>
+        <text>地址</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIExvZ2dlci5lcnJvcihjb250ZW50KTsK</text>
@@ -819,9 +822,9 @@
       </register>
     </registers>
     <search>
-      <last-search>weixin\/prize</last-search>
+      <last-search>地址</last-search>
       <last-offset />
-      <last-pattern>weixin\/prize</last-pattern>
+      <last-pattern>地址</last-pattern>
       <last-replace>AND</last-replace>
       <last-substitute>and</last-substitute>
       <last-dir>1</last-dir>
@@ -829,8 +832,6 @@
     </search>
     <history>
       <history-search>
-        <entry>users</entry>
-        <entry>sendre</entry>
         <entry>sendRed</entry>
         <entry>tel</entry>
         <entry>callback</entry>
@@ -849,6 +850,8 @@
         <entry>site</entry>
         <entry>prize</entry>
         <entry>weixin\/prize</entry>
+        <entry>contac</entry>
+        <entry>地址</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Activity.java</entry>
