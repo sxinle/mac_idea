@@ -78,6 +78,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="36" column="3" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/MakeCodeServiceImpl.java" timestamp="1536629657978">
+        <mark key="'" line="508" column="15" />
+        <mark key="[" line="390" column="29" />
+        <mark key="]" line="390" column="29" />
+        <mark key="." line="390" column="29" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/WeixinPrizeController.java" timestamp="1536548837946">
         <mark key="[" line="400" column="38" />
         <mark key="]" line="400" column="40" />
@@ -544,6 +550,9 @@
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/domain/ComputePrize.java" timestamp="1535960300402">
         <mark key="[" line="2" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" timestamp="1536629477734">
+        <mark key="'" line="114" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/ScanController.java" timestamp="1536547139185">
         <mark key="'" line="275" column="15" />
       </file>
@@ -676,17 +685,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="13" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
-      <jump line="291" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
-      <jump line="181" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
-      <jump line="6" column="13" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/Docs.java" />
-      <jump line="25" column="13" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/RedisUtil.java" />
-      <jump line="1134" column="0" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/RedisUtil.java" />
-      <jump line="109" column="18" filename="$USER_HOME$/workspace/demo/vertx-blueprint-todo-backend/src/main/java/io/vertx/blueprint/todolist/verticle/RxTodoVerticle.java" />
-      <jump line="44" column="43" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
-      <jump line="351" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
-      <jump line="317" column="66" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="113" column="10" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
       <jump line="329" column="73" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
@@ -776,6 +774,17 @@
       <jump line="155" column="22" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
       <jump line="37" column="20" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/PrizeAPIVerticle.java" />
       <jump line="141" column="39" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/PrizeAPIVerticle.java" />
+      <jump line="114" column="0" filename="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" />
+      <jump line="392" column="16" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/MakeCodeServiceImpl.java" />
+      <jump line="393" column="59" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/MakeCodeServiceImpl.java" />
+      <jump line="485" column="44" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/MakeCodeServiceImpl.java" />
+      <jump line="487" column="20" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/MakeCodeServiceImpl.java" />
+      <jump line="496" column="11" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/MakeCodeServiceImpl.java" />
+      <jump line="498" column="8" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/MakeCodeServiceImpl.java" />
+      <jump line="504" column="13" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/MakeCodeServiceImpl.java" />
+      <jump line="505" column="13" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/MakeCodeServiceImpl.java" />
+      <jump line="506" column="12" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/MakeCodeServiceImpl.java" />
+      <jump line="508" column="15" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/MakeCodeServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -785,10 +794,10 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>reason：</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
-        <text>地址</text>
+        <text encoding="base64">XDxmaWxlXD4=</text>
       </register>
       <register name="0" type="4">
         <text>550b08439a7ce89e9e91ddf7cfd4fc6d</text>
@@ -825,9 +834,9 @@
       </register>
     </registers>
     <search>
-      <last-search>地址</last-search>
+      <last-search encoding="base64">XDxmaWxlXD4=</last-search>
       <last-offset />
-      <last-pattern>地址</last-pattern>
+      <last-pattern encoding="base64">XDxmaWxlXD4=</last-pattern>
       <last-replace>AND</last-replace>
       <last-substitute>and</last-substitute>
       <last-dir>1</last-dir>
@@ -835,10 +844,6 @@
     </search>
     <history>
       <history-search>
-        <entry>sendRed</entry>
-        <entry>tel</entry>
-        <entry>callback</entry>
-        <entry encoding="base64">XDxLRVlfQ09NUElEXD4=</entry>
         <entry>spend</entry>
         <entry>group_compute_prize</entry>
         <entry>prizeBean</entry>
@@ -855,6 +860,10 @@
         <entry>weixin\/prize</entry>
         <entry>contac</entry>
         <entry>地址</entry>
+        <entry>mkco</entry>
+        <entry>mkcodes</entry>
+        <entry>makeco</entry>
+        <entry encoding="base64">XDxmaWxlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>vsp Activity.java</entry>
