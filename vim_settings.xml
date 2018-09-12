@@ -93,12 +93,12 @@
         <mark key="." line="70" column="49" />
         <mark key="^" line="70" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_storage/src/main/java/com/uuvalue/micros/cstorage/mappers/StorageMapper.xml" timestamp="1536659992422">
-        <mark key="'" line="3" column="45" />
-        <mark key="[" line="93" column="22" />
-        <mark key="]" line="93" column="33" />
-        <mark key="^" line="86" column="38" />
-        <mark key="." line="93" column="22" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_storage/src/main/java/com/uuvalue/micros/cstorage/mappers/StorageMapper.xml" timestamp="1536661678962">
+        <mark key="'" line="105" column="0" />
+        <mark key="[" line="109" column="98" />
+        <mark key="]" line="109" column="107" />
+        <mark key="^" line="109" column="101" />
+        <mark key="." line="109" column="98" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_storage/src/main/resources/config.json" timestamp="1536652867738">
         <mark key="'" line="8" column="28" />
@@ -244,12 +244,12 @@
         <mark key="^" line="100" column="85" />
         <mark key="." line="100" column="78" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_storage/src/main/java/com/uuvalue/micros/cstorage/mappers/StorageMapper.java" timestamp="1536658448002">
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_storage/src/main/java/com/uuvalue/micros/cstorage/mappers/StorageMapper.java" timestamp="1536661367381">
         <mark key="'" line="42" column="0" />
-        <mark key="[" line="14" column="35" />
-        <mark key="]" line="14" column="29" />
-        <mark key="^" line="14" column="29" />
-        <mark key="." line="14" column="29" />
+        <mark key="[" line="37" column="9" />
+        <mark key="]" line="37" column="14" />
+        <mark key="^" line="37" column="14" />
+        <mark key="." line="37" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/HTTPSender.java" timestamp="1535703029571">
         <mark key="'" line="67" column="65" />
@@ -514,12 +514,12 @@
         <mark key="^" line="22" column="25" />
         <mark key="." line="22" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_storage/src/main/java/com/uuvalue/micros/cstorage/service/impl/StorageServiceImpl.java" timestamp="1536659967163">
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_storage/src/main/java/com/uuvalue/micros/cstorage/service/impl/StorageServiceImpl.java" timestamp="1536661925485">
         <mark key="'" line="444" column="0" />
-        <mark key="[" line="167" column="28" />
-        <mark key="]" line="168" column="15" />
-        <mark key="^" line="168" column="15" />
-        <mark key="." line="168" column="15" />
+        <mark key="[" line="133" column="93" />
+        <mark key="]" line="133" column="93" />
+        <mark key="^" line="133" column="93" />
+        <mark key="." line="133" column="93" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_storage/src/main/java/com/uuvalue/micros/cstorage/mappers/CustomerMapper.xml" timestamp="1536653836615">
         <mark key="[" line="3" column="39" />
@@ -568,7 +568,7 @@
         <mark key="." line="32" column="25" />
         <mark key="^" line="32" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536654112683">
+      <file name="/Dummy.txt" timestamp="1536661932551">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/CenterVerticle.java" timestamp="1534327082151">
@@ -648,7 +648,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_trace/src/main/java/com/uuvalue/micros/ctrace/Docs.java" />
       <jump line="19" column="34" filename="$USER_HOME$/workspace/micro-service/code_center/code_trace/src/main/java/com/uuvalue/micros/ctrace/mappers/TraceMapper.java" />
       <jump line="15" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_trace/src/main/java/com/uuvalue/micros/ctrace/mappers/TraceMapper.xml" />
       <jump line="16" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_trace/src/main/java/com/uuvalue/micros/ctrace/domain/Company.java" />
@@ -748,6 +747,7 @@
       <jump line="330" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_storage/src/main/java/com/uuvalue/micros/cstorage/service/impl/StorageServiceImpl.java" />
       <jump line="444" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_storage/src/main/java/com/uuvalue/micros/cstorage/service/impl/StorageServiceImpl.java" />
       <jump line="482" column="19" filename="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/time/format/DateTimeFormatter.java" />
+      <jump line="105" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_storage/src/main/java/com/uuvalue/micros/cstorage/mappers/StorageMapper.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -757,57 +757,56 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>com_jinhui_repoin</text>
+        <text>已经入过库的编码</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzY3JlZW5SZXN1bHRcPg==</text>
+        <text>codeList</text>
       </register>
       <register name="0" type="4">
-        <text>#{codetalbe}</text>
+        <text>productId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNxbFBhcmFtLnB1dCgiZmxhZyIsICJ0cnVlIik7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8v5Ye65bqT5p+l6K+iCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8v5YWl5bqT5p+l6K+iCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gc3FsUGFyYW0gPSBuZXcgSGFzaE1hcDw+KCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGZpeG1lIHh4eAogICAgICAgICAgICAgICAgdmFsaWRDb2Rlcy5yZW1vdmVBbGwobnVsbCk7Cgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3Q8U3RyaW5nPiBhbHJlYWR5Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhbGlkQ29kZXMucmUK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3Q8U3RyaW5nPiBvdXRDb2RlcyA9IHJlcG9PdXRDb2Rlcy5zdHJlYW0oKS5tYXAobWFwLT4gbWFwLmdldCgiY29kZSIpKS5jb2xsZWN0KENvbGxlY3RvcnMudG9MaXN0KCkpOwo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8v57yW56CB5p+l6K+iCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvZGVzLnN0cmVhbSgpLmZpbHRlcihuZXcgUHJlZGljYXRlPE1hcDxTdHJpbmcsIE9iamVjdD4+KCkgewogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyBib29sZWFuIHRlc3QoTWFwPFN0cmluZywgT2JqZWN0PiBzdHJpbmdPYmplY3RNYXApIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzY3JlZW5SZXN1bHRcPg==</last-search>
+      <last-search>codeList</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzY3JlZW5SZXN1bHRcPg==</last-pattern>
-      <last-replace>storageService</last-replace>
-      <last-substitute>blockService</last-substitute>
+      <last-pattern>codeList</last-pattern>
+      <last-replace>inputCodes</last-replace>
+      <last-substitute>codeList</last-substitute>
       <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>site</entry>
         <entry>prize</entry>
         <entry>weixin\/prize</entry>
         <entry>contac</entry>
@@ -827,9 +826,9 @@
         <entry encoding="base64">XDxfY29kZXNcPg==</entry>
         <entry encoding="base64">XDxlcnJvckZsb3dDb2RlTGlzdFw+</entry>
         <entry encoding="base64">XDxzY3JlZW5SZXN1bHRcPg==</entry>
+        <entry>codeList</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">JzwsJz5zLycvIi9n</entry>
         <entry encoding="base64">JzwsJz5zLyIvJy9n</entry>
         <entry>noh</entry>
         <entry encoding="base64">JzwsJz5zLyJudWxsIi9udWxsL2c=</entry>
@@ -848,6 +847,7 @@
         <entry encoding="base64">JzwsJz5zL3FyQ29kZS90by9n</entry>
         <entry encoding="base64">JzwsJz5zL3FyQ29kZS9jb21wSWQvZw==</entry>
         <entry encoding="base64">JzwsJz5zL2Jsb2NrU2VydmljZS9zdG9yYWdlU2VydmljZS9n</entry>
+        <entry encoding="base64">JzwsJz5zL2NvZGVMaXN0L2lucHV0Q29kZXMvZw==</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
