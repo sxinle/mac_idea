@@ -271,11 +271,11 @@
         <mark key="." line="42" column="48" />
         <mark key="^" line="42" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/QRScanService.java" timestamp="1536718816045">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="13" column="3" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/QRScanService.java" timestamp="1537262873615">
+        <mark key="[" line="18" column="38" />
+        <mark key="]" line="18" column="38" />
+        <mark key="." line="18" column="38" />
+        <mark key="^" line="18" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/mappers/RepoMapper.xml" timestamp="1535267906515">
         <mark key="'" line="6" column="53" />
@@ -556,12 +556,6 @@
         <mark key="." line="35" column="17" />
         <mark key="^" line="35" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/CBlockService.java" timestamp="1537256972648">
-        <mark key="'" line="11" column="17" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/demo/zest/src/main/java/map/CityBean.java" timestamp="1535522591683">
         <mark key="[" line="7" column="32" />
         <mark key="]" line="7" column="50" />
@@ -642,12 +636,12 @@
         <mark key="." line="116" column="26" />
         <mark key="^" line="116" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/PrizeAPIVerticle.java" timestamp="1537262333037">
-        <mark key="'" line="75" column="29" />
-        <mark key="[" line="69" column="0" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="82" column="97" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/PrizeAPIVerticle.java" timestamp="1537262868179">
+        <mark key="'" line="80" column="29" />
+        <mark key="[" line="68" column="36" />
+        <mark key="]" line="68" column="36" />
+        <mark key="^" line="68" column="37" />
+        <mark key="." line="68" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/mappers/UserMapper.java" timestamp="1537260319808">
         <mark key="'" line="65" column="0" />
@@ -1024,25 +1018,25 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>Id</text>
+        <text>, String compcode</text>
       </register>
       <register name="/" type="4">
         <text>wechat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgI3tjb21wYW55Lm1lcmNoSWR9LAo=</text>
+        <text encoding="base64">ICAgICAgICByb3V0ZXIuZ2V0KCIvcHVibGljL2dldHByaXplLzpjb21wY29kZS86cXJjb2RlIikuaGFuZGxlcih0aGlzOjpnZXRTY2FuUHJpemUpOyAvLyDngrnlh7vpooblj5blpZblk4EK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVyY2hfa2V5LAo=</text>
+        <text encoding="base64">ICAgICAgICByb3V0ZXIuZ2V0KCIvcHVibGljLzpjb21wY29kZS86cXJjb2RlIikuaGFuZGxlcih0aGlzOjpzY2FuUmVzdWx0KTsgLy8g566X5Ye656CB5pyJ5rKh5pyJ5aWWCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWVyY2hfaWQsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVyY2hfa2V5LAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2VjaGF0X3NlY3JldCwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWVyY2hfaWQsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2VjaGF0X3NlY3JldCwK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -1054,10 +1048,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
