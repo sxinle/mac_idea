@@ -37,6 +37,9 @@
         <mark key="." line="26" column="23" />
         <mark key="^" line="26" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/userStatistics.scala.html" timestamp="1537439529821">
+        <mark key="'" line="23" column="16" />
+      </file>
       <file name="/a.dummy" timestamp="1536645843778">
         <mark key="[" line="0" column="0" />
       </file>
@@ -444,11 +447,6 @@
         <mark key="^" line="13" column="24" />
         <mark key="." line="13" column="24" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/service/impl/WechatServiceImpl.java" timestamp="1537354362462">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/mappers/StorageMapper.java" timestamp="1536297433952">
         <mark key="[" line="26" column="119" />
         <mark key="]" line="26" column="119" />
@@ -519,11 +517,6 @@
         <mark key="]" line="184" column="27" />
         <mark key="^" line="184" column="28" />
         <mark key="." line="184" column="26" />
-      </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/util/CommonSend.java" timestamp="1537340511859">
-        <mark key="[" line="366" column="0" />
-        <mark key="]" line="366" column="0" />
-        <mark key="." line="366" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/BaseVerticle.java" timestamp="1537174355052">
         <mark key="[" line="139" column="0" />
@@ -832,6 +825,9 @@
         <mark key="^" line="25" column="17" />
         <mark key="." line="25" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1537340407596">
+        <mark key="'" line="340" column="138" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/domain/ComputedPrize.java" timestamp="1536297191636">
         <mark key="'" line="77" column="28" />
         <mark key="[" line="76" column="0" />
@@ -948,8 +944,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="13" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/domain/Company.java" />
-      <jump line="223" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/domain/Company.java" />
       <jump line="72" column="26" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/domain/Company.java" />
       <jump line="227" column="31" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/domain/Company.java" />
       <jump line="16" column="17" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/Util.java" />
@@ -1048,6 +1042,8 @@
       <jump line="270" column="27" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
       <jump line="71" column="40" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/MkCodeServiceImpl.java" />
       <jump line="114" column="53" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/MkCodeServiceImpl.java" />
+      <jump line="18" column="61" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/userStatistics.scala.html" />
+      <jump line="23" column="16" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/userStatistics.scala.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1060,7 +1056,7 @@
         <text>jinhui</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXNwQ29kZVw+</text>
+        <text>echart</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFByaXplIHByaXplQmVhbiA9IG5ldyBQcml6ZShwcml6ZU1hcHBlci5maW5kUHJpemUobmV3IFByaXplKCkuc2V0SWQoc2NhblByaXplRGV0YWlsLmdldFByaXplSWQoKSkuc2V0Q29tcElkKGNvbXBJZCkpLmdldCgwKSwgREJfQ09MVU1OKTsK</text>
@@ -1097,9 +1093,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXNwQ29kZVw+</last-search>
+      <last-search>echart</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXNwQ29kZVw+</last-pattern>
+      <last-pattern>echart</last-pattern>
       <last-replace>${tbName}</last-replace>
       <last-substitute>&quot;com_jinhui_repoin&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1107,7 +1103,6 @@
     </search>
     <history>
       <history-search>
-        <entry>wechat</entry>
         <entry>sendred</entry>
         <entry>userinfo</entry>
         <entry>eb_CU</entry>
@@ -1127,6 +1122,7 @@
         <entry>&quot;com_jinhui_repoin&quot;</entry>
         <entry>extra.put(&quot;stat</entry>
         <entry encoding="base64">XDxyZXNwQ29kZVw+</entry>
+        <entry>echart</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NpdHkvcHJvdi9n</entry>
