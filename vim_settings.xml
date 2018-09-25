@@ -730,12 +730,11 @@
         <mark key="^" line="70" column="68" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" timestamp="1537869472257">
-        <mark key="'" line="266" column="12" />
-        <mark key="[" line="294" column="16" />
-        <mark key="]" line="301" column="17" />
-        <mark key="^" line="293" column="15" />
-        <mark key="." line="294" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" timestamp="1537871027653">
+        <mark key="'" line="196" column="17" />
+        <mark key="[" line="301" column="45" />
+        <mark key="]" line="301" column="45" />
+        <mark key="." line="301" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jhshop/micros-weixin/src/main/java/com/uuvalue/micros/weixin/WeixinAPIVerticle.java" timestamp="1535699926189">
         <mark key="[" line="51" column="22" />
@@ -1006,11 +1005,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="258" column="29" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
-      <jump line="255" column="20" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
-      <jump line="254" column="27" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
-      <jump line="348" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
-      <jump line="384" column="127" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
       <jump line="352" column="122" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
       <jump line="109" column="72" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
       <jump line="60" column="48" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
@@ -1106,6 +1100,11 @@
       <jump line="228" column="36" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" />
       <jump line="194" column="19" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" />
       <jump line="266" column="12" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" />
+      <jump line="305" column="20" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" />
+      <jump line="306" column="43" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" />
+      <jump line="308" column="50" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" />
+      <jump line="310" column="20" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" />
+      <jump line="196" column="17" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1115,19 +1114,19 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>-(正常不会走到这个分支)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGxvYWRQYXRoXD4=</text>
+        <text encoding="base64">XDxkZXN0RmlsZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghU3RyaW5nVXRpbHMuaXNFbXB0eSh0bXBsU3RvcmVQYXRoKSAmJiBzZXJ2ZXJUbXBGaWxlICE9IG51bGwgJiYgIVN0cmluZ1V0aWxzLmlzRW1wdHkoemlwTmFtZSkpIHsKICAgICAgICAgICAgICAgICAgICBkZXN0RmlsZSA9IG5ldyBGaWxlKHRtcGxTdG9yZVBhdGggKyB6aXBOYW1lKTsKICAgICAgICAgICAgICAgICAgICBzZXJ2ZXJUbXBGaWxlLnJlbmFtZVRvKGRlc3RGaWxlKTsKCiAgICAgICAgICAgICAgICAgICAgWmlwRmlsZSB6aXBGaWxlID0gbmV3IFppcEZpbGUoZGVzdEZpbGUpOwogICAgICAgICAgICAgICAgICAgIHppcEZpbGUuZXh0cmFjdEFsbCh0bXBsU3RvcmVQYXRoKTsKICAgICAgICAgICAgICAgICAgICBkZXN0RmlsZS5kZWxldGUoKTsKICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChudWxsICE9IGRlc3RGaWxlKSB7Ly8g5Y6L57yp5YyFCiAgICAgICAgICAgICAgICAgICAgZGVzdEZpbGUuZGVsZXRlKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBpZiAoIVN0cmluZ1V0aWxzLmlzRW1wdHkodG1wbFN0b3JlUGF0aCkpIHsvLyDop6PlvIDnmoTmlofku7YKICAgICAgICAgICAgICAgICAgICBuZXcgRmlsZSh0bXBsU3RvcmVQYXRoKS5kZWxldGUoKTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGltYWdlUGF0aCA9IGNvbmZpZy5nZXRTdHJpbmcoU1RPUkVfUEFUSF9LRVksICIiKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlIGRlc3RGaWxlID0gbnVsbDsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -1136,10 +1135,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsvLyDkv53lrZjmqKHmnb/ljovnvKnljIXmlofku7YKICAgICAgICAgICAgICAgICAgICB0bXBsU3RvcmVQYXRoID0gdXBsb2FkUGF0aCArIHRtcGxJZCArIEZpbGUuc2VwYXJhdG9yOy8vIC9Vc2Vycy9oc29uZy9taWNyby11cGxvYWRzL2ppbmh1aS8xMDQvCiAgICAgICAgICAgICAgICAgICAgRmlsZSB0bXBsRGlyID0gbmV3IEZpbGUodG1wbFN0b3JlUGF0aCk7CiAgICAgICAgICAgICAgICAgICAgaWYgKCF0bXBsRGlyLmV4aXN0cygpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHRtcGxEaXIubWtkaXJzKCk7CiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsvLyDliKDpmaTkuYvliY3nmoTmtLvliqjmlofku7blpLktKOato+W4uOS4jeS8mui1sOWIsOi/meS4quWIhuaUrykKICAgICAgICAgICAgICAgICAgICAgICAgQXJyYXlzLnN0cmVhbSh0bXBsRGlyLmxpc3RGaWxlcygpKS5mb3JFYWNoKGZpbGUgLT4gZmlsZS5kZWxldGUoKSk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGltYWdlUGF0aCA9IGNvbmZpZy5nZXRTdHJpbmcoU1RPUkVfUEFUSF9LRVksICIiKTsK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1155,9 +1154,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGxvYWRQYXRoXD4=</last-search>
+      <last-search encoding="base64">XDxkZXN0RmlsZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGxvYWRQYXRoXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkZXN0RmlsZVw+</last-pattern>
       <last-replace>${tbName}</last-replace>
       <last-substitute>&quot;com_jinhui_repoin&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -1182,9 +1181,9 @@
         <entry>Location</entry>
         <entry>location</entry>
         <entry>FileUtils</entry>
-        <entry encoding="base64">XDxkZXN0RmlsZVw+</entry>
         <entry>delTemplate</entry>
         <entry encoding="base64">XDx1cGxvYWRQYXRoXD4=</entry>
+        <entry encoding="base64">XDxkZXN0RmlsZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NpdHkvZGlzdC9n</entry>
