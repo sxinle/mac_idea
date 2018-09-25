@@ -730,12 +730,12 @@
         <mark key="^" line="70" column="68" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" timestamp="1537858929377">
-        <mark key="'" line="162" column="34" />
-        <mark key="[" line="119" column="86" />
-        <mark key="]" line="119" column="88" />
-        <mark key="." line="119" column="88" />
-        <mark key="^" line="119" column="88" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" timestamp="1537860044594">
+        <mark key="'" line="119" column="126" />
+        <mark key="[" line="146" column="24" />
+        <mark key="]" line="146" column="26" />
+        <mark key="^" line="146" column="26" />
+        <mark key="." line="146" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jhshop/micros-weixin/src/main/java/com/uuvalue/micros/weixin/WeixinAPIVerticle.java" timestamp="1535699926189">
         <mark key="[" line="51" column="22" />
@@ -1006,7 +1006,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/Docs.java" />
       <jump line="375" column="39" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
       <jump line="379" column="27" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
       <jump line="351" column="104" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
@@ -1106,6 +1105,7 @@
       <jump line="252" column="45" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
       <jump line="20" column="28" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/resources/config.json" />
       <jump line="16" column="12" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/resources/config.json" />
+      <jump line="119" column="126" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1115,39 +1115,37 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>记录</text>
       </register>
       <register name="/" type="4">
         <text>FileUtils</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAibmdpbnguaG9zdCI6ICJodHRwOi8vMTkyLjE2OC4xLjEwMTo5OTkyIgo=</text>
+      <register name="0" type="4">
+        <text>$USER_HOME$/micro-uploads/jinhui/</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1hbnVhbC1jb2Rlcy8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL25ldyBGaWxlKGZpbGUudXBsb2FkZWRGaWxlTmFtZSgpKS5yZW5hbWVUbyh1cGxvYWRaaXApOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL3VwbG9hZFppcCA9IG5ldyBGaWxlKHVwbG9hZFBhdGggKyBmaWxlLmZpbGVOYW1lKCkpOy8vIC9Vc2Vycy9oc29uZy9taWNyby11cGxvYWRzL2ppbmh1aS9odG1sLnppcAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIklORk86IiArIHJlc3VsdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEZpbGUgZGVzdEZpbGUgPSBudWxsOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>new String[]{&quot;sh&quot;,
-                &quot;/home/test/test.sh&quot;, &quot;select admin from M_ADMIN&quot;,
-                &quot;/home/test/result.txt&quot;}</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLQoK5pys5paH5p2l6IeqIHNlYW4tem91IOeahENTRE4g5Y2a5a6iIO+8jOWFqOaWh+WcsOWdgOivt+eCueWHu++8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC9hMTk4ODEwMjkvYXJ0aWNsZS9kZXRhaWxzLzgwNjM3NTg/dXRtX3NvdXJjZT1jb3B5IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlR2VuTmdpbnhDb25mKHRtcGxJZCwgY29tcENvZGUsIHVwbG9hZFppcC5nZXRBYnNvbHV0ZVBhdGgoKS5yZXBsYWNlQWxsKCIuemlwIiwgIiIpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmlsZSB1cGxvYWRaaXAgPSBudWxsOwo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
