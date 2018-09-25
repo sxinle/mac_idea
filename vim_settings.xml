@@ -730,12 +730,11 @@
         <mark key="^" line="70" column="68" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" timestamp="1537848566922">
-        <mark key="'" line="159" column="34" />
-        <mark key="[" line="188" column="0" />
-        <mark key="]" line="188" column="0" />
-        <mark key="." line="188" column="0" />
-        <mark key="^" line="187" column="18" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" timestamp="1537857168786">
+        <mark key="'" line="160" column="34" />
+        <mark key="[" line="169" column="0" />
+        <mark key="]" line="169" column="0" />
+        <mark key="." line="169" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jhshop/micros-weixin/src/main/java/com/uuvalue/micros/weixin/WeixinAPIVerticle.java" timestamp="1535699926189">
         <mark key="[" line="51" column="22" />
@@ -930,8 +929,8 @@
         <mark key="^" line="21" column="48" />
         <mark key="." line="21" column="48" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/resources/config.json" timestamp="1537855209464">
-        <mark key="'" line="20" column="28" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/resources/config.json" timestamp="1537855846510">
+        <mark key="'" line="16" column="12" />
         <mark key="[" line="33" column="56" />
         <mark key="]" line="33" column="61" />
         <mark key="." line="33" column="61" />
@@ -1006,7 +1005,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/Docs.java" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/Docs.java" />
       <jump line="375" column="39" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
       <jump line="379" column="27" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
@@ -1106,6 +1104,7 @@
       <jump line="158" column="34" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" />
       <jump line="252" column="45" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
       <jump line="20" column="28" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/resources/config.json" />
+      <jump line="16" column="12" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/resources/config.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1124,31 +1123,33 @@
         <text encoding="base64">ICAibmdpbnguaG9zdCI6ICJodHRwOi8vMTkyLjE2OC4xLjEwMTo5OTkyIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hbnVhbC1jb2Rlcy8K</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmdy53cml0ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIklORk86IiArIHJlc3VsdCk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZih1cCkK</text>
+      <register name="4" type="4">
+        <text>new String[]{&quot;sh&quot;,
+                &quot;/home/test/test.sh&quot;, &quot;select admin from M_ADMIN&quot;,
+                &quot;/home/test/result.txt&quot;}</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLQoK5pys5paH5p2l6IeqIHNlYW4tem91IOeahENTRE4g5Y2a5a6iIO+8jOWFqOaWh+WcsOWdgOivt+eCueWHu++8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC9hMTk4ODEwMjkvYXJ0aWNsZS9kZXRhaWxzLzgwNjM3NTg/dXRtX3NvdXJjZT1jb3B5IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFppcEZpbGUgemlwRmlsZSA9IG5ldyBaaXBGaWxlKHVwbG9hZFppcCk7CgogICAgICAgICAgICAgICAgU3RyaW5nIGZvbGRlclBhdGggPSB1cGxvYWRaaXAuZ2V0QWJzb2x1dGVQYXRoKCkucmVwbGFjZUFsbCgiLnppcCIsICIvIik7CiAgICAgICAgICAgICAgICB6aXBGaWxlLmV4dHJhY3RBbGwoZm9sZGVyUGF0aCk7CiAgICAgICAgICAgICAgICB1cGxvYWRaaXAuZGVsZXRlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlIHVwbG9hZFppcCA9IG51bGw7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
