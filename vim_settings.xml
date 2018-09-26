@@ -37,9 +37,6 @@
         <mark key="." line="26" column="23" />
         <mark key="^" line="26" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/userStatistics.scala.html" timestamp="1537439529821">
-        <mark key="'" line="23" column="16" />
-      </file>
       <file name="/a.dummy" timestamp="1536645843778">
         <mark key="[" line="0" column="0" />
       </file>
@@ -242,12 +239,12 @@
         <mark key="^" line="97" column="31" />
         <mark key="." line="97" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" timestamp="1537867943857">
-        <mark key="'" line="281" column="44" />
-        <mark key="[" line="281" column="49" />
-        <mark key="]" line="282" column="11" />
-        <mark key="." line="282" column="11" />
-        <mark key="^" line="282" column="11" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" timestamp="1537943210420">
+        <mark key="'" line="317" column="39" />
+        <mark key="[" line="318" column="27" />
+        <mark key="]" line="318" column="31" />
+        <mark key="." line="318" column="31" />
+        <mark key="^" line="318" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/MonitorTest.java" timestamp="1534325728112">
         <mark key="'" line="18" column="24" />
@@ -888,15 +885,16 @@
         <mark key="^" line="25" column="17" />
         <mark key="." line="25" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1537340407596">
-        <mark key="'" line="340" column="138" />
-      </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/domain/ComputedPrize.java" timestamp="1536297191636">
         <mark key="'" line="77" column="28" />
         <mark key="[" line="76" column="0" />
         <mark key="]" line="77" column="28" />
         <mark key="^" line="77" column="28" />
         <mark key="." line="77" column="28" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/resources/log4j2.xml" timestamp="1537943502312">
+        <mark key="[" line="1" column="1" />
+        <mark key="]" line="1" column="28" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/scheduler/crawler/PingMng.java" timestamp="1534323048187">
         <mark key="'" line="18" column="61" />
@@ -905,7 +903,7 @@
         <mark key="." line="32" column="25" />
         <mark key="^" line="32" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537931983935">
+      <file name="/Dummy.txt" timestamp="1537943212562">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/CenterVerticle.java" timestamp="1534327082151">
@@ -1011,8 +1009,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="363" column="11" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" />
-      <jump line="14" column="17" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/PrizeService.java" />
       <jump line="2" column="7" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" />
       <jump line="56" column="15" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/PrizeService.java" />
       <jump line="409" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/WeixinPrizeController.java" />
@@ -1111,6 +1107,8 @@
       <jump line="188" column="12" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/CBlockServiceImpl.java" />
       <jump line="27" column="75" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/CBlockServiceImpl.java" />
       <jump line="558" column="36" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/service/impl/UserServiceImpl.java" />
+      <jump line="224" column="38" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
+      <jump line="317" column="39" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1120,13 +1118,13 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRocm93cyBFeGNlcHRpb24=</text>
+        <text>debug</text>
       </register>
       <register name="/" type="4">
         <text>dashboard</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7Ly8g5L+d5a2Y5qih5p2/5Y6L57yp5YyF5paH5Lu2CiAgICAgICAgICAgICAgICAgICAgICAgIHRtcGxTdG9yZVBhdGggPSB1cGxvYWRQYXRoICsgdG1wbElkICsgRmlsZS5zZXBhcmF0b3I7Ly8gL1VzZXJzL2hzb25nL21pY3JvLXVwbG9hZHMvamluaHVpLzEwNC8KICAgICAgICAgICAgICAgICAgICAgICAgRmlsZSB0bXBsRGlyID0gbmV3IEZpbGUodG1wbFN0b3JlUGF0aCk7CiAgICAgICAgICAgICAgICAgICAgICAgIGlmICghdG1wbERpci5leGlzdHMoKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgdG1wbERpci5ta2RpcnMoKTsKICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsvLyDliKDpmaTkuYvliY3nmoTmtLvliqjmlofku7blpLkKICAgICAgICAgICAgICAgICAgICAgICAgICAgIEFycmF5cy5zdHJlYW0odG1wbERpci5saXN0RmlsZXMoKSkuZm9yRWFjaChmaWxlIC0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpZiAoZmlsZS5pc0RpcmVjdG9yeSgpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEZpbGVTeXN0ZW1VdGlscy5kZWxldGVSZWN1cnNpdmVseShmaWxlKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBmaWxlLmRlbGV0ZSgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0pOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
+      <register name="0" type="4">
+        <text>Configuration status=&quot;error&quot;</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
