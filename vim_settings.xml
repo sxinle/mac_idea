@@ -159,12 +159,12 @@
         <mark key="^" line="40" column="10" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/service/impl/UserServiceImpl.java" timestamp="1538125995469">
-        <mark key="'" line="649" column="44" />
-        <mark key="[" line="649" column="47" />
-        <mark key="]" line="649" column="47" />
-        <mark key="." line="649" column="47" />
-        <mark key="^" line="649" column="47" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/service/impl/UserServiceImpl.java" timestamp="1538128141309">
+        <mark key="'" line="447" column="16" />
+        <mark key="[" line="448" column="0" />
+        <mark key="]" line="448" column="0" />
+        <mark key="^" line="445" column="32" />
+        <mark key="." line="448" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/QRScanService.java" timestamp="1537519086066">
         <mark key="'" line="15" column="0" />
@@ -266,12 +266,12 @@
       <file name="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/domain/NetCPU.java" timestamp="1534323186094">
         <mark key="[" line="2" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/service/UserService.java" timestamp="1538122676692">
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/service/UserService.java" timestamp="1538128124067">
         <mark key="'" line="9" column="17" />
-        <mark key="[" line="56" column="86" />
-        <mark key="]" line="56" column="91" />
-        <mark key="^" line="56" column="91" />
-        <mark key="." line="56" column="91" />
+        <mark key="[" line="40" column="16" />
+        <mark key="]" line="40" column="25" />
+        <mark key="^" line="40" column="25" />
+        <mark key="." line="40" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/domain/WechatUser.java" timestamp="1537325761954">
         <mark key="'" line="58" column="0" />
@@ -346,12 +346,12 @@
         <mark key="." line="12" column="0" />
         <mark key="^" line="11" column="6" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/UserAPIVerticle.java" timestamp="1538126042277">
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/UserAPIVerticle.java" timestamp="1538128165330">
         <mark key="'" line="56" column="50" />
-        <mark key="[" line="45" column="31" />
-        <mark key="]" line="45" column="31" />
-        <mark key="^" line="67" column="52" />
-        <mark key="." line="45" column="31" />
+        <mark key="[" line="134" column="55" />
+        <mark key="]" line="134" column="64" />
+        <mark key="^" line="134" column="64" />
+        <mark key="." line="134" column="64" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/domain/TableAlarm.java" timestamp="1534318227443">
         <mark key="'" line="12" column="4" />
@@ -603,7 +603,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="17" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/PrizeService.java" />
       <jump line="505" column="10" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
       <jump line="8" column="17" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/QRScanService.java" />
       <jump line="72" column="56" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
@@ -703,6 +702,7 @@
       <jump line="85" column="13" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
       <jump line="87" column="13" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
       <jump line="56" column="50" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/UserAPIVerticle.java" />
+      <jump line="447" column="16" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/service/impl/UserServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -712,40 +712,40 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>&quot;cmpId&quot;</text>
       </register>
       <register name="/" type="4">
         <text>myInfo</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhZGREb2MobmV3IEFQSURvYygpLmRlc2MoImRhc2hib2FyZCIpLnBhdGgoIi9kYXNoYm9hcmQiKS5tZXRob2QoSHR0cE1ldGhvZC5HRVQpKTsK</text>
+      <register name="0" type="4">
+        <text>compId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBKc29uT2JqZWN0IHVzZXIgPSBnZXRVc2VyKGNvbnRleHQpOwogICAgICAgIEpzb25PYmplY3QgZW50cmllcyA9IHBhcmFtMmpzb24oY29udGV4dCk7CiAgICAgICAgZW50cmllcy5wdXQoImNvbXBJZCIsIHVzZXIuZ2V0VmFsdWUoImNvbXBJZCIpLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gY29tcEluZm8gPSB1c2VyTWFwcGVyLmZpbmRDb21wQnlJZChjb21wSWQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFVzZXIgbWFwID0gbmV3IFVzZXIocGFyYW0sIEFQSV9QQVJBTSk7CiAgICAgICAgICAgICAgICBpbnQgY29tcElkID0gbWFwLmdldENvbXBJZCgpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKG51bGwgPT0gY29tcGFueSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEpzb25PYmplY3QgcmV0ID0gbmV3IEpzb25PYmplY3QoKTsKICAgICAgICAgICAgICAgIHJldC5wdXQoImxpc3QiLCBjb21wSW5mbyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmKG51bGwgPT0gY29tcGFueXx8bmV3IENvbXBhbnkoKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIENvbXBhbnkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldC5wdXQoImFkbWluSW5mb0xpc3QiLCBhZG1pbkluZm9KKTsKICAgICAgICAgICAgICAgIHJldC5wdXQoImltYWdlTGlzdCIsIGltYWdlSW5mbyk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBpbWdOYW1lPWNvbnRleHQucGF0aFBhcmFtKCJpbWduYW1lIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEFycmF5TGlzdDxTdHJpbmc+IHJlY29yZHMgPSBuZXcgPFN0cmluZz5BcnJheUxpc3QoKTsKICAgICAgICAgICAgICAgIEFycmF5TGlzdDxTdHJpbmc+IGFkbWluSW5mbyA9IG5ldyA8U3RyaW5nPkFycmF5TGlzdCgpOwogICAgICAgICAgICAgICAgQXJyYXlMaXN0PEpzb25PYmplY3Q+IGltYWdlSW5mbyA9IG5ldyA8SnNvbk9iamVjdD5BcnJheUxpc3QoKTsKICAgICAgICAgICAgICAgIEFycmF5TGlzdDxKc29uT2JqZWN0PiBjb21wSW5mbyA9IG5ldyA8SnNvbk9iamVjdD5BcnJheUxpc3QoKTsKICAgICAgICAgICAgICAgIEFycmF5TGlzdDxKc29uT2JqZWN0PiBhZG1pbkluZm9KID0gbmV3IDxKc29uT2JqZWN0PkFycmF5TGlzdCgpOwogICAgICAgICAgICAgICAgY29tcExpc3QuZm9yRWFjaCgoaywgdikgLT4gewogICAgICAgICAgICAgICAgICAgIGlmIChrLmVxdWFscygi566h55CG6ICF5aeT5ZCNIikgfHwgay5lcXVhbHMoIui6q+S7veivgeWPt+eggSIpIHx8IGsuZXF1YWxzKCLogZTns7vnlLXor50iKSkgewogICAgICAgICAgICAgICAgICAgICAgICBhZG1pbkluZm8uYWRkKGsgKyAiOiIgKyB2KTsKICAgICAgICAgICAgICAgICAgICB9IGVsc2UgaWYgKGsuZXF1YWxzKCLokKXkuJrmiafnhaciKSkgewogICAgICAgICAgICAgICAgICAgICAgICBKc29uT2JqZWN0IGpsYkltYWdlID0gbmV3IEpzb25PYmplY3QobmV3IExpbmtlZEhhc2hNYXAoKSk7CiAgICAgICAgICAgICAgICAgICAgICAgIGpsYkltYWdlLnB1dCgidGl0bGUiLCBrKTsKICAgICAgICAgICAgICAgICAgICAgICAgamxiSW1hZ2UucHV0KCJpbWFnZXBhdGgiLCB2KTsKICAgICAgICAgICAgICAgICAgICAgICAgaW1hZ2VJbmZvLmFkZChqbGJJbWFnZSk7CiAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmVjb3Jkcy5hZGQoayArICI6IiArIHYpOwogICAgICAgICAgICAgICAgICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgICAgIHRlc3RMLmFkZChqbGIxKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9KTsKICAgICAgICAgICAgICAgIENvbGxlY3Rpb25zLnNvcnQocmVjb3JkcywgbmV3IEluZm9Db21wYXJhdG9yKCkpOwogICAgICAgICAgICAgICAgcmVjb3Jkcy5mb3JFYWNoKChjb21tIC0+IHsKICAgICAgICAgICAgICAgICAgICBKc29uT2JqZWN0IGpvID0gbmV3IEpzb25PYmplY3QobmV3IExpbmtlZEhhc2hNYXAoKSk7CiAgICAgICAgICAgICAgICAgICAgam8ucHV0KCJ0aXRsZSIsIGNvbW0uc3BsaXQoIjoiLCAzKVswXSk7CiAgICAgICAgICAgICAgICAgICAgam8ucHV0KCJjb250ZW50IiwgY29tbS5zcGxpdCgiOiIsIDMpWzFdKTsKICAgICAgICAgICAgICAgICAgICBjb21wSW5mby5hZGQoam8pOwoKICAgICAgICAgICAgICAgIH0pKTsKICAgICAgICAgICAgICAgIENvbGxlY3Rpb25zLnNvcnQoYWRtaW5JbmZvLCBuZXcgQWRtaW5JbmZvQ29tcGFyYXRvcigpKTsKICAgICAgICAgICAgICAgIGFkbWluSW5mby5mb3JFYWNoKChhZG1pbmluZm8gLT4gewogICAgICAgICAgICAgICAgICAgIEpzb25PYmplY3QgYW8gPSBuZXcgSnNvbk9iamVjdChuZXcgTGlua2VkSGFzaE1hcCgpKTsKICAgICAgICAgICAgICAgICAgICBhby5wdXQoInRpdGxlIiwgYWRtaW5pbmZvLnNwbGl0KCI6IiwgMylbMF0pOwogICAgICAgICAgICAgICAgICAgIGFvLnB1dCgiY29udGVudCIsIGFkbWluaW5mby5zcGxpdCgiOiIsIDMpWzFdKTsKICAgICAgICAgICAgICAgICAgICBhZG1pbkluZm9KLmFkZChhbyk7CgogICAgICAgICAgICAgICAgfSkpOwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
