@@ -193,12 +193,12 @@
         <mark key="^" line="13" column="8" />
         <mark key="." line="13" column="7" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_product/src/main/java/com/uuvalue/micros/product/domain/ProductInfo.java" timestamp="1537232408727">
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_product/src/main/java/com/uuvalue/micros/product/domain/ProductInfo.java" timestamp="1538189607369">
         <mark key="'" line="44" column="0" />
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="45" column="27" />
-        <mark key="." line="45" column="27" />
-        <mark key="^" line="45" column="27" />
+        <mark key="[" line="35" column="25" />
+        <mark key="]" line="35" column="26" />
+        <mark key="." line="35" column="26" />
+        <mark key="^" line="35" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/CenterServiceImpl.java" timestamp="1538184523440">
         <mark key="'" line="8" column="28" />
@@ -395,6 +395,12 @@
         <mark key="^" line="28" column="17" />
         <mark key="." line="28" column="17" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_product/src/main/java/com/uuvalue/micros/product/mappers/ProductMapper.xml" timestamp="1538189537771">
+        <mark key="[" line="210" column="57" />
+        <mark key="]" line="210" column="57" />
+        <mark key="." line="210" column="57" />
+        <mark key="^" line="210" column="57" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/domain/Rule.java" timestamp="1535434149137">
         <mark key="'" line="182" column="27" />
         <mark key="[" line="180" column="5" />
@@ -510,11 +516,11 @@
         <mark key="^" line="18" column="24" />
         <mark key="." line="17" column="75" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_product/src/main/java/com/uuvalue/micros/product/service/impl/ProductServiceImpl.java" timestamp="1538184958256">
-        <mark key="[" line="153" column="36" />
-        <mark key="]" line="153" column="35" />
-        <mark key="^" line="153" column="35" />
-        <mark key="." line="153" column="35" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_product/src/main/java/com/uuvalue/micros/product/service/impl/ProductServiceImpl.java" timestamp="1538189578685">
+        <mark key="[" line="172" column="97" />
+        <mark key="]" line="172" column="97" />
+        <mark key="^" line="169" column="132" />
+        <mark key="." line="172" column="97" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_trace/src/main/java/com/uuvalue/micros/ctrace/TraceVerticle.java" timestamp="1537175671381">
         <mark key="'" line="37" column="11" />
@@ -745,7 +751,7 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>KPpS5pJY</text>
+        <text>.setComId(compId)</text>
       </register>
       <register name="/" type="4">
         <text>fixme</text>
@@ -754,31 +760,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOS/neWtmOaWh+S7tgogICAgICAgICAgICAgICAgaWYgKCFTdHJpbmdVdGlscy5pc0VtcHR5KHNydlVwbG9hZEZpbGUpICYmICFTdHJpbmdVdGlscy5pc0VtcHR5KGZpbGVOYW1lKSkgewogICAgICAgICAgICAgICAgICAgIFN0cmluZyBkaXJQYXRoID0gbGljZW5zZUltZ1BhdGggKyBjb21wYW55SWQgKyBGaWxlLnNlcGFyYXRvcjsKICAgICAgICAgICAgICAgICAgICBGaWxlIGRpciA9IG5ldyBGaWxlKGRpclBhdGgpOwogICAgICAgICAgICAgICAgICAgIGlmICghZGlyLmV4aXN0cygpKSBkaXIubWtkaXIoKTsKICAgICAgICAgICAgICAgICAgICBuZXcgRmlsZShzcnZVcGxvYWRGaWxlKS5yZW5hbWVUbyhuZXcgRmlsZShkaXJQYXRoICsgZmlsZU5hbWUpKTsKICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICAvL2ZvciAoRmlsZVVwbG9hZCBmaWxlIDogdXBsb2FkcykgewogICAgICAgICAgICAgICAgLy8gICAgRmlsZSBuZXdGaWxlID0gbmV3IEZpbGUoc3RvcmVQYXRoICsgZmlsZS5maWxlTmFtZSgpKTsKICAgICAgICAgICAgICAgIC8vICAgIG5ldyBGaWxlKGZpbGUudXBsb2FkZWRGaWxlTmFtZSgpKS5yZW5hbWVUbyhuZXdGaWxlKTsKICAgICAgICAgICAgICAgIC8vICAgIHBhcmFtcy5wdXQoImltZyIsIG5ld0ZpbGUuZ2V0TmFtZSgpKTsKICAgICAgICAgICAgICAgIC8vfQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOS/neWtmOaWh+S7tgo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFNldDxGaWxlVXBsb2FkPiB1cGxvYWRzID0gY29udGV4dC5maWxlVXBsb2FkcygpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vZnV0dXJlLmNvbXBsZXRlKHByb2R1Y3RNYXBwZXIuZGVsZXRlUHJvZHVjdChuZXcgUHJvZHVjdEluZm8ocGFyYW0sIEFQSV9QQVJBTSkpKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGZpeG1lICDlhbblrp7kuIDooYzlsLHooYzkuoYgIOmHjeaehOS4i2RlbGV0ZeeahOWPguaVsCAtLXllcwo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZml4bWUg5Y+v5Lul5LiN55So5LqL5Yqh5ZCnLOWPquacieacgOS4i+mdouS4gOS4qnVwZGF0ZSAtLXllcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgLy8gZml4bWUgYnVnICAgY291bnQg5ZKMIHNlbGVjdCDnmoRTUUzmn6Xor6LmnaHku7blpb3lg4/kuI3kuIDmoLcgLS15ZXMK</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICAvL2ZvciAoRmlsZVVwbG9hZCBmaWxlIDogdXBsb2FkcykgewogICAgICAgICAgICAgICAgLy8gICAgRmlsZSBuZXdGaWxlID0gbmV3IEZpbGUoc3RvcmVQYXRoICsgZmlsZS5maWxlTmFtZSgpKTsKICAgICAgICAgICAgICAgIC8vICAgIG5ldyBGaWxlKGZpbGUudXBsb2FkZWRGaWxlTmFtZSgpKS5yZW5hbWVUbyhuZXdGaWxlKTsKICAgICAgICAgICAgICAgIC8vICAgIHBhcmFtcy5wdXQoImltZyIsIG5ld0ZpbGUuZ2V0TmFtZSgpKTsKICAgICAgICAgICAgICAgIC8vfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGZpeG1lIHR4Um9sbEJhY2soKSAtLXllcwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIOS/neWtmOaWh+S7tgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
