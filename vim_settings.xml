@@ -395,11 +395,11 @@
         <mark key="^" line="28" column="17" />
         <mark key="." line="28" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_product/src/main/java/com/uuvalue/micros/product/mappers/ProductMapper.xml" timestamp="1538189537771">
-        <mark key="[" line="210" column="57" />
-        <mark key="]" line="210" column="57" />
-        <mark key="." line="210" column="57" />
-        <mark key="^" line="210" column="57" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_product/src/main/java/com/uuvalue/micros/product/mappers/ProductMapper.xml" timestamp="1538190279728">
+        <mark key="[" line="117" column="24" />
+        <mark key="]" line="117" column="35" />
+        <mark key="." line="117" column="35" />
+        <mark key="^" line="117" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/domain/Rule.java" timestamp="1535434149137">
         <mark key="'" line="182" column="27" />
@@ -516,11 +516,12 @@
         <mark key="^" line="18" column="24" />
         <mark key="." line="17" column="75" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_product/src/main/java/com/uuvalue/micros/product/service/impl/ProductServiceImpl.java" timestamp="1538189578685">
-        <mark key="[" line="172" column="97" />
-        <mark key="]" line="172" column="97" />
-        <mark key="^" line="169" column="132" />
-        <mark key="." line="172" column="97" />
+      <file name="$USER_HOME$/workspace/micro-service/code_center/code_product/src/main/java/com/uuvalue/micros/product/service/impl/ProductServiceImpl.java" timestamp="1538190115690">
+        <mark key="'" line="166" column="37" />
+        <mark key="[" line="169" column="117" />
+        <mark key="]" line="169" column="133" />
+        <mark key="^" line="169" column="133" />
+        <mark key="." line="169" column="133" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_trace/src/main/java/com/uuvalue/micros/ctrace/TraceVerticle.java" timestamp="1537175671381">
         <mark key="'" line="37" column="11" />
@@ -741,7 +742,7 @@
       <jump line="602" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/service/impl/UserServiceImpl.java" />
       <jump line="603" column="25" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/service/impl/UserServiceImpl.java" />
       <jump line="70" column="22" filename="$USER_HOME$/workspace/micro-service/code_center/code_product/src/main/java/com/uuvalue/micros/product/ProductAPIVerticle.java" />
-      <jump line="166" column="16" filename="$USER_HOME$/workspace/micro-service/code_center/code_product/src/main/java/com/uuvalue/micros/product/service/impl/ProductServiceImpl.java" />
+      <jump line="166" column="37" filename="$USER_HOME$/workspace/micro-service/code_center/code_product/src/main/java/com/uuvalue/micros/product/service/impl/ProductServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -751,7 +752,7 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>.setComId(compId)</text>
+        <text>like '%${map.name}%'</text>
       </register>
       <register name="/" type="4">
         <text>fixme</text>
