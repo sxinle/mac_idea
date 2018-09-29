@@ -197,6 +197,13 @@
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/service/impl/AwardOrderServiceImpl.java" timestamp="1538197873627">
         <mark key="'" line="54" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/Util.java" timestamp="1538202382926">
+        <mark key="'" line="111" column="19" />
+        <mark key="[" line="25" column="25" />
+        <mark key="]" line="25" column="28" />
+        <mark key="." line="25" column="28" />
+        <mark key="^" line="25" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/domain/ComputePrize.java" timestamp="1535960300402">
         <mark key="[" line="2" column="25" />
       </file>
@@ -224,7 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="117" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
       <jump line="524" column="53" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
       <jump line="76" column="29" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
       <jump line="42" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
@@ -324,6 +330,7 @@
       <jump line="91" column="16" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
       <jump line="95" column="35" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
       <jump line="85" column="24" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
+      <jump line="111" column="19" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/Util.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -333,7 +340,7 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>getEventsFromPGSQL(areaId, productId, bornDate);</text>
+        <text>YEAR</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYlByb0xpc3RcPg==</text>
