@@ -19,8 +19,8 @@
         <mark key="^" line="44" column="112" />
         <mark key="." line="44" column="58" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" timestamp="1538198579874">
-        <mark key="'" line="85" column="24" />
+      <file name="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" timestamp="1538205541175">
+        <mark key="'" line="87" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" timestamp="1538123119849">
         <mark key="'" line="136" column="0" />
@@ -120,12 +120,12 @@
         <mark key="." line="41" column="0" />
         <mark key="^" line="10" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" timestamp="1538198850610">
-        <mark key="'" line="114" column="53" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-        <mark key="^" line="47" column="27" />
+      <file name="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" timestamp="1538205742843">
+        <mark key="'" line="141" column="24" />
+        <mark key="[" line="149" column="39" />
+        <mark key="]" line="149" column="46" />
+        <mark key="." line="149" column="46" />
+        <mark key="^" line="149" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/domain/NetCPU.java" timestamp="1534323186094">
         <mark key="[" line="2" column="19" />
@@ -230,7 +230,7 @@
       <file name="$USER_HOME$/workspace/jinhui/prod/crm/app/controllers/product/ProductController.java" timestamp="1537948771779">
         <mark key="'" line="342" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1538204120421">
+      <file name="/Dummy.txt" timestamp="1538205755043">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/mpspider/src/main/java/com/uuvalue/micros/mpspider/CenterVerticle.java" timestamp="1534327082151">
@@ -241,10 +241,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
-      <jump line="523" column="32" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
-      <jump line="244" column="90" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
-      <jump line="15" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/QRScanService.java" />
       <jump line="248" column="38" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
       <jump line="271" column="11" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
       <jump line="45" column="50" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/Docs.java" />
@@ -341,6 +337,10 @@
       <jump line="111" column="19" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/Util.java" />
       <jump line="38" column="6" filename="$USER_HOME$/workspace/demo/zest/src/main/java/easyexcel/Test.java" />
       <jump line="14" column="10" filename="$USER_HOME$/workspace/demo/zest/src/main/java/easyexcel/Test.java" />
+      <jump line="78" column="21" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
+      <jump line="87" column="41" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
+      <jump line="113" column="12" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
+      <jump line="141" column="24" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -350,13 +350,13 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>format</text>
+        <text>码</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYlByb0xpc3RcPg==</text>
+        <text>return 3</text>
       </register>
-      <register name="0" type="4">
-        <text>weeksOfMonth(Date date)</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXIuZXJyb3IoIuatpOeuseeggeW3sue7keWumjogIiArIHRlYW1jb2RlICsgIiAgICIgKyByb3dDb3VudCArICLkuKrnoIEiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBTaW1wbGVEYXRlRm9ybWF0IGZvcm1hdCA9IG5ldyBTaW1wbGVEYXRlRm9ybWF0KCJ5eXl5LU1NLWRkIik7Cg==</text>
@@ -390,9 +390,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYlByb0xpc3RcPg==</last-search>
+      <last-search>return 3</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYlByb0xpc3RcPg==</last-pattern>
+      <last-pattern>return 3</last-pattern>
       <last-replace>${tbName}</last-replace>
       <last-substitute>&quot;com_jinhui_repoin&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -400,8 +400,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXNwQ29kZVw+</entry>
-        <entry>echart</entry>
         <entry>qrcode</entry>
         <entry>&quot;qrcode&quot;</entry>
         <entry encoding="base64">XDxQQVRIX1FSQ09ERVw+</entry>
@@ -420,6 +418,8 @@
         <entry>fixme</entry>
         <entry encoding="base64">XDxzY2FuRXZlbnRzXD4=</entry>
         <entry encoding="base64">XDxkYlByb0xpc3RcPg==</entry>
+        <entry>3</entry>
+        <entry>return 3</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NpdHkvZGlzdC9n</entry>
