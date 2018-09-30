@@ -18,6 +18,9 @@
         <mark key="^" line="48" column="7" />
         <mark key="." line="63" column="0" />
       </file>
+      <file name="$USER_HOME$/a/t3/d/c/g.class" timestamp="1538290250808">
+        <mark key="'" line="143" column="36" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/console/userStatistics.scala.html" timestamp="1537439529821">
         <mark key="'" line="23" column="16" />
       </file>
@@ -95,6 +98,11 @@
         <mark key="]" line="134" column="64" />
         <mark key="^" line="134" column="64" />
         <mark key="." line="134" column="64" />
+      </file>
+      <file name="$USER_HOME$/a/t3/dataman/a/g/l.class" timestamp="1538290500820">
+        <mark key="'" line="47" column="51" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_product/src/main/java/com/uuvalue/micros/product/service/ProductService.java" timestamp="1538192720530">
         <mark key="[" line="31" column="8" />
@@ -245,10 +253,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="248" column="38" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
-      <jump line="271" column="11" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/QRScanServiceImpl.java" />
-      <jump line="45" column="50" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/Docs.java" />
-      <jump line="118" column="78" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" />
       <jump line="27" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" />
       <jump line="24" column="28" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" />
@@ -345,6 +349,10 @@
       <jump line="87" column="41" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
       <jump line="113" column="12" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
       <jump line="141" column="24" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
+      <jump line="198" column="19" filename="$USER_HOME$/a/t3/d/c/g.class" />
+      <jump line="378" column="31" filename="$USER_HOME$/a/t3/d/c/g.class" />
+      <jump line="143" column="36" filename="$USER_HOME$/a/t3/d/c/g.class" />
+      <jump line="47" column="51" filename="$USER_HOME$/a/t3/dataman/a/g/l.class" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -357,10 +365,10 @@
         <text>,'pre'</text>
       </register>
       <register name="/" type="4">
-        <text>return 3</text>
+        <text>l()</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHNxbFByZVdlZWsgPSBnZW5TcWwocHJlV2VlaywgZGVwdGlkKTsK</text>
+        <text encoding="base64">cGFja2FnZSB0My5kYXRhbWFuLmEuZzsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHNxbFByZVdlZWsgPSAiIiwgc3FsQ3VycldlZWsgPSAiIjsK</text>
@@ -394,17 +402,16 @@
       </register>
     </registers>
     <search>
-      <last-search>return 3</last-search>
+      <last-search>l()</last-search>
       <last-offset />
-      <last-pattern>return 3</last-pattern>
+      <last-pattern>l()</last-pattern>
       <last-replace>${tbName}</last-replace>
       <last-substitute>&quot;com_jinhui_repoin&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>qrcode</entry>
         <entry>&quot;qrcode&quot;</entry>
         <entry encoding="base64">XDxQQVRIX1FSQ09ERVw+</entry>
         <entry>Location</entry>
@@ -424,6 +431,7 @@
         <entry encoding="base64">XDxkYlByb0xpc3RcPg==</entry>
         <entry>3</entry>
         <entry>return 3</entry>
+        <entry>l()</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NpdHkvZGlzdC9n</entry>
