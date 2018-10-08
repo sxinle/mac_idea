@@ -155,8 +155,8 @@
         <mark key="^" line="132" column="20" />
         <mark key="." line="132" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1538963900175">
-        <mark key="'" line="333" column="135" />
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1538964787507">
+        <mark key="'" line="222" column="133" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_product/src/main/java/com/uuvalue/micros/product/domain/ProductInfo.java" timestamp="1538193193013">
         <mark key="'" line="44" column="0" />
@@ -254,10 +254,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="266" column="12" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" />
-      <jump line="305" column="20" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" />
-      <jump line="306" column="43" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" />
-      <jump line="308" column="50" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" />
       <jump line="310" column="20" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" />
       <jump line="196" column="17" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" />
       <jump line="133" column="25" filename="$USER_HOME$/workspace/micro-service/code_center/code_prize/src/main/java/com/uuvalue/micros/cprize/service/impl/PrizeServiceImpl.java" />
@@ -354,6 +350,10 @@
       <jump line="195" column="28" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/newpage/mobCalls.scala.html" />
       <jump line="196" column="28" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/newpage/mobCalls.scala.html" />
       <jump line="333" column="135" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
+      <jump line="367" column="139" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
+      <jump line="220" column="115" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
+      <jump line="221" column="115" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
+      <jump line="222" column="133" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -366,7 +366,7 @@
         <text>,'pre'</text>
       </register>
       <register name="/" type="4">
-        <text>weixin\/prize</text>
+        <text>confirm</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cGFja2FnZSB0My5kYXRhbWFuLmEuZzsK</text>
@@ -403,9 +403,9 @@
       </register>
     </registers>
     <search>
-      <last-search>weixin\/prize</last-search>
+      <last-search>confirm</last-search>
       <last-offset />
-      <last-pattern>weixin\/prize</last-pattern>
+      <last-pattern>confirm</last-pattern>
       <last-replace>${tbName}</last-replace>
       <last-substitute>&quot;com_jinhui_repoin&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -413,7 +413,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZXN0RmlsZVw+</entry>
         <entry>atyDir</entry>
         <entry>dashboard</entry>
         <entry>product</entry>
@@ -433,6 +432,7 @@
         <entry>spend</entry>
         <entry encoding="base64">XDxnZXRQcml6ZVw+</entry>
         <entry>weixin\/prize</entry>
+        <entry>confirm</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NpdHkvZGlzdC9n</entry>
