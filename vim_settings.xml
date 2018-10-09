@@ -167,7 +167,8 @@
         <mark key="^" line="132" column="20" />
         <mark key="." line="132" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/InventoryServiceImpl.java" timestamp="1539072269862">
+      <file name="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/InventoryServiceImpl.java" timestamp="1539074836255">
+        <mark key="'" line="760" column="59" />
         <mark key="[" line="576" column="46" />
         <mark key="]" line="576" column="46" />
         <mark key="^" line="576" column="47" />
@@ -282,15 +283,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="71" column="56" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
-      <jump line="85" column="13" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
-      <jump line="87" column="13" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
-      <jump line="56" column="50" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/UserAPIVerticle.java" />
-      <jump line="447" column="16" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/service/impl/UserServiceImpl.java" />
-      <jump line="131" column="4" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/UserAPIVerticle.java" />
-      <jump line="602" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/service/impl/UserServiceImpl.java" />
-      <jump line="603" column="25" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/service/impl/UserServiceImpl.java" />
-      <jump line="70" column="22" filename="$USER_HOME$/workspace/micro-service/code_center/code_product/src/main/java/com/uuvalue/micros/product/ProductAPIVerticle.java" />
       <jump line="166" column="37" filename="$USER_HOME$/workspace/micro-service/code_center/code_product/src/main/java/com/uuvalue/micros/product/service/impl/ProductServiceImpl.java" />
       <jump line="94" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_product/src/main/java/com/uuvalue/micros/product/ProductAPIVerticle.java" />
       <jump line="6" column="13" filename="$USER_HOME$/workspace/micro-service/code_center/code_product/src/main/java/com/uuvalue/micros/product/Docs.java" />
@@ -382,6 +374,15 @@
       <jump line="594" column="27" filename="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" />
       <jump line="484" column="5" filename="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" />
       <jump line="487" column="3" filename="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" />
+      <jump line="621" column="16" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/InventoryServiceImpl.java" />
+      <jump line="624" column="55" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/InventoryServiceImpl.java" />
+      <jump line="626" column="16" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/InventoryServiceImpl.java" />
+      <jump line="629" column="58" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/InventoryServiceImpl.java" />
+      <jump line="637" column="30" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/InventoryServiceImpl.java" />
+      <jump line="752" column="25" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/InventoryServiceImpl.java" />
+      <jump line="754" column="58" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/InventoryServiceImpl.java" />
+      <jump line="757" column="16" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/InventoryServiceImpl.java" />
+      <jump line="760" column="59" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/InventoryServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -394,7 +395,7 @@
         <text>N</text>
       </register>
       <register name="/" type="4">
-        <text>单箱出库</text>
+        <text encoding="base64">XDxjb2RlTGlzdFw+</text>
       </register>
       <register name="0" type="4">
         <text>json-lib</text>
@@ -431,9 +432,9 @@
       </register>
     </registers>
     <search>
-      <last-search>单箱出库</last-search>
+      <last-search encoding="base64">XDxjb2RlTGlzdFw+</last-search>
       <last-offset />
-      <last-pattern>单箱出库</last-pattern>
+      <last-pattern encoding="base64">XDxjb2RlTGlzdFw+</last-pattern>
       <last-replace>${tbName}</last-replace>
       <last-substitute>&quot;com_jinhui_repoin&quot;</last-substitute>
       <last-dir>1</last-dir>
@@ -441,7 +442,6 @@
     </search>
     <history>
       <history-search>
-        <entry>3</entry>
         <entry>return 3</entry>
         <entry>l()</entry>
         <entry>#hint</entry>
@@ -461,6 +461,7 @@
         <entry>add</entry>
         <entry>手工出库</entry>
         <entry>单箱出库</entry>
+        <entry encoding="base64">XDxjb2RlTGlzdFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NpdHkvZGlzdC9n</entry>
