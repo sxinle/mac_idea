@@ -39,6 +39,13 @@
       <file name="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" timestamp="1539155624098">
         <mark key="'" line="500" column="119" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/canalslave/src/main/java/com/uuvalue/Example.java" timestamp="1540293836579">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="98" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/zest/src/main/java/http/RechargeUtil.java" timestamp="1540292923336">
         <mark key="[" line="6" column="36" />
         <mark key="]" line="6" column="44" />
@@ -129,6 +136,12 @@
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/crm/app/controllers/product/ProductController.java" timestamp="1539328479646">
         <mark key="'" line="214" column="5" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/canalslave/pom.xml" timestamp="1540293768287">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="12" column="7" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1539855173452">
         <mark key="[" line="0" column="0" />
@@ -225,9 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="367" column="139" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
-      <jump line="220" column="115" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
-      <jump line="221" column="115" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="222" column="133" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="38" column="4" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/models/ScanPrizeDetail.java" />
       <jump line="338" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
@@ -325,6 +335,9 @@
       <jump line="886" column="25" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/newpage/mobCalls.scala.html" />
       <jump line="897" column="73" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/newpage/mobCalls.scala.html" />
       <jump line="433" column="40" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/newpage/mobCalls.scala.html" />
+      <jump line="100" column="0" filename="$USER_HOME$/workspace/demo/canalslave/src/main/java/com/uuvalue/Example.java" />
+      <jump line="19" column="13" filename="$USER_HOME$/workspace/demo/canalslave/src/main/java/com/uuvalue/Example.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/demo/canalslave/src/main/java/com/uuvalue/Example.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -334,7 +347,7 @@
         <text>{}</text>
       </register>
       <register name="-" type="4">
-        <text>LVMHo3rb</text>
+        <text>SimpleCanalClient</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGFua3NcPg==</text>
@@ -343,31 +356,31 @@
         <text>condition</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgzMDAwTCk7Cg==</text>
+        <text encoding="base64">ICAgIHBhY2thZ2UgY29tLmFsaWJhYmEub3R0ZXIuY2FuYWwuc2FtcGxlOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIEV4YW1wbGUgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9zdHJBcnJheVsxXSA9IHN0ckFycmF5WzFdLnN1YnN0cmluZygwLCBzdHJBcnJheVsxXS5sYXN0SW5kZXhPZigiKCIpKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMDApOwogICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIDxkZXBlbmRlbmN5PgogICAgICAgIDxncm91cElkPmNvbS5hbGliYWJhLm90dGVyPC9ncm91cElkPgogICAgICAgIDxhcnRpZmFjdElkPmNhbmFsLmNsaWVudDwvYXJ0aWZhY3RJZD4KICAgICAgICA8dmVyc2lvbj4xLjEuMDwvdmVyc2lvbj4KICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV0LnNmLmpzb24tbGliCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFRocmVhZC5zbGVlcCgzMDAwTCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNjb3BlPmNvbXBpbGU8L3Njb3BlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9zdHJBcnJheVsxXSA9IHN0ckFycmF5WzFdLnN1YnN0cmluZygwLCBzdHJBcnJheVsxXS5sYXN0SW5kZXhPZigiKCIpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICBUaHJlYWQuc2xlZXAoMTAwMDApOwogICAgICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIHNxbFByZVdlZWsgPSAiIiwgc3FsQ3VycldlZWsgPSAiIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV0LnNmLmpzb24tbGliCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
