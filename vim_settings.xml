@@ -374,7 +374,7 @@
         <text>io.vertx.ext.mongo.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0aGFua3NcPg==</text>
+        <text>spring</text>
       </register>
       <register name="0" type="4">
         <text>io.vertx.reactivex.ext.mongo</text>
@@ -411,17 +411,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0aGFua3NcPg==</last-search>
+      <last-search>spring</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0aGFua3NcPg==</last-pattern>
+      <last-pattern>spring</last-pattern>
       <last-replace>${tbName}</last-replace>
       <last-substitute>&quot;com_jinhui_repoin&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaW5pc2hlZFw+</entry>
         <entry>add</entry>
         <entry>手工出库</entry>
         <entry>单箱出库</entry>
@@ -441,6 +440,7 @@
         <entry encoding="base64">XDxwcml6ZUJ0blw+</entry>
         <entry encoding="base64">XDzmnKrkuK3lpZbmj5DnpLpcPg==</entry>
         <entry encoding="base64">XDx0aGFua3NcPg==</entry>
+        <entry>spring</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NpdHkvZGlzdC9n</entry>
