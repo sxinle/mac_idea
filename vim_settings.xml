@@ -227,7 +227,7 @@
         <mark key="[" line="101" column="11" />
         <mark key="]" line="101" column="41" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" timestamp="1540455717679">
+      <file name="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" timestamp="1540877096503">
         <mark key="'" line="141" column="24" />
         <mark key="[" line="149" column="39" />
         <mark key="]" line="149" column="46" />
@@ -262,8 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="130" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
-      <jump line="224" column="56" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/newpage/mobCalls.scala.html" />
       <jump line="911" column="41" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/newpage/mobCalls.scala.html" />
       <jump line="938" column="46" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/newpage/mobCalls.scala.html" />
       <jump line="896" column="69" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/newpage/mobCalls.scala.html" />
@@ -362,6 +360,8 @@
       <jump line="17" column="19" filename="$USER_HOME$/workspace/micro-service/common/common/pom.xml" />
       <jump line="45" column="19" filename="$USER_HOME$/workspace/micro-service/common/micros-forms/src/main/java/com/uuvalue/micros/forms/service/impl/FormServiceImpl.java" />
       <jump line="192" column="23" filename="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
+      <jump line="143" column="16" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
+      <jump line="141" column="24" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -374,7 +374,7 @@
         <text>io.vertx.ext.mongo.</text>
       </register>
       <register name="/" type="4">
-        <text>spring</text>
+        <text>return 3</text>
       </register>
       <register name="0" type="4">
         <text>io.vertx.reactivex.ext.mongo</text>
@@ -411,17 +411,16 @@
       </register>
     </registers>
     <search>
-      <last-search>spring</last-search>
+      <last-search>return 3</last-search>
       <last-offset />
-      <last-pattern>spring</last-pattern>
+      <last-pattern>return 3</last-pattern>
       <last-replace>${tbName}</last-replace>
       <last-substitute>&quot;com_jinhui_repoin&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>add</entry>
         <entry>手工出库</entry>
         <entry>单箱出库</entry>
         <entry encoding="base64">XDxjb2RlTGlzdFw+</entry>
@@ -441,6 +440,7 @@
         <entry encoding="base64">XDzmnKrkuK3lpZbmj5DnpLpcPg==</entry>
         <entry encoding="base64">XDx0aGFua3NcPg==</entry>
         <entry>spring</entry>
+        <entry>return 3</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NpdHkvZGlzdC9n</entry>
