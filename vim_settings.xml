@@ -233,6 +233,12 @@
       <file name="$USER_HOME$/workspace/jinhui/prod/anti/app/setup/Setup.java" timestamp="1539156037082">
         <mark key="'" line="47" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" timestamp="1542007829863">
+        <mark key="'" line="38" column="45" />
+        <mark key="[" line="61" column="7" />
+        <mark key="]" line="61" column="12" />
+        <mark key="." line="61" column="12" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/Docs.java" timestamp="1538123686034">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="69" column="48" />
@@ -288,10 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="28" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/newpage/mobCalls.scala.html" />
-      <jump line="205" column="28" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/newpage/mobCalls.scala.html" />
-      <jump line="247" column="28" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/newpage/mobCalls.scala.html" />
-      <jump line="731" column="32" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/newpage/mobCalls.scala.html" />
       <jump line="761" column="47" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/newpage/mobCalls.scala.html" />
       <jump line="926" column="35" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/newpage/mobCalls.scala.html" />
       <jump line="195" column="28" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/newpage/mobCalls.scala.html" />
@@ -388,6 +390,10 @@
       <jump line="6" column="17" filename="$USER_HOME$/workspace/demo/zest/src/main/java/zest/Test.java" />
       <jump line="28" column="8" filename="$USER_HOME$/workspace/demo/zest/src/main/java/zest/Test.java" />
       <jump line="9" column="24" filename="$USER_HOME$/workspace/demo/zest/src/main/java/zest/Test.java" />
+      <jump line="118" column="19" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
+      <jump line="145" column="34" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
+      <jump line="146" column="24" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
+      <jump line="38" column="45" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -400,10 +406,10 @@
         <text>用户名或密码错误</text>
       </register>
       <register name="/" type="4">
-        <text>control</text>
+        <text>27017</text>
       </register>
       <register name="0" type="4">
-        <text>runCurl(command + account[0] + &quot; &quot;+ account[1]).contains(&quot;用户名或密码错误&quot;)</text>
+        <text>pointshub123_ol</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -774,20 +780,16 @@
       </register>
     </registers>
     <search>
-      <last-search>control</last-search>
+      <last-search>27017</last-search>
       <last-offset />
-      <last-pattern>control</last-pattern>
+      <last-pattern>27017</last-pattern>
       <last-replace>${tbName}</last-replace>
       <last-substitute>&quot;com_jinhui_repoin&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>code_info</entry>
-        <entry>send</entry>
-        <entry encoding="base64">XDxjb2xsZWN0aW9uX2NvZGVfaW5mb1w+</entry>
-        <entry encoding="base64">XDxjdXN0U3luVGhyZWFkXD4=</entry>
         <entry encoding="base64">XDxyZWRpc0NsaVw+</entry>
         <entry>eval</entry>
         <entry>evl</entry>
@@ -804,6 +806,10 @@
         <entry>fuzzy</entry>
         <entry>market</entry>
         <entry>control</entry>
+        <entry>on</entry>
+        <entry>pointshub-ol</entry>
+        <entry>pointshub_on</entry>
+        <entry>27017</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NpdHkvZGlzdC9n</entry>
