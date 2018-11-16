@@ -93,6 +93,9 @@
         <mark key="." line="139" column="15" />
         <mark key="^" line="139" column="15" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/jhshop/micros-order/src/main/java/com/uuvalue/micros/order/OrderAPIVerticle.java" timestamp="1542343367085">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/anti/app/service/DimensionService.java" timestamp="1539155958244">
         <mark key="'" line="32" column="8" />
       </file>
@@ -341,11 +344,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1190" column="36" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/InventoryServiceImpl.java" />
-      <jump line="28" column="32" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/DimensionService.java" />
-      <jump line="32" column="8" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/DimensionService.java" />
-      <jump line="47" column="26" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/setup/Setup.java" />
-      <jump line="214" column="5" filename="$USER_HOME$/workspace/jinhui/prod/crm/app/controllers/product/ProductController.java" />
       <jump line="43" column="8" filename="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/_2_ids_txt统计199_99_66.java" />
       <jump line="79" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/_2_ids_txt统计199_99_66.java" />
       <jump line="654" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/service/impl/UserServiceImpl.java" />
@@ -441,6 +439,11 @@
       <jump line="8" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
       <jump line="219" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
       <jump line="7" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
+      <jump line="215" column="30" filename="$USER_HOME$/workspace/micro-service/jhshop/micros-order/src/main/java/com/uuvalue/micros/order/OrderAPIVerticle.java" />
+      <jump line="53" column="57" filename="$USER_HOME$/workspace/micro-service/jhshop/micros-order/src/main/java/com/uuvalue/micros/order/OrderAPIVerticle.java" />
+      <jump line="64" column="46" filename="$USER_HOME$/workspace/micro-service/jhshop/micros-order/src/main/java/com/uuvalue/micros/order/OrderAPIVerticle.java" />
+      <jump line="68" column="38" filename="$USER_HOME$/workspace/micro-service/jhshop/micros-order/src/main/java/com/uuvalue/micros/order/OrderAPIVerticle.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/micro-service/jhshop/micros-order/src/main/java/com/uuvalue/micros/order/OrderAPIVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -453,7 +456,7 @@
         <text>HqoR7zhU</text>
       </register>
       <register name="/" type="4">
-        <text>50%</text>
+        <text>settings</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHdpZHRoOiA1MCU7Cg==</text>
@@ -490,18 +493,16 @@
       </register>
     </registers>
     <search>
-      <last-search>50%</last-search>
+      <last-search>settings</last-search>
       <last-offset />
-      <last-pattern>50%</last-pattern>
+      <last-pattern>settings</last-pattern>
       <last-replace>${tbName}</last-replace>
       <last-substitute>&quot;com_jinhui_repoin&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>on</entry>
-        <entry>pointshub-ol</entry>
         <entry>pointshub_on</entry>
         <entry>27017</entry>
         <entry>modal</entry>
@@ -520,6 +521,8 @@
         <entry>li</entry>
         <entry>nav .li</entry>
         <entry>50%</entry>
+        <entry>js</entry>
+        <entry>settings</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2NpdHkvZGlzdC9n</entry>
