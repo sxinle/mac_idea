@@ -53,10 +53,6 @@
         <mark key="." line="18" column="18" />
         <mark key="^" line="11" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/common/micros-forms/src/main/resources/config.json" timestamp="1539930446393">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="1" column="26" />
-      </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/newpage/mobAcceptThePrizeInfo.scala.html" timestamp="1542012463581">
         <mark key="'" line="129" column="15" />
         <mark key="[" line="27" column="27" />
@@ -146,10 +142,6 @@
         <mark key="." line="58" column="35" />
         <mark key="^" line="58" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/SendMessageServiceImpl.java" timestamp="1539221648326">
-        <mark key="[" line="30" column="13" />
-        <mark key="]" line="30" column="34" />
-      </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_product/src/main/java/com/uuvalue/micros/product/Docs.java" timestamp="1538193354903">
         <mark key="'" line="6" column="13" />
         <mark key="[" line="55" column="0" />
@@ -177,8 +169,10 @@
         <mark key="." line="18" column="4" />
         <mark key="^" line="18" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" timestamp="1539155624098">
+      <file name="$USER_HOME$/workspace/jinhui/prod/anti/conf/routes" timestamp="1542676587541">
         <mark key="'" line="500" column="119" />
+        <mark key="[" line="318" column="15" />
+        <mark key="]" line="318" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_storage/src/main/java/com/uuvalue/micros/cstorage/service/impl/StorageServiceImpl.java" timestamp="1541329828359">
         <mark key="[" line="309" column="35" />
@@ -209,10 +203,6 @@
         <mark key="]" line="77" column="0" />
         <mark key="^" line="79" column="80" />
         <mark key="." line="77" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/micro-service/code_center/code_storage/src/main/java/com/uuvalue/micros/cstorage/StorageAPIVerticle.java" timestamp="1541329534096">
-        <mark key="[" line="43" column="21" />
-        <mark key="]" line="43" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/service/impl/ScanServiceImpl.java" timestamp="1542011770487">
         <mark key="[" line="33" column="33" />
@@ -261,10 +251,6 @@
       <file name="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" timestamp="1540547666481">
         <mark key="'" line="192" column="23" />
       </file>
-      <file name="/StorageServiceImpl.java" timestamp="1541328297855">
-        <mark key="[" line="270" column="16" />
-        <mark key="]" line="270" column="25" />
-      </file>
       <file name="$USER_HOME$/workspace/demo/zest/src/main/java/jinhui/_2_ids_txt统计199_99_66.java" timestamp="1539758602733">
         <mark key="'" line="79" column="0" />
       </file>
@@ -290,10 +276,6 @@
         <mark key="]" line="69" column="57" />
         <mark key="." line="69" column="57" />
         <mark key="^" line="69" column="57" />
-      </file>
-      <file name="$USER_HOME$/Desktop/f-machine/home/tmp/upload__5a93ae46_15093bfde58__8000_00000001.tmp" timestamp="1538209965358">
-        <mark key="[" line="101" column="11" />
-        <mark key="]" line="101" column="41" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_storage/pom.xml" timestamp="1541328553155">
         <mark key="[" line="63" column="21" />
@@ -343,10 +325,6 @@
         <mark key="]" line="121" column="0" />
         <mark key="^" line="119" column="56" />
         <mark key="." line="121" column="0" />
-      </file>
-      <file name="/pom.xml" timestamp="1539053518741">
-        <mark key="[" line="69" column="24" />
-        <mark key="]" line="69" column="31" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/common/gateway/src/main/resources/config.json" timestamp="1541329119101">
         <mark key="[" line="18" column="15" />
@@ -472,8 +450,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxwcml6ZUJ0blw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChAc2NhblByaXplLmxldmVsPT0xMCl7Cg==</text>
+      <register name="0" type="4">
+        <text>uploadfile/uploadData</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
@@ -513,7 +491,7 @@
       <last-replace>${tbName}</last-replace>
       <last-substitute>&quot;com_jinhui_repoin&quot;</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
