@@ -22,6 +22,7 @@
         <mark key="^" line="7" column="18" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6-sources.jar!/org/apache/ibatis/executor/SimpleExecutor.java" timestamp="1543460093648" />
+      <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper-core/1.1.0/mapper-core-1.1.0.jar!/tk/mybatis/mapper/mapperhelper/SqlHelper.class" timestamp="1543462817611" />
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_product/src/main/java/com/uuvalue/micros/product/ProductAPIVerticle.java" timestamp="1538193424430">
         <mark key="'" line="99" column="0" />
         <mark key="[" line="44" column="58" />
@@ -251,10 +252,10 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/RootApp.java" timestamp="1543462178942">
-        <mark key="[" line="34" column="5" />
-        <mark key="]" line="35" column="3" />
-        <mark key="." line="35" column="3" />
+      <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/RootApp.java" timestamp="1543462895893">
+        <mark key="[" line="16" column="60" />
+        <mark key="]" line="16" column="60" />
+        <mark key="." line="16" column="60" />
         <mark key="^" line="35" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/mappers/UserMapper.java" timestamp="1538124757732">
@@ -553,6 +554,7 @@
         <mark key="." line="14" column="23" />
         <mark key="^" line="14" column="23" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper-core/1.1.0/mapper-core-1.1.0-sources.jar!/tk/mybatis/mapper/mapperhelper/SqlHelper.java" timestamp="1543463032990" />
       <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/domain/ShopAccount.java" timestamp="1543459660130">
         <mark key="'" line="15" column="23" />
         <mark key="[" line="17" column="4" />
@@ -674,7 +676,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>Mapper</text>
+        <text>, mapperHelperRef = &quot;mapperHelper&quot;</text>
       </register>
       <register name="/" type="4">
         <text>spend</text>
