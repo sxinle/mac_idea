@@ -37,12 +37,12 @@
         <mark key="." line="26" column="21" />
         <mark key="^" line="25" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/service/ShopAreaService.java" timestamp="1543456423783">
+      <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/service/ShopAreaService.java" timestamp="1543459002414">
         <mark key="'" line="36" column="35" />
-        <mark key="[" line="56" column="47" />
-        <mark key="]" line="56" column="56" />
-        <mark key="." line="56" column="56" />
-        <mark key="^" line="56" column="56" />
+        <mark key="[" line="57" column="29" />
+        <mark key="]" line="57" column="55" />
+        <mark key="." line="55" column="47" />
+        <mark key="^" line="55" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/Swagger2.java" timestamp="1543386573183">
         <mark key="[" line="28" column="41" />
@@ -479,7 +479,7 @@
         <mark key="." line="23" column="27" />
         <mark key="^" line="24" column="39" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/mapper/ShopAreaMapper.java" timestamp="1543456130407">
+      <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/mapper/ShopAreaMapper.java" timestamp="1543458565023">
         <mark key="[" line="9" column="4" />
         <mark key="]" line="9" column="6" />
         <mark key="." line="9" column="6" />
@@ -671,35 +671,35 @@
       <register name="/" type="4">
         <text>spend</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5Yig6Zmk5Yy65Z+fIiwgbm90ZXMgPSAiIikKICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIvOmlkIiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5ERUxFVEUpCiAgICBwcml2YXRlIE9iamVjdCBkZWxBcmVhKEBQYXRoVmFyaWFibGUgSW50ZWdlciBpZCkgewogICAgICAgIHJldHVybiBhcmVhU2VydmljZS5kZWxBcmVhKGlkKTsKICAgIH0K</text>
+      <register name="0" type="4">
+        <text>updateByPrimaryKeySelective</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTaG9wQXJlYSBleGFtcGxlID0gbmV3IFNob3BBcmVhKCk7CiAgICAgICAgZXhhbXBsZS5zZXRJZChpZCk7CiAgICAgICAgU2hvcEFyZWEgZGJSZWNvcmQgPSBhcmVhTWFwcGVyLnNlbGVjdEJ5UHJpbWFyeUtleShleGFtcGxlKTsKICAgICAgICBkYlJlY29yZC5kZWxTZWxmKCk7CiAgICAgICAgYXJlYU1hcHBlci51cGRhdGVCeVByaW1hcnlLZXlTZWxlY3RpdmUoZGJSZWNvcmQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvL2ludCBjbnQgPSBhcmVhTWFwcGVyLmRlbChpZCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBleGFtcGxlLmRlbFNlbGYoKTsK</text>
+        <text encoding="base64">ICAgICAgICBFeGFtcGxlIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhcmVhTWFwcGVyLnVwCg==</text>
+        <text encoding="base64">ICAgICAgICBTaG9wQXJlYSBleGFtcGxlID0gbmV3IFNob3BBcmVhKCk7CiAgICAgICAgZXhhbXBsZS5zZXRJZChpZCk7CiAgICAgICAgU2hvcEFyZWEgZGJSZWNvcmQgPSBhcmVhTWFwcGVyLnNlbGVjdEJ5UHJpbWFyeUtleShleGFtcGxlKTsKICAgICAgICBkYlJlY29yZC5kZWxTZWxmKCk7CiAgICAgICAgYXJlYU1hcHBlci51cGRhdGVCeVByaW1hcnlLZXlTZWxlY3RpdmUoZGJSZWNvcmQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBleGFtcGxlLmRlbFNlbGYoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBhcmVhTWFwcGVyLnVwCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHQgZGVsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcmVhTWFwcGVyLnVwZGF0ZUJ5RXhhbXBsZVNlbGVjdGl2ZSgpCg==</text>
+        <text encoding="base64">ICAgIGRlZmF1bHQgZGVsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
