@@ -107,6 +107,9 @@
         <mark key="^" line="53" column="91" />
         <mark key="." line="55" column="0" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper-base/1.1.0/mapper-base-1.1.0-sources.jar!/tk/mybatis/mapper/provider/base/BaseSelectProvider.java" timestamp="1543470548982">
+        <mark key="'" line="149" column="34" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/impl/AdminUserServiceImpl.java" timestamp="1543386190043">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="20" column="33" />
@@ -301,10 +304,10 @@
         <mark key="." line="24" column="16" />
         <mark key="^" line="24" column="16" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/domain/AdminUser.java" timestamp="1543464988536">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/domain/AdminUser.java" timestamp="1543470755391">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/takeout-backend/src/main/java/com/acenode/takeout/util/exceptions/GlobalExpHandler.java" timestamp="1543258071318">
         <mark key="'" line="15" column="23" />
@@ -423,8 +426,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="96" column="41" filename="$USER_HOME$/workspace/demo/takeout_cloud/pom.xml" />
-      <jump line="77" column="28" filename="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/pom.xml" />
       <jump line="4" column="0" filename="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/pom.xml" />
       <jump line="13" column="10" filename="$USER_HOME$/workspace/demo/takeout_cloud/pom.xml" />
       <jump line="6" column="16" filename="$USER_HOME$/workspace/demo/takeout_cloud/pom.xml" />
@@ -523,6 +524,8 @@
       <jump line="26" column="25" filename="$MAVEN_REPOSITORY$/tk/mybatis/mapper-core/1.1.0/mapper-core-1.1.0-sources.jar!/tk/mybatis/mapper/mapperhelper/SqlHelper.java" />
       <jump line="27" column="36" filename="$MAVEN_REPOSITORY$/tk/mybatis/mapper-core/1.1.0/mapper-core-1.1.0-sources.jar!/tk/mybatis/mapper/mapperhelper/SqlHelper.java" />
       <jump line="227" column="49" filename="$MAVEN_REPOSITORY$/tk/mybatis/mapper-core/1.1.0/mapper-core-1.1.0-sources.jar!/tk/mybatis/mapper/mapperhelper/MapperTemplate.java" />
+      <jump line="137" column="13" filename="$MAVEN_REPOSITORY$/tk/mybatis/mapper-base/1.1.0/mapper-base-1.1.0-sources.jar!/tk/mybatis/mapper/provider/base/BaseSelectProvider.java" />
+      <jump line="149" column="34" filename="$MAVEN_REPOSITORY$/tk/mybatis/mapper-base/1.1.0/mapper-base-1.1.0-sources.jar!/tk/mybatis/mapper/provider/base/BaseSelectProvider.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -541,31 +544,31 @@
         <text>tk.mybatis</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhcmVhLnNldERlbEZsYWcoMSk7Cg==</text>
+        <text encoding="base64">ICAgIEBMb2dpY0RlbGV0ZQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL2FyZWEuZGVsU2VsZigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhcmVhLnNldERlbEZsYWcoMSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBJZAogICAgQEtleVNxbCh1c2VHZW5lcmF0ZWRLZXlzID0gdHJ1ZSkKICAgIHByaXZhdGUgaW50IGlkOwoK</text>
+        <text encoding="base64">ICAgICAgICAvL2FyZWEuZGVsU2VsZigpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBJZAogICAgQEtleVNxbCh1c2VHZW5lcmF0ZWRLZXlzID0gdHJ1ZSkKICAgIHByaXZhdGUgaW50IGlkOwoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBJZAogICAgQEtleVNxbCh1c2VHZW5lcmF0ZWRLZXlzID0gdHJ1ZSkKICAgIHByaXZhdGUgaW50IGlkOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBJZAogICAgQEtleVNxbCh1c2VHZW5lcmF0ZWRLZXlzID0gdHJ1ZSkKICAgIHByaXZhdGUgaW50IGlkOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBJZAogICAgQEdlbmVyYXRlZFZhbHVlKHN0cmF0ZWd5ID0gR2VuZXJhdGlvblR5cGUuSURFTlRJVFkpCiAgICBwcml2YXRlIExvbmcgaWQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QERhdGEK</text>
+        <text encoding="base64">ICAgIEBJZAogICAgQEdlbmVyYXRlZFZhbHVlKHN0cmF0ZWd5ID0gR2VuZXJhdGlvblR5cGUuSURFTlRJVFkpCiAgICBwcml2YXRlIExvbmcgaWQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
