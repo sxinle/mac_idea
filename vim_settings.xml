@@ -184,6 +184,12 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="46" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_gateway/src/main/java/com/acenode/takeout/node/TokenFilter.java" timestamp="1543482173304">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="45" column="45" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/service/impl/UserServiceImpl.java" timestamp="1543305056928">
         <mark key="'" line="121" column="0" />
         <mark key="[" line="732" column="0" />
@@ -288,6 +294,11 @@
         <mark key="^" line="40" column="25" />
         <mark key="." line="40" column="25" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/takeout_cloud/cloud_common/src/main/java/com/acenode/cloud/util/TokenFilter.java" timestamp="1543481155193">
+        <mark key="]" line="1" column="5" />
+        <mark key="." line="1" column="5" />
+        <mark key="^" line="1" column="5" />
+      </file>
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/controllers/console/PrizeManager.java" timestamp="1538962866201">
         <mark key="'" line="41" column="0" />
         <mark key="[" line="121" column="0" />
@@ -348,6 +359,12 @@
         <mark key="." line="23" column="33" />
         <mark key="^" line="23" column="29" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/takeout_cloud/cloud_common/src/main/java/com/acenode/cloud/util/Utils.java" timestamp="1543481416422">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="18" />
+        <mark key="^" line="2" column="19" />
+        <mark key="." line="2" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_node/src/main/resources/application.yml" timestamp="1543423684923">
         <mark key="'" line="54" column="0" />
         <mark key="[" line="13" column="31" />
@@ -362,6 +379,9 @@
         <mark key="]" line="45" column="31" />
         <mark key="^" line="45" column="31" />
         <mark key="." line="45" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/demo/takeout_cloud/cloud_common/src/main/java/com/acenode/cloud/util/TokenUtil.java" timestamp="1543481411680">
+        <mark key="[" line="2" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/ShopAccountController.java" timestamp="1543422329169">
         <mark key="'" line="0" column="36" />
@@ -603,8 +623,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="14" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/2.1.0.RELEASE/spring-boot-starter-web-2.1.0.RELEASE.pom" />
-      <jump line="12" column="8" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/2.1.0.RELEASE/spring-boot-starter-web-2.1.0.RELEASE.pom" />
       <jump line="13" column="79" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/2.1.0.RELEASE/spring-boot-starter-web-2.1.0.RELEASE.pom" />
       <jump line="15" column="88" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/2.1.0.RELEASE/spring-boot-starter-web-2.1.0.RELEASE.pom" />
       <jump line="18" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/2.1.0.RELEASE/spring-boot-starter-web-2.1.0.RELEASE.pom" />
@@ -703,6 +721,8 @@
       <jump line="722" column="51" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/InventoryServiceImpl.java" />
       <jump line="771" column="21" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/InventoryServiceImpl.java" />
       <jump line="831" column="16" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/InventoryServiceImpl.java" />
+      <jump line="2" column="24" filename="$USER_HOME$/workspace/demo/takeout_cloud/cloud_common/src/main/java/com/acenode/cloud/util/TokenFilter.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/demo/takeout_cloud/takeout_gateway/src/main/java/com/acenode/takeout/node/TokenFilter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -712,7 +732,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>deleteByPrimaryKey</text>
+        <text>token;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx1cExvYWRDb2RlTGlzdFw+</text>
@@ -724,28 +744,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBMb2dpY0RlbGV0ZQogICAgcHJpdmF0ZSBJbnRlZ2VyIGRlbEZsYWc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoU3RyaW5nVXRpbHMuaXNFbXB0eSh0b2tlbikpIHsKICAgICAgICAgICAgdG9rZW4gPSByZXF1ZXN0LgoKICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBMb2dpY0RlbGV0ZQogICAgcHJpdmF0ZSBJbnRlZ2VyIGRlbEZsYWc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBSZXF1amprago=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdG9rZW4gPSByZXF1ZXN0LmdldFBhcmFtZXRlcigidG9rZW4iKTsvLyDojrflj5bor7fmsYLnmoTlj4LmlbAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBMb2dpY0RlbGV0ZQogICAgcHJpdmF0ZSBJbnRlZ2VyIGRlbEZsYWc7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTG9nZ2VyIGxvZ2dlciA9IExvZ2dlckZhY3RvcnkuZ2V0TG9nZ2VyKFRva2VuRmlsdGVyLmNsYXNzKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vcHVibGljIEJhc2VEb21haW4gZGVsU2VsZigpIHsKICAgIC8vICAgIHRoaXMuZGVsRmxhZyA9IDE7CiAgICAvLyAgICByZXR1cm4gdGhpczsKICAgIC8vfQo=</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFRva2VuRmlsdGVyIHsKfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgdGsubXliYXRpcy5tYXBwZXIuYW5ub3RhdGlvbi5Mb2dpY0RlbGV0ZTsK</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFRva2VuRmlsdGVyIHsKfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
