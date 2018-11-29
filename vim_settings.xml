@@ -38,12 +38,12 @@
         <mark key="." line="26" column="21" />
         <mark key="^" line="25" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/service/ShopAreaService.java" timestamp="1543460210117">
+      <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/service/ShopAreaService.java" timestamp="1543461285082">
         <mark key="'" line="36" column="35" />
-        <mark key="[" line="58" column="29" />
-        <mark key="]" line="58" column="55" />
-        <mark key="." line="57" column="22" />
-        <mark key="^" line="57" column="22" />
+        <mark key="[" line="57" column="23" />
+        <mark key="]" line="59" column="36" />
+        <mark key="." line="59" column="36" />
+        <mark key="^" line="59" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/Swagger2.java" timestamp="1543386573183">
         <mark key="[" line="28" column="41" />
@@ -92,6 +92,7 @@
         <mark key="." line="13" column="33" />
         <mark key="^" line="13" column="33" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper-base/1.1.0/mapper-base-1.1.0-sources.jar!/tk/mybatis/mapper/provider/base/BaseUpdateProvider.java" timestamp="1543461542615" />
       <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/app/views/newpage/mobAcceptThePrizeInfo.scala.html" timestamp="1542012463581">
         <mark key="'" line="129" column="15" />
         <mark key="[" line="27" column="27" />
@@ -166,11 +167,11 @@
         <mark key="^" line="15" column="74" />
         <mark key="." line="15" column="74" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/domain/ShopArea.java" timestamp="1543459645921">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="18" column="18" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="15" column="3" />
+      <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/domain/ShopArea.java" timestamp="1543461389632">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="17" column="3" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/takeout-server/takeout-backend/pom.xml" timestamp="1543232776633">
         <mark key="'" line="1" column="0" />
@@ -250,11 +251,11 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/RootApp.java" timestamp="1543417243829">
-        <mark key="[" line="8" column="13" />
-        <mark key="]" line="8" column="18" />
-        <mark key="." line="8" column="18" />
-        <mark key="^" line="8" column="18" />
+      <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/RootApp.java" timestamp="1543462178942">
+        <mark key="[" line="34" column="5" />
+        <mark key="]" line="35" column="3" />
+        <mark key="." line="35" column="3" />
+        <mark key="^" line="35" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_user/src/main/java/com/uuvalue/micros/cuser/mappers/UserMapper.java" timestamp="1538124757732">
         <mark key="'" line="60" column="0" />
@@ -483,10 +484,10 @@
         <mark key="^" line="24" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/mapper/ShopAreaMapper.java" timestamp="1543458565023">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="6" />
-        <mark key="." line="9" column="6" />
-        <mark key="^" line="9" column="6" />
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="6" />
+        <mark key="." line="8" column="6" />
+        <mark key="^" line="8" column="6" />
       </file>
       <file name="$USER_HOME$/workspace/demo/takeout_cloud/cloud_common/src/main/java/com/acenode/cloud/util/GlobalExpHandler.java" timestamp="1543374371108">
         <mark key="[" line="34" column="81" />
@@ -513,6 +514,10 @@
         <mark key="]" line="69" column="57" />
         <mark key="." line="69" column="57" />
         <mark key="^" line="69" column="57" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/tk/mybatis/mapper-base/1.1.0/mapper-base-1.1.0-sources.jar!/tk/mybatis/mapper/common/base/update/UpdateByPrimaryKeySelectiveMapper.java" timestamp="1543461595766">
+        <mark key="[" line="46" column="8" />
+        <mark key="]" line="46" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" timestamp="1540877096503">
         <mark key="'" line="141" column="24" />
@@ -669,40 +674,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>.setId(id);</text>
+        <text>Mapper</text>
       </register>
       <register name="/" type="4">
         <text>spend</text>
       </register>
-      <register name="0" type="4">
-        <text>updateByPrimaryKeySelective</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBtYXBwZXJzLmFkZChNYXBwZXIuY2xhc3MpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBJZAogICAgQEtleVNxbCh1c2VHZW5lcmF0ZWRLZXlzID0gdHJ1ZSkKICAgIHByaXZhdGUgaW50IGlkOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvL2ludCBjbnQgPSBhcmVhTWFwcGVyLmRlbChpZCk7Cg==</text>
+        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJJZCIpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBFeGFtcGxlIAo=</text>
+        <text encoding="base64">ICAgIEBJZAogICAgQEtleVNxbCh1c2VHZW5lcmF0ZWRLZXlzID0gdHJ1ZSkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTaG9wQXJlYSBleGFtcGxlID0gbmV3IFNob3BBcmVhKCk7CiAgICAgICAgZXhhbXBsZS5zZXRJZChpZCk7CiAgICAgICAgU2hvcEFyZWEgZGJSZWNvcmQgPSBhcmVhTWFwcGVyLnNlbGVjdEJ5UHJpbWFyeUtleShleGFtcGxlKTsKICAgICAgICBkYlJlY29yZC5kZWxTZWxmKCk7CiAgICAgICAgYXJlYU1hcHBlci51cGRhdGVCeVByaW1hcnlLZXlTZWxlY3RpdmUoZGJSZWNvcmQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBhcmVhTWFwcGVyLnVwZGF0ZUJ5UHJpbWFyeUtleSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleGFtcGxlLmRlbFNlbGYoKTsK</text>
+        <text encoding="base64">ICAgIEBJZAogICAgQEtleVNxbCh1c2VHZW5lcmF0ZWRLZXlzID0gdHJ1ZSkKICAgIHByaXZhdGUgaW50IGlkOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhcmVhTWFwcGVyLnVwCg==</text>
+        <text encoding="base64">ICAgICAgICAvL2ludCBjbnQgPSBhcmVhTWFwcGVyLmRlbChpZCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBFeGFtcGxlIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBTaG9wQXJlYSBleGFtcGxlID0gbmV3IFNob3BBcmVhKCk7CiAgICAgICAgZXhhbXBsZS5zZXRJZChpZCk7CiAgICAgICAgU2hvcEFyZWEgZGJSZWNvcmQgPSBhcmVhTWFwcGVyLnNlbGVjdEJ5UHJpbWFyeUtleShleGFtcGxlKTsKICAgICAgICBkYlJlY29yZC5kZWxTZWxmKCk7CiAgICAgICAgYXJlYU1hcHBlci51cGRhdGVCeVByaW1hcnlLZXlTZWxlY3RpdmUoZGJSZWNvcmQpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRlZmF1bHQgZGVsCg==</text>
+        <text encoding="base64">ICAgICAgICBleGFtcGxlLmRlbFNlbGYoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
