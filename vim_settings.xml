@@ -195,10 +195,10 @@
         <mark key="." line="17" column="0" />
         <mark key="^" line="46" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_gateway/src/main/java/com/acenode/takeout/node/TokenFilter.java" timestamp="1543497044568">
+      <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_gateway/src/main/java/com/acenode/takeout/node/TokenFilter.java" timestamp="1543542421170">
         <mark key="'" line="25" column="4" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
+        <mark key="[" line="45" column="42" />
+        <mark key="]" line="45" column="54" />
         <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/takeout_cloud/cloud_common/src/main/java/com/acenode/cloud/util/TokenRepo.java" timestamp="1543491196759">
@@ -516,11 +516,11 @@
         <mark key="^" line="821" column="69" />
         <mark key="." line="821" column="69" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/service/AdminUserService.java" timestamp="1543492949235">
-        <mark key="[" line="78" column="61" />
-        <mark key="]" line="78" column="63" />
-        <mark key="." line="78" column="63" />
-        <mark key="^" line="78" column="63" />
+      <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/service/AdminUserService.java" timestamp="1543542145018">
+        <mark key="[" line="82" column="91" />
+        <mark key="]" line="82" column="94" />
+        <mark key="." line="82" column="94" />
+        <mark key="^" line="82" column="94" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/code_center/code_product/src/main/java/com/uuvalue/micros/product/service/impl/ProductServiceImpl.java" timestamp="1538193608832">
         <mark key="'" line="172" column="37" />
@@ -595,11 +595,12 @@
         <mark key="." line="4" column="51" />
         <mark key="^" line="4" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/controller/AdminUserController.java" timestamp="1543496779735">
-        <mark key="[" line="37" column="19" />
-        <mark key="]" line="37" column="29" />
-        <mark key="." line="37" column="29" />
-        <mark key="^" line="37" column="29" />
+      <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/controller/AdminUserController.java" timestamp="1543541631260">
+        <mark key="'" line="39" column="4" />
+        <mark key="[" line="31" column="25" />
+        <mark key="]" line="31" column="36" />
+        <mark key="." line="31" column="36" />
+        <mark key="^" line="31" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/mapper/ShopAreaMapper.java" timestamp="1543458565023">
         <mark key="[" line="8" column="4" />
@@ -632,7 +633,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="19" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/2.1.0.RELEASE/spring-boot-starter-web-2.1.0.RELEASE.pom" />
       <jump line="46" column="18" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/2.1.0.RELEASE/spring-boot-starter-web-2.1.0.RELEASE.pom" />
       <jump line="51" column="19" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/2.1.0.RELEASE/spring-boot-starter-web-2.1.0.RELEASE.pom" />
       <jump line="52" column="18" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-web/2.1.0.RELEASE/spring-boot-starter-web-2.1.0.RELEASE.pom" />
@@ -732,6 +732,7 @@
       <jump line="51" column="0" filename="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/resources/application.yml" />
       <jump line="61" column="10" filename="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/resources/application.yml" />
       <jump line="47" column="0" filename="$USER_HOME$/workspace/demo/takeout_cloud/takeout_gateway/src/main/resources/application.yml" />
+      <jump line="39" column="4" filename="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/controller/AdminUserController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -741,13 +742,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>param.getUserName().equals(&quot;admin&quot;) ? &quot;admin&quot; : &quot;area&quot;</text>
       </register>
       <register name="/" type="4">
         <text>cors</text>
       </register>
       <register name="0" type="4">
-        <text>management.endpoints.web.cors</text>
+        <text>Authorization</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAvL2NvbmZpZy5hZGRBbGxvd2VkTWV0aG9kKCJIRUFEIik7CiAgICAgICAgLy9jb25maWcuYWRkQWxsb3dlZE1ldGhvZCgiR0VUIik7CiAgICAgICAgLy9jb25maWcuYWRkQWxsb3dlZE1ldGhvZCgiUFVUIik7CiAgICAgICAgLy9jb25maWcuYWRkQWxsb3dlZE1ldGhvZCgiUE9TVCIpOwogICAgICAgIC8vY29uZmlnLmFkZEFsbG93ZWRNZXRob2QoIkRFTEVURSIpOwogICAgICAgIC8vY29uZmlnLmFkZEFsbG93ZWRNZXRob2QoIlBBVENIIik7Cg==</text>
