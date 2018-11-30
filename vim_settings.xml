@@ -9,12 +9,12 @@
       <file name="/a.dummy" timestamp="1543562049172">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/service/ShopAreaService.java" timestamp="1543568045550">
+      <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/service/ShopAreaService.java" timestamp="1543570143981">
         <mark key="'" line="36" column="35" />
-        <mark key="[" line="57" column="29" />
-        <mark key="]" line="57" column="56" />
-        <mark key="." line="57" column="56" />
-        <mark key="^" line="57" column="56" />
+        <mark key="[" line="46" column="42" />
+        <mark key="]" line="48" column="34" />
+        <mark key="." line="48" column="34" />
+        <mark key="^" line="48" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/Swagger2.java" timestamp="1543386573183">
         <mark key="[" line="28" column="41" />
@@ -236,12 +236,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/takeout_cloud/cloud_common/src/main/java/com/acenode/cloud/domain/BaseDomain.java" timestamp="1543567204380">
-        <mark key="'" line="13" column="13" />
-        <mark key="[" line="26" column="27" />
-        <mark key="]" line="26" column="28" />
-        <mark key="." line="26" column="28" />
-        <mark key="^" line="26" column="28" />
+      <file name="$USER_HOME$/workspace/demo/takeout_cloud/cloud_common/src/main/java/com/acenode/cloud/domain/BaseDomain.java" timestamp="1543570210367">
+        <mark key="[" line="60" column="33" />
+        <mark key="]" line="60" column="34" />
+        <mark key="^" line="51" column="10" />
+        <mark key="." line="60" column="34" />
       </file>
       <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_gateway/src/main/java/com/acenode/takeout/node/Application.java" timestamp="1543303297536">
         <mark key="[" line="8" column="16" />
@@ -392,7 +391,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="13" filename="$USER_HOME$/workspace/demo/takeout_cloud/takeout_gateway/src/main/resources/application.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/demo/takeout_cloud/takeout_gateway/src/main/resources/application.yml" />
       <jump line="12" column="6" filename="$USER_HOME$/workspace/demo/takeout_cloud/takeout_gateway/src/main/resources/application.yml" />
       <jump line="55" column="26" filename="$USER_HOME$/workspace/demo/takeout_cloud/takeout_gateway/pom.xml" />
@@ -492,6 +490,7 @@
       <jump line="786" column="64" filename="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.2.RELEASE/spring-data-redis-2.1.2.RELEASE-sources.jar!/org/springframework/data/redis/core/RedisTemplate.java" />
       <jump line="8" column="55" filename="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/mapper/AdminUserAreaRelMapper.java" />
       <jump line="48" column="16" filename="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/service/AdminUserAreaRelService.java" />
+      <jump line="50" column="3" filename="$USER_HOME$/workspace/demo/takeout_cloud/cloud_common/src/main/java/com/acenode/cloud/domain/BaseDomain.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -501,13 +500,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>userService.getUser(param);</text>
+        <text>public</text>
       </register>
       <register name="/" type="4">
         <text>expi</text>
       </register>
-      <register name="0" type="4">
-        <text>getAllAreaByAdminId</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoYXJlYS53aXRoU29ydGVyKCkpIHsKICAgICAgICAgICAgdmFsIGtleSA9IGFyZWEuc29ydEtleSgpOwogICAgICAgICAgICBpZiAoYXJlYS5hc2MoKSl7CiAgICAgICAgICAgICAgICBxdWVyeS5vcmRlckJ5KGtleSkuYXNjKCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBxdWVyeS5vcmRlckJ5KGtleSkuZGVzYygpOwogICAgICAgICAgICB9CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcXVlcnkub3JkZXJCeSgiaWQiKS5kZXNjKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -516,25 +515,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoYXJlYS53aXRoU29ydGVyKCkpIHsKICAgICAgICAgICAgdmFsIGtleSA9IGFyZWEuc29ydEtleSgpOwogICAgICAgICAgICBpZiAoYXJlYS5hc2MoKSl7CiAgICAgICAgICAgICAgICBxdWVyeS5vcmRlckJ5KGtleSkuYXNjKCk7CiAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICBxdWVyeS5vcmRlckJ5KGtleSkuZGVzYygpOwogICAgICAgICAgICB9CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgcXVlcnkub3JkZXJCeSgiaWQiKS5kZXNjKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi566h55CG5ZGY55m76ZmGIiwgbm90ZXMgPSAiIikKICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJsb2dpbiIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuUE9TVCkKICAgIHByaXZhdGUgT2JqZWN0IGxvZ2luKEBSZXF1ZXN0Qm9keSBBZG1pblVzZXIgcGFyYW0sIEBSZXF1ZXN0SGVhZGVyKHZhbHVlID0gIlVzZXItQWdlbnQiKSBTdHJpbmcgdXNlckFnZW50KSB7CiAgICAgICAgcmV0dXJuIHVzZXJTZXJ2aWNlLmxvZ2luKHBhcmFtLCB1c2VyQWdlbnQpOwogICAgfQoKICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi6I635Y+W5b2T5YmN55So5oi3Iiwgbm90ZXMgPSAiIikKICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICJjdXJyZW50VXNlciIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuR0VUKQogICAgcHJpdmF0ZSBPYmplY3QgY3VycmVudFVzZXIoQWRtaW5Vc2VyIHBhcmFtKSB7CiAgICAgICAgcmV0dXJuIFJlc3Aub2soKS5kYXRhKGdldFVzZXIoKSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBTbmVha3lUaHJvd3MKICAgIHB1YmxpYyBSZXNwIGxvZ2luKEFkbWluVXNlciBwYXJhbSwgU3RyaW5nIHVzZXJBZ2VudCkgewogICAgICAgIEV4YW1wbGUgZWcgPSBFeGFtcGxlLmJ1aWxkZXIoQWRtaW5Vc2VyLmNsYXNzKS53aGVyZShTcWxzLmN1c3RvbSgpCiAgICAgICAgICAgICAgICAuYW5kRXF1YWxUbygidXNlck5hbWUiLCBwYXJhbS5nZXRVc2VyTmFtZSgpKS5hbmRFcXVhbFRvKCJkZWxGbGFnIiwgMCkpLmJ1aWxkKCk7CiAgICAgICAgdmFsIGRiVXNlciA9IHVzZXJNYXBwZXIuc2VsZWN0T25lQnlFeGFtcGxlKGVnKTsKICAgICAgICAvLyBUT0RPIHBhc3N3b3JkIHVzZSBtZDUgY29tcGFyZQogICAgICAgIGJvb2xlYW4gb2sgPSBudWxsICE9IGRiVXNlciAmJiBkYlVzZXIuZ2V0UGFzc3dvcmQoKS5jb250ZW50RXF1YWxzKHBhcmFtLmdldFBhc3N3b3JkKCkpOwoKICAgICAgICBpZiAoIW9rKSB0aHJvdyBuZXcgQml6RXhjZXB0aW9uKCLnlKjmiLflkI3lr4bnoIHplJnor68iKTsKICAgICAgICBUb2tlblVzZXIgdG9rZW5Vc2VyID0gbmV3IFRva2VuVXNlcigpOwogICAgICAgIEJlYW5VdGlscy5jb3B5UHJvcGVydGllcyhkYlVzZXIsIHRva2VuVXNlcik7CgogICAgICAgIFN0cmluZyByb2xlID0gcGFyYW0uZ2V0VXNlck5hbWUoKS5lcXVhbHMoImFkbWluIikgPyBDb25zdC5ST0xFX0FETUlOIDogQ29uc3QuUk9MRV9BUkVBOwogICAgICAgIHRva2VuVXNlci5zZXRSb2xlKHJvbGUpOwoKICAgICAgICBTdHJpbmcgdG9rZW4gPSB0b2tlblVzZXIuZ2V0VG9rZW4oKTsKICAgICAgICBTdHJpbmcga2V5ID0gdG9rZW5Vc2VyLmdldEtleSh1c2VyQWdlbnQpOwogICAgICAgIHJlZGlzLnNhdmUoa2V5LCBKU09OLnRvSlNPTlN0cmluZyh0b2tlblVzZXIpKS5leHBpcmUoa2V5LCBDb25zdC5TRVNTSU9OX1RJTUVPVVQpOwoKICAgICAgICByZXR1cm4gUmVzcC5vaygpLmRhdGEobmV3IEpTT05PYmplY3QoKS5mbHVlbnRQdXQoInRva2VuIiwgdG9rZW4pLmZsdWVudFB1dCgicm9sZSIsIHJvbGUpKTsKICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeS5vcmRlckJ5KCJjcmVhdGVBdCIpLmRlc2MoKS5hc2MoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgICA8c2VsZWN0IGlkPSJnZXRBbGxBcmVhQnlBZG1pbklkIiByZXN1bHRUeXBlPSJjb20uYWNlbm9kZS50YWtlb3V0LnJvb3QuZG9tYWluLlNob3BBcmVhIj4KICAgICAgICBzZWxlY3QgKiBmcm9tIHNob3BfYXJlYSB3aGVyZSBpZCBpbiAoc2VsZWN0IGFyZWFJZCBmcm9tIGFkbWluX3VzZXJfYXJlYSB3aGVyZSBhZG1pbklkPSN7YWRtaW5JZH0pCiAgICA8L3NlbGVjdD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgcXVlcnkub3JkZXJCeShhcmVhLnNvcnRLZXkoKSk7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBMaXN0PFNob3BBcmVhPiBnZXRBbGxBcmVhQnlBZG1pbklkKCk7Cg==</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgU3RyaW5nIHNvcnRPcmRlcigpIHsKICAgICAgICByZXR1cm4gc29ydGVyLnNwbGl0KCJfIilbMV0uc3RhcnRzV2l0aCgiYXNjIikgPyAiYXNjIiA6ICJkZXNjIjsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
