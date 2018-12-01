@@ -27,12 +27,12 @@
         <mark key="." line="11" column="5" />
         <mark key="^" line="11" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/controller/ShopTypeController.java" timestamp="1543661011543">
-        <mark key="'" line="58" column="27" />
-        <mark key="[" line="38" column="33" />
-        <mark key="]" line="38" column="46" />
-        <mark key="." line="38" column="46" />
-        <mark key="^" line="38" column="46" />
+      <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/controller/ShopTypeController.java" timestamp="1543662881091">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="40" column="15" />
+        <mark key="]" line="40" column="25" />
+        <mark key="^" line="40" column="25" />
+        <mark key="." line="40" column="25" />
       </file>
       <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/Swagger2.java" timestamp="1543374784754">
         <mark key="[" line="28" column="37" />
@@ -95,11 +95,11 @@
         <mark key="." line="28" column="54" />
         <mark key="^" line="28" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/service/ShopTypeService.java" timestamp="1543660701453">
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="13" column="13" />
-        <mark key="." line="13" column="13" />
-        <mark key="^" line="13" column="13" />
+      <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/service/ShopTypeService.java" timestamp="1543662960305">
+        <mark key="[" line="26" column="50" />
+        <mark key="]" line="26" column="65" />
+        <mark key="." line="26" column="65" />
+        <mark key="^" line="26" column="65" />
       </file>
       <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/pom.xml" timestamp="1543419448598">
         <mark key="[" line="37" column="0" />
@@ -236,10 +236,10 @@
         <mark key="." line="14" column="56" />
         <mark key="^" line="14" column="56" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/service/ShopInfoService.java" timestamp="1543659272035">
+      <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/service/ShopInfoService.java" timestamp="1543662843429">
         <mark key="'" line="89" column="39" />
-        <mark key="[" line="34" column="33" />
-        <mark key="]" line="34" column="40" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="81" column="69" />
         <mark key="." line="34" column="40" />
         <mark key="^" line="34" column="40" />
       </file>
@@ -421,9 +421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="19" column="47" filename="$USER_HOME$/workspace/demo/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/ShouAccountController.java" />
-      <jump line="12" column="24" filename="$USER_HOME$/workspace/demo/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/ShouAccountController.java" />
-      <jump line="199" column="44" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
       <jump line="44" column="15" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
       <jump line="53" column="0" filename="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/resources/application.yml" />
       <jump line="2" column="21" filename="$USER_HOME$/workspace/demo/takeout_cloud/cloud_common/src/main/java/com/acenode/cloud/util/MyMapper.java" />
@@ -521,6 +518,9 @@
       <jump line="15" column="13" filename="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/domain/ShopType.java" />
       <jump line="23" column="27" filename="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/controller/ShopTypeController.java" />
       <jump line="43" column="15" filename="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/service/ShopTypeService.java" />
+      <jump line="35" column="4" filename="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/controller/ShopTypeController.java" />
+      <jump line="76" column="0" filename="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/controller/ShopTypeController.java" />
+      <jump line="75" column="0" filename="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/controller/ShopTypeController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -530,40 +530,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;D:&quot; + File.separator + &quot;timg.jpg&quot;</text>
+        <text>shop</text>
       </register>
       <register name="/" type="4">
         <text>currentUser</text>
       </register>
-      <register name="0" type="4">
-        <text>getImage</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgY250ID0gYWNjb3VudE1hcHBlci51cGRhdGVCeVByaW1hcnlLZXlTZWxlY3RpdmUoc2hvcCk7CiAgICAgICAgcmV0dXJuIFJlc3Aub2soKS5kYXRhKG5ldyBKU09OT2JqZWN0KCkuZmx1ZW50UHV0KCJjbnQiLCBjbnQpKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAvL3JldHVybiB0eXBlU2VydmljZS5hZGRTaG9wVHlwZShpbWcpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdHlwZS5zZXQK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">CgogICAgLy9AQXBpT3BlcmF0aW9uKHZhbHVlID0gIumXqOW6l+eZu+mZhiIsIG5vdGVzID0gIiIpCiAgICAvL0BSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIvbG9naW4iLCBtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLlBPU1QpCiAgICAvL3ByaXZhdGUgT2JqZWN0IGxvZ2luKEBSZXF1ZXN0Qm9keSBTaG9wSW5mbyBwYXJhbSwgQFJlcXVlc3RIZWFkZXIodmFsdWUgPSAiVXNlci1BZ2VudCIpIFN0cmluZyB1c2VyQWdlbnQpIHsKICAgIC8vICAgIHJldHVybiBhY2NvdW50U2VydmljZS5sb2dpbihwYXJhbSwgdXNlckFnZW50KTsKICAgIC8vfQogICAgLy8KICAgIC8vQEFwaU9wZXJhdGlvbih2YWx1ZSA9ICLpl6jlupfoh6rliqjnmbvlvZXnmbvpmYYiLCBub3RlcyA9ICLku47lkI7lj7DnrqHnkIbot7Povazov4fmnaUiKQogICAgLy9AUmVxdWVzdE1hcHBpbmcodmFsdWUgPSAiL29wZW4vYXV0b0xvZ2luIiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5QT1NUKQogICAgLy9wcml2YXRlIE9iamVjdCBhdXRvbG9naW4oQFJlcXVlc3RCb2R5IEpTT05PYmplY3QganNvbiwgQFJlcXVlc3RIZWFkZXIodmFsdWUgPSAiVXNlci1BZ2VudCIpIFN0cmluZyB1c2VyQWdlbnQpIHsKICAgIC8vICAgIHJldHVybiBhY2NvdW50U2VydmljZS5hdXRvTG9naW4oanNvbiwgdXNlckFnZW50KTsKICAgIC8vfQo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgIHByaXZhdGUgU3RyaW5nIGVycm9yOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBTbmVha3lUaHJvd3MKICAgIHB1YmxpYyBSZXNwIGdldEFjY291bnQoU2hvcEluZm8gc2hvcCkgewogICAgICAgIGlmIChzaG9wLmJ5UGFnZSgpKSB7CiAgICAgICAgICAgIFBhZ2VIZWxwZXIuc3RhcnRQYWdlKHNob3AuZ2V0UGFnZU5vKCksIHNob3AuZ2V0UGFnZVNpemUoKSk7CiAgICAgICAgfQoKICAgICAgICBFeGFtcGxlIHF1ZXJ5ID0gbmV3IEV4YW1wbGUoU2hvcEluZm8uY2xhc3MpOwogICAgICAgIEV4YW1wbGUuQ3JpdGVyaWEgY3JpdGVyaWEgPSBxdWVyeS5jcmVhdGVDcml0ZXJpYSgpOwogICAgICAgIGlmICghU3RyaW5nVXRpbHMuaXNFbXB0eShzaG9wLmdldExvZ2luTmFtZSgpKSkgewogICAgICAgICAgICBjcml0ZXJpYS5hbmRMaWtlKCJ1c2VyTmFtZSIsICIlIiArIHNob3AuZ2V0TG9naW5OYW1lKCkgKyAiJSIpOwogICAgICAgIH0KICAgICAgICAvLyBmaXhtZQogICAgICAgIC8vaWYgKG51bGwgIT0gc2hvcC5nZXRTaG9wSWQoKSAmJiBzaG9wLmdldFNob3BJZCgpICE9IDApIHsKICAgICAgICAvLyAgICBjcml0ZXJpYS5hbmRFcXVhbFRvKCJzaG9wSWQiLCBzaG9wLmdldFNob3BJZCgpKTsKICAgICAgICAvL30KCiAgICAgICAgaWYgKCFTdHJpbmdVdGlscy5pc0VtcHR5KHNob3AuZ2V0TXBPcGVuSWQoKSkpIHsKICAgICAgICAgICAgY3JpdGVyaWEuYW5kTGlrZSgibXBPcGVuaWQiLCAiJSIgKyBzaG9wLmdldE1wT3BlbklkKCkgKyAiJSIpOwogICAgICAgIH0KICAgICAgICBjcml0ZXJpYS5hbmRFcXVhbFRvKCJkZWxGbGFnIiwgMCk7CiAgICAgICAgcXVlcnkub3JkZXJCeSgiY3JlYXRlQXQiKS5kZXNjKCkuYXNjKCk7CgogICAgICAgIHZhbCBsaXN0ID0gYWNjb3VudE1hcHBlci5zZWxlY3RCeUV4YW1wbGUocXVlcnkpOwogICAgICAgIHJldHVybiBSZXNwLm9rKCkuZGF0YShSZXNwLnBhZ2VEYXRhKG5ldyBQYWdlSW5mbyhsaXN0KSkpOwogICAgfQoKICAgIEBTbmVha3lUaHJvd3MKICAgIHB1YmxpYyBSZXNwIGRlbEFjY291bnQoSW50ZWdlciBpZCkgewogICAgICAgIFNob3BJbmZvIGluZm8gPSBuZXcgU2hvcEluZm8oKTsKICAgICAgICBpbmZvLmRlbFNlbGYoKS5zZXRJZChpZC5sb25nVmFsdWUoKSk7CiAgICAgICAgaW50IGNudCA9IGFjY291bnRNYXBwZXIudXBkYXRlQnlQcmltYXJ5S2V5U2VsZWN0aXZlKGluZm8pOwogICAgICAgIHJldHVybiBSZXNwLm9rKCkuZGF0YShuZXcgSlNPTk9iamVjdCgpLmZsdWVudFB1dCgiY250IiwgY250KSk7CiAgICB9CgogICAgQFNuZWFreVRocm93cwogICAgcHVibGljIFJlc3AgbW9kQWNjb3VudChTaG9wSW5mbyBzaG9wKSB7CiAgICAgICAgaW50IGNudCA9IGFjY291bnRNYXBwZXIudXBkYXRlQnlQcmltYXJ5S2V5U2VsZWN0aXZlKHNob3ApOwogICAgICAgIHJldHVybiBSZXNwLm9rKCkuZGF0YShuZXcgSlNPTk9iamVjdCgpLmZsdWVudFB1dCgiY250IiwgY250KSk7CiAgICB9CgogICAgQFNuZWFreVRocm93cwogICAgcHVibGljIFJlc3AgbG9naW4oU2hvcEluZm8gcGFyYW0sIFN0cmluZyB1c2VyQWdlbnQpIHsKICAgICAgICBFeGFtcGxlIGVnID0gRXhhbXBsZS5idWlsZGVyKFNob3BJbmZvLmNsYXNzKS53aGVyZShTcWxzLmN1c3RvbSgpCiAgICAgICAgICAgICAgICAuYW5kRXF1YWxUbygidXNlck5hbWUiLCBwYXJhbS5nZXRMb2dpbk5hbWUoKSkuYW5kRXF1YWxUbygiZGVsRmxhZyIsIDApKS5idWlsZCgpOwogICAgICAgIHZhbCBkYlVzZXIgPSBhY2NvdW50TWFwcGVyLnNlbGVjdE9uZUJ5RXhhbXBsZShlZyk7CiAgICAgICAgLy8gVE9ETyBwYXNzd29yZCB1c2UgbWQ1IGNvbXBhcmUKICAgICAgICBib29sZWFuIG9rID0gbnVsbCAhPSBkYlVzZXIgJiYgZGJVc2VyLmdldExvZ2luUHdkKCkuY29udGVudEVxdWFscyhwYXJhbS5nZXRMb2dpblB3ZCgpKTsKCiAgICAgICAgaWYgKCFvaykgdGhyb3cgbmV3IEJpekV4Y2VwdGlvbigi55So5oi35ZCN5a+G56CB6ZSZ6K+vIik7CiAgICAgICAgVG9rZW5Vc2VyIHRva2VuVXNlciA9IG5ldyBUb2tlblVzZXIoKTsKICAgICAgICBCZWFuVXRpbHMuY29weVByb3BlcnRpZXMoZGJVc2VyLCB0b2tlblVzZXIpOwoKICAgICAgICBTdHJpbmcgcm9sZSA9IENvbnN0LlJPTEVfU0hPUDsKICAgICAgICB0b2tlblVzZXIuc2V0Um9sZShyb2xlKTsKCiAgICAgICAgU3RyaW5nIHRva2VuID0gdG9rZW5Vc2VyLmdldFRva2VuKCk7CiAgICAgICAgU3RyaW5nIGtleSA9IHRva2VuVXNlci5nZXRLZXkodXNlckFnZW50KTsKICAgICAgICByZWRpcy5zYXZlKGtleSwgSlNPTi50b0pTT05TdHJpbmcodG9rZW5Vc2VyKSkuZXhwaXJlKGtleSwgQ29uc3QuU0VTU0lPTl9USU1FT1VUKTsKCiAgICAgICAgcmV0dXJuIFJlc3Aub2soKS5kYXRhKG5ldyBKU09OT2JqZWN0KCkuZmx1ZW50UHV0KCJ0b2tlbiIsIHRva2VuKS5mbHVlbnRQdXQoInJvbGUiLCByb2xlKSk7CiAgICB9CgogICAgQFNuZWFreVRocm93cwogICAgcHVibGljIFJlc3AgYXV0b0xvZ2luKEpTT05PYmplY3QganNvbiwgU3RyaW5nIHVzZXJBZ2VudCkgewogICAgICAgIFN0cmluZyByZWFsS2V5ID0gQ3J5cHRvVXRpbC5NRDUoanNvbi5nZXRTdHJpbmcoImFrIikgKyAiXyIgKyB1c2VyQWdlbnQpOwogICAgICAgIFN0cmluZyB2YWx1ZSA9IHJlZGlzLmZpbmQocmVhbEtleSk7CiAgICAgICAgVG9rZW5Vc2VyIGN1cnJlbnRVc2VyID0gSlNPTi50b0phdmFPYmplY3QoSlNPTi5wYXJzZU9iamVjdCh2YWx1ZSksIFRva2VuVXNlci5jbGFzcyk7CgogICAgICAgIGlmICghY3VycmVudFVzZXIuZ2V0Um9sZSgpLmVxdWFsc0lnbm9yZUNhc2UoQ29uc3QuUk9MRV9BRE1JTikgJiYgIWN1cnJlbnRVc2VyLmdldFJvbGUoKS5lcXVhbHNJZ25vcmVDYXNlKENvbnN0LlJPTEVfU0hPUCkpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEJpekV4Y2VwdGlvbigi5rKh5pyJ5pON5L2c5p2D6ZmQIik7CiAgICAgICAgfQoKICAgICAgICBFeGFtcGxlIGVnID0gRXhhbXBsZS5idWlsZGVyKFNob3BJbmZvLmNsYXNzKS53aGVyZShTcWxzLmN1c3RvbSgpLmFuZEVxdWFsVG8oImlkIiwganNvbi5nZXRJbnRWYWx1ZSgic2lkIikpKS5idWlsZCgpOwogICAgICAgIHZhbCBkYlVzZXIgPSBhY2NvdW50TWFwcGVyLnNlbGVjdE9uZUJ5RXhhbXBsZShlZyk7CiAgICAgICAgYm9vbGVhbiBvayA9IGRiVXNlciAhPSBudWxsOwoKICAgICAgICBUb2tlblVzZXIgdG9rZW5Vc2VyID0gbmV3IFRva2VuVXNlcigpOwogICAgICAgIEJlYW5VdGlscy5jb3B5UHJvcGVydGllcyhkYlVzZXIsIHRva2VuVXNlcik7CgogICAgICAgIHRva2VuVXNlci5zZXRVc2VyTmFtZShkYlVzZXIuZ2V0TG9naW5OYW1lKCkpOy8vIHVzZXJOYW1lIC0+IGxvZ2luTmFtZQoKICAgICAgICB0b2tlblVzZXIuc2V0Um9sZShDb25zdC5ST0xFX1NIT1ApOwoKICAgICAgICBTdHJpbmcgdG9rZW4gPSB0b2tlblVzZXIuZ2V0VG9rZW4oKTsKICAgICAgICBTdHJpbmcga2V5ID0gdG9rZW5Vc2VyLmdldEtleSh1c2VyQWdlbnQpOwogICAgICAgIHJlZGlzLnNhdmUoa2V5LCBKU09OLnRvSlNPTlN0cmluZyh0b2tlblVzZXIpKS5leHBpcmUoa2V5LCBDb25zdC5TRVNTSU9OX1RJTUVPVVQpOwoKICAgICAgICByZXR1cm4gUmVzcC5vaygpLmRhdGEobmV3IEpTT05PYmplY3QoKS5mbHVlbnRQdXQoInRva2VuIiwgdG9rZW4pLmZsdWVudFB1dCgicm9sZSIsIENvbnN0LlJPTEVfU0hPUCkpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIFRva2VuUmVwbyAgICAgIHJlZGlzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nICBsb2dpbk5hbWU7CiAgICBwcml2YXRlIFN0cmluZyAgbG9naW5Qd2Q7CiAgICBwcml2YXRlIEludGVnZXIgYXJlYUlkOwogICAgcHJpdmF0ZSBJbnRlZ2VyIHR5cGVJZDsKICAgIHByaXZhdGUgU3RyaW5nICBuYW1lOwogICAgcHJpdmF0ZSBGbG9hdCAgIGRlcG9zaXRGZWU7CiAgICBwcml2YXRlIFN0cmluZyAgbXBPcGVuSWQ7CiAgICBwcml2YXRlIFN0cmluZyAgYWRkcmVzczsKICAgIHByaXZhdGUgSW50ZWdlciBhdXRvT3JkZXI7CiAgICBwcml2YXRlIFN0cmluZyAgdGVscGhvbmU7CiAgICBwcml2YXRlIEZsb2F0ICAgbG5nOwogICAgcHJpdmF0ZSBGbG9hdCAgIGxhdDsKICAgIHByaXZhdGUgU3RyaW5nICBsb2dvSW1nOwogICAgcHJpdmF0ZSBJbnRlZ2VyIHN0YXQ7CiAgICBwcml2YXRlIERhdGUgICAgb3BlblRpbWU7CiAgICBwcml2YXRlIERhdGUgICAgY2xvc2VUaW1lOwo=</text>
+        <text encoding="base64">ICAgIC8vQEFwaU9wZXJhdGlvbih2YWx1ZSA9ICLliKDpmaTotKbmiLciLCBub3RlcyA9ICIiKQogICAgLy9AUmVxdWVzdE1hcHBpbmcodmFsdWUgPSAiL3tpZH0iLCBtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLkRFTEVURSkKICAgIC8vcHJpdmF0ZSBPYmplY3QgZGVsQWNjb3VudChAUGF0aFZhcmlhYmxlKCJpZCIpIEludGVnZXIgaWQpIHsKICAgIC8vICAgIHJldHVybiBhY2NvdW50U2VydmljZS5kZWxBY2NvdW50KGlkKTsKICAgIC8vfQogICAgLy8KICAgIC8vQEFwaU9wZXJhdGlvbih2YWx1ZSA9ICLkv67mlLnotKbmiLciLCBub3RlcyA9ICIiKQogICAgLy9AUmVxdWVzdE1hcHBpbmcobWV0aG9kID0gUmVxdWVzdE1ldGhvZC5QVVQpCiAgICAvL3ByaXZhdGUgT2JqZWN0IG1vZEFjY291bnQoQFJlcXVlc3RCb2R5IFNob3BJbmZvIGFjY291bnQpIHsKICAgIC8vICAgIHJldHVybiBhY2NvdW50U2VydmljZS5tb2RBY2NvdW50KGFjY291bnQpOwogICAgLy99CiAgICAvLwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0b2tlblVzZXIuc2V0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
