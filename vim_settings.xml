@@ -235,12 +235,12 @@
         <mark key="." line="13" column="0" />
         <mark key="^" line="12" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/resources/application.yml" timestamp="1543752507908">
-        <mark key="'" line="72" column="2" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-        <mark key="^" line="56" column="19" />
+      <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/resources/application.yml" timestamp="1543820730571">
+        <mark key="'" line="53" column="35" />
+        <mark key="[" line="72" column="40" />
+        <mark key="]" line="72" column="40" />
+        <mark key="." line="72" column="40" />
+        <mark key="^" line="72" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/service/ShopTypeService.java" timestamp="1543664876764">
         <mark key="[" line="26" column="50" />
@@ -477,7 +477,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="0" filename="/StorageBatchController.java" />
       <jump line="315" column="0" filename="/StorageBatchController.java" />
       <jump line="650" column="49" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/InventoryServiceImpl.java" />
       <jump line="671" column="72" filename="$USER_HOME$/workspace/jinhui/prod/anti/app/service/impl/InventoryServiceImpl.java" />
@@ -577,6 +576,7 @@
       <jump line="6" column="58" filename="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/mapper/GoodsTypeMapper.java" />
       <jump line="35" column="30" filename="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/controller/GoodsTypeController.java" />
       <jump line="38" column="4" filename="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/controller/GoodsTypeController.java" />
+      <jump line="53" column="35" filename="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/resources/application.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -586,7 +586,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>http://xxx/</text>
       </register>
       <register name="/" type="4">
         <text>ShopType</text>
