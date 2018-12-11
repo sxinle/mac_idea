@@ -41,12 +41,12 @@
         <mark key="." line="3" column="45" />
         <mark key="^" line="3" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/ImportServiceImpl.java" timestamp="1544510696600">
-        <mark key="'" line="38" column="20" />
-        <mark key="[" line="40" column="28" />
-        <mark key="]" line="40" column="50" />
-        <mark key="." line="40" column="50" />
-        <mark key="^" line="40" column="50" />
+      <file name="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/ImportServiceImpl.java" timestamp="1544514989626">
+        <mark key="'" line="34" column="31" />
+        <mark key="[" line="34" column="39" />
+        <mark key="]" line="34" column="40" />
+        <mark key="." line="34" column="39" />
+        <mark key="^" line="273" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/controller/ShopTypeController.java" timestamp="1543822807280">
         <mark key="[" line="15" column="0" />
@@ -314,6 +314,10 @@
         <mark key="]" line="0" column="42" />
         <mark key="." line="0" column="42" />
         <mark key="^" line="0" column="42" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/service/impl/BlockSQLServiceImpl.java" timestamp="1544514933259">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="48" column="4" />
       </file>
       <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/Application.java" timestamp="1543292876812">
         <mark key="[" line="7" column="13" />
@@ -642,8 +646,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="37" filename="$USER_HOME$/workspace/demo/takeout_cloud/cloud_common/src/main/java/com/acenode/cloud/util/RepoInterceptor.java" />
-      <jump line="39" column="40" filename="$USER_HOME$/workspace/demo/takeout_cloud/cloud_common/src/main/java/com/acenode/cloud/util/RepoInterceptor.java" />
       <jump line="33" column="19" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/UserAPIVerticle.java" />
       <jump line="73" column="0" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/UserAPIVerticle.java" />
       <jump line="193" column="0" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/UserAPIVerticle.java" />
@@ -742,6 +744,8 @@
       <jump line="71" column="0" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/CodesAPIVerticle.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/CodesAPIVerticle.java" />
       <jump line="37" column="20" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/ImportServiceImpl.java" />
+      <jump line="52" column="30" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/ImportServiceImpl.java" />
+      <jump line="34" column="31" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/ImportServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -751,49 +755,49 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>Vertx.currentContext().config()</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb2Rlc1NlcnZpY2VcPg==</text>
+        <text encoding="base64">XDxzcHJpbmdDeHRcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>top_zip_codes_dir</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFBhaXI8RGF0YVNvdXJjZVRyYW5zYWN0aW9uTWFuYWdlciwgVHJhbnNhY3Rpb25TdGF0dXM+IHN0YXJ0VHgoKSB7CiAgICAgICAgLy8xLuiOt+WPluS6i+WKoeaOp+WItueuoeeQhuWZqAogICAgICAgIERhdGFTb3VyY2VUcmFuc2FjdGlvbk1hbmFnZXIgdHJhbnNhY3Rpb25NYW5hZ2VyID0gc3ByaW5nQ3h0LmdldEJlYW4oInRyYW5zYWN0aW9uTWFuYWdlciIsIERhdGFTb3VyY2VUcmFuc2FjdGlvbk1hbmFnZXIuY2xhc3MpOwogICAgICAgIC8vMi7ojrflj5bkuovliqHlrprkuYkKICAgICAgICBEZWZhdWx0VHJhbnNhY3Rpb25EZWZpbml0aW9uIGRlZiA9IG5ldyBEZWZhdWx0VHJhbnNhY3Rpb25EZWZpbml0aW9uKCk7CiAgICAgICAgLy8zLuiuvue9ruS6i+WKoemalOemu+e6p+WIq++8jOW8gOWQr+aWsOS6i+WKoQogICAgICAgIGRlZi5zZXRQcm9wYWdhdGlvbkJlaGF2aW9yKFRyYW5zYWN0aW9uRGVmaW5pdGlvbi5QUk9QQUdBVElPTl9SRVFVSVJFU19ORVcpOwogICAgICAgIC8vNC7ojrflvpfkuovliqHnirbmgIEKICAgICAgICBUcmFuc2FjdGlvblN0YXR1cyBzdGF0dXMgPSB0cmFuc2FjdGlvbk1hbmFnZXIuZ2V0VHJhbnNhY3Rpb24oZGVmKTsKICAgICAgICByZXR1cm4gUGFpci5vZih0cmFuc2FjdGlvbk1hbmFnZXIsIHN0YXR1cyk7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnNwcmluZ0N0eCA9IHNwcmluZ0N4dDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGlvLnZlcnR4LmNvcmUuVmVydHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLzQu6I635b6X5LqL5Yqh54q25oCBCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLzMu6K6+572u5LqL5Yqh6ZqU56a757qn5Yir77yM5byA5ZCv5paw5LqL5YqhCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uZmlnKCkK</text>
+        <text encoding="base64">ICAgICAgICAvLzIu6I635Y+W5LqL5Yqh5a6a5LmJCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLzEu6I635Y+W5LqL5Yqh5o6n5Yi2566h55CG5ZmoCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmdXR1cmUuZmFpbChlKTsK</text>
+        <text encoding="base64">ICAgIEAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29udGV4dAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmdXR1cmUuY29tcGxldGUodHJ1ZSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGlvLnZlcnR4LmNvcmUuVmVydHg7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb2Rlc1NlcnZpY2VcPg==</last-search>
+      <last-search encoding="base64">XDxzcHJpbmdDeHRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb2Rlc1NlcnZpY2VcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzcHJpbmdDeHRcPg==</last-pattern>
       <last-replace>isRecommend</last-replace>
       <last-substitute>isShow</last-substitute>
       <last-dir>1</last-dir>
@@ -801,7 +805,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cExvYWRDb2RlTGlzdFw+</entry>
         <entry>cors</entry>
         <entry>expi</entry>
         <entry>zuul</entry>
@@ -821,6 +824,7 @@
         <entry encoding="base64">XDxKc29uTG9hZGVyXD4=</entry>
         <entry encoding="base64">XDx6aXBGaWxlXD4=</entry>
         <entry encoding="base64">XDxjb2Rlc1NlcnZpY2VcPg==</entry>
+        <entry encoding="base64">XDxzcHJpbmdDeHRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3NleC9hcmVhL2c=</entry>
