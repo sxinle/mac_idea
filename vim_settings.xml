@@ -304,6 +304,12 @@
         <mark key="^" line="50" column="0" />
         <mark key="." line="39" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/demo/takeout_cloud/cloud_common/pom.xml" timestamp="1545044450592">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/takeout-backend/src/main/java/com/acenode/takeout/util/base/DomainBase.java" timestamp="1543254256490">
         <mark key="[" line="9" column="23" />
       </file>
@@ -349,7 +355,7 @@
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="20" />
       </file>
-      <file name="/Dummy.txt" timestamp="1544528612300">
+      <file name="/Dummy.txt" timestamp="1545044262677">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -433,7 +439,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="44" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UserServiceImpl.java" />
       <jump line="308" column="0" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UserServiceImpl.java" />
       <jump line="33" column="0" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/UserService.java" />
       <jump line="61" column="0" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/UserService.java" />
@@ -533,6 +538,7 @@
       <jump line="131" column="33" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/ImportServiceImpl.java" />
       <jump line="35" column="31" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/ImportServiceImpl.java" />
       <jump line="303" column="58" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/ImportServiceImpl.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/demo/takeout_cloud/cloud_common/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -551,31 +557,31 @@
         <text>删除临时目录</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHN5c3RlbVBhdGg+PC9zeXN0ZW1QYXRoPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvL3NkZgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHN5c3RlbVBhdGg+PC9zeXN0ZW1QYXRoPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBhZGYK</text>
+        <text encoding="base64">ICAgICAgICAvL3NkZgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBhYmMK</text>
+        <text encoding="base64">ICAgICAgICAvLyBhZGYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBhYmMK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCLliKDpmaTkuLTml7bmlofku7Yge30iLCBoaWRkZW5EaXIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgRmlsZVN5c3RlbVV0aWxzLmRlbGV0ZVJlY3Vyc2l2ZWx5KGhpZGRlbkRpcik7Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxvZ2dlci5pbmZvKCLliKDpmaTkuLTml7bmlofku7Yge30iLCBoaWRkZW5EaXIpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgRmlsZVN5c3RlbVV0aWxzLmRlbGV0ZVJlY3Vyc2l2ZWx5KGhpZGRlbkRpcik7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgQ29kZXNFbnRpdHkoU3RyaW5nIGNvZGUsIEludGVnZXIgdHlwZSwgRGF0ZSBjcmVhdGVBdCwgU3RyaW5nIGJhdGNoTm8sIFN0cmluZyBkYXRlUHJlZml4KSB7CiAgICAgICAgICAgIHRoaXMuY29kZSA9IGNvZGU7CiAgICAgICAgICAgIHRoaXMudHlwZSA9IHR5cGU7CiAgICAgICAgICAgIHRoaXMuY3JlYXRlQXQgPSBjcmVhdGVBdDsKICAgICAgICAgICAgdGhpcy5iYXRjaE5vID0gYmF0Y2hObzsKICAgICAgICAgICAgdGhpcy5kYXRlUHJlZml4ID0gZGF0ZVByZWZpeDsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
