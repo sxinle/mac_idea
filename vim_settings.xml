@@ -496,12 +496,12 @@
         <mark key="." line="35" column="60" />
         <mark key="^" line="35" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" timestamp="1545623413569">
-        <mark key="'" line="35" column="48" />
-        <mark key="[" line="43" column="26" />
-        <mark key="]" line="43" column="29" />
-        <mark key="." line="43" column="29" />
-        <mark key="^" line="43" column="29" />
+      <file name="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" timestamp="1545623797186">
+        <mark key="'" line="34" column="34" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="48" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_common/src/main/resources/logback.xml" timestamp="1545112120772">
         <mark key="'" line="61" column="0" />
@@ -548,7 +548,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="0" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/CodesServiceImpl.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/resources/log4j2.xml" />
       <jump line="31" column="12" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/BaseAppContextConfig.java" />
       <jump line="107" column="0" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/BaseAppContextConfig.java" />
@@ -647,7 +646,8 @@
       <jump line="88" column="4" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
       <jump line="18" column="0" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/util/ImportTopCodesSchedule.java" />
       <jump line="35" column="39" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/util/ImportTopCodesSchedule.java" />
-      <jump line="33" column="48" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
+      <jump line="9" column="32" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
+      <jump line="33" column="34" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -657,49 +657,49 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>zips</text>
+        <text>suppliers[i].getName()</text>
       </register>
       <register name="/" type="4">
-        <text>-</text>
+        <text encoding="base64">XDxMb2dNYW5hZ2VyXD4=</text>
       </register>
       <register name="0" type="4">
         <text>supplier_root_dir</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBpbXBvcnRTZXJ2aWNlLmRvSW1wb3J0VGFzaygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsvLyBzdXBwcmVzcyBkdXBsaWNhdGUgY29kZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsvLyBzdXBwcmVzcyBkdXBsaWNhdGUgY29kZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5oYW4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBzdXBwcmVzcyBEdXBsaWNhdGUgY29kZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL2xvZ2dlci5pbmZvKCLliKDpmaTkuLTml7bnm67lvZUge30iLCBoaWRkZW5EaXIpOwogICAgICAgICAgICAgICAgICAgIC8vRmlsZVN5c3RlbVV0aWxzLmRlbGV0ZVJlY3Vyc2l2ZWx5KGhpZGRlbkRpcik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBwbGFjZSBob2xkZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgICAgIC8vIOmAj+S6keWOi+e8qeS6jOe7tOeggeaWh+S7tgogICAgICAgICAgICAvLyAgICAgICAgZmluYWwgWmlwRmlsZSB6aXBGaWxlID0gbmV3IFppcEZpbGUoemlwLmdldEFic29sdXRlUGF0aCgpKTsKICAgICAgICAgICAgLy8KICAgICAgICAgICAgLy8gICAgICAgIC8vIOaWh+S7tuino+WOi+WIsOmakOiXj+ebruW9lSAgLjIwMTgxMTE5MTA0MDA5X2pqMTIzLnppcAogICAgICAgICAgICAvLyAgICAgICAgRmlsZSBoaWRkZW5EaXIgPSBuZXcgRmlsZSh6aXAuZ2V0UGFyZW50RmlsZSgpLmdldEFic29sdXRlUGF0aCgpICsgRmlsZS5zZXBhcmF0b3IgKyAiLiIgKyB6aXAuZ2V0TmFtZSgpKTsKICAgICAgICAgICAgLy8gICAgICAgIGJvb2xlYW4gb2sgPSBoaWRkZW5EaXIubWtkaXIoKTsKICAgICAgICAgICAgLy8gICAgICAgIGxvZ2dlci5pbmZvKCLliJvlu7rpmpDol4/nm67lvZUge30ge30iLCBoaWRkZW5EaXIuZ2V0QWJzb2x1dGVQYXRoKCksIG9rID8gIuaIkOWKnyIgOiAi5aSx6LSlIik7CiAgICAgICAgICAgIC8vCiAgICAgICAgICAgIC8vICAgICAgICAvLyAi6Kej5Y6L5ZCO77yM5Lya5pyJ5LiA5Liq5paH5Lu25Li6amoxMjMudHh0IgogICAgICAgICAgICAvLyAgICAgICAgRmlsZSBjb2RlU291cmNlID0gbmV3IEZpbGUoaGlkZGVuRGlyLmdldEFic29sdXRlUGF0aCgpICsgRmlsZS5zZXBhcmF0b3IgKyBjb2Rlc0luZm8uZ2V0QmF0Y2hObygpICsgIi50eHQiKTsKICAgICAgICAgICAgLy8gICAgICAgIHppcEZpbGUuZXh0cmFjdEFsbChoaWRkZW5EaXIuZ2V0QWJzb2x1dGVQYXRoKCkpOwogICAgICAgICAgICAvLwogICAgICAgICAgICAvLyAgICAgICAgLy8g6K6h566X5a2Y5Yiw5ZOq5byg6KGoCiAgICAgICAgICAgIC8vICAgICAgICBTdHJpbmcgdGJOYW1lID0gbnVsbDsKICAgICAgICAgICAgLy8gICAgICAgIEludGVnZXIgdHlwZSA9IG51bGw7CiAgICAgICAgICAgIC8vCiAgICAgICAgICAgIC8vICAgICAgICBCdWZmZXJlZFJlYWRlciBiciA9IG5ldyBCdWZmZXJlZFJlYWRlcihuZXcgSW5wdXRTdHJlYW1SZWFkZXIobmV3IEZpbGVJbnB1dFN0cmVhbShjb2RlU291cmNlKSkpOwogICAgICAgICAgICAvLyAgICAgICAgU3RyaW5nIGxpbmU7CiAgICAgICAgICAgIC8vCiAgICAgICAgICAgIC8vICAgICAgICBpbnQgbGluZU51bSA9IDE7CiAgICAgICAgICAgIC8vCiAgICAgICAgICAgIC8vICAgICAgICAvLyB6aXDmlofku7bnmoTml7bpl7TliY3nvIDlkozmibnmrKHlj7cKICAgICAgICAgICAgLy8gICAgICAgIFN0cmluZyBkYXRlUHJlZml4ID0gemlwLmdldE5hbWUoKS5zcGxpdCgiXFwuIilbMF0uc3BsaXQoIl8iKVswXTsKICAgICAgICAgICAgLy8gICAgICAgIFN0cmluZyBjb2Rlc0JhdGNoTm8gPSB6aXAuZ2V0TmFtZSgpLnNwbGl0KCJcXC4iKVswXS5zcGxpdCgiXyIpWzFdOwogICAgICAgICAgICAvLwogICAgICAgICAgICAvLyAgICAgICAgTGlzdDxDb2Rlc0VudGl0eT4gY29kZXMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICAgICAgLy8gICAgICAgIHdoaWxlICgobGluZSA9IGJyLnJlYWRMaW5lKCkpICE9IG51bGwpIHsKICAgICAgICAgICAgLy8gICAgICAgICAgICBpZiAobnVsbCA9PSB0Yk5hbWUpIHsvLyDooajlkI3np7AKICAgICAgICAgICAgLy8gICAgICAgICAgICAgICAgdGJOYW1lID0gZ2V0VGFibGVOYW1lKGxpbmUpOwogICAgICAgICAgICAvLyAgICAgICAgICAgIH0KICAgICAgICAgICAgLy8gICAgICAgICAgICBpZiAodHlwZSA9PSBudWxsKSB7CiAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgIHR5cGUgPSBnZXRUeXBlKGxpbmUpOwogICAgICAgICAgICAvLyAgICAgICAgICAgIH0KICAgICAgICAgICAgLy8gICAgICAgICAgICBpZiAobnVsbCA9PSB0Yk5hbWUpIHsKICAgICAgICAgICAgLy8gICAgICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCLmlofku7bmoLzlvI/plJnor68s6KGM5Y+3IHt9ICzlhoXlrrk6e30iLCBsaW5lTnVtICsgMSwgbGluZSk7CiAgICAgICAgICAgIC8vICAgICAgICAgICAgfQogICAgICAgICAgICAvLwogICAgICAgICAgICAvLyAgICAgICAgICAgIFN0cmluZ1tdIGxpbmVDb2RlcyA9IGxpbmUuc3BsaXQoIiwiKTsKICAgICAgICAgICAgLy8gICAgICAgICAgICBTdHJpbmcgY29kZSA9IGxpbmVDb2Rlc1swXTsKICAgICAgICAgICAgLy8gICAgICAgICAgICBTdHJpbmcgc2VyaWFsTm8gPSBsaW5lQ29kZXNbMV07CiAgICAgICAgICAgIC8vCiAgICAgICAgICAgIC8vICAgICAgICAgICAgLy8g5LuF55uR5rWL56ys5LiA6KGM77yM5aaC5p6c5bqT6YeM5pyJ77yM5bCx5Yik5a6a5paH5Lu26YeN5aSNCiAgICAgICAgICAgIC8vICAgICAgICAgICAgaWYgKGxpbmVOdW0gPT0gMSkgewogICAgICAgICAgICAvLyAgICAgICAgICAgICAgICBpbnQgY250ID0gaW1wb3J0TWFwcGVyLmdldENvZGVzKGNvZGUsIHRiTmFtZSk7CiAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgIGlmIChjbnQgPiAwKSB7CiAgICAgICAgICAgIC8vICAgICAgICAgICAgICAgICAgICBsb2dnZXIuaW5mbygi5Yig6Zmk5Li05pe255uu5b2VIHt9IiwgaGlkZGVuRGlyKTsKICAgICAgICAgICAgLy8gICAgICAgICAgICAgICAgICAgIEZpbGVTeXN0ZW1VdGlscy5kZWxldGVSZWN1cnNpdmVseShoaWRkZW5EaXIpOwogICAgICAgICAgICAvLyAgICAgICAgICAgICAgICAgICAgdGhyb3cgbmV3IEV4Y2VwdGlvbih6aXAuZ2V0TmFtZSgpICsgIiDph43lpI3lpITnkIbvvIwiICsgY29kZSArICIg5bey57uP5ZyoICIgKyB0Yk5hbWUgKyAiIOihqOS4rSIpOwogICAgICAgICAgICAvLyAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIC8vICAgICAgICAgICAgfQogICAgICAgICAgICAvLwogICAgICAgICAgICAvLyAgICAgICAgICAgIGNvZGVzLmFkZChuZXcgQ29kZXNFbnRpdHkoY29kZSwgc2VyaWFsTm8sIHR5cGUsIG5ldyBEYXRlKCksIGNvZGVzQmF0Y2hObywgZGF0ZVByZWZpeCkpOwogICAgICAgICAgICAvLwogICAgICAgICAgICAvLyAgICAgICAgICAgIGlmIChjb2Rlcy5zaXplKCkgJSBCQVRDSF9TSVpFID09IDApIHsKICAgICAgICAgICAgLy8gICAgICAgICAgICAgICAgaW1wb3J0TWFwcGVyLmluc2VydENvZGVzKGNvZGVzLCB0Yk5hbWUpOwogICAgICAgICAgICAvLyAgICAgICAgICAgIH0KICAgICAgICAgICAgLy8KICAgICAgICAgICAgLy8gICAgICAgICAgICBsaW5lTnVtKys7CiAgICAgICAgICAgIC8vICAgICAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBhYmMK</text>
+        <text encoding="base64">ICAgICAgICBpbXBvcnRTZXJ2aWNlLmRvSW1wb3J0VGFzaygpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsvLyBzdXBwcmVzcyBkdXBsaWNhdGUgY29kZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQK</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oKTsvLyBzdXBwcmVzcyBkdXBsaWNhdGUgY29kZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQlzLmVuZGRhdGUgZW5kZGF0ZQo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBzdXBwcmVzcyBEdXBsaWNhdGUgY29kZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>-</last-search>
+      <last-search encoding="base64">XDxMb2dNYW5hZ2VyXD4=</last-search>
       <last-offset />
-      <last-pattern>-</last-pattern>
+      <last-pattern encoding="base64">XDxMb2dNYW5hZ2VyXD4=</last-pattern>
       <last-replace>_</last-replace>
       <last-substitute>-</last-substitute>
       <last-dir>1</last-dir>
@@ -707,7 +707,6 @@
     </search>
     <history>
       <history-search>
-        <entry>dash</entry>
         <entry>ebSave</entry>
         <entry encoding="base64">XDxKc29uTG9hZGVyXD4=</entry>
         <entry encoding="base64">XDxjb2Rlc1NlcnZpY2VcPg==</entry>
@@ -727,6 +726,7 @@
         <entry>format</entry>
         <entry>_</entry>
         <entry>-</entry>
+        <entry encoding="base64">XDxMb2dNYW5hZ2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>vsp BaseDomain.java</entry>
