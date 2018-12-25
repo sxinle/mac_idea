@@ -204,11 +204,17 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/resources/config.json" timestamp="1545707323139">
-        <mark key="[" line="18" column="24" />
-        <mark key="]" line="18" column="42" />
-        <mark key="^" line="19" column="35" />
-        <mark key="." line="19" column="35" />
+      <file name="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/resources/config.json" timestamp="1545709947422">
+        <mark key="[" line="19" column="44" />
+        <mark key="]" line="19" column="44" />
+        <mark key="^" line="19" column="44" />
+        <mark key="." line="19" column="44" />
+      </file>
+      <file name="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/HTTPSender.java" timestamp="1545709556083">
+        <mark key="[" line="119" column="48" />
+        <mark key="]" line="119" column="60" />
+        <mark key="." line="119" column="60" />
+        <mark key="^" line="119" column="60" />
       </file>
       <file name="$USER_HOME$/workspace/demo/takeout_cloud/cloud_common/src/main/java/com/acenode/cloud/util/GlobalExpHandler.java" timestamp="1543374371108">
         <mark key="[" line="34" column="81" />
@@ -307,12 +313,12 @@
         <mark key="." line="88" column="50" />
         <mark key="^" line="88" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/util/BackendScheduleTask.java" timestamp="1545707380286">
-        <mark key="'" line="23" column="49" />
-        <mark key="[" line="23" column="33" />
-        <mark key="]" line="23" column="34" />
-        <mark key="^" line="23" column="32" />
-        <mark key="." line="23" column="33" />
+      <file name="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/util/BackendScheduleTask.java" timestamp="1545709566508">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="67" column="122" />
+        <mark key="]" line="67" column="127" />
+        <mark key="^" line="67" column="127" />
+        <mark key="." line="67" column="127" />
       </file>
       <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_common/pom.xml" timestamp="1545101155511">
         <mark key="[" line="37" column="0" />
@@ -516,10 +522,10 @@
         <mark key="." line="11" column="46" />
         <mark key="^" line="11" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" timestamp="1545706960604">
+      <file name="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" timestamp="1545709936186">
         <mark key="'" line="83" column="16" />
-        <mark key="[" line="23" column="10" />
-        <mark key="]" line="23" column="27" />
+        <mark key="[" line="36" column="40" />
+        <mark key="]" line="36" column="56" />
         <mark key="." line="23" column="27" />
         <mark key="^" line="23" column="27" />
       </file>
@@ -549,8 +555,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="30" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/AppConfig.java" />
-      <jump line="6" column="0" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_center/src/main/java/com/uuvalue/micros/ccenter/AppConfig.java" />
       <jump line="2" column="1" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/AppConfig.java" />
       <jump line="29" column="59" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/BaseAppContextConfig.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/micro-service/common/common/src/main/java/com/uuvalue/micros/common/util/BaseAppContextConfig.java" />
@@ -649,6 +653,8 @@
       <jump line="27" column="85" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/util/BackendScheduleTask.java" />
       <jump line="23" column="49" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/util/BackendScheduleTask.java" />
       <jump line="38" column="25" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/ImportServiceImpl.java" />
+      <jump line="67" column="45" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/util/BackendScheduleTask.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/util/BackendScheduleTask.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -658,22 +664,22 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>$USER_HOME$/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJbXBvcnRNYXBwZXJcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>$USER_HOME$/codes/</text>
+        <text>supplier_root_dir</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIOaJq+aPjyB0b3BfemlwX2NvZGVzX2RpciBlZy4gL1VzZXJzL2hzb25nL2NvZGVzLyDnm67lvZUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVzdWx0ID0gbnVsbDsKICAgICAgICAvLyDlrZfnrKbkuLLnvJbnoIEKICAgICAgICBTdHJpbmdFbnRpdHkgZW50aXR5ID0gbmV3IFN0cmluZ0VudGl0eShqc29uU3RyLCBDb25zdHMuVVRGXzgpOwogICAgICAgIC8vIOiuvue9rmNvbnRlbnQtdHlwZQogICAgICAgIGVudGl0eS5zZXRDb250ZW50VHlwZSgiYXBwbGljYXRpb24vanNvbiIpOwogICAgICAgIEh0dHBQb3N0IGh0dHBQb3N0ID0gbmV3IEh0dHBQb3N0KHVybCk7CiAgICAgICAgLy8g6Ziy5q2i6KKr5b2T5oiQ5pS75Ye75re75Yqg55qECiAgICAgICAgaHR0cFBvc3Quc2V0SGVhZGVyKCJVc2VyLUFnZW50IiwgdXNlckFnZW50KTsKICAgICAgICAvLyDmjqXmlLblj4LmlbDorr7nva4KICAgICAgICBodHRwUG9zdC5zZXRIZWFkZXIoIkFjY2VwdCIsICJhcHBsaWNhdGlvbi9qc29uIik7CiAgICAgICAgaHR0cFBvc3Quc2V0RW50aXR5KGVudGl0eSk7CiAgICAgICAgQ2xvc2VhYmxlSHR0cFJlc3BvbnNlIHJlc3BvbnNlID0gbnVsbDsKICAgICAgICByZXR1cm4gc2VuZFBvc3QoaHR0cFBvc3QpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFJlZGlzQ2xpZW50IHJlZGlzQ2xpID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -682,16 +688,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsb2cucwo=</text>
+        <text encoding="base64">ICAgICAgICBKc29uT2JqZWN0LnJlYWRGcm9tKCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGprCg==</text>
+        <text encoding="base64">ICAgICAgICBuZXcgSlNPTlBPYmplY3QoKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBKU09OUE9iamVjdC4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBKU09OUE9iamVjdC4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
