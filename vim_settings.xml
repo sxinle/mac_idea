@@ -6,7 +6,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1545706995580">
+      <file name="/a.dummy" timestamp="1545715897687">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/Swagger2.java" timestamp="1543386573183">
@@ -204,9 +204,9 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/resources/config.json" timestamp="1545709947422">
-        <mark key="[" line="19" column="44" />
-        <mark key="]" line="19" column="44" />
+      <file name="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/resources/config.json" timestamp="1545715683639">
+        <mark key="[" line="19" column="3" />
+        <mark key="]" line="19" column="19" />
         <mark key="^" line="19" column="44" />
         <mark key="." line="19" column="44" />
       </file>
@@ -313,12 +313,12 @@
         <mark key="." line="88" column="50" />
         <mark key="^" line="88" column="50" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/util/BackendScheduleTask.java" timestamp="1545709566508">
+      <file name="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/util/BackendScheduleTask.java" timestamp="1545716139409">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="67" column="122" />
-        <mark key="]" line="67" column="127" />
-        <mark key="^" line="67" column="127" />
-        <mark key="." line="67" column="127" />
+        <mark key="[" line="53" column="35" />
+        <mark key="]" line="53" column="39" />
+        <mark key="^" line="53" column="39" />
+        <mark key="." line="53" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_common/pom.xml" timestamp="1545101155511">
         <mark key="[" line="37" column="0" />
@@ -522,12 +522,12 @@
         <mark key="." line="11" column="46" />
         <mark key="^" line="11" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" timestamp="1545709936186">
+      <file name="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" timestamp="1545716179775">
         <mark key="'" line="83" column="16" />
-        <mark key="[" line="36" column="40" />
-        <mark key="]" line="36" column="56" />
-        <mark key="." line="23" column="27" />
-        <mark key="^" line="23" column="27" />
+        <mark key="[" line="57" column="134" />
+        <mark key="]" line="59" column="29" />
+        <mark key="." line="59" column="29" />
+        <mark key="^" line="59" column="29" />
       </file>
       <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/mapper/ShopTypeMapper.java" timestamp="1543659186058">
         <mark key="[" line="5" column="49" />
@@ -547,7 +547,7 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="/fragment.java" timestamp="1545621364165">
+      <file name="/fragment.java" timestamp="1545715230513">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="69" />
         <mark key="^" line="0" column="69" />
@@ -664,37 +664,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>$USER_HOME$/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJbXBvcnRNYXBwZXJcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>supplier_root_dir</text>
+      <register name="0" type="8">
+        <text>20181211092301_jj124_XP.txt
+20181211092301_jj124_XNW.txt
+20181211092301_jj124_PNW.txt
+20181211092301_jj124_HNW.txt</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEZpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVzdWx0ID0gbnVsbDsKICAgICAgICAvLyDlrZfnrKbkuLLnvJbnoIEKICAgICAgICBTdHJpbmdFbnRpdHkgZW50aXR5ID0gbmV3IFN0cmluZ0VudGl0eShqc29uU3RyLCBDb25zdHMuVVRGXzgpOwogICAgICAgIC8vIOiuvue9rmNvbnRlbnQtdHlwZQogICAgICAgIGVudGl0eS5zZXRDb250ZW50VHlwZSgiYXBwbGljYXRpb24vanNvbiIpOwogICAgICAgIEh0dHBQb3N0IGh0dHBQb3N0ID0gbmV3IEh0dHBQb3N0KHVybCk7CiAgICAgICAgLy8g6Ziy5q2i6KKr5b2T5oiQ5pS75Ye75re75Yqg55qECiAgICAgICAgaHR0cFBvc3Quc2V0SGVhZGVyKCJVc2VyLUFnZW50IiwgdXNlckFnZW50KTsKICAgICAgICAvLyDmjqXmlLblj4LmlbDorr7nva4KICAgICAgICBodHRwUG9zdC5zZXRIZWFkZXIoIkFjY2VwdCIsICJhcHBsaWNhdGlvbi9qc29uIik7CiAgICAgICAgaHR0cFBvc3Quc2V0RW50aXR5KGVudGl0eSk7CiAgICAgICAgQ2xvc2VhYmxlSHR0cFJlc3BvbnNlIHJlc3BvbnNlID0gbnVsbDsKICAgICAgICByZXR1cm4gc2VuZFBvc3QoaHR0cFBvc3QpOwo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgcmVzdWx0ID0gbnVsbDsKICAgICAgICAvLyDlrZfnrKbkuLLnvJbnoIEKICAgICAgICBTdHJpbmdFbnRpdHkgZW50aXR5ID0gbmV3IFN0cmluZ0VudGl0eShqc29uU3RyLCBDb25zdHMuVVRGXzgpOwogICAgICAgIC8vIOiuvue9rmNvbnRlbnQtdHlwZQogICAgICAgIGVudGl0eS5zZXRDb250ZW50VHlwZSgiYXBwbGljYXRpb24vanNvbiIpOwogICAgICAgIEh0dHBQb3N0IGh0dHBQb3N0ID0gbmV3IEh0dHBQb3N0KHVybCk7CiAgICAgICAgLy8g6Ziy5q2i6KKr5b2T5oiQ5pS75Ye75re75Yqg55qECiAgICAgICAgaHR0cFBvc3Quc2V0SGVhZGVyKCJVc2VyLUFnZW50IiwgdXNlckFnZW50KTsKICAgICAgICAvLyDmjqXmlLblj4LmlbDorr7nva4KICAgICAgICBodHRwUG9zdC5zZXRIZWFkZXIoIkFjY2VwdCIsICJhcHBsaWNhdGlvbi9qc29uIik7CiAgICAgICAgaHR0cFBvc3Quc2V0RW50aXR5KGVudGl0eSk7CiAgICAgICAgQ2xvc2VhYmxlSHR0cFJlc3BvbnNlIHJlc3BvbnNlID0gbnVsbDsKICAgICAgICByZXR1cm4gc2VuZFBvc3QoaHR0cFBvc3QpOwo=</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBKc29uT2JqZWN0LnJlYWRGcm9tKCkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgSlNPTlBPYmplY3QoKQo=</text>
+        <text encoding="base64">ICAgICAgICBKc29uT2JqZWN0LnJlYWRGcm9tKCkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBKU09OUE9iamVjdC4K</text>
+        <text encoding="base64">ICAgICAgICBuZXcgSlNPTlBPYmplY3QoKQo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBKU09OUE9iamVjdC4K</text>
