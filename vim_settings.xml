@@ -25,6 +25,12 @@
         <mark key="." line="8" column="48" />
         <mark key="^" line="8" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/common/gateway/src/main/resources/log4j2.xml" timestamp="1546075168228">
+        <mark key="[" line="19" column="42" />
+        <mark key="]" line="19" column="46" />
+        <mark key="." line="19" column="46" />
+        <mark key="^" line="19" column="46" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/mappers/UserMapper.xml" timestamp="1544422848173">
         <mark key="[" line="3" column="38" />
         <mark key="]" line="3" column="45" />
@@ -288,6 +294,12 @@
         <mark key="." line="99" column="62" />
         <mark key="^" line="99" column="62" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/common/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" timestamp="1546074908746">
+        <mark key="[" line="209" column="31" />
+        <mark key="]" line="209" column="33" />
+        <mark key="." line="209" column="33" />
+        <mark key="^" line="209" column="33" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/takeout_cloud/cloud_common/src/main/java/com/acenode/cloud/util/GlobalExpHandler.java" timestamp="1543374371108">
         <mark key="[" line="34" column="81" />
         <mark key="]" line="34" column="82" />
@@ -425,6 +437,7 @@
         <mark key="." line="54" column="41" />
         <mark key="^" line="54" column="41" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/jhshop/shop-misc/src/main/java/com/uuvalue/micros/shop/service/impl/ShopMiscServiceImpl.java" timestamp="1546074425476" />
       <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_common/pom.xml" timestamp="1545101155511">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -668,7 +681,7 @@
         <mark key="." line="1" column="4" />
         <mark key="^" line="1" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1546050900724">
+      <file name="/Dummy.txt" timestamp="1546075171036">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="3" />
         <mark key="^" line="0" column="3" />
@@ -741,6 +754,9 @@
         <mark key="." line="5" column="56" />
         <mark key="^" line="5" column="56" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/jhshop/shop-misc/src/main/java/com/uuvalue/micros/shop/ShopMiscAPIVerticle.java" timestamp="1546074388485">
+        <mark key="'" line="78" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/demo/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/mapper/AdminUserAreaRelMapper.xml" timestamp="1543574106967">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="104" />
@@ -761,7 +777,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="272" column="27" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
       <jump line="29" column="21" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
       <jump line="31" column="17" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
       <jump line="212" column="13" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
@@ -861,6 +876,7 @@
       <jump line="30" column="36" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/CodeServiceImpl.java" />
       <jump line="102" column="85" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/CodeServiceImpl.java" />
       <jump line="94" column="36" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/CodeServiceImpl.java" />
+      <jump line="78" column="0" filename="$USER_HOME$/workspace/micro-service/jhshop/shop-misc/src/main/java/com/uuvalue/micros/shop/ShopMiscAPIVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -870,13 +886,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>info</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxxdWVyeVw+</text>
+        <text>sendCode</text>
       </register>
-      <register name="0" type="4">
-        <text>deliveredStatistic</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBsb2dnZXIuaW5mbygie30gLS0ge30gLS0gU1RBUlQgLS0ge30iLCBwYXRoLCBhcGlOYW1lLCBUaHJlYWQuY3VycmVudFRocmVhZCgpLmdldE5hbWUoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -885,34 +901,34 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gcmVzdWx0ID0gCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">bmV3IEhhc2hNYXA8U3RyaW5nLCBPYmplY3Q+KCkge3sKICAgICAgICAgICAgICAgICAgICBwdXQoImltcG9ydExvZ3MiLCBpbXBvcnRMb2dzKTsKICAgICAgICAgICAgICAgICAgICBwdXQoInJlbFJlc3VsdCIsIHJlbFJlc3VsdCk7CiAgICAgICAgICAgICAgICB9fTs=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gcXVlcnkgPSBwYXJhbS5nZXRNYXAoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gcXVlcnkgPSBwYXJhbS5nZXRNYXAoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlbFJlc3VsdC5wdXQoInRvdGFsIiwgKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJlbFJlc3VsdC5wdXQoInRvdGFsIiwgKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxxdWVyeVw+</last-search>
+      <last-search>sendCode</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxxdWVyeVw+</last-pattern>
+      <last-pattern>sendCode</last-pattern>
       <last-replace>limit</last-replace>
       <last-substitute>offset</last-substitute>
       <last-dir>1</last-dir>
@@ -920,7 +936,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxiYXRjaE5vXD4=</entry>
         <entry>Buffre</entry>
         <entry>Buff</entry>
         <entry encoding="base64">XDxiclw+</entry>
@@ -940,6 +955,7 @@
         <entry>END</entry>
         <entry>offset</entry>
         <entry encoding="base64">XDxxdWVyeVw+</entry>
+        <entry>sendCode</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
