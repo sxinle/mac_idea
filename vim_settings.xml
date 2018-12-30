@@ -142,11 +142,11 @@
         <mark key="." line="10" column="28" />
         <mark key="^" line="10" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jhshop/shop-misc/src/main/java/com/uuvalue/micros/shop/ShopMiscVerticle.java" timestamp="1546161949412">
-        <mark key="[" line="31" column="121" />
-        <mark key="]" line="31" column="122" />
-        <mark key="^" line="31" column="139" />
-        <mark key="." line="31" column="122" />
+      <file name="$USER_HOME$/workspace/micro-service/jhshop/shop-misc/src/main/java/com/uuvalue/micros/shop/ShopMiscVerticle.java" timestamp="1546162223448">
+        <mark key="[" line="31" column="119" />
+        <mark key="]" line="31" column="119" />
+        <mark key="^" line="31" column="117" />
+        <mark key="." line="31" column="119" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jhshop/micros-order/src/main/resources/config.json" timestamp="1546088931192">
         <mark key="[" line="9" column="32" />
@@ -618,6 +618,10 @@
         <mark key="^" line="0" column="69" />
         <mark key="." line="0" column="74" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/io/vertx/vertx-core/3.5.1/vertx-core-3.5.1-sources.jar!/io/vertx/core/impl/VertxImpl.java" timestamp="1546162289195">
+        <mark key="[" line="618" column="42" />
+        <mark key="]" line="618" column="97" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="1" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/application.conf" />
@@ -729,13 +733,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>.setInstances(20)</text>
+        <text>.setWorkerPoolSize(30)</text>
       </register>
       <register name="/" type="4">
         <text>saveCust</text>
       </register>
       <register name="0" type="4">
-        <text>blockedThreadCheckInterval</text>
+        <text encoding="base64">Q2FuJ3Qgc3BlY2lmeSA+IDEgaW5zdGFuY2VzIGZvciBhbHJlYWR5IGNyZWF0ZWQgdmVydGljbGU=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
