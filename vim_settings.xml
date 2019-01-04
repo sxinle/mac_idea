@@ -278,6 +278,9 @@
         <mark key="." line="1" column="34" />
         <mark key="^" line="1" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" timestamp="1546599663599">
+        <mark key="'" line="53" column="53" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/mall_cloud/mall_node/src/main/resources/logback.xml" timestamp="1545902194955">
         <mark key="[" line="55" column="30" />
         <mark key="]" line="55" column="33" />
@@ -652,7 +655,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/pproj/mall_cloud/mall_root/src/main/resources/application.yml" />
       <jump line="53" column="2" filename="$USER_HOME$/workspace/pproj/mall_cloud/mall_root/src/main/resources/application.yml" />
       <jump line="12" column="18" filename="$USER_HOME$/workspace/pproj/mall_cloud/mall_root/src/main/resources/logback.xml" />
       <jump line="22" column="46" filename="$USER_HOME$/workspace/pproj/mall_cloud/mall_root/src/main/java/com/acenode/mall/root/controller/AdminUserController.java" />
@@ -752,6 +754,7 @@
       <jump line="17" column="8" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_center/src/main/resources/config.json" />
       <jump line="156" column="62" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
       <jump line="117" column="51" filename="$USER_HOME$/workspace/jinhui/sync_data/app/Global.java" />
+      <jump line="53" column="53" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -764,7 +767,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>toArray</text>
+        <text encoding="base64">XDxhcmVhSWRcPg==</text>
       </register>
       <register name="0" type="4">
         <text>saveCustBar</text>
@@ -801,9 +804,9 @@
       </register>
     </registers>
     <search>
-      <last-search>toArray</last-search>
+      <last-search encoding="base64">XDxhcmVhSWRcPg==</last-search>
       <last-offset />
-      <last-pattern>toArray</last-pattern>
+      <last-pattern encoding="base64">XDxhcmVhSWRcPg==</last-pattern>
       <last-replace>limit</last-replace>
       <last-substitute>offset</last-substitute>
       <last-dir>1</last-dir>
@@ -811,7 +814,6 @@
     </search>
     <history>
       <history-search>
-        <entry>选择商品</entry>
         <entry>addProduct</entry>
         <entry encoding="base64">XDxzZWxlY3RBYmxlUHJvTGlzdFw+</entry>
         <entry>productList</entry>
@@ -831,6 +833,7 @@
         <entry encoding="base64">XDxzYXZlQ3VzdEJhclw+</entry>
         <entry>ExecuteBlocking</entry>
         <entry>toArray</entry>
+        <entry encoding="base64">XDxhcmVhSWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
