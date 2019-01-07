@@ -112,8 +112,8 @@
         <mark key="." line="4" column="19" />
         <mark key="^" line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jiujiang/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" timestamp="1546407661050">
-        <mark key="'" line="297" column="43" />
+      <file name="$USER_HOME$/workspace/micro-service/jiujiang/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" timestamp="1546826055506">
+        <mark key="'" line="86" column="22" />
       </file>
       <file name="$USER_HOME$/workspace/demo/takeout_cloud/cloud_common/src/main/java/com/acenode/cloud/util/CryptoUtil.java" timestamp="1543488090927">
         <mark key="[" line="21" column="4" />
@@ -661,14 +661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="46" filename="$USER_HOME$/workspace/pproj/mall_cloud/mall_root/src/main/java/com/acenode/mall/root/controller/AdminUserController.java" />
-      <jump line="20" column="43" filename="$USER_HOME$/workspace/pproj/mall_cloud/mall_node/src/main/java/com/acenode/mall/node/controller/BannerController.java" />
-      <jump line="11" column="13" filename="$USER_HOME$/workspace/pproj/mall_cloud/mall_node/src/main/resources/application.yml" />
-      <jump line="16" column="0" filename="$USER_HOME$/workspace/pproj/mall_cloud/pom.xml" />
-      <jump line="179" column="0" filename="$USER_HOME$/workspace/pproj/mall_cloud/pom.xml" />
-      <jump line="11" column="0" filename="$USER_HOME$/workspace/pproj/mall_cloud/mall_node/src/main/java/com/acenode/mall/node/NodeApp.java" />
-      <jump line="4" column="23" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/domain/ImportLog.java" />
-      <jump line="47" column="25" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/CodesAPIVerticle.java" />
       <jump line="67" column="36" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/CodesAPIVerticle.java" />
       <jump line="38" column="0" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/CodesAPIVerticle.java" />
       <jump line="6" column="28" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/mappers/CodeMapper.xml" />
@@ -761,6 +753,14 @@
       <jump line="53" column="53" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
       <jump line="74" column="0" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/CBlockServiceImpl.java" />
       <jump line="350" column="0" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/ImportServiceImpl.java" />
+      <jump line="165" column="4" filename="$USER_HOME$/workspace/micro-service/jiujiang/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
+      <jump line="122" column="19" filename="$USER_HOME$/workspace/micro-service/jiujiang/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
+      <jump line="128" column="134" filename="$USER_HOME$/workspace/micro-service/jiujiang/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
+      <jump line="133" column="56" filename="$USER_HOME$/workspace/micro-service/jiujiang/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
+      <jump line="141" column="39" filename="$USER_HOME$/workspace/micro-service/jiujiang/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/micro-service/jiujiang/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
+      <jump line="43" column="44" filename="$USER_HOME$/workspace/micro-service/jiujiang/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
+      <jump line="86" column="22" filename="$USER_HOME$/workspace/micro-service/jiujiang/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -773,7 +773,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcmVhSWRcPg==</text>
+        <text>token</text>
       </register>
       <register name="0" type="4">
         <text>saveCustBar</text>
@@ -810,17 +810,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcmVhSWRcPg==</last-search>
+      <last-search>token</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcmVhSWRcPg==</last-pattern>
+      <last-pattern>token</last-pattern>
       <last-replace>limit</last-replace>
       <last-substitute>offset</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>addProduct</entry>
         <entry encoding="base64">XDxzZWxlY3RBYmxlUHJvTGlzdFw+</entry>
         <entry>productList</entry>
         <entry>takeout</entry>
@@ -840,6 +839,7 @@
         <entry>ExecuteBlocking</entry>
         <entry>toArray</entry>
         <entry encoding="base64">XDxhcmVhSWRcPg==</entry>
+        <entry>token</entry>
       </history-search>
       <history-cmd>
         <entry>sp</entry>
