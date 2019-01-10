@@ -448,11 +448,11 @@
         <mark key="." line="5" column="32" />
         <mark key="^" line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/zest/src/main/java/T.java" timestamp="1546157223883">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="23" />
-        <mark key="^" line="2" column="23" />
-        <mark key="." line="2" column="23" />
+      <file name="$USER_HOME$/workspace/demo/zest/src/main/java/T.java" timestamp="1547114524038">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="30" column="106" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/mall_cloud/mall_root/src/main/java/com/acenode/mall/root/Swagger2.java" timestamp="1545901940217">
         <mark key="[" line="28" column="28" />
@@ -648,7 +648,7 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-jdbc/4.3.14.RELEASE/spring-jdbc-4.3.14.RELEASE.jar!/org/springframework/jdbc/datasource/DataSourceTransactionManager.class" timestamp="1546092871734">
         <mark key="'" line="22" column="23" />
       </file>
-      <file name="/fragment.java" timestamp="1546411064613">
+      <file name="/fragment.java" timestamp="1547114462623">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="69" />
         <mark key="^" line="0" column="69" />
@@ -656,7 +656,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="12" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/mappers/CodeMapper.xml" />
       <jump line="1" column="21" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/resources/config.json" />
       <jump line="16" column="24" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/CodesAPIVerticle.java" />
       <jump line="34" column="8" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/CodesAPIVerticle.java" />
@@ -756,6 +755,7 @@
       <jump line="131" column="44" filename="$USER_HOME$/workspace/micro-service/jiujiang/gateway/src/main/java/com/uuvalue/micros/gateway/GatewayVerticle.java" />
       <jump line="147" column="43" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
       <jump line="144" column="4" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_center/src/main/java/com/uuvalue/micros/ccenter/CenterAPIVerticle.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/demo/zest/src/main/java/T.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -765,7 +765,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>System.currentTimeMillis()</text>
       </register>
       <register name="/" type="4">
         <text>token</text>
@@ -774,31 +774,31 @@
         <text>CrossOrigin</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAiY2hlY2tEb2MiOiB0cnVlLAo=</text>
+        <text encoding="base64">ICAgICAgICBmKCIiLCJiZTE1MzA1MTY2NmE4ODciKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2ZXJ0eC5yeGV4Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFQgewogICAgcHVibGljIHN0YXRpYyB2b2lkIG1haW4oU3RyaW5nW10gYXJncyl7CgogICAgfQp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBJbnRlZ2VyIGEgPSBudWxsOwogICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihhID09IDIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAiY2hlY2tEb2MiOiB0cnVlLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2ZXJ0eC5yeGV4Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBKc29uT2JqZWN0IHJlcXVlc3QgPSBjb250ZXh0LmdldEJvZHlBc0pzb24oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsbwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
