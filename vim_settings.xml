@@ -25,6 +25,11 @@
       <file name="$USER_HOME$/workspace/pproj/telecom-hlj-oracle/src/main/webapp/WEB-INF/web.xml" timestamp="1547543219110">
         <mark key="'" line="61" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/util/BackendScheduleTask.java" timestamp="1548243118286">
+        <mark key="[" line="39" column="37" />
+        <mark key="]" line="39" column="37" />
+        <mark key="." line="39" column="37" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jiujiang/code_center/src/main/java/com/uuvalue/micros/ccenter/service/impl/CBlockServiceImpl.java" timestamp="1547443551637">
         <mark key="'" line="57" column="0" />
       </file>
@@ -236,12 +241,12 @@
       <file name="$USER_HOME$/workspace/pproj/telecom-hlj-oracle/src/main/webapp/resources/inc/adminmanager/usermgr/usermgr.tpl.html" timestamp="1548048880581">
         <mark key="'" line="450" column="42" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" timestamp="1548242438502">
-        <mark key="'" line="165" column="0" />
-        <mark key="[" line="181" column="0" />
-        <mark key="]" line="181" column="0" />
-        <mark key="." line="181" column="0" />
-        <mark key="^" line="185" column="3" />
+      <file name="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" timestamp="1548243054738">
+        <mark key="'" line="185" column="75" />
+        <mark key="[" line="110" column="30" />
+        <mark key="]" line="110" column="48" />
+        <mark key="." line="110" column="48" />
+        <mark key="^" line="110" column="48" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/telecom-hlj-oracle/src/main/java/com/thinkerjet/telecom/service/ITradeService.java" timestamp="1547622599621">
         <mark key="'" line="44" column="47" />
@@ -260,11 +265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="206" column="27" filename="$USER_HOME$/workspace/pproj/telecom-hlj-oracle/src/main/webapp/resources/js/staff/usermgr/auditUsermgr.js" />
-      <jump line="207" column="27" filename="$USER_HOME$/workspace/pproj/telecom-hlj-oracle/src/main/webapp/resources/js/staff/usermgr/auditUsermgr.js" />
-      <jump line="11" column="10" filename="$USER_HOME$/workspace/pproj/telecom-hlj-oracle/src/main/webapp/resources/js/staff/usermgr/auditUsermgr.js" />
-      <jump line="40" column="50" filename="$USER_HOME$/workspace/pproj/telecom-hlj-oracle/src/main/webapp/resources/js/staff/usermgr/auditUsermgr.js" />
-      <jump line="435" column="37" filename="$USER_HOME$/workspace/pproj/telecom-hlj-oracle/src/main/java/com/thinkerjet/telecom/controller/web/manager/WebAuditUserManagerController.java" />
       <jump line="436" column="18" filename="$USER_HOME$/workspace/pproj/telecom-hlj-oracle/src/main/java/com/thinkerjet/telecom/controller/web/manager/WebAuditUserManagerController.java" />
       <jump line="522" column="36" filename="$USER_HOME$/workspace/pproj/telecom-hlj-oracle/src/main/java/com/thinkerjet/telecom/controller/web/manager/WebAuditUserManagerController.java" />
       <jump line="593" column="44" filename="$USER_HOME$/workspace/pproj/telecom-hlj-oracle/src/main/java/com/thinkerjet/telecom/controller/web/manager/WebAuditUserManagerController.java" />
@@ -360,6 +360,11 @@
       <jump line="104" column="105" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
       <jump line="128" column="122" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
       <jump line="165" column="0" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
+      <jump line="406" column="15" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
+      <jump line="392" column="24" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
+      <jump line="110" column="30" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
+      <jump line="208" column="86" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
+      <jump line="185" column="75" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -369,10 +374,10 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>// 五分钟</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWxhdGlvbkZpbGVcPg==</text>
+        <text encoding="base64">XDxmaWxlTmFtZVw+</text>
       </register>
       <register name="0" type="4">
         <text>RelaFileHandleRet</text>
@@ -409,9 +414,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWxhdGlvbkZpbGVcPg==</last-search>
+      <last-search encoding="base64">XDxmaWxlTmFtZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWxhdGlvbkZpbGVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxmaWxlTmFtZVw+</last-pattern>
       <last-replace>5</last-replace>
       <last-substitute>4</last-substitute>
       <last-dir>1</last-dir>
@@ -419,8 +424,6 @@
     </search>
     <history>
       <history-search>
-        <entry>check</entry>
-        <entry>updateusercheck</entry>
         <entry>审核</entry>
         <entry encoding="base64">XDxkZFByb3ZpbmNlRGF0YVw+</entry>
         <entry encoding="base64">XDxzZWFyY2hMb2dpblN0YWZmVXJsXD4=</entry>
@@ -439,6 +442,8 @@
         <entry encoding="base64">XDxYX0hfUF9SRUxBXD4=</entry>
         <entry encoding="base64">XDx0b3RhbExpbmVzXD4=</entry>
         <entry encoding="base64">XDxyZWxhdGlvbkZpbGVcPg==</entry>
+        <entry encoding="base64">XDxSZWxhVXBsb2FkTG9nXD4=</entry>
+        <entry encoding="base64">XDxmaWxlTmFtZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL25hbWUvdHlwZUlkL2c=</entry>
