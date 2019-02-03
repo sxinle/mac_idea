@@ -66,6 +66,11 @@
         <mark key="." line="434" column="45" />
         <mark key="^" line="434" column="45" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/MpUserAddressService.java" timestamp="1549172878353">
+        <mark key="'" line="27" column="41" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="42" />
+      </file>
       <file name="$USER_HOME$/Desktop/cxcc_api/src/main/java/api/cmcc/ota/WebMock.java" timestamp="1548825253432">
         <mark key="[" line="28" column="22" />
         <mark key="]" line="28" column="102" />
@@ -84,7 +89,8 @@
         <mark key="." line="76" column="83" />
         <mark key="^" line="76" column="83" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/MpShopController.java" timestamp="1549169210556">
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/MpShopController.java" timestamp="1549172979667">
+        <mark key="'" line="46" column="38" />
         <mark key="[" line="54" column="0" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
@@ -231,6 +237,10 @@
         <mark key="." line="264" column="0" />
         <mark key="^" line="177" column="36" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_common/src/main/java/com/acenode/takeout/common/domain/MpUserAddress.java" timestamp="1549172894192">
+        <mark key="[" line="19" column="17" />
+        <mark key="]" line="19" column="25" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/mappers/CodeMapper.java" timestamp="1548295191829">
         <mark key="[" line="24" column="4" />
         <mark key="]" line="24" column="21" />
@@ -242,8 +252,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="622" column="58" filename="$USER_HOME$/workspace/pproj/telecom-hlj-oracle/src/main/webapp/resources/js/staff/usermgr/auditUsermgr.js" />
-      <jump line="676" column="0" filename="$USER_HOME$/workspace/pproj/telecom-hlj-oracle/src/main/java/com/thinkerjet/telecom/controller/web/manager/WebAuditUserManagerController.java" />
       <jump line="21" column="27" filename="$USER_HOME$/workspace/pproj/telecom-hlj-oracle/src/main/webapp/WEB-INF/spring/spring-mybatis.xml" />
       <jump line="621" column="58" filename="$USER_HOME$/workspace/pproj/telecom-hlj-oracle/src/main/webapp/resources/js/staff/usermgr/auditUsermgr.js" />
       <jump line="379" column="11" filename="$USER_HOME$/workspace/pproj/telecom-hlj-oracle/src/main/webapp/resources/js/common/base.min.js" />
@@ -342,6 +350,8 @@
       <jump line="337" column="91" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
       <jump line="332" column="95" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
       <jump line="39" column="15" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/MpShopController.java" />
+      <jump line="27" column="41" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/MpUserAddressService.java" />
+      <jump line="46" column="38" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/MpShopController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -356,8 +366,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxhcmVhXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbnNlcnQgaW50byB4X3BfcmVsYSAoeF9jb2RlLCBwX2NvZGUsIHN1cHBsaWVyLCBjcmVhdGVfYXQsIGZpbGVfbmFtZSwgdHlwZSkKICAgICAgICB2YWx1ZXMKICAgICAgICA8Zm9yZWFjaCBjb2xsZWN0aW9uPSJyZWxhcyIgaXRlbT0icmVsYSIgaW5kZXg9ImluZGV4IiBzZXBhcmF0b3I9IiwiPgogICAgICAgICAgICAoCiAgICAgICAgICAgICN7cmVsYS5YfSwKICAgICAgICAgICAgI3tyZWxhLkhQfSwKICAgICAgICAgICAgI3tzdXBwbGllcn0sCiAgICAgICAgICAgIG5vdygpLAogICAgICAgICAgICAje2ZpbGVOYW1lfSwKICAgICAgICAgICAgI3tyZWxhLnR5cGV9CiAgICAgICAgICAgICkKICAgICAgICA8L2ZvcmVhY2g+Cg==</text>
+      <register name="0" type="4">
+        <text>isDefault</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBiYW5uZXIuc2V0U2hvcElkKGdldFVzZXIoKS5nZXRJZCgpKTsK</text>
