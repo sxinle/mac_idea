@@ -36,11 +36,11 @@
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="102" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/MpUserService.java" timestamp="1549379563802">
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="22" column="30" />
-        <mark key="^" line="22" column="30" />
-        <mark key="." line="22" column="30" />
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/MpUserService.java" timestamp="1549380364056">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="^" line="35" column="35" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/service/AdminUserService.java" timestamp="1549164888523">
         <mark key="[" line="109" column="55" />
@@ -59,12 +59,12 @@
         <mark key="[" line="30" column="0" />
         <mark key="]" line="40" column="5" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/MpShopController.java" timestamp="1549379128076">
-        <mark key="'" line="32" column="15" />
-        <mark key="[" line="109" column="19" />
-        <mark key="]" line="109" column="32" />
-        <mark key="." line="110" column="14" />
-        <mark key="^" line="110" column="14" />
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/MpShopController.java" timestamp="1549380142591">
+        <mark key="'" line="33" column="15" />
+        <mark key="[" line="117" column="47" />
+        <mark key="]" line="117" column="51" />
+        <mark key="^" line="116" column="66" />
+        <mark key="." line="117" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/MpGoodsService.java" timestamp="1549207410205">
         <mark key="[" line="41" column="30" />
@@ -143,10 +143,10 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/microutils/WXCore.java" timestamp="1549374536676">
-        <mark key="'" line="28" column="62" />
-        <mark key="[" line="29" column="51" />
-        <mark key="]" line="29" column="62" />
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/microutils/WXCore.java" timestamp="1549380230614">
+        <mark key="'" line="14" column="50" />
+        <mark key="[" line="22" column="54" />
+        <mark key="]" line="22" column="66" />
         <mark key="." line="29" column="62" />
         <mark key="^" line="29" column="62" />
       </file>
@@ -207,7 +207,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="306" column="15" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
       <jump line="316" column="15" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
       <jump line="325" column="15" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
       <jump line="334" column="15" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
@@ -307,6 +306,7 @@
       <jump line="108" column="21" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/MpShopController.java" />
       <jump line="32" column="15" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/MpShopController.java" />
       <jump line="18" column="1" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/MpUserService.java" />
+      <jump line="14" column="50" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/microutils/WXCore.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -316,13 +316,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;033s7xDQ09CDs52ZEpBQ0n1LDQ0s7xDZ&quot;</text>
+        <text>WXCore.decrypt(&quot;wx31d6b078bf3d3065&quot;, data.getString(&quot;encryptedData&quot;), data.getString(&quot;sk&quot;), data.getString(&quot;iv&quot;))</text>
       </register>
       <register name="/" type="4">
         <text>httpclient</text>
       </register>
       <register name="0" type="4">
-        <text>jscode2session</text>
+        <text>encryptedData</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -331,25 +331,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcC5vaygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjbG9uZSgpdXNlcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB1c2VyLnRvCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0LnBhcnNlCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWZmZXIgdXJsID0gbmV3IFN0cmluZ0J1ZmZlcigiIik7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA/YXBwaWQ9d3gzMWQ2YjA3OGJmM2QzMDY1JnNlY3JldD0wZDhiMjY2Mzc5ZmVjMDAyYmIxMTFlZjNhZDgyNjc5MiZqc19jb2RlPTAzM3M3eERRMDlDRHM1MlpFcEJRMG4xTERRMHM3eERaJmdyYW50X3R5cGU9YXV0aG9yaXphdGlvbl9jb2RlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
