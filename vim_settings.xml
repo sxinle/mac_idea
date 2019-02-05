@@ -9,6 +9,11 @@
       <file name="/a.dummy" timestamp="1547621442543">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/common/common/pom.xml" timestamp="1549373485234">
+        <mark key="'" line="37" column="24" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="44" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/telecom-hlj-oracle/src/main/java/com/thinkerjet/telecom/controller/web/manager/WebManagerNaviController.java" timestamp="1548929775096">
         <mark key="[" line="20" column="43" />
         <mark key="]" line="20" column="44" />
@@ -76,11 +81,6 @@
         <mark key="^" line="33" column="68" />
         <mark key="." line="33" column="68" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_common/src/main/java/com/acenode/takeout/common/domain/IndexData.java" timestamp="1549169067621">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/MpBannerInfoService.java" timestamp="1549179302265">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -109,6 +109,12 @@
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/cloud_common/pom.xml" timestamp="1549373524044">
+        <mark key="[" line="117" column="17" />
+        <mark key="]" line="117" column="22" />
+        <mark key="." line="117" column="22" />
+        <mark key="^" line="117" column="22" />
       </file>
       <file name="/Dummy.txt" timestamp="1549209896952">
         <mark key="[" line="0" column="0" />
@@ -157,7 +163,7 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1549177911866">
+      <file name="/fragment.java" timestamp="1549373454506">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/MpIndexService.java" timestamp="1549187447225">
@@ -169,8 +175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="40" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/ImportServiceImpl.java" />
-      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/com/hazelcast/hazelcast/3.8.2/hazelcast-3.8.2-sources.jar!/com/hazelcast/instance/HazelcastInstanceImpl.java" />
       <jump line="38" column="17" filename="$USER_HOME$/workspace/demo/zest/src/main/java/zest/Test.java" />
       <jump line="75" column="31" filename="$USER_HOME$/workspace/demo/zest/src/main/java/zest/Test.java" />
       <jump line="78" column="30" filename="$USER_HOME$/workspace/demo/zest/src/main/java/zest/Test.java" />
@@ -269,6 +273,8 @@
       <jump line="35" column="15" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/BannerController.java" />
       <jump line="25" column="26" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/MpUserAddressService.java" />
       <jump line="54" column="0" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/MpUserAddressService.java" />
+      <jump line="49" column="20" filename="$USER_HOME$/workspace/micro-service/common/common/pom.xml" />
+      <jump line="37" column="24" filename="$USER_HOME$/workspace/micro-service/common/common/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -281,13 +287,13 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiYW5uZXJTZXJ2aWNlXD4=</text>
+        <text>httpclient</text>
       </register>
-      <register name="0" type="4">
-        <text>goodsByType</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS5odHRwY29tcG9uZW50czwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+aHR0cGNsaWVudDwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+NC41LjY8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5PgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5vcmcuYXBhY2hlLmh0dHBjb21wb25lbnRzPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5odHRwbWltZTwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+NC41LjY8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -308,19 +314,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIE1wQmFubmVySW5mb1NlcnZpY2UgbXBCYW5uZXJJbmZvU2VydmljZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIE1wQmFubmVySW5mb1NlcnZpY2UgbXBCYW5uZXJJbmZvU2VydmljZTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiYW5uZXJTZXJ2aWNlXD4=</last-search>
+      <last-search>httpclient</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiYW5uZXJTZXJ2aWNlXD4=</last-pattern>
+      <last-pattern>httpclient</last-pattern>
       <last-replace>】</last-replace>
       <last-substitute>\]</last-substitute>
       <last-dir>1</last-dir>
@@ -328,7 +334,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaWxlTmFtZVw+</entry>
         <entry>isProvManager</entry>
         <entry>export</entry>
         <entry encoding="base64">XDxsaW5lTnVtXD4=</entry>
@@ -348,6 +353,7 @@
         <entry>limit</entry>
         <entry encoding="base64">XDxtcEJhbm5lckluZm9TZXJ2aWNlXD4=</entry>
         <entry encoding="base64">XDxiYW5uZXJTZXJ2aWNlXD4=</entry>
+        <entry>httpclient</entry>
       </history-search>
       <history-cmd>
         <entry>vsp UserVerticle.java</entry>
