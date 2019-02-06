@@ -15,15 +15,14 @@
       <file name="/a.dummy" timestamp="1547621442543">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/common/common/pom.xml" timestamp="1549373485234">
-        <mark key="'" line="37" column="24" />
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="44" column="21" />
-      </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/MpBannerInfoService.java" timestamp="1549179302265">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/service/ShopTypeService.java" timestamp="1549474187392">
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="53" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/telecom-hlj-oracle/src/main/java/com/thinkerjet/telecom/controller/web/manager/WebManagerNaviController.java" timestamp="1548929775096">
         <mark key="[" line="20" column="43" />
@@ -95,12 +94,12 @@
         <mark key="." line="434" column="45" />
         <mark key="^" line="434" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/MpUserAddressService.java" timestamp="1549472300364">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="45" column="63" />
-        <mark key="]" line="46" column="8" />
-        <mark key="." line="46" column="8" />
-        <mark key="^" line="46" column="8" />
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/MpUserAddressService.java" timestamp="1549474256420">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="27" column="89" />
+        <mark key="]" line="27" column="91" />
+        <mark key="^" line="27" column="91" />
+        <mark key="." line="27" column="91" />
       </file>
       <file name="/Dummy.txt" timestamp="1549432614149">
         <mark key="[" line="0" column="0" />
@@ -117,12 +116,12 @@
         <mark key="." line="29" column="62" />
         <mark key="^" line="29" column="62" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/MpShopController.java" timestamp="1549471243162">
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/MpShopController.java" timestamp="1549473936576">
         <mark key="'" line="33" column="15" />
-        <mark key="[" line="73" column="0" />
-        <mark key="]" line="73" column="0" />
-        <mark key="^" line="72" column="14" />
-        <mark key="." line="73" column="0" />
+        <mark key="[" line="69" column="19" />
+        <mark key="]" line="69" column="21" />
+        <mark key="^" line="69" column="21" />
+        <mark key="." line="69" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/cloud_common/src/main/java/com/acenode/cloud/bean/Resp.java" timestamp="1549162164975">
         <mark key="[" line="16" column="21" />
@@ -331,40 +330,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">aW50IGlkID0g</text>
+        <text>addressMapper.deleteByPrimaryKey(id)</text>
       </register>
       <register name="/" type="4">
         <text>httpclient</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaW5mby5nZXRJc0RlZmF1bHQoKSA9PSBJU0RFRkFVTFQpIHsK</text>
+      <register name="0" type="4">
+        <text>MpUserAddress</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBAVXBkYXRlKCJ1cGRhdGUgbXBfdXNlcl9hZGRyZXNzIHNldCBpc0RlZmF1bHQ9MSB3aGVyZSBpZD0je2lkfSIpCiAgICB2b2lkIHVwZGF0ZURlZmF1bHRBZGRyZXNzKExvbmcgaWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaW5mby5nZXRJc0RlZmF1bHQoKSA9PSBJU0RFRkFVTFQpIHsKICAgICAgICAgICAgYWRkcmVzc01hcHBlci51cGRhdGVEZWZhdWx0QWRkcmVzcyhpbmZvLmdldElkKCkpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWRkcmVzc01hcHBlci51cGRhdGVVbkRlZmF1bHRBZGRyZXNzKGluZm8uZ2V0VXNlcklkKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy/lpoLmnpzmmK/pu5jorqTlnLDlnYDvvIzliJnmuIXnqbrmiYDmnInnlKjmiLfkuIvnmoTlnLDlnYDkuLrpnZ7pu5jorqQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy/lkIzml7bmm7TmlrDmlrDnlKjmiLflnLDlnYDkuLrpu5jorqQK</text>
+        <text encoding="base64">CgogICAgQEFwaU9wZXJhdGlvbih2YWx1ZSA9ICLmn6Xor6LlnLDlnYDliJfooagiKQogICAgQFJlcXVlc3RNYXBwaW5nKHZhbHVlID0gIi9hZGRyZXNzIiwgbWV0aG9kID0gUmVxdWVzdE1ldGhvZC5HRVQpCiAgICBwcml2YXRlIE9iamVjdCBnZXRVc2VyQWRkcmVzcyhMb25nIHVzZXJJZCkgewogICAgICAgIHJldHVybiBhZGRyZXNzU2VydmljZS5nZXRBZGRyZXNzZXModXNlcklkKTsKICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgaWQgPSBhZGRyZXNzTWFwcGVyLmluc2VydChpbmZvKTsK</text>
+        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5re75Yqg5Zyw5Z2AIikKICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIvYWRkcmVzcyIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuUE9TVCkKICAgIHByaXZhdGUgT2JqZWN0IGFkZFVzZXJBZGRyZXNzKEBSZXF1ZXN0Qm9keSBNcFVzZXJBZGRyZXNzIGluZm8pIHsKICAgICAgICByZXR1cm4gYWRkcmVzc1NlcnZpY2UuYWRkQWRkcmVzc2VzKGluZm8pOwogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhZGRyZXNzTWFwcGVyLnVwZGF0ZVVuRGVmYXVsdEFkZHJlc3MoaW5mby5nZXRVc2VySWQoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
