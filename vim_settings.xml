@@ -31,11 +31,12 @@
         <mark key="^" line="20" column="42" />
         <mark key="." line="20" column="44" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_common/src/main/java/com/acenode/takeout/common/domain/ShopInfo.java" timestamp="1549186965553">
-        <mark key="[" line="23" column="20" />
-        <mark key="]" line="23" column="25" />
-        <mark key="^" line="42" column="13" />
-        <mark key="." line="42" column="13" />
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_common/src/main/java/com/acenode/takeout/common/domain/ShopInfo.java" timestamp="1549436452550">
+        <mark key="'" line="57" column="30" />
+        <mark key="[" line="33" column="28" />
+        <mark key="]" line="34" column="30" />
+        <mark key="^" line="34" column="30" />
+        <mark key="." line="34" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jiujiang/code_user/src/main/resources/config.json" timestamp="1548299545090">
         <mark key="[" line="7" column="32" />
@@ -60,12 +61,6 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
         <mark key="^" line="60" column="21" />
-      </file>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/BannerController.java" timestamp="1549209578381">
-        <mark key="'" line="34" column="15" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="/ShopInfoMapper.xml" timestamp="1549184792666">
         <mark key="[" line="45" column="0" />
@@ -179,11 +174,11 @@
         <mark key="^" line="24" column="21" />
         <mark key="." line="24" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_common/src/main/java/com/acenode/takeout/common/mapper/ShopInfoMapper.xml" timestamp="1549206130029">
-        <mark key="[" line="79" column="105" />
-        <mark key="]" line="79" column="105" />
-        <mark key="^" line="79" column="102" />
-        <mark key="." line="79" column="105" />
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_common/src/main/java/com/acenode/takeout/common/mapper/ShopInfoMapper.xml" timestamp="1549436625312">
+        <mark key="[" line="19" column="46" />
+        <mark key="]" line="19" column="56" />
+        <mark key="^" line="19" column="33" />
+        <mark key="." line="19" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/BannerService.java" timestamp="1549209523303">
         <mark key="[" line="24" column="0" />
@@ -218,7 +213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="301" column="0" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
       <jump line="160" column="16" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
       <jump line="153" column="12" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
       <jump line="354" column="23" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
@@ -318,6 +312,7 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_root/src/main/resources/application.yml" />
       <jump line="68" column="2" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_root/src/main/resources/application.yml" />
       <jump line="9" column="0" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/resources/application.yml" />
+      <jump line="57" column="30" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_common/src/main/java/com/acenode/takeout/common/domain/ShopInfo.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -327,13 +322,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;wx31d6b078bf3d3065&quot;</text>
+        <text>stat</text>
       </register>
       <register name="/" type="4">
         <text>httpclient</text>
       </register>
       <register name="0" type="4">
-        <text>secret</text>
+        <text>shopStatus</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">QEpzb25JZ25vcmVQcm9wZXJ0aWVzKGlnbm9yZVVua25vd24gPSB0cnVlKQo=</text>
