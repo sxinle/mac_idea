@@ -99,12 +99,12 @@
         <mark key="." line="434" column="45" />
         <mark key="^" line="434" column="45" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/MpUserAddressService.java" timestamp="1549511923299">
-        <mark key="'" line="57" column="0" />
-        <mark key="[" line="30" column="9" />
-        <mark key="]" line="31" column="7" />
-        <mark key="^" line="31" column="7" />
-        <mark key="." line="31" column="7" />
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/MpUserAddressService.java" timestamp="1549533522473">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="32" column="72" />
+        <mark key="]" line="32" column="85" />
+        <mark key="^" line="32" column="85" />
+        <mark key="." line="32" column="85" />
       </file>
       <file name="/Dummy.txt" timestamp="1549476051755">
         <mark key="[" line="0" column="0" />
@@ -121,7 +121,7 @@
         <mark key="." line="29" column="62" />
         <mark key="^" line="29" column="62" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/MpShopController.java" timestamp="1549518948200">
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/MpShopController.java" timestamp="1549533478048">
         <mark key="'" line="95" column="27" />
         <mark key="[" line="92" column="0" />
         <mark key="]" line="92" column="0" />
@@ -335,19 +335,19 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>getId()</text>
       </register>
       <register name="/" type="4">
         <text>httpclient</text>
       </register>
-      <register name="0" type="4">
-        <text>E</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYnVpbGRlci5hbmRXaGVyZShTcWxzLmN1c3RvbSgpLmFuZEVxdWFsVG8oImlkIiwgYWRkci5nZXRJZCgpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiByZXQgPSBuZXcgSGFzaE1hcDxTdHJpbmcsIE9iamVjdD4oKSB7ewogICAgICAgICAgICBwdXQoImJhbm5lciIsIGJhbm5lcik7CiAgICAgICAgICAgIHB1dCgic2hvcFR5cGVMaXN0IiwgdHlwZXMpOwogICAgICAgICAgICBwdXQoInNob3BJbmZvTGlzdCIsIHNob3BJbmZvTGlzdCk7CiAgICAgICAgfX07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICAgICAgTWFwPFN0cmluZywgT2JqZWN0PiByZXQgPSBuZXcgSGFzaE1hcDxTdHJpbmcsIE9iamVjdD4oKSB7ewogICAgICAgICAgICBwdXQoImJhbm5lciIsIGJhbm5lcik7CiAgICAgICAgICAgIHB1dCgic2hvcFR5cGVMaXN0IiwgdHlwZXMpOwogICAgICAgICAgICBwdXQoInNob3BJbmZvTGlzdCIsIHNob3BJbmZvTGlzdCk7CiAgICAgICAgfX07Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -364,12 +364,12 @@
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="4">
         <text>Example.builder(MpUserAddress.class)
                 .andWhere(Sqls.custom().andEqualTo(&quot;userId&quot;, userId).andEqualTo(&quot;delFlag&quot;, 0)).build()</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
