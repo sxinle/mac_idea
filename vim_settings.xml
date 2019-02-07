@@ -6,11 +6,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_common/src/main/java/com/acenode/takeout/common/domain/OrderTimeline.java" timestamp="1549554197770">
-        <mark key="[" line="21" column="20" />
-        <mark key="]" line="21" column="34" />
-        <mark key="^" line="21" column="34" />
-        <mark key="." line="21" column="34" />
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_common/src/main/java/com/acenode/takeout/common/domain/OrderTimeline.java" timestamp="1549555914552">
+        <mark key="[" line="22" column="5" />
+        <mark key="]" line="24" column="69" />
+        <mark key="^" line="24" column="69" />
+        <mark key="." line="24" column="69" />
       </file>
       <file name="/a.dummy" timestamp="1547621442543">
         <mark key="[" line="0" column="0" />
@@ -28,12 +28,18 @@
         <mark key="^" line="32" column="85" />
         <mark key="." line="32" column="85" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_common/src/main/java/com/acenode/takeout/common/mapper/OrderInfoMapper.xml" timestamp="1549554081723">
-        <mark key="'" line="52" column="0" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="^" line="45" column="16" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_common/src/main/java/com/acenode/takeout/common/mapper/OrderInfoMapper.xml" timestamp="1549556587773">
+        <mark key="'" line="51" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="45" column="25" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/cloud_common/src/main/java/com/acenode/cloud/util/RandomUtils.java" timestamp="1549555565021">
+        <mark key="[" line="79" column="62" />
+        <mark key="]" line="79" column="63" />
+        <mark key="." line="79" column="63" />
+        <mark key="^" line="79" column="57" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/MpShopController.java" timestamp="1549551804975">
         <mark key="'" line="26" column="0" />
@@ -42,11 +48,11 @@
         <mark key="^" line="88" column="54" />
         <mark key="." line="88" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/MpOrderService.java" timestamp="1549554445899">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="49" column="59" />
-        <mark key="." line="50" column="0" />
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/MpOrderService.java" timestamp="1549556431237">
+        <mark key="[" line="62" column="0" />
+        <mark key="]" line="62" column="0" />
+        <mark key="." line="62" column="0" />
+        <mark key="^" line="60" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/microutils/AES.java" timestamp="1549374497738">
         <mark key="[" line="21" column="0" />
@@ -107,12 +113,12 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/beans/ShoppingCart.java" timestamp="1549553349854">
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/beans/ShoppingCart.java" timestamp="1549555578594">
         <mark key="'" line="50" column="28" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-        <mark key="^" line="108" column="19" />
+        <mark key="[" line="92" column="47" />
+        <mark key="]" line="92" column="49" />
+        <mark key="." line="92" column="49" />
+        <mark key="^" line="92" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/beans/MpCart.java" timestamp="1549552202838">
         <mark key="'" line="73" column="33" />
@@ -291,40 +297,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>stat;</text>
+        <text>userId</text>
       </register>
       <register name="/" type="4">
         <text>httpclient</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIEdvb2RzSW5mb01hcHBlciBnb29kc0luZm9NYXBwZXI7Cg==</text>
+      <register name="0" type="4">
+        <text>mpUserId</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyAgICBpZDsK</text>
+        <text encoding="base64">ICAgICAgICB0b3RhbE1pbnVzLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyAgICBpZDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBPcmRlclRpbWVsaW5lCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcmRlckluZm9NYXBwZXIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBPcmRlclRpbWVsaW5lCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBPcmRlclRpbWVsaW5lIHRpbWVsaW5lID0gbmV3IE9yZGVyVGltZWxpbmUoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBPcmRlclRpbWVsaW5lTWFwcGVyLgo=</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdGl0bGUgPSAiTk8iOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aW1lbGluZS5zZXRPcmRlcklkKG9yZGVySW5mby5nZXRJZCgpKTsKICAgICAgICB0aW1lbGluZS5zZXRPcmRlck5vKG9yZGVySW5mby5nZXRPcmRlck5vKCkpOwogICAgICAgIHRpbWVsaW5lLnNldFN0YXQob3JkZXJJbmZvLmdldFN0YXQoKSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyAgICBpZDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBIVE1MVGl0bGVFbGVtZW50SW1wbAo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyAgICBpZDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
