@@ -170,6 +170,9 @@
         <mark key="." line="36" column="27" />
         <mark key="^" line="36" column="27" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.1.4/pagehelper-5.1.4-sources.jar!/com/github/pagehelper/PageInfo.java" timestamp="1550120652473">
+        <mark key="'" line="365" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/beans/ShoppingCart.java" timestamp="1549617022551">
         <mark key="'" line="60" column="28" />
         <mark key="[" line="98" column="23" />
@@ -274,17 +277,15 @@
       <file name="/fragment.java" timestamp="1550112443368">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/MpIndexService.java" timestamp="1550119357665">
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/MpIndexService.java" timestamp="1550120775447">
         <mark key="'" line="37" column="114" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+        <mark key="[" line="53" column="27" />
+        <mark key="]" line="53" column="28" />
+        <mark key="." line="53" column="28" />
+        <mark key="^" line="53" column="30" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="114" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/MpIndexService.java" />
-      <jump line="51" column="9" filename="$MAVEN_REPOSITORY$/tk/mybatis/mapper-core/1.1.0/mapper-core-1.1.0-sources.jar!/tk/mybatis/mapper/entity/Example.java" />
-      <jump line="956" column="23" filename="$MAVEN_REPOSITORY$/tk/mybatis/mapper-core/1.1.0/mapper-core-1.1.0-sources.jar!/tk/mybatis/mapper/entity/Example.java" />
       <jump line="7" column="58" filename="$MAVEN_REPOSITORY$/tk/mybatis/mapper-core/1.1.0/mapper-core-1.1.0-sources.jar!/tk/mybatis/mapper/entity/Example.java" />
       <jump line="16" column="30" filename="$MAVEN_REPOSITORY$/tk/mybatis/mapper-core/1.1.0/mapper-core-1.1.0-sources.jar!/tk/mybatis/mapper/entity/Example.java" />
       <jump line="47" column="50" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/MpShopController.java" />
@@ -382,6 +383,9 @@
       <jump line="68" column="78" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_common/src/main/java/com/acenode/takeout/common/mapper/ShopInfoMapper.xml" />
       <jump line="72" column="50" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_common/src/main/java/com/acenode/takeout/common/mapper/ShopInfoMapper.xml" />
       <jump line="74" column="18" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_common/src/main/java/com/acenode/takeout/common/mapper/ShopInfoMapper.xml" />
+      <jump line="65" column="39" filename="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.1.4/pagehelper-5.1.4-sources.jar!/com/github/pagehelper/PageInfo.java" />
+      <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.1.4/pagehelper-5.1.4-sources.jar!/com/github/pagehelper/PageInfo.java" />
+      <jump line="365" column="21" filename="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.1.4/pagehelper-5.1.4-sources.jar!/com/github/pagehelper/PageInfo.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -391,10 +395,10 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>@</text>
+        <text>total / pageSize</text>
       </register>
       <register name="/" type="4">
-        <text>in</text>
+        <text>total</text>
       </register>
       <register name="0" type="4">
         <text>Resp.pageData(pageInfo)</text>
@@ -431,9 +435,9 @@
       </register>
     </registers>
     <search>
-      <last-search>in</last-search>
+      <last-search>total</last-search>
       <last-offset />
-      <last-pattern>in</last-pattern>
+      <last-pattern>total</last-pattern>
       <last-replace>Settings</last-replace>
       <last-substitute>Banner</last-substitute>
       <last-dir>1</last-dir>
@@ -441,7 +445,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkdXBDb2Rlc1w+</entry>
         <entry>spliter</entry>
         <entry encoding="base64">XDxkdXBOQ29kZXNcPg==</entry>
         <entry encoding="base64">XDxSZWxhRmlsZUhhbmRsZVJldFw+</entry>
@@ -461,6 +464,7 @@
         <entry encoding="base64">XDxnZXREZWxpdmVyZWRTdXBwc1w+</entry>
         <entry encoding="base64">XDxub1dMaW5lc1w+</entry>
         <entry>in</entry>
+        <entry>total</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL29mZnNldC9saW1pdC9n</entry>
