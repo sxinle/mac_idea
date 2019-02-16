@@ -15,7 +15,6 @@
         <mark key="]" line="407" column="20" />
         <mark key="." line="407" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/telecom-hlj-oracle/src/main/java/com/thinkerjet/telecom/controller/web/manager/WebManagerNaviController.java" timestamp="1550221265334" />
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/MpShopService.java" timestamp="1550202506017">
         <mark key="'" line="18" column="7" />
         <mark key="[" line="52" column="33" />
@@ -122,7 +121,6 @@
       <file name="/a.sql" timestamp="1550115408046">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/telecom-hlj-oracle/src/main/java/com/thinkerjet/telecom/controller/web/manager/WebAuditUserManagerController.java" timestamp="1550210735140" />
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/BannerController.java" timestamp="1549887602099">
         <mark key="'" line="41" column="4" />
         <mark key="[" line="7" column="0" />
@@ -150,6 +148,10 @@
         <mark key="[" line="130" column="0" />
         <mark key="]" line="134" column="13" />
         <mark key="." line="130" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/jinhui/sync_data/app/models/DistrictInfo.java" timestamp="1550288880380">
+        <mark key="[" line="14" column="15" />
+        <mark key="]" line="14" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/cloud_common/src/main/java/com/acenode/cloud/util/Test.java" timestamp="1550227535429">
         <mark key="'" line="51" column="6" />
@@ -194,7 +196,6 @@
       <file name="/Dummy.txt" timestamp="1550234469095">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/telecom-hlj-oracle/src/main/java/com/thinkerjet/telecom/controller/web/manager/WebUserAdminManagerController.java" timestamp="1550210776924" />
       <file name="$USER_HOME$/workspace/pproj/telecom-hlj-oracle/src/main/java/com/thinkerjet/base/utils/Constants.java" timestamp="1550225310230">
         <mark key="[" line="769" column="0" />
         <mark key="]" line="776" column="81" />
@@ -264,6 +265,9 @@
         <mark key="." line="16" column="148" />
         <mark key="^" line="16" column="148" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" timestamp="1550288289907">
+        <mark key="'" line="54" column="27" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_common/src/main/java/com/acenode/takeout/common/mapper/ShopInfoMapper.xml" timestamp="1550200642464">
         <mark key="'" line="89" column="18" />
         <mark key="[" line="79" column="0" />
@@ -288,7 +292,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="45" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
       <jump line="780" column="0" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
       <jump line="113" column="24" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/ImportServiceImpl.java" />
       <jump line="78" column="67" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/CodeServiceImpl.java" />
@@ -388,6 +391,7 @@
       <jump line="85" column="0" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/MpShopController.java" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/beans/WxPayCallback.java" />
       <jump line="31" column="115" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/beans/WxPayCallback.java" />
+      <jump line="54" column="27" filename="$USER_HOME$/workspace/jinhui/sync_data/app/BindPrizes.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -403,7 +407,7 @@
         <text>callback</text>
       </register>
       <register name="0" type="4">
-        <text>unionOrderCallBack</text>
+        <text>district_info</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0LnBhcnNlT2JqZWN0KGpzb24udG9TdHJpbmcoKSkK</text>
