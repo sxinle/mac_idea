@@ -52,8 +52,8 @@
       <file name="/takeout.admin_mp_settings [takeout@localhost]" timestamp="1550115399675">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/MpShopController.java" timestamp="1550332931450">
-        <mark key="'" line="135" column="0" />
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/MpShopController.java" timestamp="1550460579780">
+        <mark key="'" line="58" column="24" />
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="0" />
         <mark key="." line="102" column="0" />
@@ -252,12 +252,14 @@
       <file name="/fragment.java" timestamp="1550455934482">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/MpIndexService.java" timestamp="1550460619752">
+        <mark key="[" line="36" column="137" />
+        <mark key="]" line="36" column="139" />
+        <mark key="^" line="36" column="139" />
+        <mark key="." line="36" column="139" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_root/src/main/resources/application.yml" />
-      <jump line="14" column="0" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/beans/WxPay.java" />
-      <jump line="81" column="54" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/MpShopController.java" />
-      <jump line="31" column="0" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/target/classes/com/acenode/takeout/node/beans/WxPay.class" />
       <jump line="33" column="32" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/target/classes/com/acenode/takeout/node/beans/WxPay.class" />
       <jump line="79" column="36" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/MpOrderService.java" />
       <jump line="70" column="11" filename="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.53/fastjson-1.2.53-sources.jar!/com/alibaba/fastjson/JSONObject.java" />
@@ -354,6 +356,10 @@
       <jump line="77" column="17" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/controller/UploadController.java" />
       <jump line="85" column="1" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/controller/UploadController.java" />
       <jump line="32" column="31" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_root/src/main/resources/application.yml" />
+      <jump line="32" column="13" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/MpShopController.java" />
+      <jump line="59" column="38" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/MpShopController.java" />
+      <jump line="57" column="35" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/MpShopController.java" />
+      <jump line="58" column="24" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/MpShopController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -366,7 +372,7 @@
         <text>/</text>
       </register>
       <register name="/" type="4">
-        <text>data</text>
+        <text>types</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBwYXRoOiBodHRwOi8vcGo1ZnR5NmsxLmJrdC5jbG91ZGRuLmNvbS8K</text>
@@ -403,9 +409,9 @@
       </register>
     </registers>
     <search>
-      <last-search>data</last-search>
+      <last-search>types</last-search>
       <last-offset />
-      <last-pattern>data</last-pattern>
+      <last-pattern>types</last-pattern>
       <last-replace>Settings</last-replace>
       <last-substitute>Banner</last-substitute>
       <last-dir>1</last-dir>
@@ -413,7 +419,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fail</entry>
         <entry>mapper</entry>
         <entry>网点管理</entry>
         <entry>审核</entry>
@@ -433,6 +438,7 @@
         <entry encoding="base64">XDxzcHJpbmdib290XD4=</entry>
         <entry>mongo</entry>
         <entry>data</entry>
+        <entry>types</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL29mZnNldC9saW1pdC9n</entry>
