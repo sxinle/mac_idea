@@ -30,6 +30,7 @@
         <mark key="." line="13" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/service/AdminUserService.java" timestamp="1550487111900" />
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_common/src/main/java/com/acenode/takeout/common/domain/Settings.java" timestamp="1550495534524" />
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_common/src/main/java/com/acenode/takeout/common/mapper/ShopCommentMapper.xml" timestamp="1550333996697">
         <mark key="[" line="7" column="36" />
         <mark key="]" line="7" column="36" />
@@ -46,12 +47,12 @@
       <file name="/takeout.admin_mp_settings [takeout@localhost]" timestamp="1550115399675">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/MpOrderService.java" timestamp="1550486365525">
-        <mark key="'" line="199" column="0" />
-        <mark key="[" line="216" column="30" />
-        <mark key="]" line="216" column="30" />
-        <mark key="." line="216" column="30" />
-        <mark key="^" line="217" column="11" />
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/MpOrderService.java" timestamp="1550495125465">
+        <mark key="'" line="94" column="0" />
+        <mark key="[" line="214" column="30" />
+        <mark key="]" line="214" column="30" />
+        <mark key="." line="214" column="30" />
+        <mark key="^" line="215" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/cloud_common/src/main/java/com/acenode/cloud/util/HTTPSender.java" timestamp="1550229398434">
         <mark key="[" line="143" column="46" />
@@ -135,7 +136,7 @@
         <mark key="." line="29" column="44" />
         <mark key="^" line="29" column="44" />
       </file>
-      <file name="/Dummy.txt" timestamp="1550494317191">
+      <file name="/Dummy.txt" timestamp="1550495131335">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/cloud_common/src/main/java/com/acenode/cloud/bean/Resp.java" timestamp="1550201007975">
@@ -162,12 +163,12 @@
         <mark key="^" line="54" column="81" />
         <mark key="." line="55" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_root/src/main/resources/application.yml" timestamp="1550458391775">
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_root/src/main/resources/application.yml" timestamp="1550494961235">
         <mark key="'" line="32" column="31" />
-        <mark key="[" line="77" column="44" />
-        <mark key="]" line="77" column="58" />
-        <mark key="." line="77" column="58" />
-        <mark key="^" line="77" column="58" />
+        <mark key="[" line="78" column="30" />
+        <mark key="]" line="78" column="33" />
+        <mark key="." line="78" column="33" />
+        <mark key="^" line="78" column="33" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/beans/WxPay.java" timestamp="1550217977688">
         <mark key="[" line="16" column="121" />
@@ -198,7 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="45" column="13" filename="$USER_HOME$/workspace/pproj/telecom-hlj-oracle/src/main/webapp/resources/js/adminmanager/usermgr/userauditmgr.js" />
       <jump line="65" column="24" filename="$USER_HOME$/workspace/pproj/telecom-hlj-oracle/src/main/webapp/resources/js/adminmanager/usermgr/userauditmgr.js" />
       <jump line="394" column="9" filename="$USER_HOME$/workspace/pproj/telecom-hlj-oracle/src/main/webapp/resources/js/adminmanager/usermgr/userauditmgr.js" />
       <jump line="121" column="42" filename="$USER_HOME$/workspace/pproj/telecom-hlj-oracle/src/main/webapp/resources/js/adminmanager/usermgr/userauditmgr.js" />
@@ -298,6 +298,7 @@
       <jump line="46" column="0" filename="$MAVEN_REPOSITORY$/tk/mybatis/mapper-core/1.1.0/mapper-core-1.1.0-sources.jar!/tk/mybatis/mapper/entity/Example.java" />
       <jump line="494" column="12" filename="$MAVEN_REPOSITORY$/tk/mybatis/mapper-core/1.1.0/mapper-core-1.1.0-sources.jar!/tk/mybatis/mapper/entity/Example.java" />
       <jump line="5" column="53" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_common/src/main/java/com/acenode/takeout/common/mapper/OrderDetailMapper.xml" />
+      <jump line="96" column="0" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/MpOrderService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -307,7 +308,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>orderDetailMapper.getDetailByInfoId(query.getId())</text>
+        <text>8080</text>
       </register>
       <register name="/" type="4">
         <text>Date</text>
