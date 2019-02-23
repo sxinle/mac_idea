@@ -50,12 +50,12 @@
         <mark key="^" line="37" column="56" />
         <mark key="." line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/YLYPrinterService.java" timestamp="1550816996304">
-        <mark key="'" line="55" column="36" />
-        <mark key="[" line="74" column="112" />
-        <mark key="]" line="74" column="120" />
-        <mark key="." line="74" column="120" />
-        <mark key="^" line="74" column="120" />
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/YLYPrinterService.java" timestamp="1550912240493">
+        <mark key="'" line="108" column="64" />
+        <mark key="[" line="108" column="85" />
+        <mark key="]" line="108" column="85" />
+        <mark key="." line="108" column="85" />
+        <mark key="^" line="30" column="45" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/service/WithdrawLogService.java" timestamp="1550750180473">
         <mark key="'" line="16" column="30" />
@@ -360,7 +360,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
       <jump line="809" column="0" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
       <jump line="318" column="19" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
       <jump line="460" column="24" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
@@ -460,6 +459,7 @@
       <jump line="211" column="4" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/MpOrderService.java" />
       <jump line="99" column="0" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/MpOrderService.java" />
       <jump line="223" column="0" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/MpOrderService.java" />
+      <jump line="107" column="64" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/YLYPrinterService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -469,7 +469,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>MpO</text>
+        <text>:8888</text>
       </register>
       <register name="/" type="4">
         <text>OrderTimeline</text>
@@ -478,31 +478,31 @@
         <text encoding="base64">ICAgICAgICA8IS0tPG1vZHVsZT5jbnB0LWFwcC1ub3RpZnk8L21vZHVsZT4tLT4KCiAgICAgICAgPG1vZHVsZT5jbnB0LWxpYi1jb3JlPC9tb2R1bGU+CiAgICAgICAgPCEtLTxtb2R1bGU+Y25wdC1hcGktYWRtaW48L21vZHVsZT4tLT4KICAgICAgICA8IS0tPG1vZHVsZT5jbnB0LWFwaS1vcGVuPC9tb2R1bGU+LS0+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcmRlclNlcnZpY2UudXBkYXRlT3JkZXIodXBkYXRlKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyBhcGlLZXkgPSAiZDVjZmQ4Mjk4YWNjYzY5YzJjNDNjODU2MmU1MWUzMzM3YmUyYWQ5OSI7Ly9BUEnlr4bpkqUK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcmRlckluZm9NYXBwZXIudXBkYXRlQnlQcmltYXJ5S2V5U2VsZWN0aXZlKHVwZGF0ZSk7Ly8g5pu05paw6K6i5Y2V54q25oCB5Li65bey5o6l5Y2VCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcmRlclNlcnZpY2UudXBkYXRlT3JkZXIodXBkYXRlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcmRlclNlcnZpY2UudXBkYXRlT3JkZXJTdGF0KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcmRlckluZm9NYXBwZXIudXBkYXRlQnlQcmltYXJ5S2V5U2VsZWN0aXZlKHVwZGF0ZSk7Ly8g5pu05paw6K6i5Y2V54q25oCB5Li65bey5o6l5Y2VCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBvcmRlclNlcnZpY2UudXBkYXRlT3JkZXJTdGF0KCk7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIE9yZGVySW5mb01hcHBlciBvcmRlckluZm9NYXBwZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIE9yZGVySW5mb01hcHBlciBvcmRlckluZm9NYXBwZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigi6K6i5Y2V5beyIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZ2dlci5lcnJvcigi6K6i5Y2V5beyIik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
