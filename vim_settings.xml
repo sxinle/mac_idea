@@ -68,6 +68,12 @@
         <mark key="^" line="47" column="99" />
         <mark key="." line="47" column="99" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/beans/ShoppingCart.java" timestamp="1551149031890">
+        <mark key="[" line="39" column="13" />
+        <mark key="]" line="39" column="36" />
+        <mark key="." line="39" column="36" />
+        <mark key="^" line="39" column="36" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/mappers/RelaMapper.java" timestamp="1551092149319">
         <mark key="[" line="25" column="22" />
         <mark key="]" line="25" column="36" />
@@ -132,6 +138,12 @@
         <mark key="." line="107" column="98" />
         <mark key="^" line="124" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_common/src/main/java/com/acenode/takeout/common/domain/OrderDetail.java" timestamp="1551148944120">
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="22" column="18" />
+        <mark key="^" line="22" column="18" />
+        <mark key="." line="22" column="18" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jiujiang/code_user/src/main/java/com/uuvalue/micros/cuser/domain/User.java" timestamp="1551091451061">
         <mark key="'" line="185" column="21" />
         <mark key="[" line="183" column="0" />
@@ -171,11 +183,11 @@
         <mark key="." line="13" column="42" />
         <mark key="^" line="13" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_common/src/main/java/com/acenode/takeout/common/domain/OrderInfo.java" timestamp="1551105220279">
-        <mark key="[" line="26" column="29" />
-        <mark key="]" line="27" column="33" />
-        <mark key="^" line="27" column="33" />
-        <mark key="." line="27" column="33" />
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_common/src/main/java/com/acenode/takeout/common/domain/OrderInfo.java" timestamp="1551149023796">
+        <mark key="[" line="27" column="34" />
+        <mark key="]" line="28" column="27" />
+        <mark key="^" line="28" column="27" />
+        <mark key="." line="28" column="27" />
       </file>
       <file name="/fragment.java" timestamp="1551104199940">
         <mark key="[" line="0" column="0" />
@@ -297,7 +309,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>mpOpenId</text>
+        <text>set</text>
       </register>
       <register name="/" type="4">
         <text>交付通过率</text>
@@ -306,10 +318,10 @@
         <text>notice</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8aWYgdGVzdD0ib3JkZXJCeSAhPSBudWxsIGFuZCBkaXIgIT0gJyciPm9yZGVyQnkgPSAje29yZGVyQnl9PC9pZj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aWYgdGVzdD0ib3JkZXJCeSAhPSBudWxsIGFuZCBkaXIgIT0gJyciPm9yZGVyQnkgPSAje29yZGVyQnl9PC9pZj4K</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -318,19 +330,19 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgICAgIEV4YW1wbGUgcXVlcnkgPSBuZXcgRXhhbXBsZShPcmRlckluZm8uY2xhc3MpOwovLyAgICAgICAgRXhhbXBsZS5Dcml0ZXJpYSBjcml0ZXJpYSA9IHF1ZXJ5LmNyZWF0ZUNyaXRlcmlhKCk7Ci8vICAgICAgICBjcml0ZXJpYS5hbmRFcXVhbFRvKCJkZWxGbGFnIiwgMCk7Ci8vICAgICAgICBpZihpbmZvLmdldFNob3BJZCgpICE9IC0xKSB7Ci8vICAgICAgICAgICAgY3JpdGVyaWEuYW5kRXF1YWxUbygic2hvcElkIiwgaW5mby5nZXRTaG9wSWQoKSk7Ci8vICAgICAgICB9Ci8vICAgICAgICBpZiAoaW5mby5nZXRDcmVhdGVBdCgpICE9IG51bGwpIHsKLy8gICAgICAgICAgICBjcml0ZXJpYS5hbmRDb25kaXRpb24oIkRBVEVfRk9STUFUKGNyZWF0ZUF0LCAnJVktJW0tJWQnKSA9ICciICsgbmV3IFNpbXBsZURhdGVGb3JtYXQoInl5eXktTU0tZGQiKS5mb3JtYXQoaW5mby5nZXRDcmVhdGVBdCgpKSArICInIik7Ci8vICAgICAgICB9Ci8vICAgICAgICBpbmZvLnNldE9yZGVyQnkocXVlcnkpOwoKLy8gICAgICAgIHZhbCBsaXN0ID0gb3JkZXJJbmZvTWFwcGVyLnNlbGVjdEJ5RXhhbXBsZShxdWVyeSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBqa2trCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIEV4YW1wbGUgcXVlcnkgPSBuZXcgRXhhbXBsZShPcmRlckluZm8uY2xhc3MpOwovLyAgICAgICAgRXhhbXBsZS5Dcml0ZXJpYSBjcml0ZXJpYSA9IHF1ZXJ5LmNyZWF0ZUNyaXRlcmlhKCk7Ci8vICAgICAgICBjcml0ZXJpYS5hbmRFcXVhbFRvKCJkZWxGbGFnIiwgMCk7Ci8vICAgICAgICBpZihpbmZvLmdldFNob3BJZCgpICE9IC0xKSB7Ci8vICAgICAgICAgICAgY3JpdGVyaWEuYW5kRXF1YWxUbygic2hvcElkIiwgaW5mby5nZXRTaG9wSWQoKSk7Ci8vICAgICAgICB9Ci8vICAgICAgICBpZiAoaW5mby5nZXRDcmVhdGVBdCgpICE9IG51bGwpIHsKLy8gICAgICAgICAgICBjcml0ZXJpYS5hbmRDb25kaXRpb24oIkRBVEVfRk9STUFUKGNyZWF0ZUF0LCAnJVktJW0tJWQnKSA9ICciICsgbmV3IFNpbXBsZURhdGVGb3JtYXQoInl5eXktTU0tZGQiKS5mb3JtYXQoaW5mby5nZXRDcmVhdGVBdCgpKSArICInIik7Ci8vICAgICAgICB9Ci8vICAgICAgICBpbmZvLnNldE9yZGVyQnkocXVlcnkpOwoKLy8gICAgICAgIHZhbCBsaXN0ID0gb3JkZXJJbmZvTWFwcGVyLnNlbGVjdEJ5RXhhbXBsZShxdWVyeSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBxdWVyeS5vcmRlckJ5KCkK</text>
+        <text encoding="base64">ICAgICAgICBqa2trCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBxdWVyeS5vcmRlckJ5KCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjcml0ZXJpYS5hbmRFcXVhbFRvKCJzaG9wSWQiLCBpbmZvLmdldFNob3BJZCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
