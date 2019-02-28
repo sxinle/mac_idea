@@ -75,6 +75,13 @@
         <mark key="." line="9" column="40" />
         <mark key="^" line="9" column="40" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/YLYPrinterService.java" timestamp="1551330506634">
+        <mark key="'" line="48" column="13" />
+        <mark key="[" line="121" column="25" />
+        <mark key="]" line="122" column="31" />
+        <mark key="." line="122" column="31" />
+        <mark key="^" line="122" column="31" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/service/GoodsInfoService.java" timestamp="1551064659630">
         <mark key="[" line="47" column="82" />
         <mark key="]" line="47" column="99" />
@@ -121,7 +128,7 @@
         <mark key="[" line="19" column="5" />
         <mark key="]" line="24" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1551261457457">
+      <file name="/Dummy.txt" timestamp="1551330518108">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_gateway/pom.xml" timestamp="1551251307008">
@@ -160,11 +167,12 @@
         <mark key="." line="102" column="67" />
         <mark key="^" line="102" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/resources/application.yml" timestamp="1551235171457">
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/resources/application.yml" timestamp="1551330373341">
         <mark key="'" line="63" column="10" />
-        <mark key="[" line="82" column="3" />
-        <mark key="]" line="82" column="3" />
-        <mark key="." line="82" column="3" />
+        <mark key="[" line="76" column="22" />
+        <mark key="]" line="76" column="21" />
+        <mark key="." line="76" column="21" />
+        <mark key="^" line="76" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_common/src/main/java/com/acenode/takeout/common/mapper/OrderInfoMapper.java" timestamp="1551104242800">
         <mark key="[" line="22" column="67" />
@@ -274,7 +282,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="13" filename="$USER_HOME$/Desktop/print_demo_java/print_demo_utf-8/src/com/ljp/test/PrintMessage.java" />
       <jump line="51" column="14" filename="$USER_HOME$/Desktop/print_demo_java/print_demo_utf-8/src/com/ljp/test/PrintMessage.java" />
       <jump line="99" column="26" filename="$USER_HOME$/Desktop/print_demo_java/print_demo_utf-8/src/com/ljp/test/PrintMessage.java" />
       <jump line="50" column="12" filename="$USER_HOME$/Desktop/print_demo_java/print_demo_utf-8/src/com/ljp/test/PrintMessage.java" />
@@ -374,6 +381,7 @@
       <jump line="34" column="24" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_gateway/src/main/java/com/acenode/takeout/node/WebsocketFilter.java" />
       <jump line="3" column="0" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_gateway/src/main/java/com/acenode/takeout/node/WebsocketFilter.java" />
       <jump line="33" column="38" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/controller/WebSocketController.java" />
+      <jump line="48" column="13" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/YLYPrinterService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -392,31 +400,31 @@
         <text encoding="base64">ICAgIEBCZWFuCiAgICBwdWJsaWMgVG9rZW5GaWx0ZXIgdG9rZW5GaWx0ZXIoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBUb2tlbkZpbHRlcigpOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QEJlYW4K</text>
+        <text encoding="base64">ICAgICAgICBTaG9wSW5mbyBzaG9wID0gc2hvcEluZm9NYXBwZXIuc2VsZWN0QnlQcmltYXJ5S2V5KG9yZGVyLmdldFNob3BJZCgpKTsKICAgICAgICB2YWwgZGV0YWlscyA9IG9yZGVyRGV0YWlsTWFwcGVyLmdldERldGFpbEJ5SW5mb0lkKG9yZGVyLmdldElkKCkpOwogICAgICAgIE1wVXNlckFkZHJlc3MgYWRkciA9IGFkZHJlc3NNYXBwZXIuc2VsZWN0QnlQcmltYXJ5S2V5KG9yZGVyLmdldEFkZHJJZCgpKTsKICAgICAgICBQcmludGVyRGV2aWNlIHByaW50ZXIgPSBwcmludGVyRGV2aWNlTWFwcGVyLnNlbGVjdE9uZUJ5RXhhbXBsZShFeGFtcGxlLmJ1aWxkZXIoUHJpbnRlckRldmljZS5jbGFzcykud2hlcmUoU3Fscy5jdXN0b20oKS5hbmRFcXVhbFRvKCJzaG9wSWQiLCBzaG9wLmdldElkKCkpKS5idWlsZCgpKTsKICAgICAgICBTdHJpbmcgcHJpbnRJZCA9IG5ldyBTaW1wbGVEYXRlRm9ybWF0KCJNTWRkSEhtbXNzIikuZm9ybWF0KG5ldyBEYXRlKCkpOwogICAgICAgIFN0cmluZyBtYWNoaW5lX2NvZGUgPXByaW50ZXIuZ2V0U2V0dGluZ3MoKS5nZXRTdHJpbmcoInRlcm1pbmFsSWQiKTsKICAgICAgICBTdHJpbmcgbUtleSA9IHByaW50ZXIuZ2V0U2V0dGluZ3MoKS5nZXRTdHJpbmcoInRlcm1pbmFsU2VjcmV0S2V5Iik7CgogICAgICAgIFN0cmluZ0J1ZmZlciBzYiA9IG5ldyBTdHJpbmdCdWZmZXIoIiIpCiAgICAgICAgICAgICAgICAuYXBwZW5kKCJAQDIgKiojIiArIHByaW50SWQgKyAiIOWtpuWTpeS9syoqXG4iKQogICAgICAgICAgICAgICAgLmFwcGVuZCgiLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1AQDIgLS3lnKjnur/mlK/ku5gtLVxuIikKICAgICAgICAgICAgICAgIC5hcHBlbmQoIkBAMiAiICsgc2hvcC5nZXROYW1lKCkgKyAiXG4iKQogICAgICAgICAgICAgICAgLmFwcGVuZCgi5LiL5Y2V5pe26Ze0OiIgKyBuZXcgU2ltcGxlRGF0ZUZvcm1hdCgieXl5eeW5tE1N5pyIZGTml6VISOaXtm1t5YiGIikuZm9ybWF0KG5ldyBEYXRlKCkpICsgIlxuIikKICAgICAgICAgICAgICAgIC5hcHBlbmQoIuiuouWNlee8luWPtzoiICsgb3JkZXIuZ2V0T3JkZXJObygpICsgIlxuIikKICAgICAgICAgICAgICAgIC5hcHBlbmQoIioqKioqKioqKioqKioq5ZWG5ZOBKioqKioqKioqKioqKipAQDIgLS0tMeWPt+WPo+iiiy0tLVxuIik7CgogICAgICAgIGRldGFpbHMuZm9yRWFjaChkZXRhaWwgLT4gc2IuYXBwZW5kKCJAQDIiICsgZGV0YWlsLmdldEdvb2RzTmFtZSgpICsgIiB4IiArIGRldGFpbC5nZXRHb29kc0NudCgpICsgIiAiICsgZGV0YWlsLmdldFByaWNlKCkgKiBkZXRhaWwuZ2V0R29vZHNDbnQoKSArICJcbiIpKTsKCiAgICAgICAgc2IuYXBwZW5kKCItLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLUBAMumFjemAgei0uTrvv6UwXG4iKQogICAgICAgICAgICAgICAgLmFwcGVuZCgiKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKipcbiIpCiAgICAgICAgICAgICAgICAuYXBwZW5kKCJAQDLorqLljZXmgLvku7c677+lIiArIG9yZGVyLmdldFRvdGFsUHJpY2UoKSArICJcbiIpCgogICAgICAgICAgICAgICAgLmFwcGVuZCgiQEAyIiArIGFkZHIuZ2V0QWRkcigpICsgIiAoIiArIGFkZHIuZ2V0U3RyZWV0KCkgKyAiKVxuIikKICAgICAgICAgICAgICAgIC5hcHBlbmQoIkBAMiIgKyBhZGRyLmdldFVzZXJuYW1lKCkgKyAiOiIgKyBhZGRyLmdldFBob25lKCkgKyAiXG4iKQogICAgICAgICAgICAgICAgLmFwcGVuZCgiQEAy6K6i5Y2V5aSH5rOo77yaIiArIG9yZGVyLmdldFJlbWFyaygpICsgIlxuIikKICAgICAgICAgICAgICAgIC5hcHBlbmQoIkBAMiAqKiMiICsgcHJpbnRJZCArICIg5a6MKipcbiIpOwoKICAgICAgICBTdHJpbmcgc3RhdHVzID0gY2hlY2tPbmxpbmUobWFjaGluZV9jb2RlLCBtS2V5KTsKICAgICAgICBpZiAobnVsbCAhPSBzdGF0dXMpIHsKICAgICAgICAgICAgaWYgKHN0YXR1cy5jb250YWlucygiMCIpKSB7Ly8g56a757q/CiAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoIuaJk+WNsOacuuS4jeWcqOe6v++8mnt9Iiwgb3JkZXIpOwogICAgICAgICAgICB9IGVsc2UgaWYgKHN0YXR1cy5jb250YWlucygiMiIpKSB7Ly8g57y657q4CiAgICAgICAgICAgICAgICBsb2dnZXIuZXJyb3IoIuaJk+WNsOacuue8uue6uO+8mm9yZGVySW5mbzp7fSIsIG9yZGVyKTsKICAgICAgICAgICAgfSBlbHNlIHsvLyDlnKjnur8KICAgICAgICAgICAgICAgIGlmIChyZXF1ZXN0UHJpbnRPcmRlcihzYi50b1N0cmluZygpLCBtYWNoaW5lX2NvZGUsIG1LZXkpKSB7CiAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCLmiZPljbDmiJDlip8iKTsKICAgICAgICAgICAgICAgICAgICBPcmRlckluZm8gdXBkYXRlID0gbmV3IE9yZGVySW5mbygpOwogICAgICAgICAgICAgICAgICAgIHVwZGF0ZS5zZXRJZChvcmRlci5nZXRJZCgpKTsKICAgICAgICAgICAgICAgICAgICB1cGRhdGUuc2V0U3RhdChNcE9yZGVyU2VydmljZS5TVEFUX01BS0lORyk7CgogICAgICAgICAgICAgICAgICAgIG9yZGVyU2VydmljZS51cGRhdGVPcmRlcih1cGRhdGUpOy8v5pu05paw6K6i5Y2V54q25oCBCiAgICAgICAgICAgICAgICAgICAgb3JkZXJTZXJ2aWNlLnVwZGF0ZU9yZGVyU3RhdChvcmRlci5nZXRJZCgpLCBvcmRlci5nZXRPcmRlck5vKCksIE1wT3JkZXJTZXJ2aWNlLlNUQVRfTUFLSU5HKTsvLyDmj5LlhaXorqLljZXovajov7kKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgbG9nZ2VyLmVycm9yKCLllYblrrbmiZPljbDmnLrlh7rnjrDpl67popjvvIzor7fmo4Dmn6UiKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGxvZ2dlci5lcnJvcigiIik7CiAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbgo=</text>
+        <text encoding="base64">ICAgIEBTbmVha3lUaHJvd3MK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">QEJlYW4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdpbmdUZW1wbGF0ZS5jb252ZXJ0QW5kU2VuZCgiL3RvcGljL25ld29yZGVyIiwgbnVtKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHRrLm15YmF0aXMubWFwcGVyLmVudGl0eS5FeGFtcGxlOwo=</text>
+        <text encoding="base64">ICAgICAgICBtZXNzYWdpbmdUZW1wbGF0ZS5jb252ZXJ0QW5kU2VuZCgiL3RvcGljL25ld29yZGVyIiwgbnVtKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtZXNzYWdpbmdUZW1wbGF0ZS5jb252ZXJ0QW5kU2VuZCgiL3RvcGljL25ld29yZGVyIiwgbmV3IFJhbmRvbSgpLm5leHRJbnQoMTAwKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmQK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIueOsOWcqOaXtumXtO+8miIgKyBkYXRlRm9ybWF0LmZvcm1hdChuZXcgRGF0ZSgpKSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHRrLm15YmF0aXMubWFwcGVyLmVudGl0eS5FeGFtcGxlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
