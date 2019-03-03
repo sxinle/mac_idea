@@ -81,9 +81,9 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="34" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_common/src/main/java/com/acenode/takeout/common/mapper/StatisticMapper.xml" timestamp="1551599752486">
-        <mark key="[" line="23" column="23" />
-        <mark key="]" line="23" column="27" />
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_common/src/main/java/com/acenode/takeout/common/mapper/StatisticMapper.xml" timestamp="1551605059221">
+        <mark key="[" line="35" column="39" />
+        <mark key="]" line="35" column="90" />
         <mark key="." line="23" column="27" />
         <mark key="^" line="23" column="26" />
       </file>
@@ -480,8 +480,8 @@
       <register name="/" type="4">
         <text>types</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTRUxFQ1QKICAgICAgICAJc3VtKCB0b3RhbFByaWNlICkgdG90YWwsCiAgICAgICAgCXNob3BJZCwKICAgICAgICAJc2hvcGluZm8ubmFtZSB0aXRsZQogICAgICAgIEZST00KICAgICAgICAJb3JkZXJfaW5mbyBvcmRlcmluZm8KICAgICAgICAJTEVGVCBKT0lOIHNob3BfaW5mbyBzaG9waW5mbyBPTiBzaG9wSWQ9c2hvcGluZm8uaWQKICAgICAgICBXSEVSRQogICAgICAgIAlvcmRlcmluZm8uY3JlYXRlQXQgQkVUV0VFTiAje3N0YXJ0fSBBTkQgI3tlbmR9CiAgICAgICAgR1JPVVAgQlkKICAgICAgICAJc2hvcElkCg==</text>
+      <register name="0" type="4">
+        <text>ROUND((sum(oi.totalPrice) * si.depositFee / 100), 2)</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
