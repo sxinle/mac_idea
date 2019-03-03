@@ -23,11 +23,11 @@
         <mark key="." line="14" column="43" />
         <mark key="^" line="14" column="60" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/service/StatisticService.java" timestamp="1551590518445">
-        <mark key="[" line="25" column="88" />
-        <mark key="]" line="25" column="88" />
-        <mark key="^" line="22" column="31" />
-        <mark key="." line="25" column="88" />
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/service/StatisticService.java" timestamp="1551606861078">
+        <mark key="[" line="85" column="57" />
+        <mark key="]" line="85" column="61" />
+        <mark key="." line="85" column="57" />
+        <mark key="^" line="85" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/controller/MpUserController.java" timestamp="1551590709054">
         <mark key="[" line="20" column="27" />
@@ -81,11 +81,11 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="34" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_common/src/main/java/com/acenode/takeout/common/mapper/StatisticMapper.xml" timestamp="1551605059221">
-        <mark key="[" line="35" column="39" />
-        <mark key="]" line="35" column="90" />
-        <mark key="." line="23" column="27" />
-        <mark key="^" line="23" column="26" />
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_common/src/main/java/com/acenode/takeout/common/mapper/StatisticMapper.xml" timestamp="1551606905944">
+        <mark key="[" line="73" column="31" />
+        <mark key="]" line="73" column="31" />
+        <mark key="." line="73" column="31" />
+        <mark key="^" line="76" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/service/GoodsTypeService.java" timestamp="1551601814260">
         <mark key="'" line="41" column="24" />
@@ -152,6 +152,12 @@
         <mark key="." line="5" column="58" />
         <mark key="^" line="5" column="58" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_common/src/main/java/com/acenode/takeout/common/mapper/StatisticMapper.java" timestamp="1551606359735">
+        <mark key="[" line="25" column="103" />
+        <mark key="]" line="25" column="113" />
+        <mark key="^" line="25" column="113" />
+        <mark key="." line="25" column="113" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_common/src/main/java/com/acenode/takeout/common/mapper/GoodsInfoMapper.xml" timestamp="1551601726016">
         <mark key="[" line="2" column="70" />
         <mark key="]" line="3" column="3" />
@@ -175,6 +181,12 @@
         <mark key="]" line="88" column="36" />
         <mark key="." line="88" column="36" />
         <mark key="^" line="88" column="36" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/controller/StatisticController.java" timestamp="1551607129626">
+        <mark key="[" line="30" column="30" />
+        <mark key="]" line="30" column="42" />
+        <mark key="." line="32" column="60" />
+        <mark key="^" line="32" column="60" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_gateway/src/main/java/com/acenode/takeout/node/TokenFilter.java" timestamp="1551405809147">
         <mark key="[" line="74" column="50" />
@@ -481,34 +493,34 @@
         <text>types</text>
       </register>
       <register name="0" type="4">
-        <text>ROUND((sum(oi.totalPrice) * si.depositFee / 100), 2)</text>
+        <text>shopSalesData</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBnb29kc2luamprago=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBHb29kc0luZm8K</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzZWxlY3Qgc3VtKHRvdGFsUHJpY2UpIG1vbnRoVG90YWwsCiAgICAgICAgKHNlbGVjdCBzdW0oZGF5UCkgYXMgZGF5UHJvZml0IGZyb20gKHNlbGVjdCBST1VORCgoc3VtKG9pLnRvdGFsUHJpY2UpICogc2kuZGVwb3NpdEZlZSAvIDEwMCksIDIpIGFzIGRheVAgZnJvbSBvcmRlcl9pbmZvIG9pIGxlZnQgam9pbiBzaG9wX2luZm8gc2kgb24gc2kuaWQgPSBvaS5zaG9wSWQKICAgICAgICAgICAgd2hlcmUgdG9fZGF5cyhvaS5jcmVhdGVBdCkgPSB0b19kYXlzKG5vdygpKSBHUk9VUCBCWSBvaS5zaG9wSWQpIGFzIGVhY2hTaG9wUHJvZml0KSBhcyBkYXlQcm9maXQKICAgICAgICAoc2VsZWN0IHN1bSh0b3RhbFByaWNlKSBmcm9tIG9yZGVyX2luZm8gd2hlcmUgdG9fZGF5cyhjcmVhdGVBdCkgPSB0b19kYXlzKG5vdygpKSkgYXMgZGF5VG90YWwKICAgICAgICBmcm9tIG9yZGVyX2luZm8gb3JkZXJJbmZvIHdoZXJlIERBVEVfRk9STUFUKG9yZGVySW5mby5jcmVhdGVBdCwgJyVZJW0nKSA9IERBVEVfRk9STUFUKENVUkRBVEUoKSwgJyVZJW0nKTsK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdG9kYXkgPSBuZXcgU2ltcGxlRGF0ZUZvcm1hdCgieXl5eS1NTS1kZCIpLmZvcm1hdChuZXcgRGF0ZSgpKTsK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAoc2VsZWN0IFJPVU5EKChzdW0ob2kudG90YWxQcmljZSkgKiBzaS5kZXBvc2l0RmVlIC8gMTAwKSwgMikgZnJvbSBvcmRlcl9pbmZvIG9pIGxlZnQgam9pbiBzaG9wX2luZm8gc2kgb24gc2kuaWQgPSBvaS5zaG9wSWQKICAgICAgICAgICAgd2hlcmUgdG9fZGF5cyhvaS5jcmVhdGVBdCkgPSB0b19kYXlzKG5vdygpKSBHUk9VUCBCWSBvaS5zaG9wSWQpIGFzIGRheVByb2ZpdCwK</text>
+        <text encoding="base64">ICAgICAgICAJQU5EIHNob3BhcmVhLmlkID0gMjUK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlckluZm8uc2V0TXBVc2VySWQoNEwpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBnb29kc2luamprago=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
