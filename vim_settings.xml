@@ -63,6 +63,10 @@
         <mark key="." line="16" column="0" />
         <mark key="^" line="34" column="22" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_common/src/main/java/com/acenode/takeout/common/mapper/StatisticMapper.xml" timestamp="1551587326977">
+        <mark key="[" line="33" column="8" />
+        <mark key="]" line="37" column="112" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/service/GoodsTypeService.java" timestamp="1551073524499">
         <mark key="[" line="36" column="122" />
         <mark key="]" line="36" column="124" />
@@ -249,7 +253,7 @@
         <mark key="^" line="18" column="19" />
         <mark key="." line="18" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/resources/application.yml" timestamp="1551585824893">
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/resources/application.yml" timestamp="1551587112378">
         <mark key="'" line="14" column="35" />
         <mark key="[" line="14" column="35" />
         <mark key="]" line="14" column="36" />
@@ -293,7 +297,7 @@
         <mark key="." line="39" column="54" />
         <mark key="^" line="39" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_root/src/main/resources/application.yml" timestamp="1551585798244">
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_root/src/main/resources/application.yml" timestamp="1551587135746">
         <mark key="[" line="14" column="35" />
         <mark key="]" line="14" column="36" />
         <mark key="." line="14" column="36" />
@@ -437,7 +441,11 @@
         <text>mongo</text>
       </register>
       <register name="0" type="4">
-        <text>svrWxPay</text>
+        <text>select sum(totalPrice) monthTotal,
+        (select ROUND((sum(oi.totalPrice) * si.depositFee / 100), 2) from order_info oi left join shop_info si on si.id = oi.shopId
+            where to_days(oi.createAt) = to_days(now()) GROUP BY oi.shopId) as dayProfit,
+        (select sum(totalPrice) from order_info where to_days(createAt) = to_days(now())) as dayTotal
+        from order_info orderInfo where DATE_FORMAT(orderInfo.createAt, '%Y%m') = DATE_FORMAT(CURDATE(), '%Y%m');</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBvcmRlckluZm8uc2V0TXBVc2VySWQoNEwpOwo=</text>
