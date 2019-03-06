@@ -87,6 +87,9 @@
         <mark key="." line="137" column="67" />
         <mark key="^" line="137" column="67" />
       </file>
+      <file name="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" timestamp="1551855290752">
+        <mark key="'" line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_gateway/src/main/resources/logback.xml" timestamp="1551764857790">
         <mark key="'" line="18" column="58" />
         <mark key="[" line="5" column="39" />
@@ -220,8 +223,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="24" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_gateway/src/main/java/com/acenode/takeout/node/WebsocketFilter.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_gateway/src/main/java/com/acenode/takeout/node/WebsocketFilter.java" />
       <jump line="33" column="38" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/controller/WebSocketController.java" />
       <jump line="48" column="13" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/YLYPrinterService.java" />
       <jump line="114" column="28" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/service/AdminUserService.java" />
@@ -320,6 +321,8 @@
       <jump line="46" column="39" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/MpShopController.java" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/MpShopController.java" />
       <jump line="157" column="0" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/MpShopController.java" />
+      <jump line="345" column="49" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
+      <jump line="22" column="0" filename="$USER_HOME$/workspace/jinhui/prod/pointshub/conf/routes" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -332,7 +335,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>debug</text>
+        <text>spend</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3aGVyZSBpbmZvcy5kaXN0YW5jZSAmbHQ7IDEwMDAwCg==</text>
@@ -369,17 +372,16 @@
       </register>
     </registers>
     <search>
-      <last-search>debug</last-search>
+      <last-search>spend</last-search>
       <last-offset />
-      <last-pattern>debug</last-pattern>
+      <last-pattern>spend</last-pattern>
       <last-replace>closeTime</last-replace>
       <last-substitute>distMoney</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkdXBXQ29kZXNMaW5lc1w+</entry>
         <entry encoding="base64">XDxkdXBXQ29kZXNfbGluZU51bVw+</entry>
         <entry>交付通过率</entry>
         <entry>submitOrder</entry>
@@ -399,6 +401,7 @@
         <entry>order</entry>
         <entry encoding="base64">XDxwcmltYXJ5U291cmNlc1w+</entry>
         <entry>debug</entry>
+        <entry>spend</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL3BhcmFtTWFwL3N0YWZmL2c=</entry>
