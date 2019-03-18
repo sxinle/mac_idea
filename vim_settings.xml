@@ -572,11 +572,11 @@
         <mark key="^" line="37" column="36" />
         <mark key="." line="37" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/uuvalue/code-flow/checkstyle.xml" timestamp="1552906125671">
+      <file name="$USER_HOME$/workspace/uuvalue/code-flow/checkstyle.xml" timestamp="1552909271114">
         <mark key="'" line="69" column="18" />
-        <mark key="[" line="69" column="19" />
-        <mark key="]" line="69" column="20" />
-        <mark key="." line="69" column="20" />
+        <mark key="[" line="67" column="41" />
+        <mark key="]" line="67" column="42" />
+        <mark key="." line="67" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/uuvalue/code-flow/code-trace/src/main/java/com/uuvalue/code/trace/controller/ProdController.java" timestamp="1552463488031">
         <mark key="'" line="34" column="0" />
@@ -613,7 +613,7 @@
         <mark key="^" line="28" column="32" />
         <mark key="." line="28" column="32" />
       </file>
-      <file name="/Dummy.txt" timestamp="1552905242180">
+      <file name="/Dummy.txt" timestamp="1552909277764">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/uuvalue/code-flow/code-trace/src/main/resources/logback.xml" timestamp="1552463688158">
@@ -757,7 +757,7 @@
         <text>用户Controller</text>
       </register>
       <register name="/" type="4">
-        <text>50</text>
+        <text>LineLengthCheck</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgU3RyaW5nIHByZVRva2VuID0gQ3J5cHRvVXRpbC5NRDUoVVVJRC5yYW5kb21VVUlEKCkudG9TdHJpbmcoKSk7Ly8g57G75Ly8SlNFU1NJT05JRCzov5Tlm57nu5nlrqLmiLfnq68K</text>
@@ -794,9 +794,9 @@
       </register>
     </registers>
     <search>
-      <last-search>50</last-search>
+      <last-search>LineLengthCheck</last-search>
       <last-offset />
-      <last-pattern>50</last-pattern>
+      <last-pattern>LineLengthCheck</last-pattern>
       <last-replace>value =</last-replace>
       <last-substitute encoding="base64">bmFtZSA9IA==</last-substitute>
       <last-dir>1</last-dir>
@@ -804,7 +804,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjaGVja1RhYmxlRXhpc3RcPg==</entry>
         <entry encoding="base64">XDx1c2VyXD4=</entry>
         <entry>list</entry>
         <entry encoding="base64">XDzns7vnu5/lvILluLjvvIFcPg==</entry>
@@ -824,6 +823,7 @@
         <entry>login</entry>
         <entry>code</entry>
         <entry>50</entry>
+        <entry>LineLengthCheck</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1sv44CQL2c=</entry>
