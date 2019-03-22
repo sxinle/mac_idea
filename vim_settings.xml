@@ -84,6 +84,12 @@
         <mark key="." line="58" column="21" />
         <mark key="^" line="58" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/mappers/RelaMapper.xml" timestamp="1553243553987">
+        <mark key="[" line="21" column="36" />
+        <mark key="]" line="21" column="36" />
+        <mark key="^" line="21" column="36" />
+        <mark key="." line="21" column="36" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_common/src/main/resources/logback.xml" timestamp="1552456073705">
         <mark key="'" line="62" column="0" />
       </file>
@@ -137,10 +143,12 @@
         <mark key="." line="57" column="49" />
         <mark key="^" line="57" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" timestamp="1553241692038">
-        <mark key="[" line="411" column="0" />
-        <mark key="]" line="411" column="0" />
-        <mark key="." line="411" column="0" />
+      <file name="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" timestamp="1553243253965">
+        <mark key="'" line="613" column="8" />
+        <mark key="[" line="434" column="55" />
+        <mark key="]" line="434" column="63" />
+        <mark key="." line="434" column="63" />
+        <mark key="^" line="434" column="63" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/json/json/20180813/json-20180813-sources.jar!/org/json/JSONObject.java" timestamp="1553155085060">
         <mark key="'" line="101" column="13" />
@@ -200,14 +208,11 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="131" column="51" />
       </file>
+      <file name="/fragment.java" timestamp="1553242756826">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="35" filename="$USER_HOME$/workspace/uuvalue/code-flow/code-prize/src/main/java/com/uuvalue/code/prize/service/ActivitiesService.java" />
-      <jump line="346" column="0" filename="$USER_HOME$/workspace/uuvalue/code-flow/code-prize/src/main/java/com/uuvalue/code/prize/service/ActivitiesService.java" />
-      <jump line="669" column="0" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
-      <jump line="1084" column="0" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
-      <jump line="24" column="41" filename="$USER_HOME$/workspace/uuvalue/code-flow/.idea/workspace.xml" />
-      <jump line="217" column="19" filename="$USER_HOME$/workspace/uuvalue/code-flow/.idea/workspace.xml" />
       <jump line="16" column="27" filename="$USER_HOME$/workspace/uuvalue/code-flow/code-center/src/main/resources/application.yml" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/uuvalue/code-flow/code-center/src/main/resources/application.yml" />
       <jump line="24" column="21" filename="$USER_HOME$/workspace/uuvalue/code-flow/code-center/src/main/resources/application.yml" />
@@ -302,6 +307,12 @@
       <jump line="26" column="40" filename="$USER_HOME$/workspace/uuvalue/code-flow/cloud-gateway/pom.xml" />
       <jump line="10" column="0" filename="$USER_HOME$/workspace/uuvalue/code-flow/code-repository/src/main/java/com/uuvalue/code/repository/mapper/UserRoleMapper.java" />
       <jump line="385" column="12" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
+      <jump line="610" column="8" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
+      <jump line="615" column="8" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
+      <jump line="614" column="8" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
+      <jump line="613" column="8" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
+      <jump line="612" column="8" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
+      <jump line="611" column="8" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -311,16 +322,16 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>// 格式不对的行</text>
+        <text>format()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaWxlRHVwQ250XD4=</text>
+        <text encoding="base64">XDxwcml2YXRlXD4=</text>
       </register>
       <register name="0" type="4">
         <text>|| StringUtils.isEmpty(nwCodes[1]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgdGltZSA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -329,31 +340,31 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbnQgZmlsZUR1cENudCA9IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8dGsubXliYXRpcy52ZXJzaW9uPjIuMS4wPC90ay5teWJhdGlzLnZlcnNpb24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBTdHJpbmcgdGltZSA9IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8c3ByaW5nYm9vdC52ZXJzaW9uPjIuMS4wLlJFTEVBU0U8L3NwcmluZ2Jvb3QudmVyc2lvbj4K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8ZXVyZWthLnZlcnNpb24+Mi4xLjAuUkVMRUFTRTwvZXVyZWthLnZlcnNpb24+CiAgICAgICAgPHp1dWwudmVyc2lvbj4yLjEuMC5SRUxFQVNFPC96dXVsLnZlcnNpb24+Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpbnQgZmlsZUR1cENudCA9IDA7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBCZWFuCg==</text>
+        <text encoding="base64">ICAgICAgICA8dGsubXliYXRpcy52ZXJzaW9uPjIuMS4wPC90ay5teWJhdGlzLnZlcnNpb24+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaWxlRHVwQ250XD4=</last-search>
+      <last-search encoding="base64">XDxwcml2YXRlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaWxlRHVwQ250XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwcml2YXRlXD4=</last-pattern>
       <last-replace>value =</last-replace>
       <last-substitute encoding="base64">bmFtZSA9IA==</last-substitute>
       <last-dir>1</last-dir>
@@ -361,7 +372,6 @@
     </search>
     <history>
       <history-search>
-        <entry>短信</entry>
         <entry>处理</entry>
         <entry encoding="base64">XDxNZXNzYWdlSW50ZXJmYWNlXD4=</entry>
         <entry>now(</entry>
@@ -381,6 +391,7 @@
         <entry encoding="base64">XDxjb250ZW50XD4=</entry>
         <entry>2.1.0</entry>
         <entry encoding="base64">XDxmaWxlRHVwQ250XD4=</entry>
+        <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1sv44CQL2c=</entry>
