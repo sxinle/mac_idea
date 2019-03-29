@@ -26,6 +26,9 @@
       <file name="$USER_HOME$/workspace/uuvalue/code-flow/code-prize/src/main/java/com/uuvalue/code/prize/controller/PrizeController.java" timestamp="1553236901265">
         <mark key="'" line="90" column="36" />
       </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-maven-plugin/2.1.0.RELEASE/spring-boot-maven-plugin-2.1.0.RELEASE.pom" timestamp="1553842390077">
+        <mark key="'" line="117" column="29" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/resources/logback.xml" timestamp="1553235039660">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="58" column="46" />
@@ -205,10 +208,10 @@
         <mark key="." line="61" column="18" />
         <mark key="^" line="43" column="26" />
       </file>
-      <file name="$USER_HOME$/workspace/uuvalue/code-flow/pom.xml" timestamp="1553841751966">
+      <file name="$USER_HOME$/workspace/uuvalue/code-flow/pom.xml" timestamp="1553842467855">
         <mark key="'" line="188" column="0" />
-        <mark key="[" line="85" column="23" />
-        <mark key="]" line="85" column="40" />
+        <mark key="[" line="170" column="28" />
+        <mark key="]" line="170" column="51" />
         <mark key="^" line="85" column="40" />
         <mark key="." line="85" column="40" />
       </file>
@@ -224,11 +227,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="22" filename="$MAVEN_REPOSITORY$/tk/mybatis/mapper-core/1.1.0/mapper-core-1.1.0-sources.jar!/tk/mybatis/mapper/entity/Example.java" />
-      <jump line="112" column="32" filename="$MAVEN_REPOSITORY$/tk/mybatis/mapper-core/1.1.0/mapper-core-1.1.0-sources.jar!/tk/mybatis/mapper/entity/Example.java" />
-      <jump line="220" column="8" filename="$MAVEN_REPOSITORY$/tk/mybatis/mapper-core/1.1.0/mapper-core-1.1.0-sources.jar!/tk/mybatis/mapper/entity/Example.java" />
-      <jump line="827" column="48" filename="$MAVEN_REPOSITORY$/tk/mybatis/mapper-core/1.1.0/mapper-core-1.1.0-sources.jar!/tk/mybatis/mapper/entity/Example.java" />
-      <jump line="860" column="23" filename="$MAVEN_REPOSITORY$/tk/mybatis/mapper-core/1.1.0/mapper-core-1.1.0-sources.jar!/tk/mybatis/mapper/entity/Example.java" />
       <jump line="695" column="41" filename="$MAVEN_REPOSITORY$/tk/mybatis/mapper-core/1.1.0/mapper-core-1.1.0-sources.jar!/tk/mybatis/mapper/entity/Example.java" />
       <jump line="108" column="4" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/MpShopController.java" />
       <jump line="101" column="13" filename="$MAVEN_REPOSITORY$/org/json/json/20180813/json-20180813-sources.jar!/org/json/JSONObject.java" />
@@ -318,12 +316,17 @@
       <jump line="26" column="11" filename="$USER_HOME$/workspace/uuvalue/code-flow/pom.xml" />
       <jump line="22" column="16" filename="$USER_HOME$/workspace/uuvalue/code-flow/pom.xml" />
       <jump line="179" column="26" filename="$USER_HOME$/workspace/uuvalue/code-flow/pom.xml" />
-      <jump line="188" column="0" filename="$USER_HOME$/workspace/uuvalue/code-flow/pom.xml" />
       <jump line="16" column="39" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/pom.xml" />
       <jump line="88" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/pom.xml" />
       <jump line="1" column="0" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/pom.xml" />
       <jump line="55" column="45" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/pom.xml" />
       <jump line="54" column="45" filename="$USER_HOME$/workspace/micro-service/code_center/code_center/pom.xml" />
+      <jump line="18" column="33" filename="$USER_HOME$/workspace/uuvalue/code-flow/pom.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/uuvalue/code-flow/pom.xml" />
+      <jump line="62" column="33" filename="$USER_HOME$/workspace/uuvalue/code-flow/pom.xml" />
+      <jump line="117" column="29" filename="$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-maven-plugin/2.1.0.RELEASE/spring-boot-maven-plugin-2.1.0.RELEASE.pom" />
+      <jump line="159" column="47" filename="$USER_HOME$/workspace/uuvalue/code-flow/pom.xml" />
+      <jump line="188" column="0" filename="$USER_HOME$/workspace/uuvalue/code-flow/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -338,8 +341,8 @@
       <register name="/" type="4">
         <text>fat</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdG9fZGF0ZSgje3JlYWwubWFrZURhdGV9LCAnWVlZWS1NTS1ERCBISDI0Om1pOnNzJyksCg==</text>
+      <register name="0" type="4">
+        <text>spring-boot-maven-plugin</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgI3tsb2cubWFrZURhdGV9Cg==</text>
