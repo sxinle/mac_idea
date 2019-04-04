@@ -88,11 +88,18 @@
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_common/src/main/java/com/acenode/takeout/common/domain/AdminUidRoleid.java" timestamp="1552552057015">
         <mark key="'" line="17" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/uuvalue/ETLnew/workspace/octetl_server/src-common/cn/com/easy/etl/zk/ZooKeeperEtlConfigShared.java" timestamp="1554365626010">
+        <mark key="[" line="29" column="47" />
+        <mark key="]" line="29" column="63" />
+      </file>
       <file name="$USER_HOME$/workspace/uuvalue/code-flow/cloud-common/src/main/java/com/uuvalue/cloud/common/util/TokenRepo.java" timestamp="1554355179861">
         <mark key="[" line="25" column="43" />
         <mark key="]" line="25" column="50" />
         <mark key="^" line="25" column="50" />
         <mark key="." line="25" column="50" />
+      </file>
+      <file name="$USER_HOME$/workspace/uuvalue/ETLnew/workspace/octetl_server/src-common/cn/com/easy/etl/EtlCommonContext.java" timestamp="1554365590793">
+        <mark key="'" line="24" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/uuvalue/code-flow/code-repository/src/main/java/com/uuvalue/code/repository/mapper/UserRoleMapper.java" timestamp="1553240785409">
         <mark key="'" line="9" column="0" />
@@ -275,9 +282,14 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="131" column="51" />
       </file>
+      <file name="$USER_HOME$/workspace/uuvalue/ETLnew/workspace/octetl_server/conf/jdbc.properties" timestamp="1554365388833">
+        <mark key="[" line="3" column="9" />
+        <mark key="]" line="3" column="13" />
+        <mark key="." line="3" column="13" />
+        <mark key="^" line="3" column="13" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="45" filename="$USER_HOME$/Desktop/java排版实例/java排版实例/src/demo/PrintUtil4.java" />
       <jump line="56" column="19" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/resources/application.yml" />
       <jump line="192" column="8" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/PrintOrderService.java" />
       <jump line="197" column="24" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/PrintOrderService.java" />
@@ -377,6 +389,7 @@
       <jump line="653" column="25" filename="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.53/fastjson-1.2.53-sources.jar!/com/alibaba/fastjson/JSON.java" />
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.53/fastjson-1.2.53-sources.jar!/com/alibaba/fastjson/JSON.java" />
       <jump line="28" column="28" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_gateway/src/main/java/com/acenode/takeout/node/TokenFilter.java" />
+      <jump line="24" column="30" filename="$USER_HOME$/workspace/uuvalue/ETLnew/workspace/octetl_server/src-common/cn/com/easy/etl/EtlCommonContext.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -386,13 +399,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>Integer adminId</text>
+        <text>root</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWRpc1w+</text>
+        <text encoding="base64">XDxkYmNwUHJvcGVydGllc1w+</text>
       </register>
       <register name="0" type="4">
-        <text>addZuulRequestHeader</text>
+        <text>EtlSiteProperties</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBMb2dnZXIuRVJST1IK</text>
@@ -426,9 +439,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWRpc1w+</last-search>
+      <last-search encoding="base64">XDxkYmNwUHJvcGVydGllc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWRpc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxkYmNwUHJvcGVydGllc1w+</last-pattern>
       <last-replace>value =</last-replace>
       <last-substitute encoding="base64">bmFtZSA9IA==</last-substitute>
       <last-dir>1</last-dir>
@@ -436,7 +449,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb25kaXRpb25cPg==</entry>
         <entry encoding="base64">XDxkaXN0aW5jdFw+</entry>
         <entry encoding="base64">XDxHZW5lcmF0ZWRDcml0ZXJpYVw+</entry>
         <entry encoding="base64">XDxKU09OT2JqZWN0XD4=</entry>
@@ -456,6 +468,7 @@
         <entry>fat</entry>
         <entry encoding="base64">XDxwYXR0ZXJuXD4=</entry>
         <entry encoding="base64">XDxyZWRpc1w+</entry>
+        <entry encoding="base64">XDxkYmNwUHJvcGVydGllc1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1sv44CQL2c=</entry>
