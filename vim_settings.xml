@@ -96,6 +96,12 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/jre/lib/ext/nashorn.jar!/jdk/nashorn/internal/ir/debug/NashornClassReader.class" timestamp="1554708006395">
         <mark key="'" line="587" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/uuvalue/code-flow/cloud-common/src/main/java/com/uuvalue/cloud/common/util/FileUtil.java" timestamp="1554796019373">
+        <mark key="[" line="42" column="29" />
+        <mark key="]" line="42" column="29" />
+        <mark key="^" line="42" column="30" />
+        <mark key="." line="42" column="29" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_common/src/main/java/com/acenode/takeout/common/domain/AdminUidRoleid.java" timestamp="1552552057015">
         <mark key="'" line="17" column="0" />
       </file>
@@ -220,10 +226,10 @@
       <file name="/Library/Java/JavaVirtualMachines/jdk1.8.0_171.jdk/Contents/Home/src.zip!/java/lang/invoke/ConstantCallSite.java" timestamp="1554707989210">
         <mark key="'" line="52" column="9" />
       </file>
-      <file name="$USER_HOME$/workspace/uuvalue/code-flow/checkstyle.xml" timestamp="1554711342524">
-        <mark key="'" line="29" column="56" />
-        <mark key="[" line="27" column="22" />
-        <mark key="]" line="27" column="32" />
+      <file name="$USER_HOME$/workspace/uuvalue/code-flow/checkstyle.xml" timestamp="1554795584645">
+        <mark key="'" line="97" column="22" />
+        <mark key="[" line="99" column="22" />
+        <mark key="]" line="99" column="37" />
         <mark key="." line="44" column="50" />
         <mark key="^" line="44" column="50" />
       </file>
@@ -282,6 +288,12 @@
       </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/service/GoodsInfoService.java" timestamp="1554257981239">
         <mark key="'" line="115" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/uuvalue/code-flow/cloud-common/src/main/java/com/uuvalue/cloud/common/util/Util.java" timestamp="1554795341495">
+        <mark key="[" line="72" column="60" />
+        <mark key="]" line="72" column="67" />
+        <mark key="^" line="72" column="67" />
+        <mark key="." line="72" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/controller/OrdersController.java" timestamp="1554258058829">
         <mark key="'" line="43" column="0" />
@@ -362,10 +374,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/workspace/uuvalue/code-flow/code-repository/src/main/java/com/uuvalue/code/repository/mapper/UserRoleMapper.java" />
-      <jump line="385" column="12" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
-      <jump line="610" column="8" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
-      <jump line="615" column="8" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
       <jump line="614" column="8" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
       <jump line="613" column="8" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
       <jump line="612" column="8" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
@@ -462,6 +470,10 @@
       <jump line="140" column="0" filename="$USER_HOME$/workspace/uuvalue/code-flow/code-user/src/main/java/com/uuvalue/code/user/service/UserService.java" />
       <jump line="141" column="54" filename="$USER_HOME$/workspace/uuvalue/code-flow/code-user/src/main/java/com/uuvalue/code/user/service/UserService.java" />
       <jump line="698" column="0" filename="$USER_HOME$/workspace/uuvalue/code-flow/code-user/src/main/java/com/uuvalue/code/user/service/UserService.java" />
+      <jump line="30" column="23" filename="$USER_HOME$/workspace/uuvalue/code-flow/checkstyle.xml" />
+      <jump line="89" column="24" filename="$USER_HOME$/workspace/uuvalue/code-flow/checkstyle.xml" />
+      <jump line="91" column="24" filename="$USER_HOME$/workspace/uuvalue/code-flow/checkstyle.xml" />
+      <jump line="97" column="22" filename="$USER_HOME$/workspace/uuvalue/code-flow/checkstyle.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -471,13 +483,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>..</text>
       </register>
       <register name="/" type="4">
-        <text>javadoc</text>
+        <text>whitespace</text>
       </register>
       <register name="0" type="4">
-        <text>SECRET_KEY</text>
+        <text>WhitespaceAround</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
@@ -511,17 +523,16 @@
       </register>
     </registers>
     <search>
-      <last-search>javadoc</last-search>
+      <last-search>whitespace</last-search>
       <last-offset />
-      <last-pattern>javadoc</last-pattern>
+      <last-pattern>whitespace</last-pattern>
       <last-replace>value =</last-replace>
       <last-substitute encoding="base64">bmFtZSA9IA==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>2.1.0</entry>
         <entry encoding="base64">XDxmaWxlRHVwQ250XD4=</entry>
         <entry encoding="base64">XDxwcml2YXRlXD4=</entry>
         <entry encoding="base64">XDxsaW5lXD4=</entry>
@@ -541,6 +552,7 @@
         <entry>visib</entry>
         <entry>Constant</entry>
         <entry>javadoc</entry>
+        <entry>whitespace</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1sv44CQL2c=</entry>
