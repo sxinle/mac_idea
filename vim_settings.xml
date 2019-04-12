@@ -85,12 +85,12 @@
         <mark key="." line="127" column="0" />
         <mark key="^" line="48" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/withdraw/redpack/process/WithdrawService.java" timestamp="1555065541088">
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/withdraw/redpack/process/WithdrawService.java" timestamp="1555067173359">
         <mark key="'" line="105" column="40" />
-        <mark key="[" line="184" column="39" />
-        <mark key="]" line="184" column="50" />
-        <mark key="." line="184" column="50" />
-        <mark key="^" line="184" column="50" />
+        <mark key="[" line="93" column="72" />
+        <mark key="]" line="93" column="72" />
+        <mark key="." line="93" column="72" />
+        <mark key="^" line="129" column="79" />
       </file>
       <file name="$USER_HOME$/workspace/uuvalue/code-flow/code-prize/src/main/java/com/uuvalue/code/prize/util/ActivityPrizeSchedule.java" timestamp="1554947568179">
         <mark key="[" line="33" column="8" />
@@ -145,6 +145,13 @@
         <mark key="]" line="206" column="0" />
         <mark key="." line="212" column="39" />
         <mark key="^" line="236" column="59" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_root/src/main/resources/logback.xml" timestamp="1555066955041">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="57" column="46" />
+        <mark key="]" line="57" column="49" />
+        <mark key="." line="57" column="49" />
+        <mark key="^" line="57" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/resources/application.yml" timestamp="1555065016889">
         <mark key="'" line="68" column="12" />
@@ -260,7 +267,7 @@
         <mark key="." line="9" column="4" />
         <mark key="^" line="9" column="4" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555065037057">
+      <file name="/Dummy.txt" timestamp="1555066957350">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="17" />
       </file>
@@ -286,7 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/workspace/uuvalue/code-flow/code-repository/src/main/java/com/uuvalue/code/repository/mapper/BaidumapCitycodeMapper.java" />
       <jump line="112" column="65" filename="$USER_HOME$/workspace/uuvalue/code-flow/cloud-common/src/main/java/com/uuvalue/cloud/common/util/HTTPSender.java" />
       <jump line="33" column="0" filename="$USER_HOME$/workspace/uuvalue/code-flow/cloud-common/src/main/java/com/uuvalue/cloud/common/util/HTTPSender.java" />
       <jump line="177" column="49" filename="$USER_HOME$/workspace/uuvalue/code-flow/cloud-common/src/main/java/com/uuvalue/cloud/common/util/HTTPSender.java" />
@@ -386,6 +392,7 @@
       <jump line="88" column="69" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/withdraw/redpack/process/WithdrawService.java" />
       <jump line="92" column="12" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/withdraw/redpack/process/WithdrawService.java" />
       <jump line="105" column="40" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/withdraw/redpack/process/WithdrawService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_root/src/main/resources/logback.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -395,7 +402,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICogMTAw</text>
+        <text>DEBUG</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtb25leVw+</text>
@@ -404,31 +411,31 @@
         <text>WxOAuthCallback</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBmaXhtZSDmtYvor5UKICAgICAgICBtb25leSA9IDMwTDsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBmaXhtZSDmtYvor5UK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuZXcgSlNPTk9iamVjdCgpLmYK</text>
+        <text encoding="base64">ICAgICAgICBtb25leSA9IDMwTDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0Lgo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBmaXhtZSDmtYvor5UKICAgICAgICBtb25leSA9IDMwTDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0Lgo=</text>
+        <text encoding="base64">ICAgICAgICBuZXcgSlNPTk9iamVjdCgpLmYK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IG9yZy5qc29uLkpTT05PYmplY3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0Lgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0Cg==</text>
+        <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0Lgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBKU09OT2JqZQo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5qc29uLkpTT05PYmplY3Q7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgZ2V0TWNoX2FwcGlkKCkgewogICAgICAgIHJldHVybiBtY2hfYXBwaWQ7CiAgICB9CgogICAgcHVibGljIFBheW1lbnRQYXJhbSBzZXRNY2hfYXBwaWQoU3RyaW5nIG1jaF9hcHBpZCkgewogICAgICAgIHRoaXMubWNoX2FwcGlkID0gbWNoX2FwcGlkOwogICAgICAgIHJldHVybiB0aGlzOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0TWNoaWQoKSB7CiAgICAgICAgcmV0dXJuIG1jaGlkOwogICAgfQoKICAgIHB1YmxpYyBQYXltZW50UGFyYW0gc2V0TWNoaWQoU3RyaW5nIG1jaGlkKSB7CiAgICAgICAgdGhpcy5tY2hpZCA9IG1jaGlkOwogICAgICAgIHJldHVybiB0aGlzOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0RGV2aWNlX2luZm8oKSB7CiAgICAgICAgcmV0dXJuIGRldmljZV9pbmZvOwogICAgfQoKICAgIHB1YmxpYyBQYXltZW50UGFyYW0gc2V0RGV2aWNlX2luZm8oU3RyaW5nIGRldmljZV9pbmZvKSB7CiAgICAgICAgdGhpcy5kZXZpY2VfaW5mbyA9IGRldmljZV9pbmZvOwogICAgICAgIHJldHVybiB0aGlzOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0Tm9uY2Vfc3RyKCkgewogICAgICAgIHJldHVybiBub25jZV9zdHI7CiAgICB9CgogICAgcHVibGljIFBheW1lbnRQYXJhbSBzZXROb25jZV9zdHIoU3RyaW5nIG5vbmNlX3N0cikgewogICAgICAgIHRoaXMubm9uY2Vfc3RyID0gbm9uY2Vfc3RyOwogICAgICAgIHJldHVybiB0aGlzOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0U2lnbigpIHsKICAgICAgICByZXR1cm4gc2lnbjsKICAgIH0KCiAgICBwdWJsaWMgUGF5bWVudFBhcmFtIHNldFNpZ24oU3RyaW5nIHNpZ24pIHsKICAgICAgICB0aGlzLnNpZ24gPSBzaWduOwogICAgICAgIHJldHVybiB0aGlzOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0UGFydG5lcl90cmFkZV9ubygpIHsKICAgICAgICByZXR1cm4gcGFydG5lcl90cmFkZV9ubzsKICAgIH0KCiAgICBwdWJsaWMgUGF5bWVudFBhcmFtIHNldFBhcnRuZXJfdHJhZGVfbm8oU3RyaW5nIHBhcnRuZXJfdHJhZGVfbm8pIHsKICAgICAgICB0aGlzLnBhcnRuZXJfdHJhZGVfbm8gPSBwYXJ0bmVyX3RyYWRlX25vOwogICAgICAgIHJldHVybiB0aGlzOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0T3BlbmlkKCkgewogICAgICAgIHJldHVybiBvcGVuaWQ7CiAgICB9CgogICAgcHVibGljIFBheW1lbnRQYXJhbSBzZXRPcGVuaWQoU3RyaW5nIG9wZW5pZCkgewogICAgICAgIHRoaXMub3BlbmlkID0gb3BlbmlkOwogICAgICAgIHJldHVybiB0aGlzOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0Q2hlY2tfbmFtZSgpIHsKICAgICAgICByZXR1cm4gY2hlY2tfbmFtZTsKICAgIH0KCiAgICBwdWJsaWMgUGF5bWVudFBhcmFtIHNldENoZWNrX25hbWUoU3RyaW5nIGNoZWNrX25hbWUpIHsKICAgICAgICB0aGlzLmNoZWNrX25hbWUgPSBjaGVja19uYW1lOwogICAgICAgIHJldHVybiB0aGlzOwogICAgfQoKICAgIHB1YmxpYyBTdHJpbmcgZ2V0UmVfdXNlcl9uYW1lKCkgewogICAgICAgIHJldHVybiByZV91c2VyX25hbWU7CiAgICB9CgogICAgcHVibGljIFBheW1lbnRQYXJhbSBzZXRSZV91c2VyX25hbWUoU3RyaW5nIHJlX3VzZXJfbmFtZSkgewogICAgICAgIHRoaXMucmVfdXNlcl9uYW1lID0gcmVfdXNlcl9uYW1lOwogICAgICAgIHJldHVybiB0aGlzOwogICAgfQoKICAgIHB1YmxpYyBJbnRlZ2VyIGdldEFtb3VudCgpIHsKICAgICAgICByZXR1cm4gYW1vdW50OwogICAgfQoKICAgIHB1YmxpYyBQYXltZW50UGFyYW0gc2V0QW1vdW50KEludGVnZXIgYW1vdW50KSB7CiAgICAgICAgdGhpcy5hbW91bnQgPSBhbW91bnQ7CiAgICAgICAgcmV0dXJuIHRoaXM7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXREZXNjKCkgewogICAgICAgIHJldHVybiBkZXNjOwogICAgfQoKICAgIHB1YmxpYyBQYXltZW50UGFyYW0gc2V0RGVzYyhTdHJpbmcgZGVzYykgewogICAgICAgIHRoaXMuZGVzYyA9IGRlc2M7CiAgICAgICAgcmV0dXJuIHRoaXM7CiAgICB9CgogICAgcHVibGljIFN0cmluZyBnZXRTcGJpbGxfY3JlYXRlX2lwKCkgewogICAgICAgIHJldHVybiBzcGJpbGxfY3JlYXRlX2lwOwogICAgfQoKICAgIHB1YmxpYyBQYXltZW50UGFyYW0gc2V0U3BiaWxsX2NyZWF0ZV9pcChTdHJpbmcgc3BiaWxsX2NyZWF0ZV9pcCkgewogICAgICAgIHRoaXMuc3BiaWxsX2NyZWF0ZV9pcCA9IHNwYmlsbF9jcmVhdGVfaXA7CiAgICAgICAgcmV0dXJuIHRoaXM7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBKU09OT2JqZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
