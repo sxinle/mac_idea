@@ -61,21 +61,21 @@
       <file name="$USER_HOME$/workspace/uuvalue/code-flow/code-repository/src/main/java/com/uuvalue/code/repository/mapper/UserRoleMapper.java" timestamp="1553240785409">
         <mark key="'" line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/withdraw/redpack/data/PaymentParam.java" timestamp="1554982542734">
-        <mark key="[" line="21" column="113" />
-        <mark key="]" line="21" column="120" />
-        <mark key="^" line="21" column="60" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/withdraw/redpack/data/PaymentParam.java" timestamp="1555054421346">
+        <mark key="[" line="41" column="15" />
+        <mark key="]" line="41" column="82" />
+        <mark key="." line="40" column="35" />
+        <mark key="^" line="40" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/CodeServiceImpl.java" timestamp="1555040840990">
         <mark key="'" line="97" column="77" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/withdraw/redpack/process/WithdrawService.java" timestamp="1555052347149">
-        <mark key="'" line="160" column="49" />
-        <mark key="[" line="88" column="12" />
-        <mark key="]" line="88" column="15" />
-        <mark key="." line="88" column="15" />
-        <mark key="^" line="88" column="15" />
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/withdraw/redpack/process/WithdrawService.java" timestamp="1555054786420">
+        <mark key="'" line="162" column="49" />
+        <mark key="[" line="133" column="82" />
+        <mark key="]" line="133" column="82" />
+        <mark key="." line="133" column="82" />
+        <mark key="^" line="133" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/uuvalue/code-flow/code-prize/src/main/java/com/uuvalue/code/prize/util/ActivityPrizeSchedule.java" timestamp="1554947568179">
         <mark key="[" line="33" column="8" />
@@ -261,7 +261,7 @@
         <mark key="." line="110" column="6" />
         <mark key="^" line="110" column="6" />
       </file>
-      <file name="/fragment.java" timestamp="1555034882799">
+      <file name="/fragment.java" timestamp="1555054000222">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -375,40 +375,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>.return_msg + &quot; err_des:&quot; + respBean.err_code_des</text>
       </register>
       <register name="/" type="4">
         <text>int</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTRUxFQ1Qgcm91bmQoc3VtKG9pLnRvdGFsUHJpY2UgKiAoIDEwMCAtIHNpLmRlcG9zaXRGZWUgKSAvIDEwMCApLCAyKQogICAgICAgIEZST00gb3JkZXJfaW5mbyBvaSBMRUZUIEpPSU4gc2hvcF9pbmZvIHNpIE9OIHNpLmlkID0gb2kuc2hvcElkCiAgICAgICAgV0hFUkUgb2kuc2hvcElkID0gI3tzaG9wSWR9IEFORCBvaS5zdGF0ID49IDMwIEFORCBvaS53aXRoRHJhdyA9IDAK</text>
+      <register name="0" type="4">
+        <text>&quot;PAY&quot; + new SimpleDateFormat(&quot;yyyyMMddHHmmssSSS&quot;).format(new Date())</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0cmluCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlckluZm9NYXBwZXIudXBkYXRlV2l0aERyYXdGbGFnKChBcnJheUxpc3Q8TG9uZz4pIGNoZWNrUmV0LmdldCgiaWRzIiksIFdJVEhEUkFXX1NUQVJUKTsvLyDorr7nva7nirbmgIHkuLrlt7Lor7fmsYLmj5DnjrAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBvcmRlckluZm9NYXBwZXIudXBkYXRlV2l0aERyYXdGbGFnKChBcnJheUxpc3Q8TG9uZz4pIGNoZWNrUmV0LmdldCgiaWRzIiksIFdJVEhEUkFXX1NUQVJUKTsvLyDorr7nva7nirbmgIHkuLrlt7Lor7fmsYLmj5DnjrAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9ImdldCIgcmVzdWx0VHlwZT0iamF2YS5sYW5nLkZsb2F0Ij48L3NlbGVjdD4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9ImdldCIgcmVzdWx0VHlwZT0iamF2YS5sYW5nLkZsb2F0Ij48L3NlbGVjdD4K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
