@@ -87,7 +87,7 @@
         <mark key="^" line="141" column="86" />
         <mark key="." line="141" column="86" />
       </file>
-      <file name="/Dummy.txt" timestamp="1555337887651">
+      <file name="/Dummy.txt" timestamp="1555381295205">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="3" />
       </file>
@@ -147,12 +147,12 @@
         <mark key="." line="80" column="3" />
         <mark key="^" line="80" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" timestamp="1555379035420">
-        <mark key="'" line="188" column="34" />
-        <mark key="[" line="244" column="105" />
-        <mark key="]" line="244" column="106" />
-        <mark key="." line="244" column="106" />
-        <mark key="^" line="244" column="106" />
+      <file name="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" timestamp="1555381145334">
+        <mark key="'" line="417" column="67" />
+        <mark key="[" line="423" column="0" />
+        <mark key="]" line="423" column="0" />
+        <mark key="." line="423" column="0" />
+        <mark key="^" line="422" column="102" />
       </file>
       <file name="$USER_HOME$/workspace/uuvalue/code-flow/code-prize/src/main/java/com/uuvalue/code/prize/util/ActivityPrizeSchedule.java" timestamp="1554947568179">
         <mark key="[" line="33" column="8" />
@@ -224,7 +224,7 @@
         <mark key="^" line="33" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1555215756191">
+      <file name="/fragment.java" timestamp="1555380918623">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/controller/StatisticController.java" timestamp="1555048295054">
@@ -246,7 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="158" column="12" filename="$USER_HOME$/workspace/uuvalue/code-flow/cloud-common/src/main/java/com/uuvalue/cloud/common/util/HTTPSender.java" />
       <jump line="166" column="20" filename="$USER_HOME$/workspace/uuvalue/code-flow/cloud-common/src/main/java/com/uuvalue/cloud/common/util/HTTPSender.java" />
       <jump line="182" column="12" filename="$USER_HOME$/workspace/uuvalue/code-flow/cloud-common/src/main/java/com/uuvalue/cloud/common/util/HTTPSender.java" />
       <jump line="190" column="20" filename="$USER_HOME$/workspace/uuvalue/code-flow/cloud-common/src/main/java/com/uuvalue/cloud/common/util/HTTPSender.java" />
@@ -346,6 +345,7 @@
       <jump line="131" column="64" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/withdraw/redpack/process/WithdrawService.java" />
       <jump line="13" column="15" filename="$USER_HOME$/workspace/pegas/pegas-b/mysql.sh" />
       <jump line="28" column="0" filename="$USER_HOME$/workspace/pegas/pegas-b/.gitignore" />
+      <jump line="416" column="67" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -355,41 +355,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>两小时</text>
+        <text>Patten</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxXSVRIRFJBV19JTklUXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>%Y-%m-%d</text>
+        <text>missInnerCodeMatcher</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBmaXhtZSB0ZXN0Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBmaXhtZSBzaG9wSWQgNTAg5YGa5rWL6K+V55SoCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBmaXhtZSB0ZXN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIXVyaS5lbmRzV2l0aCgibG9naW4iKSAmJiAhdXJpLmNvbnRhaW5zKCIvb3Blbi8iKSAmJiAhdXJpLmNvbnRhaW5zKCIvbXAvIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBmaXhtZSBzaG9wSWQgNTAg5YGa5rWL6K+V55SoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gIXVyaS5lbmRzV2l0aCgibG9naW4iKSAmJiAhdXJpLmNvbnRhaW5zKCIvb3Blbi8iKSAmJiAhdXJpLmNvbnRhaW5zKCIvbXAvIik7Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Y2hlY2tQcm9jZXNzU3RhdCgpIHsKICAgIGZvciBkaXIgaW4gJChscyAuKQogICAgZG8KICAgICAgICBpZiBbIC1kICRkaXIgLWEgJGRpciAhPSAnY2xvdWQtY29tbW9uJyAtYSAkZGlyICE9ICdwZWdhcy1jb21tb24nIF07dGhlbgogICAgICAgICAgICBlY2hvICLjgJAiJGRpciLjgJEJCeKGk+KGk+KGk+KGk+KGk+KGk+i/m+eoi+eKtuaAgeKGk+KGk+KGk+KGk+KGk+KGkyIKICAgICAgICAgICAgcHMgYXV4IHwgZ3JlcCAkZGlyIHwgZ3JlcCAtdiBncmVwIHwgZ3JlcCAtdiBkZXAuc2gKICAgICAgICBmaQogICAgZG9uZQp9Cg==</text>
       </register>
-      <register name="6" type="8">
+      <register name="7" type="8">
         <text encoding="base64">ICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICAKICAgIAogICAgCiAgICA=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ZmkK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">aWYgWyAnJyQxID0gJ3N0YXR1cycgXTt0aGVuCiAgICBjaGVja1Byb2Nlc3NTdGF0CmVsc2UK</text>
-      </register>
-      <register name="9" type="4">
-        <text>期
-timeTenDayAgo</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
