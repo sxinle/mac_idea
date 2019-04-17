@@ -32,18 +32,12 @@
         <mark key="." line="68" column="51" />
         <mark key="^" line="68" column="51" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/src/main/java/com/xinsl/pegas/root/service/AdminDeliveryUserService.java" timestamp="1555487672692">
+      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/src/main/java/com/xinsl/pegas/root/service/AdminDeliveryUserService.java" timestamp="1555490467624">
         <mark key="'" line="87" column="61" />
-        <mark key="[" line="38" column="37" />
-        <mark key="]" line="38" column="53" />
-        <mark key="." line="38" column="53" />
-        <mark key="^" line="38" column="53" />
-      </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-b/pom.xml" timestamp="1555395028121">
-        <mark key="'" line="40" column="50" />
-        <mark key="[" line="116" column="0" />
-        <mark key="]" line="120" column="21" />
-        <mark key="." line="12" column="0" />
+        <mark key="[" line="68" column="30" />
+        <mark key="]" line="68" column="38" />
+        <mark key="." line="68" column="38" />
+        <mark key="^" line="68" column="38" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/src/main/java/com/xinsl/pegas/root/controller/AdminDeliveryUserController.java" timestamp="1555487632040">
         <mark key="'" line="60" column="0" />
@@ -127,6 +121,13 @@
         <mark key="." line="12" column="34" />
         <mark key="^" line="12" column="34" />
       </file>
+      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/src/main/resources/logback.xml" timestamp="1555490550036">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="57" column="42" />
+        <mark key="]" line="57" column="46" />
+        <mark key="." line="57" column="46" />
+        <mark key="^" line="57" column="46" />
+      </file>
       <file name="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/resources/config.json" timestamp="1555466360363" />
       <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/src/main/java/com/xinsl/pegas/root/service/AdminDeliveryUsersService.java" timestamp="1555468326221">
         <mark key="[" line="34" column="38" />
@@ -142,12 +143,6 @@
       <file name="/Dummy.txt" timestamp="1555487068162">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="3" />
-      </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/withdraw/redpack/process/WithdrawService.java" timestamp="1555407645844">
-        <mark key="'" line="35" column="13" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/src/main/java/com/xinsl/pegas/root/controller/ShopInfoController.java" timestamp="1555409765430">
         <mark key="'" line="12" column="17" />
@@ -169,12 +164,6 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="29" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/src/main/java/com/xinsl/pegas/root/controller/AdminUserController.java" timestamp="1555432651536">
-        <mark key="'" line="12" column="13" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-web-tools/src/main/java/com/xinsl/pegas/tools/Test.java" timestamp="1555413406193">
         <mark key="'" line="42" column="38" />
         <mark key="[" line="50" column="0" />
@@ -187,7 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2575" column="31" filename="$USER_HOME$/workspace/pegas/pegas-web-tools/src/main/java/com/xinsl/pegas/tools/ElemeShop.java" />
       <jump line="2665" column="33" filename="$USER_HOME$/workspace/pegas/pegas-web-tools/src/main/java/com/xinsl/pegas/tools/ElemeShop.java" />
       <jump line="2666" column="27" filename="$USER_HOME$/workspace/pegas/pegas-web-tools/src/main/java/com/xinsl/pegas/tools/ElemeShop.java" />
       <jump line="2673" column="33" filename="$USER_HOME$/workspace/pegas/pegas-web-tools/src/main/java/com/xinsl/pegas/tools/ElemeShop.java" />
@@ -287,6 +275,7 @@
       <jump line="60" column="0" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/src/main/java/com/xinsl/pegas/root/controller/AdminDeliveryUserController.java" />
       <jump line="11" column="0" filename="$USER_HOME$/workspace/pegas/pegas-b/safe.txt" />
       <jump line="85" column="61" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/src/main/java/com/xinsl/pegas/root/service/AdminDeliveryUserService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/src/main/resources/logback.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -296,13 +285,13 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>AdminUser</text>
+        <text>INFO</text>
       </register>
       <register name="/" type="4">
         <text>image</text>
       </register>
       <register name="0" type="4">
-        <text>/admin/deliveryuser</text>
+        <text>AdminDeliveryUser</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBKc29uUHJvcGVydHkoYWNjZXNzID0gSnNvblByb3BlcnR5LkFjY2Vzcy5XUklURV9PTkxZKQogICAgcHJpdmF0ZSBMb25nIGFyZWFJZDsK</text>
