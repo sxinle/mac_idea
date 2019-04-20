@@ -144,7 +144,7 @@
         <mark key="." line="47" column="70" />
         <mark key="^" line="47" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/controller/DeliveryAppController.java" timestamp="1555756716590">
+      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/controller/DeliveryAppController.java" timestamp="1555757108824">
         <mark key="[" line="27" column="41" />
         <mark key="]" line="27" column="40" />
         <mark key="^" line="27" column="40" />
@@ -261,12 +261,12 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/DeliveryAppService.java" timestamp="1555756598731">
-        <mark key="'" line="35" column="35" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="82" column="24" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/DeliveryAppService.java" timestamp="1555757322177">
+        <mark key="'" line="41" column="52" />
+        <mark key="[" line="83" column="41" />
+        <mark key="]" line="83" column="43" />
+        <mark key="." line="83" column="43" />
+        <mark key="^" line="83" column="43" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/pom.xml" timestamp="1555413388511">
         <mark key="[" line="33" column="21" />
@@ -336,11 +336,11 @@
         <mark key="." line="11" column="31" />
         <mark key="^" line="11" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/domain/OrderDeliveryTrace.java" timestamp="1555752781555">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="^" line="27" column="29" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/domain/OrderDeliveryTrace.java" timestamp="1555757213315">
+        <mark key="[" line="19" column="52" />
+        <mark key="]" line="20" column="3" />
+        <mark key="." line="20" column="3" />
+        <mark key="^" line="20" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/domain/AdminUser.java" timestamp="1555432622408">
         <mark key="'" line="15" column="0" />
@@ -379,7 +379,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="605" column="45" filename="$USER_HOME$/workspace/pegas/pegas-web-tools/src/main/java/com/xinsl/pegas/tools/ElemeShop.java" />
       <jump line="803" column="61" filename="$USER_HOME$/workspace/pegas/pegas-web-tools/src/main/java/com/xinsl/pegas/tools/ElemeShop.java" />
       <jump line="884" column="34" filename="$USER_HOME$/workspace/pegas/pegas-web-tools/src/main/java/com/xinsl/pegas/tools/ElemeShop.java" />
       <jump line="926" column="33" filename="$USER_HOME$/workspace/pegas/pegas-web-tools/src/main/java/com/xinsl/pegas/tools/ElemeShop.java" />
@@ -478,7 +477,8 @@
       <jump line="35" column="13" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/DeliveryAppService.java" />
       <jump line="4" column="36" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/mapper/OrderDeliveryTraceMapper.xml" />
       <jump line="78" column="26" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/DeliveryAppService.java" />
-      <jump line="41" column="35" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/DeliveryAppService.java" />
+      <jump line="76" column="22" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/DeliveryAppService.java" />
+      <jump line="41" column="52" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/DeliveryAppService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -488,22 +488,22 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>return null;</text>
+        <text>RANSFORM</text>
       </register>
       <register name="/" type="4">
         <text>addActRedRaw</text>
       </register>
-      <register name="0" type="4">
-        <text>OrderInfoMapper</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIGludCBERUxJVkVSWV9UWVBFX0dSQUIgPSAxOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc2F0Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
@@ -512,13 +512,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpbmZvLnNldAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBKb2RhLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBpbmZvLnNldAo=</text>
