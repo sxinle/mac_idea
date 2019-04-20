@@ -341,11 +341,11 @@
         <mark key="." line="11" column="31" />
         <mark key="^" line="11" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/domain/OrderDeliveryTrace.java" timestamp="1555758543410">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="31" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="37" column="11" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/domain/OrderDeliveryTrace.java" timestamp="1555763648215">
+        <mark key="[" line="35" column="7" />
+        <mark key="]" line="38" column="11" />
+        <mark key="." line="38" column="8" />
+        <mark key="^" line="35" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/domain/AdminUser.java" timestamp="1555432622408">
         <mark key="'" line="15" column="0" />
@@ -498,8 +498,11 @@
       <register name="/" type="4">
         <text encoding="base64">XDxkZWxpdmVyeVVzZXJJZFw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBST1VORCggNjM3OC4xMzggKiAyICogQVNJTiggU1FSVCggUE9XKCBTSU4oICggI3tpbmZvLmxhdH0gKiBQSSggKSAvIDE4MCAtIGxhdCAqIFBJKCkgLyAxODAgKSAvIDIgKSwgMiApICsgQ09TKCAje2luZm8ubGF0fSAqIFBJKCApIC8gMTgwICkKICAgICAgICAqIENPUyggbGF0ICogUEkoICkgLyAxODAgKSAqIFBPVyggU0lOKCAoICN7aW5mby5sbmd9ICogUEkoKSAvIDE4MCAtIGxuZyAqIFBJKCkgLyAxODAgKSAvIDIgKSwgMiApICkpICogMTAwMCApIEFTIGRpc3RhbmNlCg==</text>
+      <register name="0" type="8">
+        <text>1:管理员派单初始状态
+2:待取单
+3:配送中
+4:已送达</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
