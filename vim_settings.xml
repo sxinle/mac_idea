@@ -17,6 +17,12 @@
         <mark key="[" line="11" column="0" />
         <mark key="]" line="12" column="59" />
       </file>
+      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/mapper/OrderDeliveryTraceMapper.java" timestamp="1555753081370">
+        <mark key="[" line="10" column="59" />
+        <mark key="]" line="10" column="76" />
+        <mark key="." line="10" column="76" />
+        <mark key="^" line="10" column="76" />
+      </file>
       <file name="/a.dummy" timestamp="1555468327437">
         <mark key="[" line="0" column="0" />
       </file>
@@ -141,11 +147,11 @@
         <mark key="." line="47" column="70" />
         <mark key="^" line="47" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/controller/DeliveryAppController.java" timestamp="1555558234926">
-        <mark key="[" line="19" column="30" />
-        <mark key="]" line="19" column="31" />
-        <mark key="^" line="19" column="31" />
-        <mark key="." line="19" column="31" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/controller/DeliveryAppController.java" timestamp="1555752968614">
+        <mark key="[" line="28" column="51" />
+        <mark key="]" line="28" column="69" />
+        <mark key="^" line="28" column="69" />
+        <mark key="." line="28" column="69" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/src/main/java/com/xinsl/pegas/root/service/AdminUserService.java" timestamp="1555492214784">
         <mark key="'" line="40" column="4" />
@@ -258,11 +264,12 @@
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="40" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/DeliveryAppService.java" timestamp="1555558179476">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="61" column="1" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="114" column="99" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/DeliveryAppService.java" timestamp="1555753640478">
+        <mark key="'" line="49" column="45" />
+        <mark key="[" line="62" column="19" />
+        <mark key="]" line="62" column="35" />
+        <mark key="." line="62" column="35" />
+        <mark key="^" line="62" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/pom.xml" timestamp="1555413388511">
         <mark key="[" line="33" column="21" />
@@ -338,6 +345,12 @@
         <mark key="]" line="14" column="36" />
         <mark key="." line="14" column="36" />
       </file>
+      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/domain/OrderDeliveryTrace.java" timestamp="1555752781555">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="27" column="29" />
+        <mark key="." line="28" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/domain/AdminUser.java" timestamp="1555432622408">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="35" column="0" />
@@ -382,12 +395,11 @@
         <mark key="^" line="33" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1555499606081">
+      <file name="/fragment.java" timestamp="1555753060769">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="30" filename="$USER_HOME$/workspace/pegas/pegas-web-tools/src/main/java/com/xinsl/pegas/tools/ElemeShop.java" />
       <jump line="110" column="27" filename="$USER_HOME$/workspace/pegas/pegas-web-tools/src/main/java/com/xinsl/pegas/tools/ElemeShop.java" />
       <jump line="113" column="46" filename="$USER_HOME$/workspace/pegas/pegas-web-tools/src/main/java/com/xinsl/pegas/tools/ElemeShop.java" />
       <jump line="220" column="30" filename="$USER_HOME$/workspace/pegas/pegas-web-tools/src/main/java/com/xinsl/pegas/tools/ElemeShop.java" />
@@ -487,6 +499,7 @@
       <jump line="4" column="0" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/DeliveryAppService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/DeliveryAppService.java" />
       <jump line="0" column="37" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/controller/AppDeliveryAppController.java" />
+      <jump line="49" column="45" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/DeliveryAppService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -496,40 +509,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>加</text>
+        <text>AdminDeliveryUser</text>
       </register>
       <register name="/" type="4">
         <text>addActRedRaw</text>
       </register>
-      <register name="0" type="4">
-        <text>Authorization</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIFRva2VuUmVwbyByZWRpczsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20ueGluc2wucGVnYXMubm9kZS5jb250cm9sbGVyOwoKcHVibGljIGNsYXNzIEFwcERlbGl2ZXJ5QXBwQ29udHJvbGxlciB7Cn0K</text>
+        <text encoding="base64">ICAgIEBTZWxlY3QoInNlbGVjdCBpZCBmcm9tIGFkbWluX2RlbGl2ZXJ5X3VzZXIgd2hlcmUgYXJlYUlkPSN7YXJlYUlkfSIpCiAgICBMaXN0PExvbmc+IGdldEFyZWFEZWxpdmVyeXMoQFBhcmFtKCJhcmVhSWQiKSBMb25nIGFyZWFJZCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cGFja2FnZSBjb20ueGluc2wucGVnYXMubm9kZS5zZXJ2aWNlOwoKcHVibGljIGNsYXNzIERlbGl2ZXJ5QXBwU2VydmljZSB7Cn0K</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgICByZWRpczsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vcldoZXJlKFNxbHMuY3VzdG9tKCkuYW5kRXF1YWxUbygicGhvbmUiLCBwYXJhbS5nZXRQaG9uZSgpKSkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyBzaG9wSWQ7CiAgICBwcml2YXRlIExvbmcgdHlwZUlkOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBTbmVha3lUaHJvd3MKICAgIHB1YmxpYyBSZXNwIGFkZFVzZXIoQWRtaW5EZWxpdmVyeVVzZXIgdXNlcikgewogICAgICAgIEV4YW1wbGUgZWcgPSBFeGFtcGxlLmJ1aWxkZXIoQWRtaW5EZWxpdmVyeVVzZXIuY2xhc3MpLndoZXJlKFNxbHMuY3VzdG9tKCkuYW5kRXF1YWxUbygibG9naW5OYW1lIiwgdXNlci5nZXRMb2dpbk5hbWUoKSkKICAgICAgICAgICAgICAgIC5hbmRFcXVhbFRvKCJkZWxGbGFnIiwgMCkKICAgICAgICApLmJ1aWxkKCk7CgogICAgICAgIGlmIChkZWxpdmVyeVVzZXJNYXBwZXIuc2VsZWN0Q291bnRCeUV4YW1wbGUoZWcpID4gMCkgewogICAgICAgICAgICB0aHJvdyBuZXcgQml6RXhjZXB0aW9uKCLnmbvlvZXlkI3lt7Lnu4/lrZjlnKgiKTsKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICBkZWxpdmVyeVVzZXJNYXBwZXIuaW5zZXJ0KHVzZXIpOwogICAgICAgIH0KICAgICAgICByZXR1cm4gUmVzcC5vaygpLmRhdGEodXNlcik7CiAgICB9CgogICAgQFNuZWFreVRocm93cwogICAgcHVibGljIFJlc3AgZ2V0VXNlcihBZG1pbkRlbGl2ZXJ5VXNlciB1c2VyLCBUb2tlblVzZXIgY3VycmVudFVzZXIpIHsKICAgICAgICBib29sZWFuIG5vdEFkbWluID0gIWN1cnJlbnRVc2VyLmdldFJvbGUoKS5lcXVhbHNJZ25vcmVDYXNlKENvbnN0LlJPTEVfQURNSU4pOwogICAgICAgIGJvb2xlYW4gYXJlYUlkRmlsdGVyID0gKHVzZXIuZ2V0QXJlYUlkKCkgIT0gbnVsbCAmJiB1c2VyLmdldEFyZWFJZCgpICE9IDApCiAgICAgICAgICAgICAgICB8fCBub3RBZG1pbjsKICAgICAgICBMaXN0PExvbmc+IHVzZXJJZHMgPSBuZXcgQXJyYXlMaXN0PD4oKTsKICAgICAgICBMb25nIGZpbHRlcklkID0gbm90QWRtaW4gPyBjdXJyZW50VXNlci5nZXRBcmVhSWQoKSA6IHVzZXIuZ2V0QXJlYUlkKCk7CiAgICAgICAgaWYgKGFyZWFJZEZpbHRlcikgdXNlcklkcyA9IGRlbGl2ZXJ5VXNlck1hcHBlci5nZXRBcmVhRGVsaXZlcnlzKGZpbHRlcklkKTsKCiAgICAgICAgaWYgKGFyZWFJZEZpbHRlciAmJiB1c2VySWRzLmlzRW1wdHkoKSkgewogICAgICAgICAgICByZXR1cm4gUmVzcC5vaygpLmRhdGEoUmVzcC5wYWdlRGF0YShuZXcgUGFnZUluZm8odXNlcklkcykpKTsKICAgICAgICB9CgogICAgICAgIGlmICh1c2VyLmJ5UGFnZSgpKSB7CiAgICAgICAgICAgIFBhZ2VIZWxwZXIuc3RhcnRQYWdlKHVzZXIuZ2V0UGFnZU5vKCksIHVzZXIuZ2V0UGFnZVNpemUoKSk7CiAgICAgICAgfQoKICAgICAgICBFeGFtcGxlIHF1ZXJ5ID0gbmV3IEV4YW1wbGUoQWRtaW5EZWxpdmVyeVVzZXIuY2xhc3MpOwogICAgICAgIEV4YW1wbGUuQ3JpdGVyaWEgY3JpdGVyaWEgPSBxdWVyeS5jcmVhdGVDcml0ZXJpYSgpOwogICAgICAgIGNyaXRlcmlhLmFuZEVxdWFsVG8oImRlbEZsYWciLCAwKTsKICAgICAgICBpZiAoIVN0cmluZ1V0aWxzLmlzRW1wdHkodXNlci5nZXRMb2dpbk5hbWUoKSkpIHsKICAgICAgICAgICAgY3JpdGVyaWEuYW5kTGlrZSgibG9naW5OYW1lIiwgIiUiICsgdXNlci5nZXRMb2dpbk5hbWUoKSArICIlIik7CiAgICAgICAgfQoKICAgICAgICBpZiAoYXJlYUlkRmlsdGVyKSB7CiAgICAgICAgICAgIGNyaXRlcmlhLmFuZEluKCJpZCIsIHVzZXJJZHMpOwogICAgICAgIH0KCiAgICAgICAgdXNlci5zZXRPcmRlckJ5KHF1ZXJ5KTsKCiAgICAgICAgdmFsIGxpc3QgPSBkZWxpdmVyeVVzZXJNYXBwZXIuc2VsZWN0QnlFeGFtcGxlKHF1ZXJ5KTsKICAgICAgICByZXR1cm4gUmVzcC5vaygpLmRhdGEoUmVzcC5wYWdlRGF0YShuZXcgUGFnZUluZm8obGlzdCkpKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgIEBUcmFuc2llbnQKICAgIHByaXZhdGUgU3RyaW5nIHR5cGVOYW1lOwogICAgQFRyYW5zaWVudAogICAgcHJpdmF0ZSBTdHJpbmcgaW1nSWQ7CgogICAgQFRyYW5zaWVudAogICAgcHJpdmF0ZSBMaXN0PEltYWdlRmlsZT4gc21hbGxJbWdzOy8vIOaOpeaUtgoKICAgIHB1YmxpYyBMaXN0PEdvb2RzSW1ncz4gZ2V0UmVjaWV2ZUdvb2RzSW1hZ2VzKExvbmcgZ29vZHNJZCkgewogICAgICAgIExpc3Q8R29vZHNJbWdzPiBpbWdzID0gbmV3IEFycmF5TGlzdDw+KCk7CgogICAgICAgIGlmIChudWxsICE9IHNtYWxsSW1ncyAmJiAhc21hbGxJbWdzLmlzRW1wdHkoKSkgewogICAgICAgICAgICBzbWFsbEltZ3MuZm9yRWFjaChpdGVtIC0+IHsKICAgICAgICAgICAgICAgIGlmIChpdGVtLm9rKCkpIHsKICAgICAgICAgICAgICAgICAgICBHb29kc0ltZ3MgaW1nID0gbmV3IEdvb2RzSW1ncygpOwogICAgICAgICAgICAgICAgICAgIGltZy5zZXRHb29kc0lkKGdvb2RzSWQpOwogICAgICAgICAgICAgICAgICAgIGltZy5zZXRJbWdJZChpdGVtLmdldFNlcnZlck5hbWUoKSk7CiAgICAgICAgICAgICAgICAgICAgaW1nLnNldFR5cGUoMSk7Ly8gMjrlsI/lm74gMTrlpKflm74KICAgICAgICAgICAgICAgICAgICBpbWdzLmFkZChpbWcpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9KTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGltZ3M7CiAgICB9Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nICBuYW1lOwogICAgcHJpdmF0ZSBJbnRlZ2VyIHRoZU9yZGVyOwogICAgcHJpdmF0ZSBGbG9hdCAgIHByaWNlOwogICAgcHJpdmF0ZSBJbnRlZ2VyIGZha2VTYWxlc0NudDsKICAgIHByaXZhdGUgSW50ZWdlciBpc1Nob3c7CiAgICBwcml2YXRlIEludGVnZXIgaXNSZWNvbW1lbmQ7CiAgICBwcml2YXRlIEZsb2F0ICAgYm94UHJpY2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBSZXNwIGRlbFVzZXIoSW50ZWdlciBpZCkgewogICAgICAgIGludCBjbnQgPSBkZWxpdmVyeVVzZXJNYXBwZXIuZGVsZXRlQnlQcmltYXJ5S2V5KGlkKTsKICAgICAgICByZXR1cm4gUmVzcC5vaygpLmRhdGEobmV3IEpTT05PYmplY3QoKS5mbHVlbnRQdXQoImNudCIsIGNudCkpOwogICAgfQoKICAgIHB1YmxpYyBSZXNwIG1vZFVzZXIoQWRtaW5EZWxpdmVyeVVzZXIgdXNlcikgewogICAgICAgIGludCBjbnQgPSBkZWxpdmVyeVVzZXJNYXBwZXIudXBkYXRlQnlQcmltYXJ5S2V5U2VsZWN0aXZlKHVzZXIpOwogICAgICAgIHJldHVybiBSZXNwLm9rKCkuZGF0YShuZXcgSlNPTk9iamVjdCgpLmZsdWVudFB1dCgiY250IiwgY250KSk7CiAgICB9Cg==</text>
+        <text encoding="base64">cGFja2FnZSBjb20ueGluc2wucGVnYXMubm9kZS5jb250cm9sbGVyOwoKcHVibGljIGNsYXNzIEFwcERlbGl2ZXJ5QXBwQ29udHJvbGxlciB7Cn0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGFja2FnZSBjb20ueGluc2wucGVnYXMubm9kZS5zZXJ2aWNlOwoKcHVibGljIGNsYXNzIERlbGl2ZXJ5QXBwU2VydmljZSB7Cn0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5Yig6Zmk566h55CG5ZGYIiwgbm90ZXMgPSAiIikKICAgIEBSZXF1ZXN0TWFwcGluZyh2YWx1ZSA9ICIve2lkfSIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuREVMRVRFKQogICAgcHJpdmF0ZSBPYmplY3QgZGVsVXNlcihAUGF0aFZhcmlhYmxlKCJpZCIpIEludGVnZXIgaWQpIHsKICAgICAgICByZXR1cm4gZGVsaXZlcnlVc2VyU2VydmljZS5kZWxVc2VyKGlkKTsKICAgIH0KCiAgICBAQXBpT3BlcmF0aW9uKHZhbHVlID0gIuS/ruaUuemAgemkkOWRmOS/oeaBryIsIG5vdGVzID0gIiIpCiAgICBAUmVxdWVzdE1hcHBpbmcobWV0aG9kID0gUmVxdWVzdE1ldGhvZC5QVVQpCiAgICBwcml2YXRlIE9iamVjdCBtb2RVc2VyKEBSZXF1ZXN0Qm9keSBBZG1pbkRlbGl2ZXJ5VXNlciB1c2VyKSB7CiAgICAgICAgcmV0dXJuIGRlbGl2ZXJ5VXNlclNlcnZpY2UubW9kVXNlcih1c2VyKTsKICAgIH0KCiAgICBAQXBpT3BlcmF0aW9uKHZhbHVlID0gIuafpeivoumAgemkkOWRmOi0puWPtyIsIG5vdGVzID0gIiIpCiAgICBAUmVxdWVzdE1hcHBpbmcobWV0aG9kID0gUmVxdWVzdE1ldGhvZC5HRVQpCiAgICBwcml2YXRlIE9iamVjdCBnZXRVc2VyKEFkbWluRGVsaXZlcnlVc2VyIHBhcmFtKSB7CiAgICAgICAgcmV0dXJuIGRlbGl2ZXJ5VXNlclNlcnZpY2UuZ2V0VXNlcihwYXJhbSwgZ2V0VXNlcigpKTsKICAgIH0KCiAgICBAQXBpT3BlcmF0aW9uKHZhbHVlID0gIumAgemkkOWRmEFwcOeZu+mZhiIsIG5vdGVzID0gIiIpCiAgICBAUmVxdWVzdE1hcHBpbmcodmFsdWUgPSAiYXBwbG9naW4iLCBtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLlBPU1QpCiAgICBwcml2YXRlIE9iamVjdCBsb2dpbihAUmVxdWVzdEJvZHkgQWRtaW5EZWxpdmVyeVVzZXIgcGFyYW0pIHsKICAgICAgICByZXR1cm4gZGVsaXZlcnlVc2VyU2VydmljZS5sb2dpbihwYXJhbSk7CiAgICB9CgogICAgQEFwaU9wZXJhdGlvbih2YWx1ZSA9ICLojrflj5blvZPliY3nlKjmiLciLCBub3RlcyA9ICIiKQogICAgQFJlcXVlc3RNYXBwaW5nKHZhbHVlID0gIi9jdXJyZW50VXNlciIsIG1ldGhvZCA9IFJlcXVlc3RNZXRob2QuR0VUKQogICAgcHJpdmF0ZSBPYmplY3QgY3VycmVudFVzZXIoQWRtaW5Vc2VyIHBhcmFtKSB7CiAgICAgICAgcmV0dXJuIFJlc3Aub2soKS5kYXRhKGdldFVzZXIoKSk7CiAgICB9CgogICAgQEFwaU9wZXJhdGlvbih2YWx1ZSA9ICLlr4bnoIHkv67mlLkiLCBub3RlcyA9ICIiKQogICAgQFJlcXVlc3RNYXBwaW5nKHZhbHVlID0gIi9tb2RQd2QiLCBtZXRob2QgPSBSZXF1ZXN0TWV0aG9kLlBPU1QpCiAgICBwcml2YXRlIE9iamVjdCBzaG9wTW9kUHdkKEBSZXF1ZXN0Qm9keSBBZG1pbkRlbGl2ZXJ5VXNlciBwYXJhbSkgewogICAgICAgIHJldHVybiBkZWxpdmVyeVVzZXJTZXJ2aWNlLm1vZGlmeVBhc3N3b3JkKHBhcmFtLCBnZXRVc2VyKCkuZ2V0SWQoKSk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5vcldoZXJlKFNxbHMuY3VzdG9tKCkuYW5kRXF1YWxUbygicGhvbmUiLCBwYXJhbS5nZXRQaG9uZSgpKSkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
