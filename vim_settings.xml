@@ -279,12 +279,12 @@
         <mark key="^" line="76" column="64" />
         <mark key="." line="76" column="64" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/DeliveryAppService.java" timestamp="1555856444101">
-        <mark key="'" line="94" column="18" />
-        <mark key="[" line="187" column="18" />
-        <mark key="]" line="187" column="42" />
-        <mark key="." line="187" column="42" />
-        <mark key="^" line="187" column="42" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/DeliveryAppService.java" timestamp="1555858366939">
+        <mark key="'" line="95" column="18" />
+        <mark key="[" line="155" column="12" />
+        <mark key="]" line="155" column="12" />
+        <mark key="." line="155" column="12" />
+        <mark key="^" line="155" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/pom.xml" timestamp="1555413388511">
         <mark key="[" line="33" column="21" />
@@ -389,7 +389,7 @@
         <mark key="^" line="33" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1555821231329">
+      <file name="/fragment.java" timestamp="1555858330021">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -503,40 +503,44 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>odtrace.stat</text>
+        <text>isEmpty</text>
       </register>
       <register name="/" type="4">
         <text>like</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAwIHRyYWNlU3RhdCwK</text>
+      <register name="0" type="4">
+        <text>deliveryTraceMapper.selectByExample(Example.builder(OrderDeliveryTrace.class).where(Sqls.custom()
+                .andEqualTo(&quot;orderId&quot;, deliveryTrace.getOrderId())
+                .andEqualTo(&quot;stat&quot;, newStat)).build())</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>Example.builder(OrderDeliveryTrace.class).where(Sqls.custom()
+                .andEqualTo(&quot;orderId&quot;, deliveryTrace.getOrderId())
+                .andEqualTo(&quot;stat&quot;, newStat)).build()</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAje29yZGVySWRzfSAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAje29yZGVySWRzfQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBFeHRlbmRlZEFjY2Vzc0xvZ1ZhbHZlamsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZihkZWxpdmVyeVRyYWNlTWFwcGVyLnNlbGVjdEJ5UHJpbWFyeUtleSgpKQo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAtLSBBTkQgREFURV9GT1JNQVQob2kuY3JlYXRlQXQsICclWSVtJWQnKT1EQVRFX0ZPUk1BVChub3coKSwgJyVZJW0lZCcpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBudWxsIGFzIGRvbmVUaW1lLAo=</text>
+        <text encoding="base64">ICAgICAgICAje29yZGVySWRzfSAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAje29yZGVySWRzfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
