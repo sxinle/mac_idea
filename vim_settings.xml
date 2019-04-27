@@ -18,10 +18,10 @@
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/controller/MpShopController.java" timestamp="1556373704944">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="170" column="52" />
-        <mark key="]" line="170" column="62" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/controller/MpShopController.java" timestamp="1556374578252">
+        <mark key="'" line="14" column="17" />
+        <mark key="[" line="168" column="30" />
+        <mark key="]" line="168" column="46" />
         <mark key="." line="170" column="52" />
         <mark key="^" line="169" column="70" />
       </file>
@@ -178,8 +178,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="0" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/domain/ShopInfo.java" />
-      <jump line="35" column="41" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/controller/DeliveryAppController.java" />
       <jump line="12" column="13" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/src/main/java/com/xinsl/pegas/root/controller/AdminUserController.java" />
       <jump line="265" column="24" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/DeliveryAppService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/DeliveryAppService.java" />
@@ -278,6 +276,8 @@
       <jump line="131" column="0" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/controller/MpShopController.java" />
       <jump line="170" column="21" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/controller/MpShopController.java" />
       <jump line="33" column="0" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/controller/MpShopController.java" />
+      <jump line="168" column="30" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/controller/MpShopController.java" />
+      <jump line="14" column="17" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/controller/MpShopController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -293,7 +293,7 @@
         <text>micro</text>
       </register>
       <register name="0" type="4">
-        <text>commission</text>
+        <text>pullnewCommission</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
