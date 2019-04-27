@@ -194,6 +194,12 @@
         <mark key="." line="49" column="7" />
         <mark key="^" line="49" column="7" />
       </file>
+      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/domain/WithdrawLogPullNew.java" timestamp="1556355524248">
+        <mark key="[" line="21" column="19" />
+        <mark key="]" line="21" column="26" />
+        <mark key="." line="21" column="26" />
+        <mark key="^" line="21" column="26" />
+      </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/domain/AtyPullNew.java" timestamp="1556353876805">
         <mark key="[" line="15" column="23" />
         <mark key="]" line="15" column="23" />
@@ -296,12 +302,12 @@
         <mark key="." line="46" column="3" />
         <mark key="^" line="46" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/domain/WithdrawLogDelivery.java" timestamp="1556072328829">
+      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/domain/WithdrawLogDelivery.java" timestamp="1556355482370">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="21" column="28" />
-        <mark key="]" line="22" column="27" />
-        <mark key="." line="22" column="27" />
-        <mark key="^" line="22" column="27" />
+        <mark key="[" line="12" column="28" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/domain/AdminUser.java" timestamp="1556343761278">
         <mark key="'" line="0" column="0" />
@@ -328,7 +334,7 @@
         <mark key="." line="7" column="25" />
         <mark key="^" line="7" column="25" />
       </file>
-      <file name="/fragment.java" timestamp="1556353840869">
+      <file name="/fragment.java" timestamp="1556355463561">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/mapper/MpUserMapper.java" timestamp="1556206964717">
@@ -448,7 +454,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>orders</text>
       </register>
       <register name="/" type="4">
         <text>micro</text>
@@ -457,31 +463,31 @@
         <text>inviteUserIdLong</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyAgICBhcmVhSWQ7CiAgICBASnNvbkZvcm1hdChwYXR0ZXJuID0gInl5eXktTU0tZGQiKQogICAgcHJpdmF0ZSBEYXRlICAgIHN0YXJ0RGF0ZTsKICAgIEBKc29uRm9ybWF0KHBhdHRlcm4gPSAieXl5eS1NTS1kZCIpCiAgICBwcml2YXRlIERhdGUgICAgZW5kRGF0ZTsKICAgIHByaXZhdGUgSW50ZWdlciByYXRlOwogICAgLyoqCiAgICAgKiDnirbmgIEgMe+8muW8gOWQryAw77ya5YWz6ZetCiAgICAgKi8KICAgIHByaXZhdGUgSW50ZWdlciBzdGF0ID0gMDsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHJlYWxOYW1lOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2UK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgTG9uZyAgICBhcmVhSWQ7CiAgICBASnNvbkZvcm1hdChwYXR0ZXJuID0gInl5eXktTU0tZGQiKQogICAgcHJpdmF0ZSBEYXRlICAgIHN0YXJ0RGF0ZTsKICAgIEBKc29uRm9ybWF0KHBhdHRlcm4gPSAieXl5eS1NTS1kZCIpCiAgICBwcml2YXRlIERhdGUgICAgZW5kRGF0ZTsKICAgIHByaXZhdGUgSW50ZWdlciByYXRlOwogICAgLyoqCiAgICAgKiDnirbmgIEgMe+8muW8gOWQryAw77ya5YWz6ZetCiAgICAgKi8KICAgIHByaXZhdGUgSW50ZWdlciBzdGF0ID0gMDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9nZ2UK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTXBQbGF0Zm9ybUNvbW1lbnRTZXJ2aWNlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3VXNlci5zZXRPcGVuSWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgTXBQbGF0Zm9ybUNvbW1lbnRTZXJ2aWNlCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3VXNlci5zZXRPcGVuSWQodXNlci5nZXRMb25nKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbmV3VXNlci5zZXRPcGVuSWQoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
