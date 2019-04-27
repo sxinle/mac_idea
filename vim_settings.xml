@@ -100,9 +100,9 @@
         <mark key="^" line="68" column="37" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/mapper/ShopInfoMapper.xml" timestamp="1556356510617">
+      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/mapper/ShopInfoMapper.xml" timestamp="1556357425930">
         <mark key="[" line="51" column="0" />
-        <mark key="]" line="55" column="10" />
+        <mark key="]" line="56" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/domain/MpUserAddress.java" timestamp="1556180716645">
         <mark key="[" line="21" column="12" />
@@ -268,6 +268,12 @@
         <mark key="^" line="55" column="33" />
         <mark key="." line="56" column="19" />
       </file>
+      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/mapper/ShopAreaMapper.java" timestamp="1556357382402">
+        <mark key="[" line="15" column="34" />
+        <mark key="]" line="15" column="45" />
+        <mark key="^" line="15" column="45" />
+        <mark key="." line="15" column="45" />
+      </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-web-tools/pom.xml" timestamp="1555413371086">
         <mark key="'" line="7" column="3" />
         <mark key="[" line="50" column="0" />
@@ -282,22 +288,24 @@
         <mark key="." line="57" column="46" />
         <mark key="^" line="57" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1556213058901">
-        <mark key="[" line="0" column="0" />
-        <mark key="." line="0" column="3" />
-      </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/mapper/MpUserMapper.xml" timestamp="1556206983955">
         <mark key="[" line="7" column="93" />
         <mark key="]" line="7" column="96" />
         <mark key="." line="7" column="96" />
         <mark key="^" line="7" column="96" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/MpIndexService.java" timestamp="1556356482733">
-        <mark key="'" line="73" column="0" />
-        <mark key="[" line="41" column="41" />
-        <mark key="]" line="41" column="56" />
-        <mark key="." line="41" column="56" />
-        <mark key="^" line="41" column="56" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/mapper/ShopAreaMapper.xml" timestamp="1556357432275">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="11" column="7" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/MpIndexService.java" timestamp="1556357370330">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="42" column="60" />
+        <mark key="]" line="42" column="67" />
+        <mark key="." line="42" column="67" />
+        <mark key="^" line="42" column="67" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/withdraw/redpack/process/WithdrawService.java" timestamp="1556180944682">
         <mark key="'" line="263" column="0" />
@@ -471,40 +479,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>query</text>
+        <text>ShopCommentMapper</text>
       </register>
       <register name="/" type="4">
         <text>micro</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBST1VORCggNjM3OC4xMzggKiAyICogQVNJTigKICAgICAgICBTUVJUKCBQT1coIFNJTiggKCAje2luZm8ubGF0fSAqIFBJKCApIC8gMTgwIC0gbGF0ICogUEkoKSAvIDE4MCApIC8gMiApLCAyICkgKyBDT1MoICN7aW5mby5sYXR9ICogUEkoICkgLyAxODAgKQogICAgICAgICogQ09TKCBsYXQgKiBQSSggKSAvIDE4MCApICogUE9XKCBTSU4oICggI3tpbmZvLmxuZ30gKiBQSSgpIC8gMTgwIC0gbG5nICogUEkoKSAvIDE4MCApIC8gMiApLCAyICkgKSkgKiAxMDAwICkgQVMgZGlzdGFuY2UK</text>
+        <text encoding="base64">ICAgIDxzcWwgaWQ9ImRpc3RhbmNlIj4KICAgICAgICBST1VORCggNjM3OC4xMzggKiAyICogQVNJTigKICAgICAgICBTUVJUKCBQT1coIFNJTiggKCAje2luZm8ubGF0fSAqIFBJKCApIC8gMTgwIC0gbGF0ICogUEkoKSAvIDE4MCApIC8gMiApLCAyICkgKyBDT1MoICN7aW5mby5sYXR9ICogUEkoICkgLyAxODAgKQogICAgICAgICogQ09TKCBsYXQgKiBQSSggKSAvIDE4MCApICogUE9XKCBTSU4oICggI3tpbmZvLmxuZ30gKiBQSSgpIC8gMTgwIC0gbG5nICogUEkoKSAvIDE4MCApIC8gMiApLCAyICkgKSkgKiAxMDAwICkgQVMgZGlzdGFuY2UKICAgIDwvc3FsPgoK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTRUxFQ1QgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9ImdldENvbW1lbnRzIiByZXN1bHRUeXBlPSJjb20ueGluc2wucGVnYXMuY29tbW9uLmRvbWFpbi5TaG9wQ29tbWVudCI+CiAgICAgICAgU0VMRUNUIHNjLiosbXB1Lm5pY2tOYW1lLG1wdS5hdmF0YXIsCiAgICAgICAgIChzZWxlY3Qgcm91bmQoQVZHKHNjb3JlKSwyKSBmcm9tIHNob3BfY29tbWVudCB3aGVyZSBzaG9wSWQ9I3tjb21tZW50LnNob3BJZH0pIGF2Z1Njb3JlCiAgICAgICAgIGZyb20gc2hvcF9jb21tZW50IHNjCiAgICAgICAgIExFRlQgSk9JTiBtcF91c2VyIG1wdSBPTiBzYy51c2VySWQgPSBtcHUuaWQKICAgICAgICAgd2hlcmUgc2hvcElkPSN7Y29tbWVudC5zaG9wSWR9IEFORCBzYy5kZWxGbGFnPTAKICAgICAgICAgb3JkZXIgYnkgc2MuY3JlYXRlQXQgZGVzYwogICAgPC9zZWxlY3Q+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBTRUxFQ1QgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gc2VsZWN0UHVsbE5ld0F0eShAUGFyYW0oInEiKSBTaG9wSW5mbyBzaG9wSW5mbyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIE1hcDxTdHJpbmcsIE9iamVjdD4gc2VsZWN0UHVsbE5ld0F0eShAUGFyYW0oInEiKSBTaG9wSW5mbyBzaG9wSW5mbyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
