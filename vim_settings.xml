@@ -169,11 +169,6 @@
         <mark key="^" line="3" column="52" />
         <mark key="." line="3" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/mapper/SettingsMapper.java" timestamp="1556356447481">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/mapper/OrderInfoMapper.xml" timestamp="1555856050937">
         <mark key="'" line="161" column="18" />
         <mark key="[" line="158" column="76" />
@@ -274,11 +269,6 @@
         <mark key="." line="27" column="19" />
         <mark key="^" line="27" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/mapper/ShopTypeMapper.java" timestamp="1556356411448">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/DeliveryAppService.java" timestamp="1556183699604">
         <mark key="'" line="47" column="0" />
         <mark key="[" line="59" column="27" />
@@ -300,6 +290,12 @@
         <mark key="[" line="48" column="18" />
         <mark key="]" line="48" column="70" />
       </file>
+      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/domain/ShopType.java" timestamp="1556450283062">
+        <mark key="[" line="18" column="20" />
+        <mark key="]" line="18" column="20" />
+        <mark key="^" line="18" column="20" />
+        <mark key="." line="18" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_root/src/main/java/com/acenode/takeout/root/controller/AdminUserController.java" timestamp="1555432635828">
         <mark key="'" line="53" column="0" />
         <mark key="[" line="53" column="0" />
@@ -312,6 +308,13 @@
         <mark key="]" line="15" column="45" />
         <mark key="^" line="15" column="45" />
         <mark key="." line="15" column="45" />
+      </file>
+      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/src/main/java/com/xinsl/pegas/root/service/ShopTypeService.java" timestamp="1556459357432">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="35" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-web-tools/pom.xml" timestamp="1555413371086">
         <mark key="'" line="7" column="3" />
@@ -408,11 +411,6 @@
       <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/domain/Settings.java" timestamp="1556434556061">
         <mark key="'" line="34" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/mapper/AtyPullNewMapper.xml" timestamp="1556368681093">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/src/main/java/com/xinsl/pegas/root/controller/SettingsController.java" timestamp="1556430830233">
         <mark key="[" line="31" column="12" />
         <mark key="]" line="31" column="18" />
@@ -430,8 +428,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="0" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/src/main/java/com/xinsl/pegas/root/RootApp.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/pegas/pegas-b/pom.xml" />
       <jump line="72" column="52" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/src/main/java/com/xinsl/pegas/root/controller/UploadController.java" />
       <jump line="251" column="55" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/src/main/java/com/xinsl/pegas/root/service/ShopInfoService.java" />
       <jump line="64" column="0" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/src/main/java/com/xinsl/pegas/root/service/ShopInfoService.java" />
@@ -530,6 +526,8 @@
       <jump line="26" column="19" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/domain/Settings.java" />
       <jump line="18" column="19" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/domain/Settings.java" />
       <jump line="34" column="20" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/domain/Settings.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/src/main/java/com/xinsl/pegas/root/service/ShopTypeService.java" />
+      <jump line="63" column="0" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/src/main/java/com/xinsl/pegas/root/service/ShopTypeService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -539,7 +537,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>.wh</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>banner</text>
@@ -548,31 +546,31 @@
         <text>commMoney</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmi4nmlrDmtLvliqggLS0tLS0tLS0tLS0K</text>
+        <text encoding="base64">ICAgICAgICBFeGFtcGxlIGVnID0gbmV3IEV4YW1wbGUoU2hvcFR5cGUuY2xhc3MpOwogICAgICAgIGVnLmNyZWF0ZUNyaXRlcmlhKCkuYW5kRXF1YWxUbygibmFtZSIsIHR5cGUuZ2V0TmFtZSgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmi4nmlrDmtLvliqggLS0tLS0tLS0tLS0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmRFcXVhbFRvKCJhcmVhSWQiLCB0eXBlKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyDmi4nmlrDmtLvliqggLS0tLS0tLS0tLS0KICAgICAgICBTaG9wQXJlYSBhcmVhID0gc2hvcEFyZWFNYXBwZXIuc2VsZWN0TmVhcmVzdE9uZUFyZWEoc2hvcEluZm8pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBTZXR0aW5ncyBzZXR0aW5ncyA9IHNldHRpbmdzTWFwcGVyLnNlbGVjdE9uZUJ5RXhhbXBsZShFeGFtcGxlLmJ1aWxkZXIoU2V0dGluZ3MuY2xhc3MpLmJ1aWxkKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5hbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3Aub2soKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyDmi4nmlrDmtLvliqggLS0tLS0tLS0tLS0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyDmi4nmlrDmtLvliqggLS0tLS0tLS0tLS0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBzZXR0aW5ncy5zZXRJZChkYi5nZXRJZCgpKTsKICAgICAgICByZXR1cm4gc2V0dGluZ3NTZXJ2aWNlLm1vZFNldHRpbmdzKHNldHRpbmdzKTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyDmi4nmlrDmtLvliqggLS0tLS0tLS0tLS0KICAgICAgICBTaG9wQXJlYSBhcmVhID0gc2hvcEFyZWFNYXBwZXIuc2VsZWN0TmVhcmVzdE9uZUFyZWEoc2hvcEluZm8pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBTZXR0aW5ncyBzZXR0aW5ncyA9IHNldHRpbmdzTWFwcGVyLnNlbGVjdE9uZUJ5RXhhbXBsZShFeGFtcGxlLmJ1aWxkZXIoU2V0dGluZ3MuY2xhc3MpLmJ1aWxkKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFJlc3Aub2soKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -585,7 +583,7 @@
       <last-replace>value =</last-replace>
       <last-substitute encoding="base64">bmFtZSA9IA==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
