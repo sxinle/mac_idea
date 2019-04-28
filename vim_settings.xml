@@ -405,6 +405,9 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="52" column="89" />
       </file>
+      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/domain/Settings.java" timestamp="1556434556061">
+        <mark key="'" line="34" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/mapper/AtyPullNewMapper.xml" timestamp="1556368681093">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -427,10 +430,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="0" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/DeliveryAppService.java" />
-      <jump line="32" column="47" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/controller/DeliveryAppController.java" />
-      <jump line="37" column="19" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/src/main/java/com/xinsl/pegas/root/controller/UploadController.java" />
-      <jump line="47" column="43" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/src/main/java/com/xinsl/pegas/root/RootApp.java" />
       <jump line="77" column="0" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/src/main/java/com/xinsl/pegas/root/RootApp.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pegas/pegas-b/pom.xml" />
       <jump line="72" column="52" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/src/main/java/com/xinsl/pegas/root/controller/UploadController.java" />
@@ -527,6 +526,10 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/controller/MpShopController.java" />
       <jump line="169" column="0" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/controller/MpShopController.java" />
       <jump line="20" column="44" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/src/main/java/com/xinsl/pegas/root/service/SettingsService.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/domain/Settings.java" />
+      <jump line="26" column="19" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/domain/Settings.java" />
+      <jump line="18" column="19" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/domain/Settings.java" />
+      <jump line="34" column="20" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/domain/Settings.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -539,7 +542,7 @@
         <text>.wh</text>
       </register>
       <register name="/" type="4">
-        <text>micro</text>
+        <text>banner</text>
       </register>
       <register name="0" type="4">
         <text>commMoney</text>
@@ -576,17 +579,16 @@
       </register>
     </registers>
     <search>
-      <last-search>micro</last-search>
+      <last-search>banner</last-search>
       <last-offset />
-      <last-pattern>micro</last-pattern>
+      <last-pattern>banner</last-pattern>
       <last-replace>value =</last-replace>
       <last-substitute encoding="base64">bmFtZSA9IA==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWxpdmVyeVVzZXJJZFw+</entry>
         <entry encoding="base64">XDxERUxJVkVSWV9TVEFUX05FRURUQUtJTkdcPg==</entry>
         <entry encoding="base64">XDxzZXRPcmRlcklkXD4=</entry>
         <entry encoding="base64">XDx0aW1lRW5kXD4=</entry>
@@ -606,6 +608,7 @@
         <entry>depo</entry>
         <entry>login</entry>
         <entry>micro</entry>
+        <entry>banner</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1sv44CQL2c=</entry>
