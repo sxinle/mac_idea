@@ -352,12 +352,12 @@
         <mark key="^" line="55" column="33" />
         <mark key="." line="56" column="19" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/PrintOrderService.java" timestamp="1557817672877">
-        <mark key="'" line="136" column="12" />
-        <mark key="[" line="44" column="62" />
-        <mark key="]" line="44" column="61" />
-        <mark key="^" line="44" column="61" />
-        <mark key="." line="44" column="61" />
+      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/PrintOrderService.java" timestamp="1557994867452">
+        <mark key="'" line="158" column="50" />
+        <mark key="[" line="158" column="62" />
+        <mark key="]" line="158" column="84" />
+        <mark key="^" line="158" column="84" />
+        <mark key="." line="158" column="84" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/mapper/ShopAreaMapper.java" timestamp="1556357382402">
         <mark key="[" line="15" column="34" />
@@ -392,7 +392,7 @@
         <mark key="." line="11" column="21" />
         <mark key="^" line="11" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1557992743857">
+      <file name="/Dummy.txt" timestamp="1557994876904">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="12" />
@@ -491,11 +491,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="47" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/controller/DeliveryAppController.java" />
-      <jump line="112" column="0" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/controller/MpShopController.java" />
-      <jump line="140" column="15" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/controller/MpShopController.java" />
-      <jump line="144" column="35" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/controller/MpShopController.java" />
-      <jump line="145" column="24" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/controller/MpShopController.java" />
       <jump line="146" column="15" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/controller/MpShopController.java" />
       <jump line="151" column="36" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/controller/MpShopController.java" />
       <jump line="152" column="15" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/controller/MpShopController.java" />
@@ -591,6 +586,11 @@
       <jump line="130" column="20" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/CodesAPIVerticle.java" />
       <jump line="86" column="38" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
       <jump line="1165" column="0" filename="$USER_HOME$/workspace/micro-service/jiujiang/code_jiujiang/src/main/java/com/uuvalue/micros/jiujiang/service/impl/UploadToTopServiceImpl.java" />
+      <jump line="140" column="23" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/PrintOrderService.java" />
+      <jump line="157" column="25" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/PrintOrderService.java" />
+      <jump line="133" column="16" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/PrintOrderService.java" />
+      <jump line="156" column="47" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/PrintOrderService.java" />
+      <jump line="158" column="50" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/PrintOrderService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -600,10 +600,10 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>一个小时</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25maWdcPg==</text>
+        <text encoding="base64">XDxiMVw+</text>
       </register>
       <register name="0" type="4">
         <text>FEIE_133_FONT_PREFIX</text>
@@ -640,19 +640,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25maWdcPg==</last-search>
+      <last-search encoding="base64">XDxiMVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25maWdcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxiMVw+</last-pattern>
       <last-replace>value =</last-replace>
       <last-substitute encoding="base64">bmFtZSA9IA==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>order</entry>
-        <entry encoding="base64">XDxnZXRvcmRlclw+</entry>
-        <entry encoding="base64">XDxvcmRlckluZm9NYXBwZXJcPg==</entry>
         <entry encoding="base64">XDxvcmRlckRldGFpbE1hcHBlclw+</entry>
         <entry>modify</entry>
         <entry>password</entry>
@@ -670,6 +667,9 @@
         <entry encoding="base64">XDxGRUlFXzEzM19GT05UX1BSRUZJWFw+</entry>
         <entry encoding="base64">XDxvcmRlckluZm9cPg==</entry>
         <entry encoding="base64">XDxjb25maWdcPg==</entry>
+        <entry encoding="base64">XDxiM1w+</entry>
+        <entry encoding="base64">XDx0aXRsZVw+</entry>
+        <entry encoding="base64">XDxiMVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1sv44CQL2c=</entry>
