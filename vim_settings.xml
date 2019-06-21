@@ -163,12 +163,12 @@
         <mark key="^" line="156" column="21" />
         <mark key="." line="156" column="21" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/mapper/OrderDeliveryTraceMapper.xml" timestamp="1561087762005">
-        <mark key="'" line="151" column="66" />
-        <mark key="[" line="223" column="66" />
-        <mark key="]" line="224" column="14" />
-        <mark key="^" line="224" column="14" />
-        <mark key="." line="224" column="14" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/mapper/OrderDeliveryTraceMapper.xml" timestamp="1561093248102">
+        <mark key="'" line="213" column="11" />
+        <mark key="[" line="227" column="123" />
+        <mark key="]" line="227" column="132" />
+        <mark key="^" line="227" column="132" />
+        <mark key="." line="227" column="132" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/src/main/java/com/xinsl/pegas/root/service/ShopInfoService.java" timestamp="1556183621517">
         <mark key="'" line="139" column="54" />
@@ -405,9 +405,9 @@
         <mark key="." line="57" column="46" />
         <mark key="^" line="57" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/mapper/AtyPullNewCommissionMapper.xml" timestamp="1556377114318">
-        <mark key="[" line="11" column="21" />
-        <mark key="]" line="11" column="21" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/mapper/AtyPullNewCommissionMapper.xml" timestamp="1561092938025">
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="39" />
         <mark key="." line="11" column="21" />
         <mark key="^" line="11" column="35" />
       </file>
@@ -532,11 +532,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="131" column="42" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/controller/DeliveryAppController.java" />
-      <jump line="12" column="26" filename="$USER_HOME$/workspace/pegas/pegas-b/-Ops/safe.txt" />
-      <jump line="1" column="0" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/resources/application.yml" />
-      <jump line="49" column="2" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/resources/application.yml" />
-      <jump line="10" column="13" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/resources/application.yml" />
       <jump line="65" column="10" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/resources/application.yml" />
       <jump line="5" column="0" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/resources/application.yml" />
       <jump line="95" column="0" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/resources/application.yml" />
@@ -632,6 +627,11 @@
       <jump line="152" column="0" filename="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/MpShopController.java" />
       <jump line="70" column="36" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/resources/application.yml" />
       <jump line="24" column="20" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/resources/application.yml" />
+      <jump line="194" column="12" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/mapper/OrderDeliveryTraceMapper.xml" />
+      <jump line="223" column="59" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/mapper/OrderDeliveryTraceMapper.xml" />
+      <jump line="219" column="59" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/mapper/OrderDeliveryTraceMapper.xml" />
+      <jump line="16" column="11" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/mapper/OrderDeliveryTraceMapper.xml" />
+      <jump line="213" column="11" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/mapper/OrderDeliveryTraceMapper.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -641,57 +641,56 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>user</text>
+        <text>4</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwXD4=</text>
+        <text>float</text>
       </register>
       <register name="0" type="4">
-        <text>canWithDrawMoney</text>
+        <text>ROUND(SUM(commission), 2)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBTRUxFQ1QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcC5vaygpLmRhdGEobmV3IEpTT05PYmplY3QoKQogICAgICAgICAgICAgICAgLmZsdWVudFB1dCgib3BlbkFwcElkIiwgd2l0aGRyYXdTZXJ2aWNlLm9wZW5BcHBJZCkKICAgICAgICAgICAgICAgIC5mbHVlbnRQdXQoIm9wZW5TZWNyZXQiLCB3aXRoZHJhd1NlcnZpY2Uub3BlblNlY3JldCkKICAgICAgICAgICAgICAgIC5mbHVlbnRQdXQoIm1jaElkIiwgd2l0aGRyYXdTZXJ2aWNlLm1jaF9pZCkKICAgICAgICAgICAgICAgIC5mbHVlbnRQdXQoIm1jaEtleSIsIHdpdGhkcmF3U2VydmljZS5tY2hfa2V5KQogICAgICAgICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gUmVzcC5vaygpLmRhdGEobmV3IEpTT05PYmplY3QoKQogICAgICAgICAgICAgICAgLmZsdWVudFB1dCgib3BlbkFwcElkIiwgd2l0aGRyYXdTZXJ2aWNlLm9wZW5BcHBJZCkKICAgICAgICAgICAgICAgIC5mbHVlbnRQdXQoIm9wZW5TZWNyZXQiLCB3aXRoZHJhd1NlcnZpY2Uub3BlblNlY3JldCkKICAgICAgICAgICAgICAgIC5mbHVlbnRQdXQoIm1jaElkIiwgd2l0aGRyYXdTZXJ2aWNlLm1jaF9pZCkKICAgICAgICAgICAgICAgIC5mbHVlbnRQdXQoIm1jaEtleSIsIHdpdGhkcmF3U2VydmljZS5tY2hfa2V5KQogICAgICAgICk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mbHVlbnRQdXQoImd6QXBwSWQiLCB3aXRoZHJhd1NlcnZpY2UuZ3pBcHBJZCkKICAgICAgICAgICAgICAgIC5mbHVlbnRQdXQoImd6U2VjcmV0Iiwgd2l0aGRyYXdTZXJ2aWNlLmd6U2VjcmV0KQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNYWluRG9jdW1lbnRQYXJ0Lgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5mbHVlbnRQdXQoImd6QXBwSWQiLCB3aXRoZHJhd1NlcnZpY2UuZ3pBcHBJZCkKICAgICAgICAgICAgICAgIC5mbHVlbnRQdXQoImd6U2VjcmV0Iiwgd2l0aGRyYXdTZXJ2aWNlLmd6U2VjcmV0KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBNYWluRG9jdW1lbnRQYXJ0Lgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwLmdldENvbnRlbnQoKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwLgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwLmdldENvbnRlbnQoKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwXD4=</last-search>
+      <last-search>float</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwXD4=</last-pattern>
+      <last-pattern>float</last-pattern>
       <last-replace>value =</last-replace>
       <last-substitute encoding="base64">bmFtZSA9IA==</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ccxue</entry>
         <entry>img.</entry>
         <entry>image</entry>
         <entry>img</entry>
@@ -711,6 +710,7 @@
         <entry encoding="base64">XDxXSVRIRFJBV19TVEFSVFw+</entry>
         <entry encoding="base64">XDxXSVRIRFJBV19XWERPSU5HXD4=</entry>
         <entry encoding="base64">XDxwXD4=</entry>
+        <entry>float</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1sv44CQL2c=</entry>
