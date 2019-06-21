@@ -293,6 +293,13 @@
         <mark key="." line="15" column="23" />
         <mark key="^" line="15" column="23" />
       </file>
+      <file name="$USER_HOME$/workspace/pegas/pegas-web-tools/src/main/java/com/xinsl/pegas/tools/NginxErrorLog.java" timestamp="1561101662767">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="70" column="1" />
+        <mark key="." line="18" column="6" />
+        <mark key="^" line="19" column="3" />
+      </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/util/Cache.java" timestamp="1556416202060">
         <mark key="[" line="7" column="42" />
         <mark key="]" line="7" column="60" />
@@ -544,11 +551,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="202" column="0" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/MpOrderService.java" />
-      <jump line="39" column="38" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/resources/logback.xml" />
-      <jump line="152" column="69" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/MpOrderService.java" />
-      <jump line="150" column="19" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/MpOrderService.java" />
-      <jump line="151" column="19" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/MpOrderService.java" />
       <jump line="140" column="0" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/MpOrderService.java" />
       <jump line="47" column="33" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/MpOrderService.java" />
       <jump line="240" column="0" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/MpOrderService.java" />
@@ -644,6 +646,11 @@
       <jump line="74" column="13" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/withdraw/redpack/process/WithdrawService.java" />
       <jump line="83" column="45" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/controller/DeliveryAppController.java" />
       <jump line="148" column="0" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/controller/DeliveryAppController.java" />
+      <jump line="22" column="41" filename="$USER_HOME$/workspace/pegas/pegas-web-tools/src/main/java/com/xinsl/pegas/tools/NginxErrorLog.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/workspace/pegas/pegas-web-tools/src/main/java/com/xinsl/pegas/tools/NginxErrorLog.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/workspace/pegas/pegas-web-tools/src/main/java/com/xinsl/pegas/tools/NginxErrorLog.java" />
+      <jump line="13" column="6" filename="$USER_HOME$/workspace/pegas/pegas-web-tools/src/main/java/com/xinsl/pegas/tools/NginxErrorLog.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/workspace/pegas/pegas-web-tools/src/main/java/com/xinsl/pegas/tools/NginxErrorLog.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -653,40 +660,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>.getRealName();</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>登陆</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">QFBhcmFtKCJzdGF0Iikg</text>
+      <register name="0" type="2">
+        <text encoding="base64">aW1wb3J0IGphdmEuaW8uKjsKaW1wb3J0IGphdmEubmlvLmZpbGUuRmlsZXM7CmltcG9ydCBqYXZhLm5pby5maWxlLlBhdGhzOwppbXBvcnQgamF2YS5uaW8uZmlsZS5TdGFuZGFyZE9wZW5PcHRpb247CmltcG9ydCBqYXZhLnV0aWwuQXJyYXlMaXN0OwppbXBvcnQgamF2YS51dGlsLkhhc2hTZXQ7CmltcG9ydCBqYXZhLnV0aWwuTGlzdDsKaW1wb3J0IGphdmEudXRpbC5TZXQ7CmltcG9ydCBqYXZhLnV0aWwucmVnZXguTWF0Y2hlcjsKaW1wb3J0IGphdmEudXRpbC5yZWdleC5QYXR0ZXJuOwoKcHVibGljIGNsYXNzIE5naW54RXJyb3JMb2cgewoKICAgIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBCTE9DS19JUF9GSUxFX1BBVEggPSAiL3Jvb3QvcHJvamVjdC9ibG9ja2lwLmNvbmYiOwogICAgcHJpdmF0ZSBmaW5hbCBzdGF0aWMgU3RyaW5nIEVSUk9SX0xPR19QQVRIID0gIi92YXIvbG9nL25naW54L2Vycm9yLmxvZyI7CgogICAgLy8gcHJpdmF0ZSBmaW5hbCBzdGF0aWMgU3RyaW5nIEJMT0NLX0lQX0ZJTEVfUEFUSCA9ICIvVXNlcnMvaHNvbmcvYmxvY2tpcC5jb25mIjsKICAgIC8vIHByaXZhdGUgZmluYWwgc3RhdGljIFN0cmluZyBFUlJPUl9MT0dfUEFUSCA9ICIvVXNlcnMvaHNvbmcvZXJyb3IubG9nIjsKCiAgICBwdWJsaWMgc3RhdGljIHZvaWQgbWFpbihTdHJpbmdbXSBhcmdzKSB0aHJvd3MgRXhjZXB0aW9uIHsKICAgICAgICBMaXN0PFN0cmluZz4gY3VycmVudElwcyA9IGdldEN1cnJCbG9ja0lwcygpOwoKICAgICAgICBTZXQ8U3RyaW5nPiBuZXdJcHMgPSBoYW5kbGVFcnJvckxvZygpOwogICAgICAgIG5ld0lwcy5yZW1vdmVJZihuZXdJcCAtPiBjdXJyZW50SXBzLmNvbnRhaW5zKG5ld0lwKSk7CgogICAgICAgIGFwcGVuZE5ld0lwcyhuZXdJcHMpOwogICAgfQoKICAgIHN0YXRpYyB2b2lkIGFwcGVuZE5ld0lwcyhTZXQ8U3RyaW5nPiBuZXdJcHMpIHsKICAgICAgICBuZXdJcHMuZm9yRWFjaChpcCAtPiB7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBGaWxlcy53cml0ZShQYXRocy5nZXQoQkxPQ0tfSVBfRklMRV9QQVRIKSwgKCJkZW55ICIgKyBpcCArICI7XG4iKS5nZXRCeXRlcygpLCBTdGFuZGFyZE9wZW5PcHRpb24uQVBQRU5EKTsKICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgfQogICAgICAgIH0pOwogICAgfQoKICAgIHN0YXRpYyBTZXQ8U3RyaW5nPiBoYW5kbGVFcnJvckxvZygpIHRocm93cyBFeGNlcHRpb24gewogICAgICAgIFBhdHRlcm4gcCA9IFBhdHRlcm4uY29tcGlsZSgiY2xpZW50OiAoLispLCBzZXJ2ZXIiKTsKCiAgICAgICAgU2V0PFN0cmluZz4gc2JJcHMgPSBuZXcgSGFzaFNldDw+KCk7CiAgICAgICAgQnVmZmVyZWRSZWFkZXIgYnIgPSBuZXcgQnVmZmVyZWRSZWFkZXIobmV3IElucHV0U3RyZWFtUmVhZGVyKG5ldyBGaWxlSW5wdXRTdHJlYW0obmV3IEZpbGUoRVJST1JfTE9HX1BBVEgpKSkpOwogICAgICAgIFN0cmluZyBsaW5lOwogICAgICAgIHdoaWxlICgobGluZSA9IGJyLnJlYWRMaW5lKCkpICE9IG51bGwpIHsKICAgICAgICAgICAgYm9vbGVhbiBub1N1Y2hGaWxlID0gbGluZS5jb250YWlucygiMjogTm8gc3VjaCBmaWxlIG9yIGRpcmVjdG9yeSIpOwogICAgICAgICAgICBib29sZWFuIHBocFNCID0gbGluZS5jb250YWlucygicGhwPyIpOwogICAgICAgICAgICBib29sZWFuIGZvcmJpZGRlbiA9IGxpbmUuY29udGFpbnMoImFjY2VzcyBmb3JiaWRkZW4gYnkgcnVsZSIpOwogICAgICAgICAgICBpZiAobm9TdWNoRmlsZSB8fCBwaHBTQiB8fCBmb3JiaWRkZW4pIHsKICAgICAgICAgICAgICAgIE1hdGNoZXIgbSA9IHAubWF0Y2hlcihsaW5lKTsKICAgICAgICAgICAgICAgIGlmIChtLmZpbmQoKSkgewogICAgICAgICAgICAgICAgICAgIHNiSXBzLmFkZChtLmdyb3VwKDEpKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIHNiSXBzOwogICAgfQoKICAgIHN0YXRpYyBMaXN0PFN0cmluZz4gZ2V0Q3VyckJsb2NrSXBzKCkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgTGlzdDxTdHJpbmc+IGlwcyA9IG5ldyBBcnJheUxpc3Q8PigpOwogICAgICAgIEJ1ZmZlcmVkUmVhZGVyIGJyID0gbmV3IEJ1ZmZlcmVkUmVhZGVyKG5ldyBJbnB1dFN0cmVhbVJlYWRlcihuZXcgRmlsZUlucHV0U3RyZWFtKG5ldyBGaWxlKEJMT0NLX0lQX0ZJTEVfUEFUSCkpKSk7CiAgICAgICAgU3RyaW5nIGxpbmU7CiAgICAgICAgd2hpbGUgKChsaW5lID0gYnIucmVhZExpbmUoKSkgIT0gbnVsbCkgewogICAgICAgICAgICBpcHMuYWRkKGxpbmUucmVwbGFjZUFsbCgiXFxzKyIsICIiKS5yZXBsYWNlQWxsKCJkZW55IiwgIiIpLnJlcGxhY2VBbGwoIjsiLCAiIikudHJpbSgpKTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIGlwczsKICAgIH0KfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXNnID0gIuWVhuWutuaPkOeOsOWksei0pSI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbXNnID0gIue6ouWMheivt+axguW3suWPl+eQhu+8jOivt+WIsOW+ruS/oeWQjuWPsOafpeivoiI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlcy53cml0ZShQYXRocy5nZXQoQkxPQ0tfSVBfRklMRV9QQVRIKSwgKQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgRmlsZXMud3JpdGUoKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbXNnOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHN0YXRpYwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBKU09OT2JqZWN0LnRvSmF2YU9iamVjdChKU09OT2JqZWN0LnBhcnNlT2JqZWN0KFhtbEpzb25Db252ZXJ0ZXIueG1sMmpzb24od2VjaGF0UmVzcCkpLmdldEpTT05PYmplY3QoInhtbCIpLCBQYXltZW50UmVzcC5jbGFzcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8g5LyB5Lia5LuY5qy+5Yiw6Zu26ZKxCiAgICAgICAgICAgIFN0cmluZyB3ZWNoYXRSZXNwID0gSFRUUFNlbmRlci53ZWNoYXRSZWRwYWNrUG9zdChtY2hfaWQsICJodHRwczovL2FwaS5tY2gud2VpeGluLnFxLmNvbS9tbXBheW1rdHRyYW5zZmVycy9wcm9tb3Rpb24vdHJhbnNmZXJzIiwKICAgICAgICAgICAgICAgICAgICBYbWxKc29uQ29udmVydGVyLmpzb24yeG1sKEpTT05PYmplY3QudG9KU09OU3RyaW5nKHBhcmFtKSksCiAgICAgICAgICAgICAgICAgICAgVGhyZWFkLmN1cnJlbnRUaHJlYWQoKS5nZXRDb250ZXh0Q2xhc3NMb2FkZXIoKS5nZXRSZXNvdXJjZUFzU3RyZWFtKCJhcGljbGllbnRfY2VydC5wMTIiKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUGF5bWVudFJlc3AgcmVzcEJlYW4gPQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
