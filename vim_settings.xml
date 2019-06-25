@@ -6,6 +6,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/css/etax-ggzx-app/etax-ggzx-service/src/main/resources/exception_esb.properties" timestamp="1561428209464">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="52" column="137" />
+      </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/resources/logback.xml" timestamp="1557115903784">
         <mark key="'" line="39" column="38" />
         <mark key="[" line="57" column="42" />
@@ -201,11 +205,6 @@
         <mark key="^" line="247" column="99" />
         <mark key="." line="247" column="76" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/controller/MpShopController.java" timestamp="1561008255066">
-        <mark key="'" line="152" column="0" />
-        <mark key="[" line="24" column="25" />
-        <mark key="]" line="24" column="38" />
-      </file>
       <file name="$USER_HOME$/workspace/pproj/takeout_cloud/takeout_node/src/main/java/com/acenode/takeout/node/service/MpOrderService.java" timestamp="1557668280529">
         <mark key="[" line="127" column="50" />
         <mark key="]" line="127" column="60" />
@@ -343,6 +342,13 @@
         <mark key="]" line="2" column="74" />
         <mark key="." line="2" column="74" />
         <mark key="^" line="2" column="73" />
+      </file>
+      <file name="$USER_HOME$/workspace/css/etax-ggzx-app/etax-ggzx-service/src/main/java/gov/gt3/etax/ggzx/service/micro/SeqService.java" timestamp="1561427794956">
+        <mark key="'" line="91" column="25" />
+        <mark key="[" line="35" column="8" />
+        <mark key="]" line="35" column="13" />
+        <mark key="." line="35" column="13" />
+        <mark key="^" line="35" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/resources/application.yml" timestamp="1561085717678">
         <mark key="'" line="24" column="20" />
@@ -555,7 +561,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="33" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/MpOrderService.java" />
       <jump line="240" column="0" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/MpOrderService.java" />
       <jump line="241" column="8" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/withdraw/redpack/process/WithdrawService.java" />
       <jump line="54" column="28" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/withdraw/redpack/process/WithdrawService.java" />
@@ -655,6 +660,7 @@
       <jump line="13" column="6" filename="$USER_HOME$/workspace/pegas/pegas-web-tools/src/main/java/com/xinsl/pegas/tools/NginxErrorLog.java" />
       <jump line="2" column="0" filename="$USER_HOME$/workspace/pegas/pegas-web-tools/src/main/java/com/xinsl/pegas/tools/NginxErrorLog.java" />
       <jump line="21" column="96417" filename="$USER_HOME$/workspace/pegas/pegas-web-tools/src/main/java/com/xinsl/pegas/tools/Test.java" />
+      <jump line="91" column="25" filename="$USER_HOME$/workspace/css/etax-ggzx-app/etax-ggzx-service/src/main/java/gov/gt3/etax/ggzx/service/micro/SeqService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -664,40 +670,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>登陆</text>
       </register>
-      <register name="0" type="4">
-        <text>etax_ggzx_seq</text>
+      <register name="0" type="2">
+        <text encoding="base64">RVNCMDJKUjAwMjAwMT1cdTdDRkJcdTdFREZcdTVGRDlcdUZGMENcdThCRjdcdTdBMERcdTU0MEVcdTUxOERcdThCRDVcdUZGMENcdTZENDFcdTkxQ0ZcdTVERjJcdTZFRTEKRVNCMDJKUjAwMjAwMj1cdTYyQTVcdTY1ODdcdTYzQTVcdTUxNjVcdTZENDFcdTdBMEJcdTU5MDRcdTc0MDZcdTgzQjdcdTVGOTdcdTRFRTRcdTcyNENcdTU5MzFcdThEMjUgCkVTQjAySlIwMDIwMDM9XHU3Q0ZCXHU3RURGXHU2M0E1XHU1MTY1XHU2MkE1XHU2NTg3XHU3RjEzXHU1QjU4XHU1OTMxXHU4RDI1IApFU0IwMkpSMDAyMDA0PVx1N0NGQlx1N0VERlx1NjNBNVx1NTE2NVx1NTkwNFx1NzQwNlx1NjNBNVx1NjUzNlx1NjU4N1x1NEVGNlx1NTFGQVx1OTUxOSAKRVNCMDJKUjAwMjAwNT1cdTdDRkJcdTdFREZcdTYzQTVcdTUxNjVcdTU5MDRcdTc0MDZcdTZENDFcdTkxQ0ZcdTYzQTdcdTUyMzZcdTRFRTRcdTcyNENcdTkxQ0FcdTY1M0VcdTU5MzFcdThEMjUgCkVTQjAySlIwMDIwMDY9XHU2MkE1XHU2NTg3XHU2M0E1XHU1MTY1XHU2RDQxXHU3QTBCXHU2MkE1XHU2NTg3XHU3RjEzXHU1QjU4XHU1MUZBXHU5NTE5IApFU0IwMkpSMDAyMDA3PVx1NjJBNVx1NjU4N1x1NjNBNVx1NTE2NVx1NkQ0MVx1N0EwQlx1NjJBNVx1NjU4N1x1NjZGNFx1NjVCMFx1NTFGQVx1OTUxOSAKRVNCMDFGVzAwMjAwMT1cdTUxODVcdTkwRThcdTVCRjlcdThDNjFcdThDMDNcdTc1MjhcdTUxRkFcdTczQjBcdTVGMDJcdTVFMzhcdUZGMENcdThGRDRcdTU2REVcdTVCRjlcdThDNjFcdTdDN0JcdTU3OEJcdTRFMERcdTZCNjNcdTVFMzgKRVNCMDJKUjAwMzAwMT1cdTY3MkFcdTkwMUFcdThGQzdcdTYzODhcdTY3NDNcdTlBOENcdThCQzEgCkVTQjAySlIwMDMwMDI9XHU2M0E1XHU1MTY1XHU3Q0ZCXHU3RURGJGFjY2Vzc1N5c3RlbUlEJFx1NTcyOCRjdXJyZW50U3lzdGVtSUQkXHU3Q0ZCXHU3RURGXHU0RTJEXHU1RTc2XHU2Q0ExXHU2NzA5XHU5MTREXHU3RjZFXHU2M0E1XHU1MTY1XHVGRjBDXHU4QkY3XHU2OEMwXHU2N0U1XHVGRjAxIApFU0IwMkpSMDAzMDAzPVx1NjdFNVx1OEJFMlx1N0NGQlx1N0VERiRzeXN0ZW0kXHU3Njg0SVBcdTY1RjZcdTUxRkFcdTczQjBcdTk1MTlcdThCRUZcOiRtZXNzYWdlJApFU0IwMkpSMDAzMDA0PSRzeXN0ZW1Db2RlJFx1N0NGQlx1N0VERlx1NURGMlx1N0VDRlx1N0I3RVx1NTIzMFx1RkYwQ1x1NjVFMFx1OTcwMFx1OTFDRFx1NTkwRFx1N0I3RVx1NTIzMCAKRVNCMDJKUjAwMzAwNT0kc3lzdGVtQ29kZSRcdTdDRkJcdTdFREZcdTVERjJcdTdFQ0ZcdTdCN0VcdTkwMDBcdUZGMENcdTY1RTBcdTk3MDBcdTkxQ0RcdTU5MERcdTdCN0VcdTkwMDAgCkVTQjAySlIwMDMwMDY9XHU2NzBEXHU1MkExXHU4QzAzXHU3NTI4XHU2NUY2XHU1QkEyXHU2MjM3XHU3QUVGXHU3Njg0SVBcdTlBOENcdThCQzFcdTU5MzFcdThEMjVcdUZGMDFcdThCRjdcdTY4QzBcdTY3RTUkY3VycmVudFN5c3RlbUlEJFx1NjcwRFx1NTJBMVx1N0FFRlx1NzY4NFx1N0NGQlx1N0VERlx1NjNBNVx1NTE2NVx1OTE0RFx1N0Y2RVx1NjYyRlx1NTQyNlx1NkI2M1x1Nzg2RVx1RkYwQ1x1NUJBMlx1NjIzN1x1N0FFRlx1NzY4NFx1N0NGQlx1N0VERlx1N0YxNlx1NzgwMVx1NTQ4Q0lQXHU1MjA2XHU1MjJCXHU0RTNBJGFjY2Vzc1N5c3RlbUlEJFx1NTQ4QyRjbGllbnRJUCRcIQpFU0IwMkpSMDAzMDA3PVx1NjcwRFx1NTJBMSRzZXJ2aWNlSUQkXHU2RDQxXHU5MUNGXHU1REYyXHU3RUNGXHU3NTI4XHU1QjhDXHVGRjBDXHU2NUUwXHU2Q0Q1XHU2M0E1XHU1MTY1CkVTQjAySlkwMDEwMDE9XHU2NzBEXHU1MkExJHRyYW5pZCRcdTZDQTFcdTY3MDlcdThDMDNcdTc1MjhcdTUyMzBcdUZGMENcdThCRjdcdTY4QzBcdTY3RTVcdThCRTVcdTY3MERcdTUyQTFcdTkwRThcdTdGNzJcdTc2RjhcdTUxNzNcdTRGRTFcdTYwNkZcdTYyMTZcdTgwMDVcdThERUZcdTc1MzFcdTc2RjhcdTUxNzNcdTRGRTFcdTYwNkYKRVNCMDJKWTAwMTAyMj1cdTY3RTVcdTYyN0UkdHJhbmlkJFx1NzY4NFx1OERFRlx1NzUzMVx1NjVGNlx1NTFGQVx1NzNCMFx1OTUxOVx1OEJFRlx1RkYxQSRlcnJvclJlc3NvbiQKRVNCMDJKWTAwMTAwMj1cdThERUZcdTc1MzFcdTUyMzBcdTRFMEJcdTRFMDBcdTRFMkFcdTgyODJcdTcwQjlcdTUyNERcdTgzQjdcdTUzRDZcdTY3MkNcdTdFQTdJUFx1OTUxOVx1OEJFRiAKRVNCMDJKWTAwMTAwMz1cdTY4MzlcdTYzNkVcdTY3M0FcdTUxNzNcdTg5QzRcdTUyMTlcdTY3RTVcdThCRTJcdThERUZcdTc1MzFcdTY1RjZcdTk1MTlcdThCRUYgCkVTQjAySlkwMDEwMDQ9XHU1MjI0XHU2NUFEXHU2NzBEXHU1MkExXHU2NjJGXHU1NDI2XHU1NzI4XHU1RjUzXHU1MjRERVNCXHU1MUZBXHU5NTE5IApFU0IwMkpZMDAxMDA1PVx1ODI4Mlx1NzBCOVx1NTE4NVx1OTBFOFx1NEVBNFx1NjYxM1x1NTkwNFx1NzQwNlx1NTFGQVx1OTUxOSAKRVNCMDJKWTAwMjAwMT1cdTUzNEZcdThCQUVcdTkwMDJcdTkxNERcdTk1MTlcdThCRUYsXHU2NUUwXHU2Q0Q1XHU4M0I3XHU1Rjk3XHU1MzRGXHU4QkFFXHU5MDAyXHU5MTREXHU1NjY4IApFU0IwMkpZMDAzMDAxPVx1NkQ4OFx1NjA2Rlx1OEY2Q1x1NjM2Mlx1NTY2OFx1N0M3Qlx1NUI5QVx1NEU0OVx1OTUxOVx1OEJFRixcdTY1RTBcdTZDRDVcdTVCOUVcdTRGOEIgCkVTQjAySlkwMDMwMDI9XHU4RkRCXHU4ODRDXHU0RUE0XHU2NjEzXHU1MjREXHU2RDg4XHU2MDZGXHU4RjZDXHU2MzYyXHU5NTE5XHU4QkVGIApFU0IwMkpZMDAzMDAzPVx1NEVFNVhNTFx1NjgzQ1x1NUYwRlx1NTNEMVx1OTAwMSxcdTU5MTZcdTkwRThcdTdDRkJcdTdFREZcdTRFQTRcdTY2MTNcdTk1MTlcdThCRUYgCkVTQjAySlkwMDMwMDQ9XHU4RkRCXHU4ODRDXHU0RUE0XHU2NjEzXHU1NDBFXHU2RDg4XHU2MDZGXHU4RjZDXHU2MzYyXHU5NTE5XHU4QkVGIApFU0IwMkpZMDAzMDA1PVx1NEVFNVx1NUJGOVx1OEM2MVx1NjVCOVx1NUYwRlx1NTNEMVx1OTAwMSxcdTUxODVcdTkwRThcdTRFQTRcdTY2MTNcdTk1MTlcdThCRUYgCkVTQjAySlkwMDMwMDc9XHU2NzJDXHU1NzMwXHU2NzBEXHU1MkExXHU4RkQ0XHU1NkRFXHU1QkY5XHU4QzYxXHU1M0MyXHU2NTcwXHU0RTBEXHU3QjI2XHU1NDA4XHU4OTgxXHU2QzQyXHVGRjBDXHU1RkM1XHU5ODdCXHU0RTNBSUVTQlJldHVybk1lc3NhZ2VcdTgwMENcdTRFMTRcdTRFMERcdTgwRkRcdTRFM0FudWxsCkVTQjAyUlowMDMwMDE9XHU0RkREXHU1QjU4XHU0RUE0XHU2NjEzXHU2RDQxXHU2QzM0XHU1M0QxXHU3NTFGXHU5NTE5XHU4QkVGIApFU0IwMlJaMDAzMDAyPVx1NjJBNVx1NjU4N1x1NUJGOVx1OEM2MVx1NEUyRFx1NzY4NFx1NEZFMVx1NjA2Rlx1OEY2Q1x1NjM2Mlx1NEUzQVx1NEVBNFx1NjYxM1x1NkQ0MVx1NkMzNFBPXHU2NUY2XHU1M0QxXHU3NTFGXHU5NTE5XHU4QkVGIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqCiAgICAgKiBAcGFyYW0gcmVxdWVzdAogICAgICoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSByZXF1ZXN0Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBGaWxlcy53cml0ZShQYXRocy5nZXQoQkxPQ0tfSVBfRklMRV9QQVRIKSwgKQo=</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSByZXF1ZXN0Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRmlsZXMud3JpdGUoKQo=</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBGaWxlcy53cml0ZShQYXRocy5nZXQoQkxPQ0tfSVBfRklMRV9QQVRIKSwgKQo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgRmlsZXMud3JpdGUoKQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
