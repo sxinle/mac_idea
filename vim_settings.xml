@@ -73,12 +73,12 @@
         <mark key="." line="10" column="3" />
         <mark key="^" line="10" column="3" />
       </file>
-      <file name="$USER_HOME$/workspace/css/etax-api/admin/src/main/java/com/etax/api/admin/controller/DataTypeCtrl.java" timestamp="1561714537611">
+      <file name="$USER_HOME$/workspace/css/etax-api/admin/src/main/java/com/etax/api/admin/controller/DataTypeCtrl.java" timestamp="1561716704862">
         <mark key="'" line="47" column="36" />
-        <mark key="[" line="112" column="59" />
-        <mark key="]" line="112" column="68" />
-        <mark key="." line="112" column="68" />
-        <mark key="^" line="112" column="68" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
+        <mark key="^" line="136" column="14" />
       </file>
       <file name="$MAVEN_REPOSITORY$/gov/gt3/etax/etax-common-util/1.0.0/etax-common-util-1.0.0.jar!/gov/gt3/etax/common/util/JsonUtils.class" timestamp="1561429602402">
         <mark key="'" line="106" column="24" />
@@ -152,12 +152,12 @@
         <mark key="^" line="131" column="65" />
         <mark key="." line="130" column="55" />
       </file>
-      <file name="$USER_HOME$/workspace/css/etax-api/admin/src/main/java/com/etax/api/admin/service/DataTypeService.java" timestamp="1561709681677">
-        <mark key="'" line="23" column="26" />
-        <mark key="[" line="18" column="5" />
-        <mark key="]" line="18" column="12" />
-        <mark key="." line="18" column="12" />
-        <mark key="^" line="18" column="12" />
+      <file name="$USER_HOME$/workspace/css/etax-api/admin/src/main/java/com/etax/api/admin/service/DataTypeService.java" timestamp="1561716737980">
+        <mark key="'" line="24" column="26" />
+        <mark key="[" line="108" column="5" />
+        <mark key="]" line="109" column="3" />
+        <mark key="." line="109" column="3" />
+        <mark key="^" line="109" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/css/etax-api/admin/src/main/resources/templates/etax/group/group.list.ftl" timestamp="1561690251145">
         <mark key="'" line="47" column="39" />
@@ -322,40 +322,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>增</text>
+        <text>setParentDatatypeId</text>
       </register>
       <register name="/" type="4">
         <text>所属分组</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICQoJyNncm91cHMnKS5vbignY2hhbmdlJywgZnVuY3Rpb24gKCkgewogICAgICAgICQoJyNxdWVyeVBhcmFtc19wYXJlbnQgLnF1ZXJ5UGFyYW1zX2l0ZW0nKS5yZW1vdmUoKTsKICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgIEBTbmVha3lUaHJvd3MKICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YWdzOiBmYWxzZSwvL+WFgeiuuOaJi+WKqOa3u+WKoAogICAgICAgICAgICAgICAgICAgIGFsbG93Q2xlYXI6IHRydWUsLy/lhYHorrjmuIXnqboKICAgICAgICAgICAgICAgICAgICBlc2NhcGVNYXJrdXA6IGZ1bmN0aW9uIChtYXJrdXApIHsKICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG1hcmt1cDsKICAgICAgICAgICAgICAgICAgICB9LCAvLyDoh6rlrprkuYnmoLzlvI/ljJbpmLLmraJ4c3Pms6jlhaUKICAgICAgICAgICAgICAgICAgICBtaW5pbXVtSW5wdXRMZW5ndGg6IDEsLy/mnIDlsJHovpPlhaXlpJrlsJHkuKrlrZfnrKblkI7lvIDlp4vmn6Xor6IKICAgICAgICAgICAgICAgICAgICBmb3JtYXRSZXN1bHQ6IGZ1bmN0aW9uIGZvcm1hdFJlcG8ocmVwbykgewogICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gcmVwby50ZXh0OwogICAgICAgICAgICAgICAgICAgIH0sIC8vIOWHveaVsOeUqOadpea4suafk+e7k+aenAogICAgICAgICAgICAgICAgICAgIGZvcm1hdFNlbGVjdGlvbjogZnVuY3Rpb24gZm9ybWF0UmVwb1NlbGVjdGlvbihyZXBvKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiByZXBvLnRleHQ7CiAgICAgICAgICAgICAgICAgICAgfSAvLyDlh73mlbDnlKjkuo7lkYjnjrDlvZPliY3nmoTpgInmi6kK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJCQkJCQliaXpJZDogLTEsCgkJCQkJCQkJc3RhcnQ6MCwKCQkJCQkJCQlsZW5ndGg6MTAwLAoJCQkJCQkJCW5hbWU6IHBhcmFtcy50ZXJtLCAvLyBzZWFyY2ggdGVybQoJCQkJCQkJCXBhZ2U6IHBhcmFtcy5wYWdlCg==</text>
+        <text encoding="base64">ICAgIEBUcmFuc2FjdGlvbmFsCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CgkJCSQucG9zdChiYXNlX3VybCArICIvZGF0YXR5cGUvdXBkYXRlRGF0YVR5cGUiLCBkYXRhLCBmdW5jdGlvbihkYXRhLCBzdGF0dXMpIHsKCQkJCWlmIChkYXRhLmNvZGUgPT0gIjIwMCIpIHsKCQkJCQkkKCcjYWRkTW9kYWwnKS5tb2RhbCgnaGlkZScpOwoJCQkJCWxheWVyLm9wZW4oewoJCQkJCQlpY29uOiAnMScsCgkJCQkJCWNvbnRlbnQ6ICLmm7TmlrDmiJDlip8iICwKCQkJCQkJZW5kOiBmdW5jdGlvbihsYXllcm8sIGluZGV4KXsKCQkJCQkJCXdpbmRvdy5sb2NhdGlvbi5ocmVmICA9IGJhc2VfdXJsICsgJy9kYXRhdHlwZS9kYXRhVHlwZURldGFpbD9kYXRhVHlwZUlkPScgKyAkKCIjZGF0YXR5cGVGb3JtIGlucHV0W25hbWU9aWRdIikudmFsKCk7CgkJCQkJCX0KCQkJCQl9KTsKCQkJCX0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgbGF5ZXIub3Blbih7CiAgICAgICAgICAgICAgICAgICAgICAgIGljb246ICcyJywKICAgICAgICAgICAgICAgICAgICAgICAgY29udGVudDogKGRhdGEubXNnfHwn5pu05paw5aSx6LSlJykKICAgICAgICAgICAgICAgICAgICB9KTsKCQkJCX0KCQkJfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CQkJCQkJJCgnI2FkZE1vZGFsJykubW9kYWwoJ2hpZGUnKTsKCQkJCQkJc2V0VGltZW91dChmdW5jdGlvbiAoKSB7CgkJCQkJCQlsYXllci5vcGVuKHsKCQkJCQkJCQlpY29uOiAnMScsCgkJCQkJCQkJY29udGVudDogIuaWsOWinuaIkOWKnyIsCgkJCQkJCQkJZW5kOiBmdW5jdGlvbiAobGF5ZXJvLCBpbmRleCkgewoJCQkJCQkJCQl3aW5kb3cubG9jYXRpb24uaHJlZiA9IGJhc2VfdXJsICsgJy9kYXRhdHlwZXMvZGF0YVR5cGVEZXRhaWw/ZGF0YVR5cGVJZD0nICsgZGF0YS5jb250ZW50OwoJCQkJCQkJCX0KCQkJCQkJCX0pOwoJCQkJCQl9LCAzMTUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkJdmFyIGZpZWxkVHlwZUpzb24gPSBKU09OLnN0cmluZ2lmeShxdWVyeVBhcmFtTGlzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTZXJ2aWNlR3JvdXAgZ3JvdXAgPSBzZXJ2aWNlR3JvdXBNYXBwZXIuc2VsZWN0QnlQcmltYXJ5S2V5KHBhcmFtLmdldEdyb3VwSWQoKSk7CiAgICAgICAgaWYgKGdyb3VwID09IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuIG5ldyBSZXNwPD4oUmVzcC5GQUlMX0NPREUsICLmiYDlsZ7liIbnu4RJROmdnuazlSIpOwogICAgICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJCSJpZCI6ICQoIiNkYXRhdHlwZUZvcm0gaW5wdXRbbmFtZT1pZF0iKS52YWwoKSwKCQkJCSJiaXpJZCI6ICQoIiNkYXRhdHlwZUZvcm0gc2VsZWN0W25hbWU9Yml6SWRdIikudmFsKCksCgkJCQkibmFtZSI6ICQoIiNkYXRhdHlwZUZvcm0gaW5wdXRbbmFtZT1uYW1lXSIpLnZhbCgpLAoJCQkJImFib3V0IjogJCgiI2RhdGF0eXBlRm9ybSBpbnB1dFtuYW1lPWFib3V0XSIpLnZhbCgpLAoJCQkJImZpZWxkVHlwZUpzb24iOmZpZWxkVHlwZUpzb24K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbnVsbDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
