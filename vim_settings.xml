@@ -37,11 +37,11 @@
         <mark key="^" line="51" column="50" />
         <mark key="." line="254" column="12" />
       </file>
-      <file name="$USER_HOME$/workspace/css/etax-api/admin/src/main/java/com/etax/api/admin/util/annotation/PermessionLimit.java" timestamp="1562035549045">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="19" column="34" />
-        <mark key="." line="14" column="20" />
-        <mark key="^" line="14" column="20" />
+      <file name="$USER_HOME$/workspace/css/etax-api/admin/src/main/java/com/etax/api/admin/util/annotation/PermessionLimit.java" timestamp="1562036438230">
+        <mark key="[" line="11" column="37" />
+        <mark key="]" line="12" column="3" />
+        <mark key="." line="12" column="3" />
+        <mark key="^" line="12" column="3" />
       </file>
       <file name="$USER_HOME$/workspace/css/etax-api/admin/src/main/resources/static/js/login.1.js" timestamp="1562035446655">
         <mark key="[" line="26" column="40" />
@@ -107,6 +107,12 @@
         <mark key="]" line="44" column="1" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/css/etax-api/admin/src/main/resources/templates/etax/common/common.exception.ftl" timestamp="1562036622748">
+        <mark key="[" line="22" column="22" />
+        <mark key="]" line="22" column="22" />
+        <mark key="^" line="22" column="22" />
+        <mark key="." line="22" column="22" />
+      </file>
       <file name="$USER_HOME$/workspace/css/etax-api/admin/src/main/resources/templates/etax/user/user.list.ftl" timestamp="1562032657577">
         <mark key="[" line="151" column="75" />
         <mark key="]" line="151" column="86" />
@@ -159,11 +165,11 @@
         <mark key="." line="6" column="29" />
         <mark key="^" line="6" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/css/etax-api/admin/src/main/java/com/etax/api/admin/util/interceptor/PermissionInterceptor.java" timestamp="1562035612316">
-        <mark key="[" line="26" column="1" />
-        <mark key="]" line="26" column="2" />
-        <mark key="." line="26" column="2" />
-        <mark key="^" line="26" column="2" />
+      <file name="$USER_HOME$/workspace/css/etax-api/admin/src/main/java/com/etax/api/admin/util/interceptor/PermissionInterceptor.java" timestamp="1562036479506">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="50" column="21" />
+        <mark key="." line="50" column="21" />
+        <mark key="^" line="50" column="21" />
       </file>
       <file name="/Dummy.txt" timestamp="1562029811466">
         <mark key="[" line="0" column="0" />
@@ -184,10 +190,11 @@
         <mark key="." line="61" column="46" />
         <mark key="^" line="61" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/css/etax-api/admin/src/main/java/com/etax/api/admin/util/resolver/WebExceptionResolver.java" timestamp="1561963105439">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/workspace/css/etax-api/admin/src/main/java/com/etax/api/admin/util/resolver/WebExceptionResolver.java" timestamp="1562036363302">
+        <mark key="[" line="50" column="28" />
+        <mark key="]" line="50" column="28" />
+        <mark key="." line="50" column="28" />
+        <mark key="^" line="50" column="32" />
       </file>
       <file name="$USER_HOME$/workspace/css/etax-api/admin/src/main/java/com/etax/api/admin/util/Const.java" timestamp="1562034859266">
         <mark key="[" line="10" column="49" />
@@ -333,7 +340,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>limit</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxFbmNyeXB0VXRpbFw+</text>
@@ -342,34 +349,34 @@
         <text encoding="base64">ICAgIC8qKgogICAgICog6KaB5rGC566h55CG5ZGY5p2D6ZmQCiAgICAgKi8KICAgIGJvb2xlYW4gYWRtaW4oKSBkZWZhdWx0IGZhbHNlOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygiL2hlbHAiKQogICAgcHVibGljIFN0cmluZyBoZWxwKCkgewogICAgICAgIHJldHVybiAiaGVscCI7CiAgICB9Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFVTRVJfTkFNRV9ST09UID0gImFkbWluIjsK</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog6KaB5rGC55So5oi355m75b2VCiAgICAgKi8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8aWYgdGVzdD0icXVlcnkudXNlck5hbWUgIT0gbnVsbCBhbmQgcXVlcnkudXNlck5hbWUgIT0gJyciPiBBTkQgdS51c2VyX25hbWUgTElLRSBDT05DQVQoJyUnLCAje3F1ZXJ5LnVzZXJOYW1lfSwgJyUnKTwvaWY+Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICog6KaB5rGC566h55CG5ZGY5p2D6ZmQCiAgICAgKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZml4bWUg5p2D6ZmQ5qCh6aqMCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCWxvZ2dlci5lcnJvcihlLmdldE1lc3NhZ2UoKSwgZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSB1c2VyTWFwcGVyLnNlbGVjdE9uZUJ5RXhhbXBsZSgKICAgICAgICAgICAgICAgIEV4YW1wbGUuYnVpbGRlcihVc2VyLmNsYXNzKS53aGVyZShTcWxzLmN1c3RvbSgpLmFuZEVxdWFsVG8oInVzZXJOYW1lIiwgdXNlcm5hbWVQYXJhbSkpLmJ1aWxkKCkKICAgICAgICApOwo=</text>
+        <text encoding="base64">CQlsb2dnZXIuZXJyb3IoIldlYkV4Y2VwdGlvblJlc29sdmVyOnt9IiwgZXgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJhbS5zZXRVc2VyTmFtZSh1c2VybmFtZVBhcmFtKTsK</text>
+        <text encoding="base64">CXByaXZhdGUgc3RhdGljIHRyYW5zaWVudCBMb2dnZXIgbG9nZ2VyID0gTG9nZ2VyRmFjdG9yeS5nZXRMb2dnZXIoV2ViRXhjZXB0aW9uUmVzb2x2ZXIuY2xhc3MpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBVc2VyIHVzZXIgPSB1c2VyTWFwcGVyLnNlbGVjdFVzZXJzKCkK</text>
+        <text encoding="base64">ICAgIEBSZXF1ZXN0TWFwcGluZygiL2hlbHAiKQogICAgcHVibGljIFN0cmluZyBoZWxwKCkgewogICAgICAgIHJldHVybiAiaGVscCI7CiAgICB9Cgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB1c2VyLnNldFBhc3N3b3JkKEVuY3J5cHRVdGlsLm1kNSgiMTIzNDU2IikpLnNldElkKGlkKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFVTRVJfTkFNRV9ST09UID0gImFkbWluIjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
