@@ -151,7 +151,7 @@
         <mark key="." line="5" column="71" />
         <mark key="^" line="5" column="71" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562548796841">
+      <file name="/Dummy.txt" timestamp="1562550313028">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/templates/etax/datatype/datatype.update.ftl" timestamp="1562209765018">
@@ -184,16 +184,17 @@
         <mark key="." line="34" column="134" />
         <mark key="^" line="34" column="134" />
       </file>
-      <file name="$USER_HOME$/workspace/css/service-manager/admin/src/main/java/com/css/etax/srvmng/admin/controller/IndexCtrl.java" timestamp="1562320195865">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="24" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/workspace/css/service-manager/admin/src/main/java/com/css/etax/srvmng/admin/controller/IndexCtrl.java" timestamp="1562550105821">
+        <mark key="'" line="58" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/mapper/OrderInfoMapper.xml" timestamp="1562294690070">
         <mark key="[" line="148" column="31" />
         <mark key="]" line="148" column="69" />
       </file>
-      <file name="$USER_HOME$/workspace/css/service-manager/admin/src/main/java/com/css/etax/srvmng/admin/controller/ServiceGroupCtrl.java" timestamp="1562320643113">
+      <file name="$USER_HOME$/workspace/css/service-manager/admin/src/main/java/com/css/etax/srvmng/admin/controller/ServiceGroupCtrl.java" timestamp="1562550014363">
         <mark key="'" line="93" column="0" />
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="7" />
@@ -205,7 +206,12 @@
         <mark key="^" line="53" column="27" />
         <mark key="." line="53" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/css/service-manager/admin/src/main/java/com/css/etax/srvmng/admin/util/interceptor/PermissionInterceptor.java" timestamp="1562549380066" />
+      <file name="$USER_HOME$/workspace/css/service-manager/admin/src/main/java/com/css/etax/srvmng/admin/util/interceptor/PermissionInterceptor.java" timestamp="1562550245428">
+        <mark key="[" line="43" column="38" />
+        <mark key="]" line="43" column="50" />
+        <mark key="." line="43" column="50" />
+        <mark key="^" line="43" column="50" />
+      </file>
       <file name="$USER_HOME$/workspace/css/etax-api/service-manager/src/main/java/com/css/etax/api/admin/service/ServiceInfoService.java" timestamp="1562206351000">
         <mark key="'" line="91" column="0" />
       </file>
@@ -234,7 +240,7 @@
         <mark key="." line="32" column="200" />
         <mark key="^" line="33" column="55" />
       </file>
-      <file name="/fragment.java" timestamp="1562548796824">
+      <file name="/fragment.java" timestamp="1562550160420">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-b/cloud-common/src/main/java/com/xinsl/cloud/domain/BaseDomain.java" timestamp="1562296431482">
@@ -245,7 +251,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="134" column="29" filename="$USER_HOME$/workspace/css/etax-api/admin/src/main/java/com/etax/api/admin/controller/ServiceInfoCtrl.java" />
       <jump line="147" column="21" filename="$USER_HOME$/workspace/css/etax-api/admin/src/main/java/com/etax/api/admin/controller/ServiceInfoCtrl.java" />
       <jump line="418" column="36" filename="$USER_HOME$/workspace/css/etax-api/admin/src/main/resources/templates/etax/service/service.detail.ftl" />
       <jump line="31" column="79" filename="$USER_HOME$/workspace/css/etax-api/admin/src/main/resources/static/js/etax/service.list.1.js" />
@@ -345,6 +350,7 @@
       <jump line="93" column="0" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/java/com/css/etax/srvmng/admin/controller/ServiceGroupCtrl.java" />
       <jump line="19" column="36" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/java/com/css/etax/srvmng/admin/util/interceptor/CookieInterceptor.java" />
       <jump line="2" column="38" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/java/com/css/etax/srvmng/admin/util/interceptor/CookieInterceptor.java" />
+      <jump line="58" column="0" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/java/com/css/etax/srvmng/admin/controller/IndexCtrl.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -354,7 +360,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>new Date()</text>
+        <text>getClass</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxBcnJheVRvb2xcPg==</text>
@@ -381,16 +387,16 @@
         <text encoding="base64">ICAgIEBBdXRoKCkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRoKG11c3RMb2dpbiA9IGZhbHNlKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmdCdWZmZXIgc2IgPSBuZXcgU3RyaW5nQnVmZmVyKCk7CiAgICAgICAgdGFyZ2V0cy5mb3JFYWNoKHQgLT4gc2IuYXBwZW5kKHQpLmFwcGVuZCgiLCIpKTsKICAgICAgICBsb2dnZXIuaW5mbygi5Y+R6YCBSnB1c2jmjqjpgIHvvJp7fSIsIHNiLnRvU3RyaW5nKCkpOwo=</text>
+        <text encoding="base64">ICAgIEBBdXRoKG11c3RMb2dpbiA9IGZhbHNlKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBsb2dnZXIuZGVidWcoKTsK</text>
+        <text encoding="base64">ICAgIEBBdXRoKG11c3RMb2dpbiA9IGZhbHNlKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIEBBdXRoKG11c3RMb2dpbiA9IGZhbHNlKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
