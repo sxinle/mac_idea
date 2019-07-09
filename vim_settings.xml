@@ -85,6 +85,10 @@
         <mark key="." line="283" column="24" />
         <mark key="^" line="283" column="24" />
       </file>
+      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/pom.xml" timestamp="1562640070000">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="18" column="21" />
+      </file>
       <file name="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/templates/etax/datatype/datatype.list.ftl" timestamp="1562571581985">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="38" column="34" />
@@ -95,6 +99,12 @@
         <mark key="[" line="132" column="34" />
         <mark key="]" line="132" column="48" />
       </file>
+      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/mapper/ShopInfoMapper.xml" timestamp="1562639825166">
+        <mark key="[" line="62" column="36" />
+        <mark key="]" line="62" column="38" />
+        <mark key="^" line="62" column="38" />
+        <mark key="." line="62" column="38" />
+      </file>
       <file name="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/templates/login.ftl" timestamp="1562638392469" />
       <file name="$USER_HOME$/workspace/css/service-manager/admin/src/main/java/com/css/etax/srvmng/admin/domain/SysMessage.java" timestamp="1562555981678">
         <mark key="[" line="18" column="29" />
@@ -102,13 +112,15 @@
         <mark key="." line="19" column="25" />
         <mark key="^" line="19" column="25" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562575697961">
+      <file name="/Dummy.txt" timestamp="1562639837979">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/AdminLTE-2.3.8/index.html" timestamp="1562567721806">
-        <mark key="'" line="144" column="0" />
-        <mark key="[" line="143" column="0" />
-        <mark key="]" line="143" column="63" />
+      <file name="$USER_HOME$/workspace/css/service-manager/admin/pom.xml" timestamp="1562640082240">
+        <mark key="'" line="44" column="19" />
+        <mark key="[" line="17" column="21" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/templates/etax/common/common.macro.ftl" timestamp="1562575400015">
         <mark key="'" line="89" column="24" />
@@ -164,12 +176,11 @@
         <mark key="[" line="5" column="0" />
         <mark key="]" line="37" column="16" />
       </file>
-      <file name="/fragment.java" timestamp="1562568410809">
+      <file name="/fragment.java" timestamp="1562640047968">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="160" column="16" filename="$USER_HOME$/workspace/css/etax-api/admin/src/main/java/com/etax/api/admin/controller/UserCtrl.java" />
       <jump line="83" column="16" filename="$USER_HOME$/workspace/css/etax-api/admin/src/main/java/com/etax/api/admin/controller/UserCtrl.java" />
       <jump line="39" column="32" filename="$USER_HOME$/workspace/css/xxl-api/xxl-api-admin/src/main/resources/static/js/common.1.js" />
       <jump line="34" column="0" filename="$USER_HOME$/workspace/css/xxl-api/xxl-api-admin/src/main/resources/static/js/common.1.js" />
@@ -269,6 +280,7 @@
       <jump line="80" column="0" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/static/js/common.1.js" />
       <jump line="33" column="0" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/static/js/common.1.js" />
       <jump line="30" column="39" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/static/js/common.1.js" />
+      <jump line="39" column="19" filename="$USER_HOME$/workspace/css/service-manager/admin/pom.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -281,10 +293,10 @@
         <text>hide</text>
       </register>
       <register name="/" type="4">
-        <text>登陆</text>
+        <text>web</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCcubXNnLWxpJykuaGlkZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLnNwcmluZ2ZyYW1ld29yay5ib290PC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLXdlYnNvY2tldDwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCcubXNnLWxpJykuc2hvdygpOwo=</text>
@@ -321,9 +333,9 @@
       </register>
     </registers>
     <search>
-      <last-search>登陆</last-search>
+      <last-search>web</last-search>
       <last-offset />
-      <last-pattern>登陆</last-pattern>
+      <last-pattern>web</last-pattern>
       <last-replace>logs</last-replace>
       <last-substitute>groups</last-substitute>
       <last-dir>1</last-dir>
@@ -331,8 +343,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isAudit</entry>
-        <entry>isAdmin</entry>
         <entry encoding="base64">XDzmlrDlop7mnI3liqHmjqXlj6NcPg==</entry>
         <entry>allPath</entry>
         <entry encoding="base64">XDxkYXRhVHlwZU5hbWVcPg==</entry>
@@ -351,6 +361,8 @@
         <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxtZXNzYWdlc1w+</entry>
         <entry>登陆</entry>
+        <entry>websocket</entry>
+        <entry>web</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1N0cmVldC9QaG9uZS9n</entry>
