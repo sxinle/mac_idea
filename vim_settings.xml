@@ -53,6 +53,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="4" column="43" />
       </file>
+      <file name="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/static/js/etax/service.list.1.js" timestamp="1562739132688">
+        <mark key="[" line="199" column="59" />
+        <mark key="]" line="200" column="56" />
+        <mark key="." line="200" column="56" />
+        <mark key="^" line="200" column="56" />
+      </file>
       <file name="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/templates/etax/datatype/datatype.list.ftl" timestamp="1562571581985">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="38" column="34" />
@@ -81,6 +87,7 @@
       <file name="/Dummy.txt" timestamp="1562734560422">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/templates/etax/service/service.list.ftl" timestamp="1562739067774" />
       <file name="$USER_HOME$/Desktop/AdminLTE-2.3.8/pages/UI/modals.html" timestamp="1562657708210">
         <mark key="'" line="533" column="38" />
         <mark key="[" line="535" column="0" />
@@ -278,31 +285,31 @@
         <text>api.pegas.syxinsl.com</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aW5kb3cK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGNvbnRlbnQgPSBnZW5Db250ZW50KGRldmljZVR5cGVJZCwgc2hvcCwgb3JkZXIsIGRldGFpbHMsIGFkZHIsIHByaW50SWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGNvbnRlbnQgPSBnZW5Db250ZW50KGRldmljZVR5cGVJZCwgc2hvcCwgb3JkZXIsIGRldGFpbHMsIGFkZHIsIHByaW50SWQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgUHJpbnRlckRldmljZSBwcmludGVyID0gcHJpbnRlcnMuZ2V0KDApOwogICAgICAgICAgICBMb25nIGRldmljZVR5cGVJZCA9IHByaW50ZXIuZ2V0VHlwZUlkKCk7CgogICAgICAgICAgICBTdHJpbmcgcHJpbnRJZCA9IG5ldyBTaW1wbGVEYXRlRm9ybWF0KE9SREVSX05PX0ZNVCkuZm9ybWF0KG5ldyBEYXRlKCkpOwoKICAgICAgICAgICAgU3RyaW5nIGRldmljZU5vID0gcHJpbnRlci5nZXRTZXR0aW5ncygpLmdldFN0cmluZyhVTklWRVJTQUxfREVWSUNFX05PX0tFWSk7CiAgICAgICAgICAgIC8vID09PT09PT09PT09PT09PT09PT09PT3mmJPogZTkupHlj4LmlbA9PT09PT09PT09PT09PT09PT09PT09CiAgICAgICAgICAgIFN0cmluZyBtS2V5ID0gcHJpbnRlci5nZXRTZXR0aW5ncygpLmdldFN0cmluZyhZTFlfTUtFWSk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgUHJpbnRlckRldmljZSBwcmludGVyID0gcHJpbnRlcnMuZ2V0KDApOwogICAgICAgICAgICBMb25nIGRldmljZVR5cGVJZCA9IHByaW50ZXIuZ2V0VHlwZUlkKCk7CgogICAgICAgICAgICBTdHJpbmcgcHJpbnRJZCA9IG5ldyBTaW1wbGVEYXRlRm9ybWF0KE9SREVSX05PX0ZNVCkuZm9ybWF0KG5ldyBEYXRlKCkpOwoKICAgICAgICAgICAgU3RyaW5nIGRldmljZU5vID0gcHJpbnRlci5nZXRTZXR0aW5ncygpLmdldFN0cmluZyhVTklWRVJTQUxfREVWSUNFX05PX0tFWSk7CiAgICAgICAgICAgIC8vID09PT09PT09PT09PT09PT09PT09PT3mmJPogZTkupHlj4LmlbA9PT09PT09PT09PT09PT09PT09PT09CiAgICAgICAgICAgIFN0cmluZyBtS2V5ID0gcHJpbnRlci5nZXRTZXR0aW5ncygpLmdldFN0cmluZyhZTFlfTUtFWSk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aDQgY2xhc3M9Im1vZGFsLXRpdGxlIj7mtojmga/or6bmg4U8L2g0Pgo=</text>
+        <text encoding="base64">ICAgIHJldHVybjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aDQgY2xhc3M9Im1vZGFsLXRpdGxlIj7mtojmga/or6bmg4U8L2g0Pgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
