@@ -12,12 +12,12 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/PrintOrderService.java" timestamp="1562665320497">
-        <mark key="'" line="98" column="17" />
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="." line="133" column="0" />
-        <mark key="^" line="133" column="15" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/PrintOrderService.java" timestamp="1562722505936">
+        <mark key="'" line="120" column="26" />
+        <mark key="[" line="71" column="29" />
+        <mark key="]" line="71" column="26" />
+        <mark key="." line="71" column="26" />
+        <mark key="^" line="71" column="26" />
       </file>
       <file name="/a.dummy" timestamp="1562572061709">
         <mark key="[" line="0" column="0" />
@@ -77,7 +77,7 @@
         <mark key="." line="19" column="15" />
         <mark key="^" line="19" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562664252127">
+      <file name="/Dummy.txt" timestamp="1562722523615">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/AdminLTE-2.3.8/pages/UI/modals.html" timestamp="1562657708210">
@@ -159,7 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="9" filename="$USER_HOME$/workspace/css/etax-api/admin/src/main/resources/static/js/etax/service.list.1.js" />
       <jump line="36" column="41" filename="$USER_HOME$/workspace/css/etax-api/admin/src/main/resources/static/js/etax/service.list.1.js" />
       <jump line="91" column="46" filename="$USER_HOME$/workspace/css/etax-api/admin/src/main/resources/templates/etax/service/service.list.ftl" />
       <jump line="118" column="40" filename="$USER_HOME$/workspace/css/etax-api/admin/src/main/resources/templates/etax/service/service.list.ftl" />
@@ -259,6 +258,7 @@
       <jump line="41" column="4" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/java/com/css/etax/srvmng/admin/controller/SysMessageCtrl.java" />
       <jump line="114" column="0" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/java/com/css/etax/srvmng/admin/controller/SysMessageCtrl.java" />
       <jump line="128" column="53" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/MpOrderService.java" />
+      <jump line="114" column="26" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/PrintOrderService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -268,7 +268,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>warning</text>
+        <text>isYLY(deviceTypeId)</text>
       </register>
       <register name="/" type="4">
         <text>close</text>
@@ -277,34 +277,34 @@
         <text>msgDetailContent</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3RyaW5nIGNvbnRlbnQgPSBnZW5Db250ZW50KGRldmljZVR5cGVJZCwgc2hvcCwgb3JkZXIsIGRldGFpbHMsIGFkZHIsIHByaW50SWQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aDQgY2xhc3M9Im1vZGFsLXRpdGxlIj7mtojmga/or6bmg4U8L2g0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgUHJpbnRlckRldmljZSBwcmludGVyID0gcHJpbnRlcnMuZ2V0KDApOwogICAgICAgICAgICBMb25nIGRldmljZVR5cGVJZCA9IHByaW50ZXIuZ2V0VHlwZUlkKCk7CgogICAgICAgICAgICBTdHJpbmcgcHJpbnRJZCA9IG5ldyBTaW1wbGVEYXRlRm9ybWF0KE9SREVSX05PX0ZNVCkuZm9ybWF0KG5ldyBEYXRlKCkpOwoKICAgICAgICAgICAgU3RyaW5nIGRldmljZU5vID0gcHJpbnRlci5nZXRTZXR0aW5ncygpLmdldFN0cmluZyhVTklWRVJTQUxfREVWSUNFX05PX0tFWSk7CiAgICAgICAgICAgIC8vID09PT09PT09PT09PT09PT09PT09PT3mmJPogZTkupHlj4LmlbA9PT09PT09PT09PT09PT09PT09PT09CiAgICAgICAgICAgIFN0cmluZyBtS2V5ID0gcHJpbnRlci5nZXRTZXR0aW5ncygpLmdldFN0cmluZyhZTFlfTUtFWSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwhLS0g5raI5oGv6K+m5oOFLuaooeaAgeahhiAtLT4K</text>
+        <text encoding="base64">ICAgIHJldHVybjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Zm9ybSBjbGFzcz0iZm9ybS1ob3Jpem9udGFsIGZvcm0iIHJvbGU9ImZvcm0iPgogICAgICAgICAgICAgICAgICAgIDwvZm9ybT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aDQgY2xhc3M9Im1vZGFsLXRpdGxlIj7mtojmga/or6bmg4U8L2g0Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IGhpZGRlbiBuYW1lPSJpZCIgdmFsdWU9IiR7UmVxdWVzdFsnTE9HSU5fSURFTlRJVFknXS5pZH0iLz4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJuYW1lIiBjbGFzcz0iY29sLXNtLTQgY29udHJvbC1sYWJlbCI+5aeT5ZCNPGZvbnQgY29sb3I9InJlZCI+KjwvZm9udD48L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXNtLTgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIiBuYW1lPSJyZWFsTmFtZSIgcGxhY2Vob2xkZXI9Iuivt+i+k+WFpeWnk+WQjSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9IiR7KFJlcXVlc3RbJ0xPR0lOX0lERU5USVRZJ10ucmVhbE5hbWUpIX0iCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1heGxlbmd0aD0iNTAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJuYW1lIiBjbGFzcz0iY29sLXNtLTQgY29udHJvbC1sYWJlbCI+5omL5py65Y+356CBPGZvbnQgY29sb3I9InJlZCI+KjwvZm9udD48L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXNtLTgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIiBuYW1lPSJwaG9uZSIgcGxhY2Vob2xkZXI9Iuivt+i+k+WFpeaJi+acuuWPt+eggSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9IiR7KFJlcXVlc3RbJ0xPR0lOX0lERU5USVRZJ10ucGhvbmUpIX0iIG1heGxlbmd0aD0iNTAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGFiZWwgZm9yPSJuYW1lIiBjbGFzcz0iY29sLXNtLTQgY29udHJvbC1sYWJlbCI+6YKu566xPGZvbnQgY29sb3I9InJlZCI+KjwvZm9udD48L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sLXNtLTgiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBjbGFzcz0iZm9ybS1jb250cm9sIiBuYW1lPSJlbWFpbCIgcGxhY2Vob2xkZXI9Iuivt+i+k+WFpemCrueusSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9IiR7KFJlcXVlc3RbJ0xPR0lOX0lERU5USVRZJ10uZW1haWwpIX0iIG1heGxlbmd0aD0iNTAiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICAgICAgICAgICAgPGhyPgoKICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZm9ybS1ncm91cCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtc20tb2Zmc2V0LTMgY29sLXNtLTYiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gdHlwZT0ic3VibWl0IiBjbGFzcz0iYnRuIGJ0bi1wcmltYXJ5Ij7kv53lrZg8L2J1dHRvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tZGVmYXVsdCIgZGF0YS1kaXNtaXNzPSJtb2RhbCI+5Y+W5raIPC9idXR0b24+CgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9ImlkIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9Im1vZGFsIGZhZGUiIGlkPSJtc2dEZXRhaWxNb2RhbCI+CiAgICAgICAgPGRpdiBjbGFzcz0ibW9kYWwgbW9kYWwtaW5mbyI+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9Im1vZGFsLWRpYWxvZyI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJtb2RhbC1jb250ZW50Ij4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJtb2RhbC1oZWFkZXIiPgogICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImNsb3NlIiBkYXRhLWRpc21pc3M9Im1vZGFsIiBhcmlhLWxhYmVsPSJDbG9zZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBhcmlhLWhpZGRlbj0idHJ1ZSI+JnRpbWVzOzwvc3Bhbj48L2J1dHRvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPGg0IGNsYXNzPSJtb2RhbC10aXRsZSI+SW5mbyBNb2RhbDwvaDQ+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ibW9kYWwtYm9keSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxwPk9uZSBmaW5lIGJvZHkmaGVsbGlwOzwvcD4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJtb2RhbC1mb290ZXIiPgogICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tb3V0bGluZSBwdWxsLWxlZnQiIGRhdGEtZGlzbWlzcz0ibW9kYWwiPkNsb3NlPC9idXR0b24+CiAgICAgICAgICAgICAgICAgICAgICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0iYnRuIGJ0bi1vdXRsaW5lIj5TYXZlIGNoYW5nZXM8L2J1dHRvbj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgIDwvZGl2PgoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -317,7 +317,7 @@
       <last-replace>logs</last-replace>
       <last-substitute>groups</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
