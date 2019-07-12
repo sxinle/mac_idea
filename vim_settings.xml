@@ -66,11 +66,11 @@
         <mark key="[" line="40" column="13" />
         <mark key="]" line="40" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/static/js/etax/service.list.1.js" timestamp="1562741851081">
-        <mark key="[" line="45" column="28" />
-        <mark key="]" line="45" column="63" />
-        <mark key="." line="200" column="56" />
-        <mark key="^" line="200" column="56" />
+      <file name="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/static/js/etax/service.list.1.js" timestamp="1562898843660">
+        <mark key="'" line="84" column="12" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="77" column="0" />
+        <mark key="." line="77" column="0" />
       </file>
       <file name="/ServiceInfoCtrl.java" timestamp="1562827924964">
         <mark key="'" line="72" column="0" />
@@ -126,8 +126,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1562897571962">
+      <file name="/Dummy.txt" timestamp="1562898656161">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/templates/etax/service/service.list.ftl" timestamp="1562898572855">
+        <mark key="'" line="98" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/css/service-manager/admin/src/main/java/com/css/etax/srvmng/admin/service/SysMessageService.java" timestamp="1562897567041">
         <mark key="'" line="70" column="50" />
@@ -230,13 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="34" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/templates/etax/common/common.macro.ftl" />
-      <jump line="91" column="31" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/templates/etax/common/common.macro.ftl" />
-      <jump line="90" column="36" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/templates/etax/common/common.macro.ftl" />
-      <jump line="89" column="24" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/templates/etax/common/common.macro.ftl" />
-      <jump line="46" column="18" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/java/com/css/etax/srvmng/admin/controller/MessageCtrl.java" />
-      <jump line="186" column="0" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/java/com/css/etax/srvmng/admin/controller/MessageCtrl.java" />
-      <jump line="102" column="57" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/static/js/common.1.js" />
       <jump line="73" column="27" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/static/js/common.1.js" />
       <jump line="70" column="26" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/static/js/common.1.js" />
       <jump line="149" column="8" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/static/js/common.1.js" />
@@ -330,6 +326,13 @@
       <jump line="46" column="34" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/java/com/css/etax/srvmng/admin/controller/IndexCtrl.java" />
       <jump line="17" column="20" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/application-dev.yml" />
       <jump line="71" column="50" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/java/com/css/etax/srvmng/admin/service/SysMessageService.java" />
+      <jump line="21" column="24" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/templates/etax/service/service.list.ftl" />
+      <jump line="70" column="52" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/templates/etax/service/service.list.ftl" />
+      <jump line="72" column="93" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/templates/etax/service/service.list.ftl" />
+      <jump line="97" column="52" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/templates/etax/service/service.list.ftl" />
+      <jump line="98" column="52" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/templates/etax/service/service.list.ftl" />
+      <jump line="77" column="37" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/static/js/etax/service.list.1.js" />
+      <jump line="84" column="12" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/static/js/etax/service.list.1.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -339,34 +342,34 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>mailAddressList</text>
+        <text>jkj,</text>
       </register>
       <register name="/" type="4">
-        <text>update</text>
+        <text>通过</text>
       </register>
       <register name="0" type="4">
-        <text>&quot;2356415059@qq.com&quot;</text>
+        <text>(isAudit || isAdmin)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZml4bWUg5Y+R6YKu5Lu2CiAgICAgICAgICAgIGFzeW5jTWFpbFNlbmRlci5zZW5kKCIyMzU2NDE1MDU5QHFxLmNvbSIsICIyMzU2NDE1MDU5QHFxLmNvbSIsICLkuLvpopjvvJrmnI3liqHmjqXlj6Plj5jliqjpgJrnn6UiLCAiPGh0bWw+PGJvZHk+PHA+IiArIGNvbnRlbnQgKyAiPC9wPjwvYm9keT48L2h0bWw+IiwgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoKGlzQXVkaXQgfHwgaXNBZG1pbikpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZml4bWUg5Y+R6YKu5Lu2CiAgICAgICAgICAgIGFzeW5jTWFpbFNlbmRlci5zZW5kKCIyMzU2NDE1MDU5QHFxLmNvbSIsICIyMzU2NDE1MDU5QHFxLmNvbSIsICLkuLvpopjvvJrmnI3liqHmjqXlj6Plj5jliqjpgJrnn6UiLCAiPGh0bWw+PGJvZHk+PHA+IiArIGNvbnRlbnQgKyAiPC9wPjwvYm9keT48L2h0bWw+IiwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBzeXNNZXNzYWdlU2VydmljZS5zZW5kTm90aWZpY2F0aW9uKGdldFVzZXIoKSwgQ29uc3QuTVNHX1RZUEVfU0VSVklDRV9NT0QsIGluZm8pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzeXNNZXNzYWdlU2VydmljZS5zZW5kTm90aWZpY2F0aW9uKGdldFVzZXIoKSwgQ29uc3QuTVNHX1RZUEVfU0VSVklDRV9NT0QsIGluZm8pOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -382,18 +385,16 @@
       </register>
     </registers>
     <search>
-      <last-search>update</last-search>
+      <last-search>通过</last-search>
       <last-offset />
-      <last-pattern>update</last-pattern>
+      <last-pattern>通过</last-pattern>
       <last-replace>logs</last-replace>
       <last-substitute>groups</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRhXD4=</entry>
-        <entry encoding="base64">XDxtZXNzYWdlc1w+</entry>
         <entry>登陆</entry>
         <entry>websocket</entry>
         <entry>web</entry>
@@ -412,6 +413,8 @@
         <entry>proxy</entry>
         <entry>success</entry>
         <entry>update</entry>
+        <entry>isAudit</entry>
+        <entry>通过</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1N0cmVldC9QaG9uZS9n</entry>
