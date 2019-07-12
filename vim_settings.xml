@@ -345,7 +345,7 @@
         <text>jkj,</text>
       </register>
       <register name="/" type="4">
-        <text>通过</text>
+        <text>已完成</text>
       </register>
       <register name="0" type="4">
         <text>(isAudit || isAdmin)</text>
@@ -385,9 +385,9 @@
       </register>
     </registers>
     <search>
-      <last-search>通过</last-search>
+      <last-search>已完成</last-search>
       <last-offset />
-      <last-pattern>通过</last-pattern>
+      <last-pattern>已完成</last-pattern>
       <last-replace>logs</last-replace>
       <last-substitute>groups</last-substitute>
       <last-dir>1</last-dir>
@@ -395,7 +395,6 @@
     </search>
     <history>
       <history-search>
-        <entry>登陆</entry>
         <entry>websocket</entry>
         <entry>web</entry>
         <entry encoding="base64">XDxtZXNzYWdpbmdUZW1wbGF0ZVw+</entry>
@@ -415,6 +414,7 @@
         <entry>update</entry>
         <entry>isAudit</entry>
         <entry>通过</entry>
+        <entry>已完成</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1N0cmVldC9QaG9uZS9n</entry>
