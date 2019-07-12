@@ -190,6 +190,10 @@
         <mark key="^" line="31" column="7" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/domain/ShopArea.java" timestamp="1562914786556">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="16" column="28" />
+      </file>
       <file name="$USER_HOME$/workspace/css/service-manager/admin/src/main/java/com/css/etax/srvmng/admin/mapper/UserMapper.java" timestamp="1562656748765">
         <mark key="[" line="18" column="4" />
         <mark key="]" line="18" column="7" />
@@ -202,6 +206,11 @@
       </file>
       <file name="/group.list.1.js" timestamp="1562827659602">
         <mark key="'" line="180" column="17" />
+      </file>
+      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-common/src/main/java/com/xinsl/pegas/common/domain/AdminDeliveryUser.java" timestamp="1562914790942">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/css/service-manager/admin/src/main/java/com/css/etax/srvmng/admin/mapper/SysMessageMapper.xml" timestamp="1562744456001">
         <mark key="[" line="27" column="27" />
@@ -231,11 +240,14 @@
         <mark key="." line="96" column="77" />
         <mark key="^" line="96" column="77" />
       </file>
+      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/MpOrderService.java" timestamp="1562916148647">
+        <mark key="[" line="224" column="117" />
+        <mark key="]" line="224" column="117" />
+        <mark key="^" line="224" column="116" />
+        <mark key="." line="224" column="117" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="27" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/static/js/common.1.js" />
-      <jump line="70" column="26" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/static/js/common.1.js" />
-      <jump line="149" column="8" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/static/js/common.1.js" />
       <jump line="62" column="0" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/static/js/common.1.js" />
       <jump line="78" column="11" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/static/js/common.1.js" />
       <jump line="80" column="0" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/static/js/common.1.js" />
@@ -333,6 +345,9 @@
       <jump line="98" column="52" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/templates/etax/service/service.list.ftl" />
       <jump line="77" column="37" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/static/js/etax/service.list.1.js" />
       <jump line="84" column="12" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/static/js/etax/service.list.1.js" />
+      <jump line="217" column="25" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/MpOrderService.java" />
+      <jump line="64" column="53" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/MpOrderService.java" />
+      <jump line="225" column="30" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/MpOrderService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -342,40 +357,40 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>jkj,</text>
+        <text>.getOrderId()</text>
       </register>
       <register name="/" type="4">
         <text>已完成</text>
       </register>
       <register name="0" type="4">
-        <text>(isAudit || isAdmin)</text>
+        <text>AdminDeliveryUser</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoKGlzQXVkaXQgfHwgaXNBZG1pbikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgQWRtaW5EZWxpdmVyeVVzZXIgZGVsaXZlcnlVc2VyID0gbnVsbDsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gZml4bWUg5Y+R6YKu5Lu2CiAgICAgICAgICAgIGFzeW5jTWFpbFNlbmRlci5zZW5kKCIyMzU2NDE1MDU5QHFxLmNvbSIsICIyMzU2NDE1MDU5QHFxLmNvbSIsICLkuLvpopjvvJrmnI3liqHmjqXlj6Plj5jliqjpgJrnn6UiLCAiPGh0bWw+PGJvZHk+PHA+IiArIGNvbnRlbnQgKyAiPC9wPjwvYm9keT48L2h0bWw+IiwgdHJ1ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgdHJhY2VMaXN0ID0gb3JkZXJEZWxpdmVyeVRyYWNlTWFwcGVyLnNlbGVjdEJ5RXhhbXBsZSgKICAgICAgICAgICAgICAgIEV4YW1wbGUuYnVpbGRlcihPcmRlckRlbGl2ZXJ5VHJhY2UuY2xhc3MpLndoZXJlKFNxbHMuY3VzdG9tKCkuYW5kRXF1YWxUbygib3JkZXJJZCIsIHRpbWVsaW5lLmdldE9yZGVySWQoKSkpLm9yZGVyQnlEZXNjKCJjcmVhdGVBdCIpLmJ1aWxkKCkKICAgICAgICApOwogICAgICAgIExvbmcgZGVsaXZlcnlJZCA9IDBMOwogICAgICAgIGlmICh0cmFjZUxpc3Quc2l6ZSgpID4gMCkgewogICAgICAgICAgICBkZWxpdmVyeUlkID0gdHJhY2VMaXN0LmdldCgwKS5nZXREZWxpdmVyeUlkKCk7CiAgICAgICAgfQogICAgICAgIEFkbWluRGVsaXZlcnlVc2VyIGRlbGl2ZXJ5VXNlciA9IG51bGw7CiAgICAgICAgaWYgKGRlbGl2ZXJ5SWQgIT0gMCkgewogICAgICAgICAgICBkZWxpdmVyeVVzZXIgPSBkZWxpdmVyeVVzZXJNYXBwZXIuc2VsZWN0QnlQcmltYXJ5S2V5KGRlbGl2ZXJ5SWQpOwogICAgICAgIH0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzeXNNZXNzYWdlU2VydmljZS5zZW5kTm90aWZpY2F0aW9uKGdldFVzZXIoKSwgQ29uc3QuTVNHX1RZUEVfU0VSVklDRV9NT0QsIGluZm8pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoKGlzQXVkaXQgfHwgaXNBZG1pbikpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gZml4bWUg5Y+R6YKu5Lu2CiAgICAgICAgICAgIGFzeW5jTWFpbFNlbmRlci5zZW5kKCIyMzU2NDE1MDU5QHFxLmNvbSIsICIyMzU2NDE1MDU5QHFxLmNvbSIsICLkuLvpopjvvJrmnI3liqHmjqXlj6Plj5jliqjpgJrnn6UiLCAiPGh0bWw+PGJvZHk+PHA+IiArIGNvbnRlbnQgKyAiPC9wPjwvYm9keT48L2h0bWw+IiwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
