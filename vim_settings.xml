@@ -89,14 +89,28 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/templates/etax/service/service.list.ftl" timestamp="1562898572855">
-        <mark key="'" line="98" column="52" />
+      <file name="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/templates/etax/service/service.list.ftl" timestamp="1563167526665">
+        <mark key="'" line="125" column="40" />
       </file>
       <file name="$USER_HOME$/workspace/css/service-manager/admin/src/main/java/com/css/etax/srvmng/admin/mapper/SysMsgRelationMapper.java" timestamp="1562657102884">
         <mark key="[" line="9" column="70" />
         <mark key="]" line="9" column="70" />
         <mark key="^" line="9" column="66" />
         <mark key="." line="9" column="70" />
+      </file>
+      <file name="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/templates/etax/service/service.add.ftl" timestamp="1563167900755">
+        <mark key="'" line="74" column="58" />
+        <mark key="[" line="78" column="66" />
+        <mark key="]" line="78" column="67" />
+        <mark key="." line="78" column="67" />
+        <mark key="^" line="78" column="67" />
+      </file>
+      <file name="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/static/js/etax/service.add.1.js" timestamp="1563168573896">
+        <mark key="'" line="21" column="24" />
+        <mark key="[" line="261" column="0" />
+        <mark key="]" line="261" column="0" />
+        <mark key="^" line="262" column="76" />
+        <mark key="." line="261" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/css/service-manager/admin/src/main/java/com/css/etax/srvmng/admin/domain/SysMsgRelation.java" timestamp="1562743444106">
         <mark key="[" line="16" column="17" />
@@ -279,13 +293,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="19" filename="$USER_HOME$/workspace/css/service-manager/admin/pom.xml" />
-      <jump line="39" column="8" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/static/js/login.1.js" />
-      <jump line="143" column="10" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/static/js/common.1.js" />
-      <jump line="54" column="14" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/static/js/common.1.js" />
-      <jump line="29" column="8" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/src/main/java/com/xinsl/pegas/root/controller/WebSocketController.java" />
-      <jump line="67" column="7" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/java/com/css/etax/srvmng/admin/controller/ServiceInfoCtrl.java" />
-      <jump line="170" column="0" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/static/js/common.1.js" />
       <jump line="3" column="9" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/static/js/common.1.js" />
       <jump line="533" column="38" filename="$USER_HOME$/Desktop/AdminLTE-2.3.8/pages/UI/modals.html" />
       <jump line="48" column="37" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/java/com/css/etax/srvmng/admin/controller/SysMessageCtrl.java" />
@@ -379,6 +386,13 @@
       <jump line="69" column="57" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/templates/etax/common/common.macro.ftl" />
       <jump line="101" column="45" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/DeliveryAppService.java" />
       <jump line="231" column="14" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/withdraw/redpack/process/WithdrawService.java" />
+      <jump line="63" column="79" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/templates/etax/service/service.list.ftl" />
+      <jump line="124" column="41" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/templates/etax/service/service.list.ftl" />
+      <jump line="125" column="40" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/templates/etax/service/service.list.ftl" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/templates/etax/service/service.add.ftl" />
+      <jump line="54" column="66" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/templates/etax/service/service.add.ftl" />
+      <jump line="74" column="58" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/templates/etax/service/service.add.ftl" />
+      <jump line="21" column="24" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/static/js/etax/service.add.1.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -388,34 +402,34 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text>float</text>
+        <text>wzbmCode</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtb25leVw+</text>
+        <text>blur</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVyZSBvZHRyYWNlLnR5cGU9MiBhbmQgb2R0cmFjZS5zdGF0Jmx0OzMgYW5kIG9kdHJhY2UuZGVsRmxhZz0wIGFuZCBvZHRyYWNlLmRlbGl2ZXJ5SWQ9MAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iY29sLXNtLTEgY29udHJvbC1sYWJlbCI+57yW56CB5ZCO57yAPC9sYWJlbD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtb25leQo=</text>
+        <text encoding="base64">ICAgICAgICArICJfIiArCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aGVyZSBvZHRyYWNlLnR5cGU9MiBhbmQgb2R0cmFjZS5zdGF0Jmx0OzMgYW5kIG9kdHJhY2UuZGVsRmxhZz0wCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImZvcm0tY29udHJvbCIgaWQ9Ind6Ym1Db2RlIiBuYW1lPSJjb2RlIiByZWFkb25seT0idHJ1ZSI+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQWRtaW5EZWxpdmVyeVVzZXIgZGVsaXZlcnlVc2VyID0gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1zbS00Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgdHJhY2VMaXN0ID0gb3JkZXJEZWxpdmVyeVRyYWNlTWFwcGVyLnNlbGVjdEJ5RXhhbXBsZSgKICAgICAgICAgICAgICAgIEV4YW1wbGUuYnVpbGRlcihPcmRlckRlbGl2ZXJ5VHJhY2UuY2xhc3MpLndoZXJlKFNxbHMuY3VzdG9tKCkuYW5kRXF1YWxUbygib3JkZXJJZCIsIHRpbWVsaW5lLmdldE9yZGVySWQoKSkpLm9yZGVyQnlEZXNjKCJjcmVhdGVBdCIpLmJ1aWxkKCkKICAgICAgICApOwogICAgICAgIExvbmcgZGVsaXZlcnlJZCA9IDBMOwogICAgICAgIGlmICh0cmFjZUxpc3Quc2l6ZSgpID4gMCkgewogICAgICAgICAgICBkZWxpdmVyeUlkID0gdHJhY2VMaXN0LmdldCgwKS5nZXREZWxpdmVyeUlkKCk7CiAgICAgICAgfQogICAgICAgIEFkbWluRGVsaXZlcnlVc2VyIGRlbGl2ZXJ5VXNlciA9IG51bGw7CiAgICAgICAgaWYgKGRlbGl2ZXJ5SWQgIT0gMCkgewogICAgICAgICAgICBkZWxpdmVyeVVzZXIgPSBkZWxpdmVyeVVzZXJNYXBwZXIuc2VsZWN0QnlQcmltYXJ5S2V5KGRlbGl2ZXJ5SWQpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC1zbS00Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImZvcm0tY29udHJvbCIgaWQ9ImZ3Ym1Db2RlIiBuYW1lPSJmd2JtQ29kZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9Iiog5pyN5Yqh57yW56CB5ZCO57yA5b+F5aGrIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYXhsZW5ndGg9IjEwMCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIGlkPSJ3emJtQ29kZSIgbmFtZT0iY29kZSIgcmVhZG9ubHk9InRydWUiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0idGV4dCIgY2xhc3M9ImZvcm0tY29udHJvbCIgaWQ9ImZ3Ym1Db2RlIiBuYW1lPSJmd2JtQ29kZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcGxhY2Vob2xkZXI9Iiog5pyN5Yqh57yW56CB5ZCO57yA5b+F5aGrIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBtYXhsZW5ndGg9IjEwMCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIGNsYXNzPSJmb3JtLWNvbnRyb2wiIGlkPSJ3emJtQ29kZSIgbmFtZT0iY29kZSIgcmVhZG9ubHk9InRydWUiPgo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -424,16 +438,16 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgYWxlcnQoKGlzQXVkaXQgfHwgaXNBZG1pbikpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtb25leVw+</last-search>
+      <last-search>blur</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtb25leVw+</last-pattern>
+      <last-pattern>blur</last-pattern>
       <last-replace>logs</last-replace>
       <last-substitute>groups</last-substitute>
       <last-dir>1</last-dir>
@@ -441,9 +455,6 @@
     </search>
     <history>
       <history-search>
-        <entry>web</entry>
-        <entry encoding="base64">XDxtZXNzYWdpbmdUZW1wbGF0ZVw+</entry>
-        <entry encoding="base64">XDxyZWFkTXNnXD4=</entry>
         <entry>close</entry>
         <entry encoding="base64">XDxkYXRhdHlwZV9saXN0XD4=</entry>
         <entry>datatype</entry>
@@ -461,6 +472,9 @@
         <entry>通过</entry>
         <entry>已完成</entry>
         <entry encoding="base64">XDxtb25leVw+</entry>
+        <entry>服务编码</entry>
+        <entry>blue</entry>
+        <entry>blur</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL1N0cmVldC9QaG9uZS9n</entry>
