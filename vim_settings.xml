@@ -77,12 +77,12 @@
         <mark key="[" line="217" column="0" />
         <mark key="]" line="217" column="88" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/DeliveryAppService.java" timestamp="1563154676340">
-        <mark key="'" line="40" column="5" />
-        <mark key="[" line="118" column="35" />
-        <mark key="]" line="118" column="50" />
-        <mark key="^" line="118" column="50" />
-        <mark key="." line="118" column="50" />
+      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/DeliveryAppService.java" timestamp="1563158559287">
+        <mark key="'" line="101" column="45" />
+        <mark key="[" line="278" column="8" />
+        <mark key="]" line="278" column="12" />
+        <mark key="^" line="278" column="12" />
+        <mark key="." line="278" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/templates/etax/datatype/datatype.list.ftl" timestamp="1562571581985">
         <mark key="[" line="34" column="0" />
@@ -139,7 +139,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1563155419321">
+      <file name="/Dummy.txt" timestamp="1563158575088">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/templates/etax/service/service.list.ftl" timestamp="1562898572855">
@@ -267,7 +267,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="0" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/static/js/common.1.js" />
       <jump line="30" column="39" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/static/js/common.1.js" />
       <jump line="39" column="19" filename="$USER_HOME$/workspace/css/service-manager/admin/pom.xml" />
       <jump line="39" column="8" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/static/js/login.1.js" />
@@ -367,6 +366,7 @@
       <jump line="282" column="7" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/DeliveryAppService.java" />
       <jump line="42" column="5" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/DeliveryAppService.java" />
       <jump line="69" column="57" filename="$USER_HOME$/workspace/css/service-manager/admin/src/main/resources/templates/etax/common/common.macro.ftl" />
+      <jump line="101" column="45" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-node/src/main/java/com/xinsl/pegas/node/service/DeliveryAppService.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -376,7 +376,7 @@
         <text>''</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>float</text>
       </register>
       <register name="/" type="4">
         <text>已完成</text>
