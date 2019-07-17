@@ -166,6 +166,12 @@
       <file name="$USER_HOME$/Desktop/AdminLTE-2.3.8/pages/charts/inline.html" timestamp="1563264858466">
         <mark key="'" line="20" column="37" />
       </file>
+      <file name="$USER_HOME$/workspace/pegas/pegas-web-tools/src/main/java/com/xinsl/pegas/tools/NginxErrorLog.java" timestamp="1563327488514">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="60" column="13" />
+        <mark key="^" line="57" column="40" />
+        <mark key="." line="57" column="40" />
+      </file>
       <file name="$USER_HOME$/workspace/css/service-manager/admin/src/main/java/com/css/etax/srvmng/admin/service/AsyncMailSender.java" timestamp="1562826399583">
         <mark key="'" line="51" column="14" />
         <mark key="[" line="51" column="0" />
@@ -466,8 +472,8 @@
       <register name="/" type="4">
         <text>ajax</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">dXBkYXRlIGFkbWluX2RlbGl2ZXJ5X3VzZXIgc2V0IG9ubGluZT0wIHdoZXJlIHVwZGF0ZUF0IDw9IERBVEVfQUREKCBub3coKSwgSU5URVJWQUwgLSAxMCBNSU5VVEUgKQ==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYm9vbGVhbiBwaHBTQiA9IGxpbmUuY29udGFpbnMoInBocD8iKSB8fCBsaW5lLmNvbnRhaW5zKCJpbmRleFxcLnBocCIpIHx8IGxpbmUuY29udGFpbnMoInBocG15YWRtaW4iKSB8fCBsaW5lLmNvbnRhaW5zKCJzY3JpcHRzL3NldHVwLnBocCIpOwogICAgICAgICAgICBib29sZWFuIHNiUm9ib3RzID0gbGluZS5jb250YWlucygicm9ib3RzIik7CiAgICAgICAgICAgIGJvb2xlYW4gc2JFeGVjdXRlID0gbGluZS5jb250YWlucygic3BtPSIpICYmIGxpbmUuY29udGFpbnMoInNhcyIpOwogICAgICAgICAgICBib29sZWFuIHNiSHRtbCA9IGxpbmUuY29udGFpbnMoIm1hbmFnZXIvaHRtbCIpOwoKICAgICAgICAgICAgYm9vbGVhbiBub3RNeVNlbGYgPSAhbGluZS5jb250YWlucygiNTkuNDYuNDguMjIiKTsKCiAgICAgICAgICAgIGlmIChzYlJvYm90cyB8fCBwaHBTQiB8fCBzYkV4ZWN1dGUgfHwgc2JIdG1sKSB7CiAgICAgICAgICAgICAgICBNYXRjaGVyIG0gPSBwLm1hdGNoZXIobGluZSk7CiAgICAgICAgICAgICAgICBpZiAobS5maW5kKCkgJiYgbm90TXlTZWxmKSB7CiAgICAgICAgICAgICAgICAgICAgc2JJcHMuYWRkKG0uZ3JvdXAoMSkpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICA7Cg==</text>
@@ -510,7 +516,7 @@
       <last-replace>createCell</last-replace>
       <last-substitute>getCell</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
