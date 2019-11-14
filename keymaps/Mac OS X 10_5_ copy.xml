@@ -100,6 +100,9 @@
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="ctrl m" />
   </action>
+  <action id="JShell.Console">
+    <keyboard-shortcut first-keystroke="shift meta j" />
+  </action>
   <action id="MergeSettings">
     <keyboard-shortcut first-keystroke="shift meta alt s" />
   </action>
