@@ -3,6 +3,7 @@
     <keyboard-shortcut first-keystroke="ctrl meta u" />
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
+  <action id="ActivateFavoritesToolWindow" />
   <action id="ActivateMavenProjectsToolWindow">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
@@ -10,7 +11,7 @@
     <keyboard-shortcut first-keystroke="meta 5" />
   </action>
   <action id="ActivateServicesToolWindow">
-    <keyboard-shortcut first-keystroke="meta 5" />
+    <keyboard-shortcut first-keystroke="meta 2" />
   </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="meta open_bracket" />
@@ -34,6 +35,7 @@
     <keyboard-shortcut first-keystroke="meta d" />
     <keyboard-shortcut first-keystroke="ctrl d" />
   </action>
+  <action id="DuplicatesForm.SendToRight" />
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
@@ -64,6 +66,7 @@
     <keyboard-shortcut first-keystroke="add" />
     <keyboard-shortcut first-keystroke="1" />
   </action>
+  <action id="FileChooser.GotoProject" />
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="meta f12" />
     <keyboard-shortcut first-keystroke="ctrl o" />
