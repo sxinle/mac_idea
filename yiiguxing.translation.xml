@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Sets this Calendar's time with the given &lt;code&gt;Date&lt;/code&gt;. &lt;p&gt; Note: Calling &lt;code&gt;setTime()&lt;/code&gt; with &lt;code&gt;Date(Long.MAX_VALUE)&lt;/code&gt; or &lt;code&gt;Date(Long.MIN_VALUE)&lt;/code&gt; may yield incorrect field values from &lt;code&gt;get()&lt;/code&gt;." />
+      <item value="* Sets this Calendar's time with the given &lt;code&gt;Date&lt;/code&gt;. * &lt;p&gt; * Note: Calling &lt;code&gt;setTime()&lt;/code&gt; with * &lt;code&gt;Date(Long.MAX_VALUE)&lt;/code&gt; or &lt;code&gt;Date(Long.MIN_VALUE)&lt;/code&gt; * may yield incorrect field values from &lt;code&gt;get()&lt;/code&gt;." />
       <item value="redis" />
       <item value="scratchpad" />
       <item value="Marquee" />
@@ -49,13 +51,11 @@
       <item value="negtive" />
       <item value="handle" />
       <item value="is Fritting" />
-      <item value="enterprise Info" />
-      <item value="enterprize Info" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="359" />
-        <entry key="ENGLISH" value="341" />
+        <entry key="CHINESE" value="361" />
+        <entry key="ENGLISH" value="343" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="PORTUGUESE" value="4" />
