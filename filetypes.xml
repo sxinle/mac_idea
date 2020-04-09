@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="VoTemplate" type="PLAIN_TEXT" />
       <mapping pattern=".history" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="globalConf" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
