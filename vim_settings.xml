@@ -30,7 +30,6 @@
         <entry encoding="base64">XDxzcWxDb21tYW5kVHlwZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>actionlist</entry>
         <entry>help license</entry>
         <entry>help actionlist</entry>
         <entry encoding="base64">JzwsJz5zL15cc1wrJC8vZw==</entry>
@@ -50,6 +49,7 @@
         <entry>showcmd</entry>
         <entry>set ideastatusicon=gray</entry>
         <entry>set ideastatusicon=disabled</entry>
+        <entry>set ideastatusbar=false</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -369,7 +369,7 @@
       <last-replace>from</last-replace>
       <last-substitute>ds</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
   </component>
   <component name="VimSettings">
