@@ -8,7 +8,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>logging</entry>
         <entry>level</entry>
         <entry>config</entry>
         <entry>location</entry>
@@ -28,12 +27,9 @@
         <entry>list</entry>
         <entry encoding="base64">XDxwYXJhbWV0ZXJNYXBcPg==</entry>
         <entry encoding="base64">XDxTUUxfUEFSU0VSX0lORk9fQ0FDSEVcPg==</entry>
+        <entry encoding="base64">XDxzcWxDb21tYW5kVHlwZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>Actions</entry>
-        <entry>ActionList</entry>
-        <entry>r actionlist</entry>
-        <entry>action AceAction</entry>
         <entry>actionlist</entry>
         <entry>help license</entry>
         <entry>help actionlist</entry>
@@ -50,6 +46,10 @@
         <entry>w</entry>
         <entry>buffers</entry>
         <entry>files</entry>
+        <entry>source ~/.ideavimrc</entry>
+        <entry>showcmd</entry>
+        <entry>set ideastatusicon=gray</entry>
+        <entry>set ideastatusicon=disabled</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -162,8 +162,8 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="319" column="3198" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/java/com/syzh/tmpl/common/config/MybatisInterceptor.java" timestamp="1587112383780">
-        <mark key="'" line="98" column="0" />
+      <file name="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/java/com/syzh/tmpl/common/config/MybatisInterceptor.java" timestamp="1587114029064">
+        <mark key="'" line="29" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/springboot/jeecg-boot/jeecg-boot/jeecg-boot-module-system/src/main/java/org/jeecg/modules/system/service/impl/SysPermissionServiceImpl.java" timestamp="1587087923699">
         <mark key="'" line="166" column="32" />
@@ -189,8 +189,11 @@
       <file name="$USER_HOME$/workspace/shangyuan/springboot/jeecg-boot/jeecg-boot/jeecg-boot-base-common/src/main/java/org/jeecg/common/system/query/QueryGenerator.java" timestamp="1587088712448">
         <mark key="'" line="88" column="104" />
       </file>
-      <file name="/TABLE_MATCH_PAIR [jdbc:h2:tcp://localhost:9092/./DCT]" timestamp="1587010457835">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/.ideaLibSources/mybatis-3.5.4-sources.jar!/org/apache/ibatis/plugin/Interceptor.java" timestamp="1587114017684">
+        <mark key="[" line="27" column="20" />
+        <mark key="]" line="27" column="20" />
+        <mark key="^" line="27" column="20" />
+        <mark key="." line="27" column="19" />
       </file>
       <file name="/dummy.sql" timestamp="1587010458678">
         <mark key="[" line="0" column="0" />
@@ -201,9 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="27" filename="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/resources/logback-spring.xml" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/resources/logback-spring.xml" />
-      <jump line="94" column="0" filename="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/resources/logback-spring.xml" />
       <jump line="43" column="31" filename="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/resources/application.yml" />
       <jump line="24" column="24" filename="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/resources/application.yml" />
       <jump line="52" column="4" filename="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/resources/application.yml" />
@@ -301,6 +301,9 @@
       <jump line="73" column="20" filename="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/java/com/syzh/tmpl/common/config/MybatisInterceptor.java" />
       <jump line="37" column="0" filename="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/java/com/syzh/tmpl/common/config/MybatisInterceptor.java" />
       <jump line="98" column="0" filename="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/java/com/syzh/tmpl/common/config/MybatisInterceptor.java" />
+      <jump line="55" column="12" filename="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/java/com/syzh/tmpl/common/config/MybatisInterceptor.java" />
+      <jump line="34" column="12" filename="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/java/com/syzh/tmpl/common/config/MybatisInterceptor.java" />
+      <jump line="29" column="49" filename="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/java/com/syzh/tmpl/common/config/MybatisInterceptor.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -315,7 +318,7 @@
         <text>8</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTUUxfUEFSU0VSX0lORk9fQ0FDSEVcPg==</text>
+        <text encoding="base64">XDxzcWxDb21tYW5kVHlwZVw+</text>
       </register>
       <register name="0" type="4">
         <text>r set index '255' received from server. Initial client character set can be forced via the 'characterEncoding' property.</text>
@@ -354,15 +357,15 @@
         <text>B</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>set ideastatusicon=disabled</text>
       </register>
     </registers>
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxTUUxfUEFSU0VSX0lORk9fQ0FDSEVcPg==</last-search>
+      <last-search encoding="base64">XDxzcWxDb21tYW5kVHlwZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTUUxfUEFSU0VSX0lORk9fQ0FDSEVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzcWxDb21tYW5kVHlwZVw+</last-pattern>
       <last-replace>from</last-replace>
       <last-substitute>ds</last-substitute>
       <last-dir>1</last-dir>
