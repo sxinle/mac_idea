@@ -42,7 +42,6 @@
         <entry encoding="base64">JzwsJz5zL2RzL2Zyb20vZw==</entry>
         <entry>noh</entry>
         <entry>action $Redo</entry>
-        <entry>w</entry>
         <entry>buffers</entry>
         <entry>files</entry>
         <entry>source ~/.ideavimrc</entry>
@@ -50,6 +49,7 @@
         <entry>set ideastatusicon=gray</entry>
         <entry>set ideastatusicon=disabled</entry>
         <entry>set ideastatusbar=false</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -162,10 +162,14 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="319" column="3198" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/java/com/syzh/tmpl/common/config/MybatisInterceptor.java" timestamp="1587114029064">
-        <mark key="'" line="29" column="49" />
+      <file name="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/java/com/syzh/tmpl/common/config/MybatisInterceptor.java" timestamp="1587342998541">
+        <mark key="'" line="85" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/demo/ideavim/src/icons/VimIcons.java" timestamp="1587116916128" />
+      <file name="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/resources/initdb.sql" timestamp="1587343268350">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="91" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/shangyuan/springboot/jeecg-boot/jeecg-boot/jeecg-boot-module-system/src/main/java/org/jeecg/modules/system/service/impl/SysPermissionServiceImpl.java" timestamp="1587087923699">
         <mark key="'" line="166" column="32" />
       </file>
@@ -205,9 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="43" column="31" filename="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/resources/application.yml" />
-      <jump line="24" column="24" filename="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/resources/application.yml" />
-      <jump line="52" column="4" filename="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/resources/application.yml" />
       <jump line="3" column="26" filename="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/resources/logback-spring.xml" />
       <jump line="30" column="48" filename="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/resources/application.yml" />
       <jump line="1" column="6" filename="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/resources/application-prod.yml" />
@@ -302,9 +303,12 @@
       <jump line="73" column="20" filename="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/java/com/syzh/tmpl/common/config/MybatisInterceptor.java" />
       <jump line="37" column="0" filename="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/java/com/syzh/tmpl/common/config/MybatisInterceptor.java" />
       <jump line="98" column="0" filename="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/java/com/syzh/tmpl/common/config/MybatisInterceptor.java" />
-      <jump line="55" column="12" filename="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/java/com/syzh/tmpl/common/config/MybatisInterceptor.java" />
       <jump line="34" column="12" filename="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/java/com/syzh/tmpl/common/config/MybatisInterceptor.java" />
       <jump line="29" column="49" filename="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/java/com/syzh/tmpl/common/config/MybatisInterceptor.java" />
+      <jump line="55" column="53" filename="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/java/com/syzh/tmpl/common/config/MybatisInterceptor.java" />
+      <jump line="85" column="8" filename="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/java/com/syzh/tmpl/common/config/MybatisInterceptor.java" />
+      <jump line="18" column="22" filename="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/resources/initdb.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/resources/initdb.sql" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -313,7 +317,7 @@
         <text>\基本废物......\</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgIEBTcWxQYXJzZXIoZmlsdGVyID0gdHJ1ZSkK</text>
+        <text encoding="base64">LS0KLS0gUG9zdGdyZVNRTCBkYXRhYmFzZSBkdW1wCi0tCgotLSBEdW1wZWQgZnJvbSBkYXRhYmFzZSB2ZXJzaW9uIDEyLjIKLS0gRHVtcGVkIGJ5IHBnX2R1bXAgdmVyc2lvbiAxMi4yCgotLSBTdGFydGVkIG9uIDIwMjAtMDQtMTAgMTk6MDU6NDUgQ1NUCgpTRVQgc3RhdGVtZW50X3RpbWVvdXQgPSAwOwpTRVQgbG9ja190aW1lb3V0ID0gMDsKU0VUIGlkbGVfaW5fdHJhbnNhY3Rpb25fc2Vzc2lvbl90aW1lb3V0ID0gMDsKU0VUIGNsaWVudF9lbmNvZGluZyA9ICdVVEY4JzsKU0VUIHN0YW5kYXJkX2NvbmZvcm1pbmdfc3RyaW5ncyA9IG9uOwpTRUxFQ1QgcGdfY2F0YWxvZy5zZXRfY29uZmlnKCdzZWFyY2hfcGF0aCcsICcnLCBmYWxzZSk7ClNFVCBjaGVja19mdW5jdGlvbl9ib2RpZXMgPSBmYWxzZTsKU0VUIHhtbG9wdGlvbiA9IGNvbnRlbnQ7ClNFVCBjbGllbnRfbWluX21lc3NhZ2VzID0gd2FybmluZzsKU0VUIHJvd19zZWN1cml0eSA9IG9mZjsKClNFVCBkZWZhdWx0X3RhYmxlc3BhY2UgPSAnJzsKClNFVCBkZWZhdWx0X3RhYmxlX2FjY2Vzc19tZXRob2QgPSBoZWFwOwoKLS0KLS0gVE9DIGVudHJ5IDIwMiAoY2xhc3MgMTI1OSBPSUQgMjcyNzUpCi0tIE5hbWU6IHRfdXNlcjsgVHlwZTogVEFCTEU7IFNjaGVtYTogcHVibGljOyBPd25lcjogcG9zdGdyZXMKLS0KCkNSRUFURSBUQUJMRSBwdWJsaWMudF91c2VyICgKICAgIGlkIGNoYXJhY3RlciB2YXJ5aW5nKDEyOCkgTk9UIE5VTEwsCiAgICB1c2VyX25hbWUgY2hhcmFjdGVyIHZhcnlpbmcoNjQpLAogICAgcGhvbmVfbnVtYmVyIGNoYXJhY3RlciB2YXJ5aW5nKDY0KSwKICAgIGNyZWF0ZV9hdCB0aW1lc3RhbXAoMCkgd2l0aG91dCB0aW1lIHpvbmUsCiAgICB1cGRhdGVfYXQgdGltZXN0YW1wKDApIHdpdGhvdXQgdGltZSB6b25lCik7CgoKQUxURVIgVEFCTEUgcHVibGljLnRfdXNlciBPV05FUiBUTyBwb3N0Z3JlczsKCi0tCi0tIFRPQyBlbnRyeSAzMTg1IChjbGFzcyAwIE9JRCAyNzI3NSkKLS0gRGVwZW5kZW5jaWVzOiAyMDIKLS0gRGF0YSBmb3IgTmFtZTogdF91c2VyOyBUeXBlOiBUQUJMRSBEQVRBOyBTY2hlbWE6IHB1YmxpYzsgT3duZXI6IHBvc3RncmVzCi0tCgpDT1BZIHB1YmxpYy50X3VzZXIgKGlkLCB1c2VyX25hbWUsIHBob25lX251bWJlciwgY3JlYXRlX2F0LCB1cGRhdGVfYXQpIEZST00gc3RkaW47CjEyNDg1NDMzODQ0MTU1MjY5MTMJCQkyMDIwLTA0LTEwIDE3OjI4OjM0CVxOCjEyNDg1NDMzODkxNjc2NzMzNDUJCQkyMDIwLTA0LTEwIDE3OjI4OjM1CVxOCjEyNDg1NDMzOTMxMTAzMTkxMDYJCQkyMDIwLTA0LTEwIDE3OjI4OjM2CVxOCjEyNDg1NDM0NDM3NDM5NTY5OTQJCQkyMDIwLTA0LTEwIDE3OjI4OjQ4CVxOCjEyNDg1NDM2NTcwOTk4MTI4NjYJCQkyMDIwLTA0LTEwIDE3OjI5OjM5CVxOCjEyNDg1NDM3NTA2MTYwMTQ4NDkJCQkyMDIwLTA0LTEwIDE3OjMwOjAyCVxOCjEyNDg1NDM4MDk4OTgzMDc1ODYJCQkyMDIwLTA0LTEwIDE3OjMwOjE2CVxOCjEyNDg1NDM4NDA5NTcxMjg3MDYJCQkyMDIwLTA0LTEwIDE3OjMwOjIzCVxOCjEyNDg1NDM5MTEwNTY1MzE0NTgJCQkyMDIwLTA0LTEwIDE3OjMwOjQwCVxOCjEyNDg1NDM5NTM2OTE2MzE2MTcJCQkyMDIwLTA0LTEwIDE3OjMwOjUwCVxOCjEyNDg1NDQwNDExNTU0NTI5MjkJCQkyMDIwLTA0LTEwIDE3OjMxOjExCVxOCjEyNDg1NDYwMjE0NTAwMTg4MTgJCQkyMDIwLTA0LTEwIDE3OjM5OjAzCVxOCjEyNDg1NDY0NjA5MDQwMjYxMTQJCQkyMDIwLTA0LTEwIDE3OjQwOjQ4CVxOCjEyNDg1NDY0Njk2MjgxNzg0MzMJCQkyMDIwLTA0LTEwIDE3OjQwOjUwCVxOCjEyNDg1NTM5MjE1NjQyMDkxNTMJCQkyMDIwLTA0LTEwIDE4OjEwOjI3CVxOCjEyNDg1NTM5MzUwODY2NDUyNTAJCQkyMDIwLTA0LTEwIDE4OjEwOjMwCVxOCjEyNDg1NTQ5MzI5NjYwOTI4MDEJCQkyMDIwLTA0LTEwIDE4OjE0OjI4CVxOCjEyNDg1NTQ5MzUwMjU0OTYwNjYJCQkyMDIwLTA0LTEwIDE4OjE0OjI4CVxOCjEyNDg1NTUwODMzMjc2OTY4OTcJCQkyMDIwLTA0LTEwIDE4OjE1OjA0CVxOCjEyNDg1NTUxMDU2MzMwMDU1NjkJCQkyMDIwLTA0LTEwIDE4OjE1OjA5CVxOCjEyNDg1NTUxMjIzNzI0NzI4MzQJCQkyMDIwLTA0LTEwIDE4OjE1OjEzCVxOCjEyNDg1NTk5Mzc5ODcwOTY1NzgJMgkxCTIwMjAtMDQtMTAgMTg6MzQ6MjEJXE4KMTI0ODU2NTA5MjkxMjQ2Mzg3MwkyCTEJMjAyMC0wNC0xMCAxODo1NDo1MAlcTgoxMjQ4NTY1MTIxOTk5OTYyMTE0CQkJMjAyMC0wNC0xMCAxODo1NDo1NwlcTgoxMjQ4NTY1OTc2NzI3ODE4MjQyCQkJMjAyMC0wNC0xMCAxODo1ODoyMQlcTgoxMjQ4NTY2MzY0OTU2NzkwNzg2CQkJMjAyMC0wNC0xMCAxODo1OTo1MwlcTgoxMjQ4NTY2ODUwNzcwNDQwMTk0CQkJMjAyMC0wNC0xMCAxOTowMTo0OQlcTgpcLgoKCi0tCi0tIFRPQyBlbnRyeSAzMDU4IChjbGFzcyAyNjA2IE9JRCAyNzI3OSkKLS0gTmFtZTogdF91c2VyIHRfdXNlcl9wa2V5OyBUeXBlOiBDT05TVFJBSU5UOyBTY2hlbWE6IHB1YmxpYzsgT3duZXI6IHBvc3RncmVzCi0tCgpBTFRFUiBUQUJMRSBPTkxZIHB1YmxpYy50X3VzZXIKICAgIEFERCBDT05TVFJBSU5UIHRfdXNlcl9wa2V5IFBSSU1BUlkgS0VZIChpZCk7CgoKLS0gQ29tcGxldGVkIG9uIDIwMjAtMDQtMTAgMTk6MDU6NDUgQ1NUCgotLQotLSBQb3N0Z3JlU1FMIGRhdGFiYXNlIGR1bXAgY29tcGxldGUKLS0KCg==</text>
       </register>
       <register name="-" type="4">
         <text>8</text>
@@ -321,8 +325,8 @@
       <register name="/" type="4">
         <text encoding="base64">XDxzcWxDb21tYW5kVHlwZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text>r set index '255' received from server. Initial client character set can be forced via the 'characterEncoding' property.</text>
+      <register name="0" type="2">
+        <text encoding="base64">LS0KLS0gUG9zdGdyZVNRTCBkYXRhYmFzZSBkdW1wCi0tCgotLSBEdW1wZWQgZnJvbSBkYXRhYmFzZSB2ZXJzaW9uIDEyLjIKLS0gRHVtcGVkIGJ5IHBnX2R1bXAgdmVyc2lvbiAxMi4yCgotLSBTdGFydGVkIG9uIDIwMjAtMDQtMTAgMTk6MDU6NDUgQ1NUCgpTRVQgc3RhdGVtZW50X3RpbWVvdXQgPSAwOwpTRVQgbG9ja190aW1lb3V0ID0gMDsKU0VUIGlkbGVfaW5fdHJhbnNhY3Rpb25fc2Vzc2lvbl90aW1lb3V0ID0gMDsKU0VUIGNsaWVudF9lbmNvZGluZyA9ICdVVEY4JzsKU0VUIHN0YW5kYXJkX2NvbmZvcm1pbmdfc3RyaW5ncyA9IG9uOwpTRUxFQ1QgcGdfY2F0YWxvZy5zZXRfY29uZmlnKCdzZWFyY2hfcGF0aCcsICcnLCBmYWxzZSk7ClNFVCBjaGVja19mdW5jdGlvbl9ib2RpZXMgPSBmYWxzZTsKU0VUIHhtbG9wdGlvbiA9IGNvbnRlbnQ7ClNFVCBjbGllbnRfbWluX21lc3NhZ2VzID0gd2FybmluZzsKU0VUIHJvd19zZWN1cml0eSA9IG9mZjsKClNFVCBkZWZhdWx0X3RhYmxlc3BhY2UgPSAnJzsKClNFVCBkZWZhdWx0X3RhYmxlX2FjY2Vzc19tZXRob2QgPSBoZWFwOwoKLS0KLS0gVE9DIGVudHJ5IDIwMiAoY2xhc3MgMTI1OSBPSUQgMjcyNzUpCi0tIE5hbWU6IHRfdXNlcjsgVHlwZTogVEFCTEU7IFNjaGVtYTogcHVibGljOyBPd25lcjogcG9zdGdyZXMKLS0KCkNSRUFURSBUQUJMRSBwdWJsaWMudF91c2VyICgKICAgIGlkIGNoYXJhY3RlciB2YXJ5aW5nKDEyOCkgTk9UIE5VTEwsCiAgICB1c2VyX25hbWUgY2hhcmFjdGVyIHZhcnlpbmcoNjQpLAogICAgcGhvbmVfbnVtYmVyIGNoYXJhY3RlciB2YXJ5aW5nKDY0KSwKICAgIGNyZWF0ZV9hdCB0aW1lc3RhbXAoMCkgd2l0aG91dCB0aW1lIHpvbmUsCiAgICB1cGRhdGVfYXQgdGltZXN0YW1wKDApIHdpdGhvdXQgdGltZSB6b25lCik7CgoKQUxURVIgVEFCTEUgcHVibGljLnRfdXNlciBPV05FUiBUTyBwb3N0Z3JlczsKCi0tCi0tIFRPQyBlbnRyeSAzMTg1IChjbGFzcyAwIE9JRCAyNzI3NSkKLS0gRGVwZW5kZW5jaWVzOiAyMDIKLS0gRGF0YSBmb3IgTmFtZTogdF91c2VyOyBUeXBlOiBUQUJMRSBEQVRBOyBTY2hlbWE6IHB1YmxpYzsgT3duZXI6IHBvc3RncmVzCi0tCgpDT1BZIHB1YmxpYy50X3VzZXIgKGlkLCB1c2VyX25hbWUsIHBob25lX251bWJlciwgY3JlYXRlX2F0LCB1cGRhdGVfYXQpIEZST00gc3RkaW47CjEyNDg1NDMzODQ0MTU1MjY5MTMJCQkyMDIwLTA0LTEwIDE3OjI4OjM0CVxOCjEyNDg1NDMzODkxNjc2NzMzNDUJCQkyMDIwLTA0LTEwIDE3OjI4OjM1CVxOCjEyNDg1NDMzOTMxMTAzMTkxMDYJCQkyMDIwLTA0LTEwIDE3OjI4OjM2CVxOCjEyNDg1NDM0NDM3NDM5NTY5OTQJCQkyMDIwLTA0LTEwIDE3OjI4OjQ4CVxOCjEyNDg1NDM2NTcwOTk4MTI4NjYJCQkyMDIwLTA0LTEwIDE3OjI5OjM5CVxOCjEyNDg1NDM3NTA2MTYwMTQ4NDkJCQkyMDIwLTA0LTEwIDE3OjMwOjAyCVxOCjEyNDg1NDM4MDk4OTgzMDc1ODYJCQkyMDIwLTA0LTEwIDE3OjMwOjE2CVxOCjEyNDg1NDM4NDA5NTcxMjg3MDYJCQkyMDIwLTA0LTEwIDE3OjMwOjIzCVxOCjEyNDg1NDM5MTEwNTY1MzE0NTgJCQkyMDIwLTA0LTEwIDE3OjMwOjQwCVxOCjEyNDg1NDM5NTM2OTE2MzE2MTcJCQkyMDIwLTA0LTEwIDE3OjMwOjUwCVxOCjEyNDg1NDQwNDExNTU0NTI5MjkJCQkyMDIwLTA0LTEwIDE3OjMxOjExCVxOCjEyNDg1NDYwMjE0NTAwMTg4MTgJCQkyMDIwLTA0LTEwIDE3OjM5OjAzCVxOCjEyNDg1NDY0NjA5MDQwMjYxMTQJCQkyMDIwLTA0LTEwIDE3OjQwOjQ4CVxOCjEyNDg1NDY0Njk2MjgxNzg0MzMJCQkyMDIwLTA0LTEwIDE3OjQwOjUwCVxOCjEyNDg1NTM5MjE1NjQyMDkxNTMJCQkyMDIwLTA0LTEwIDE4OjEwOjI3CVxOCjEyNDg1NTM5MzUwODY2NDUyNTAJCQkyMDIwLTA0LTEwIDE4OjEwOjMwCVxOCjEyNDg1NTQ5MzI5NjYwOTI4MDEJCQkyMDIwLTA0LTEwIDE4OjE0OjI4CVxOCjEyNDg1NTQ5MzUwMjU0OTYwNjYJCQkyMDIwLTA0LTEwIDE4OjE0OjI4CVxOCjEyNDg1NTUwODMzMjc2OTY4OTcJCQkyMDIwLTA0LTEwIDE4OjE1OjA0CVxOCjEyNDg1NTUxMDU2MzMwMDU1NjkJCQkyMDIwLTA0LTEwIDE4OjE1OjA5CVxOCjEyNDg1NTUxMjIzNzI0NzI4MzQJCQkyMDIwLTA0LTEwIDE4OjE1OjEzCVxOCjEyNDg1NTk5Mzc5ODcwOTY1NzgJMgkxCTIwMjAtMDQtMTAgMTg6MzQ6MjEJXE4KMTI0ODU2NTA5MjkxMjQ2Mzg3MwkyCTEJMjAyMC0wNC0xMCAxODo1NDo1MAlcTgoxMjQ4NTY1MTIxOTk5OTYyMTE0CQkJMjAyMC0wNC0xMCAxODo1NDo1NwlcTgoxMjQ4NTY1OTc2NzI3ODE4MjQyCQkJMjAyMC0wNC0xMCAxODo1ODoyMQlcTgoxMjQ4NTY2MzY0OTU2NzkwNzg2CQkJMjAyMC0wNC0xMCAxODo1OTo1MwlcTgoxMjQ4NTY2ODUwNzcwNDQwMTk0CQkJMjAyMC0wNC0xMCAxOTowMTo0OQlcTgpcLgoKCi0tCi0tIFRPQyBlbnRyeSAzMDU4IChjbGFzcyAyNjA2IE9JRCAyNzI3OSkKLS0gTmFtZTogdF91c2VyIHRfdXNlcl9wa2V5OyBUeXBlOiBDT05TVFJBSU5UOyBTY2hlbWE6IHB1YmxpYzsgT3duZXI6IHBvc3RncmVzCi0tCgpBTFRFUiBUQUJMRSBPTkxZIHB1YmxpYy50X3VzZXIKICAgIEFERCBDT05TVFJBSU5UIHRfdXNlcl9wa2V5IFBSSU1BUlkgS0VZIChpZCk7CgoKLS0gQ29tcGxldGVkIG9uIDIwMjAtMDQtMTAgMTk6MDU6NDUgQ1NUCgotLQotLSBQb3N0Z3JlU1FMIGRhdGFiYXNlIGR1bXAgY29tcGxldGUKLS0KCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIEBTcWxQYXJzZXIoZmlsdGVyID0gdHJ1ZSkK</text>
@@ -358,7 +362,7 @@
         <text>B</text>
       </register>
       <register name=":" type="4">
-        <text>set ideastatusicon=disabled</text>
+        <text>w</text>
       </register>
     </registers>
   </component>
