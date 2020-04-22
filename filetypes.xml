@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*$py.class;*.cmd;*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;mvnw;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="VoTemplate" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="globalConf" type="PLAIN_TEXT" />
