@@ -147,6 +147,9 @@
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="meta enter" />
   </action>
+  <action id="ShowKotlinBytecode">
+    <keyboard-shortcut first-keystroke="ctrl meta k" />
+  </action>
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="meta alt f7" />
     <keyboard-shortcut first-keystroke="shift meta 7" />
