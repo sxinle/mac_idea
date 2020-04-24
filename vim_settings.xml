@@ -162,12 +162,12 @@
         <mark key="." line="3" column="61" />
         <mark key="^" line="3" column="62" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/ctrl/PmServiceController.kt" timestamp="1587713198911">
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/ctrl/PmServiceController.kt" timestamp="1587714752883">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="23" column="34" />
-        <mark key="]" line="23" column="35" />
-        <mark key="." line="23" column="34" />
-        <mark key="^" line="23" column="35" />
+        <mark key="[" line="16" column="31" />
+        <mark key="]" line="16" column="31" />
+        <mark key="." line="16" column="31" />
+        <mark key="^" line="16" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/IPmLayersService.kt" timestamp="1587713014823">
         <mark key="[" line="12" column="54" />
@@ -198,24 +198,22 @@
         <mark key="^" line="25" column="75" />
         <mark key="." line="26" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/vo/PmLayersVO.kt" timestamp="1587712940125">
-        <mark key="[" line="5" column="11" />
-        <mark key="]" line="5" column="13" />
-        <mark key="." line="5" column="12" />
-        <mark key="^" line="5" column="13" />
-      </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/vo/LayersVO.kt" timestamp="1587713473547">
         <mark key="[" line="5" column="11" />
         <mark key="]" line="5" column="13" />
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/util/GISPermit.kt" timestamp="1587713591051">
-        <mark key="'" line="0" column="8" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/util/GISPermit.kt" timestamp="1587715482407">
+        <mark key="'" line="20" column="0" />
         <mark key="[" line="9" column="21" />
         <mark key="]" line="9" column="28" />
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="27" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587715407502">
+        <mark key="[" line="0" column="0" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/ctrl/PmLayersController.kt" timestamp="1587713179303">
         <mark key="'" line="28" column="63" />
@@ -245,7 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="9" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/pom.xml" />
       <jump line="3" column="44" filename="$USER_HOME$/workspace/shangyuan/city-gis/checkstyle.xml" />
       <jump line="185" column="0" filename="$USER_HOME$/workspace/shangyuan/city-gis/checkstyle.xml" />
       <jump line="17" column="52" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/resources/application-dev.yml" />
@@ -345,6 +342,7 @@
       <jump line="14" column="38" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/entity/MapServiceEntity.kt" />
       <jump line="54" column="0" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/entity/MapServiceEntity.kt" />
       <jump line="16" column="0" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/MapService.kt" />
+      <jump line="20" column="0" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/util/GISPermit.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -353,10 +351,10 @@
         <text>\基本废物......\</text>
       </register>
       <register name="*" type="4">
-        <text>LayersVO</text>
+        <text>/pm</text>
       </register>
       <register name="-" type="4">
-        <text>LayersVO</text>
+        <text>/pm</text>
       </register>
       <register name="/" type="4">
         <text>Empty</text>
