@@ -158,6 +158,12 @@
       <file name="/fragment.kt" timestamp="1587715588566">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/shangyuan/Kotlin-Koans/Introduction/Triple-quoted strings/src/Task.kt" timestamp="1587720301942">
+        <mark key="[" line="6" column="8" />
+        <mark key="]" line="6" column="21" />
+        <mark key="^" line="6" column="21" />
+        <mark key="." line="6" column="20" />
+      </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/ctrl/PmServiceController.kt" timestamp="1587714752883">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="16" column="31" />
@@ -181,15 +187,11 @@
         <mark key="." line="12" column="22" />
         <mark key="^" line="12" column="23" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/entity/MapService.kt" timestamp="1587713314368">
-        <mark key="[" line="8" column="12" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/PmLayersService.kt" timestamp="1587713238081">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="^" line="25" column="75" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/workspace/shangyuan/Kotlin-Koans/Introduction/Named arguments/src/Task.kt" timestamp="1587720008849">
+        <mark key="[" line="1" column="41" />
+        <mark key="]" line="1" column="55" />
+        <mark key="." line="1" column="54" />
+        <mark key="^" line="1" column="55" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/vo/LayersVO.kt" timestamp="1587713473547">
         <mark key="[" line="5" column="11" />
@@ -197,22 +199,21 @@
         <mark key="." line="5" column="12" />
         <mark key="^" line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/util/GISPermit.kt" timestamp="1587716541338">
-        <mark key="'" line="18" column="0" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/util/GISPermit.kt" timestamp="1587716583917">
+        <mark key="'" line="15" column="0" />
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/shangyuan/Kotlin-Koans/Introduction/Default arguments/src/Task.kt" timestamp="1587720187456">
+        <mark key="[" line="0" column="63" />
+        <mark key="]" line="0" column="68" />
+        <mark key="^" line="0" column="68" />
+        <mark key="." line="0" column="67" />
+      </file>
       <file name="/Dummy.txt" timestamp="1587715407502">
         <mark key="[" line="0" column="0" />
         <mark key="." line="0" column="26" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/ctrl/PmLayersController.kt" timestamp="1587713179303">
-        <mark key="'" line="28" column="63" />
-        <mark key="[" line="40" column="73" />
-        <mark key="]" line="40" column="83" />
-        <mark key="." line="40" column="82" />
-        <mark key="^" line="40" column="83" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/MapService.kt" timestamp="1587714451585">
         <mark key="'" line="16" column="0" />
@@ -342,11 +343,11 @@
       <register name="&quot;" type="4">
         <text>\基本废物......\</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIT0K</text>
+      <register name="*" type="4">
+        <text>trimIndent()</text>
       </register>
       <register name="-" type="4">
-        <text>=</text>
+        <text>trimIndent()</text>
       </register>
       <register name="/" type="4">
         <text>Empty</text>
@@ -355,34 +356,34 @@
         <text>MapServiceEntity</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIT0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgKCktPnsKICAgICAgICAgICAgICAgIHJldHVybiAiaGVsbG8iCiAgICAgICAgICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIT0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYoaSE9MikK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gc2F2ZVNlcnZpY2VQTShzZXJ2aWNlUG06IFBtU2VydmljZVZPKTogQm9vbGVhbiB7CiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIGRlbFNlcnZpY2VQZXJtaXRCeUlkKGlkOiBTdHJpbmcpIHsKICAgIH0KCiAgICBvdmVycmlkZSBmdW4gcXVlcnlTZXJ2aWNlUGVybWl0KHNlcnZpY2VQbTogUG1TZXJ2aWNlVk8pOiBMaXN0PFBtU2VydmljZUVudGl0eT4gewogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaGVsbG8gd29ybGQK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
+        <text encoding="base64">ICAgICAgICAgICAgIT0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZW1vdmVCeUlkKGlkKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgIT0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC5lcSgicnVsZV9pZCIsIHNlcnZpY2VQbS5ydWxlSWQpCg==</text>
+        <text encoding="base64">CiAgICBvdmVycmlkZSBmdW4gc2F2ZVNlcnZpY2VQTShzZXJ2aWNlUG06IFBtU2VydmljZVZPKTogQm9vbGVhbiB7CiAgICB9CgogICAgb3ZlcnJpZGUgZnVuIGRlbFNlcnZpY2VQZXJtaXRCeUlkKGlkOiBTdHJpbmcpIHsKICAgIH0KCiAgICBvdmVycmlkZSBmdW4gcXVlcnlTZXJ2aWNlUGVybWl0KHNlcnZpY2VQbTogUG1TZXJ2aWNlVk8pOiBMaXN0PFBtU2VydmljZUVudGl0eT4gewogICAgfQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgd3JhcHBlcjogUXVlcnlXcmFwcGVyPFBtU2VydmljZUVudGl0eT4gPSBXcmFwcGVycy5xdWVyeTxQbVNlcnZpY2VFbnRpdHk+KCkKICAgICAgICAgICAgICAgIC5lcSgicnVsZV9pZCIsIHNlcnZpY2VQbS5ydWxlSWQpCiAgICAgICAgcmV0dXJuIGxpc3Qod3JhcHBlcikK</text>
+        <text encoding="base64">ICAgICAgICByZW1vdmVCeUlkKGlkKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gc2F2ZShzZXJ2aWNlUG0pCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5lcSgicnVsZV9pZCIsIHNlcnZpY2VQbS5ydWxlSWQpCg==</text>
       </register>
       <register name="y" type="4">
         <text>B</text>
