@@ -134,11 +134,11 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.53/fastjson-1.2.53-sources.jar!/com/alibaba/fastjson/JSON.java" timestamp="1587688542230">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/DictGroupService.kt" timestamp="1587693377278">
-        <mark key="[" line="13" column="74" />
-        <mark key="]" line="13" column="74" />
-        <mark key="^" line="13" column="74" />
-        <mark key="." line="13" column="74" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/DictGroupService.kt" timestamp="1587695718885">
+        <mark key="[" line="31" column="44" />
+        <mark key="]" line="31" column="44" />
+        <mark key="^" line="31" column="48" />
+        <mark key="." line="31" column="44" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/Kotlin-Koans/Introduction/Named arguments/src/Task.kt" timestamp="1587691154460">
         <mark key="[" line="1" column="29" />
@@ -183,10 +183,10 @@
         <mark key="." line="7" column="53" />
         <mark key="^" line="7" column="54" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/DataSetService.java" timestamp="1587634497283">
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/DataSetService.java" timestamp="1587694468519">
         <mark key="'" line="30" column="21" />
-        <mark key="[" line="25" column="11" />
-        <mark key="]" line="25" column="26" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="34" column="5" />
         <mark key="^" line="25" column="26" />
         <mark key="." line="25" column="25" />
       </file>
@@ -206,11 +206,11 @@
         <mark key="." line="6" column="14" />
         <mark key="^" line="6" column="15" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/IDictGroupService.kt" timestamp="1587693312958">
-        <mark key="[" line="10" column="18" />
-        <mark key="]" line="10" column="23" />
-        <mark key="." line="10" column="22" />
-        <mark key="^" line="10" column="23" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/IDictGroupService.kt" timestamp="1587695658381">
+        <mark key="[" line="10" column="44" />
+        <mark key="]" line="10" column="44" />
+        <mark key="." line="10" column="44" />
+        <mark key="^" line="10" column="48" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.3.1.tmp/mybatis-plus-core-3.3.1.tmp-sources.jar!/com/baomidou/mybatisplus/core/toolkit/Wrappers.java" timestamp="1587633636112">
         <mark key="'" line="156" column="12" />
@@ -342,19 +342,19 @@
         <text>\基本废物......\</text>
       </register>
       <register name="*" type="4">
-        <text>rule</text>
+        <text encoding="base64">b3V0IA==</text>
       </register>
       <register name="-" type="4">
-        <text>rule</text>
+        <text encoding="base64">b3V0IA==</text>
       </register>
       <register name="/" type="4">
         <text>Empty</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbGlzdChRdWVyeVdyYXBwZXIocnVsZSBhcyBSdWxlRW50aXR5KSkK</text>
+      <register name="0" type="4">
+        <text>DictGroupVO</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBydWxlU2VydmljZS5zYXZlUnVsZShydWxlKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -363,25 +363,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBzYXZlUnVsZShydWxlOiBSdWxlVk8pOiBCb29sZWFuIHsKICAgICAgICByZXR1cm4gc2F2ZShydWxlKQogICAgfQoKICAgIG92ZXJyaWRlIGZ1biBkZWxSdWxlQnlJZChpZDogU3RyaW5nKSB7CiAgICAgICAgcmVtb3ZlQnlJZChpZCkKICAgIH0KCiAgICBvdmVycmlkZSBmdW4gcXVlcnlSdWxlKHJ1bGU6IFJ1bGVWTyk6IE11dGFibGVMaXN0PFJ1bGVFbnRpdHk+PyB7CiAgICAgICAgcmV0dXJuIGxpc3QoUXVlcnlXcmFwcGVyKHJ1bGUgYXMgUnVsZUVudGl0eSkpCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIG9wZW4gZnVuIHF1ZXJ5QnlQYWdlKGRzOiBEYXRhU2V0Vk8pOiBJUGFnZTxEYXRhU2V0Vk8/Pj8gewogICAgICAgIHZhbCBlcUNvbHVtbnMgPSBhcnJheU9mKCJob3N0X2lwIiwgImhvc3RfcG9ydCIsICJkYl9uYW1lIiwgInNjaGVtYV9uYW1lIiwgInVzZXJfbmFtZSIpCiAgICAgICAgdmFsIHdyYXBwZXI6IFF1ZXJ5V3JhcHBlcjwqPiA9IFdyYXBwZXJzLnF1ZXJ5PEFueT4oKS5saWtlKFN0cmluZ1V0aWxzLmlzTm90QmxhbmsoZHMubmFtZSksICJuYW1lIiwgZHMubmFtZSkKICAgICAgICAgICAgICAgIC5saWtlKFN0cmluZ1V0aWxzLmlzTm90QmxhbmsoZHMucGh5c2ljYWxOYW1lKSwgInBoeXNpY2FsX25hbWUiLCBkcy5waHlzaWNhbE5hbWUpCiAgICAgICAgICAgICAgICAubGlrZShTdHJpbmdVdGlscy5pc05vdEJsYW5rKGRzLmRlc2NyaXB0aW9uKSwgImRlc2NyaXB0aW9uIiwgZHMuZGVzY3JpcHRpb24pCiAgICAgICAgICAgICAgICAuYWxsRXEoeyBrOiBTdHJpbmcsIHY6IEFueSAtPiBBcnJheXMuYXNMaXN0KCplcUNvbHVtbnMpLmNvbnRhaW5zKGspICYmIFN0cmluZ1V0aWxzLmlzTm90QmxhbmsoT3B0aW9uYWwub2Yodikub3JFbHNlKCIiKS50b1N0cmluZygpKSB9LCBkcy50b0RiTWFwKCkpCiAgICAgICAgcmV0dXJuIHBhZ2UoZHMubWtQYWdlKCksIHdyYXBwZXIpCiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCJOb3QgeWV0IGltcGxlbWVudGVkIikK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIuaPj+i/sCIpCiAgICB2YXIgZGVzY3JpcHRpb246IFN0cmluZyA9ICIiCgogICAgQEFwaU1vZGVsUHJvcGVydHkodmFsdWUgPSAi5a2Q56ef5oi3SUQiKQogICAgdmFyIHN1YlRlbmFudElkOiBTdHJpbmcgPSAiIgo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgZXFDb2x1bW5zID0gYXJyYXlPZigiaG9zdF9pcCIsICJob3N0X3BvcnQiLCAiZGJfbmFtZSIsICJzY2hlbWFfbmFtZSIsICJ1c2VyX25hbWUiKQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuIHBhZ2UobWtQYWdlOiBQYWdlPEFueT4/LCB3cmFwcGVyOiBRdWVyeVdyYXBwZXI8RGljdEdyb3VwRW50aXR5Pik6IFBhZ2U8QW55Pj8gewoKICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC5saWtlKFN0cmluZ1V0aWxzLmlzTm90QmxhbmsoZHMuZ2V0RGVzY3JpcHRpb24oKSksICJkZXNjcmlwdGlvbiIsIGRzLmdldERlc2NyaXB0aW9uKCkpCiAgICAgICAgICAgICAgICAuYWxsRXEoeyBrOiBTdHJpbmcsIHY6IEFueSAtPiBBcnJheXMuYXNMaXN0KCplcUNvbHVtbnMpLmNvbnRhaW5zKGspICYmIFN0cmluZ1V0aWxzLmlzTm90QmxhbmsoT3B0aW9uYWwub2Yodikub3JFbHNlKCIiKS50b1N0cmluZygpKSB9LCBkcy50b0RiTWFwKCkpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbGlzdChRdWVyeVdyYXBwZXIoZ3JvdXAgYXMgRGljdEdyb3VwRW50aXR5KSkK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIuWQr+eUqOeKtuaAgSAwLzEiKQogICAgdmFyIG5hbWU6IENoYXIgPSAnMCcK</text>
+        <text encoding="base64">ICAgICAgICBydWxlU2VydmljZS5zYXZlUnVsZShydWxlKQo=</text>
       </register>
       <register name="y" type="4">
         <text>B</text>
