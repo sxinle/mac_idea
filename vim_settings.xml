@@ -171,17 +171,18 @@
       <file name="/fragment.kt" timestamp="1587978853474">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/IDictGroupService.kt" timestamp="1587970032097">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/ctrl/PmServiceController.kt" timestamp="1587978465278">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="29" column="35" />
         <mark key="]" line="29" column="44" />
         <mark key="." line="29" column="43" />
         <mark key="^" line="29" column="44" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/entity/PermCodeEntity.kt" timestamp="1587980893515">
+        <mark key="[" line="16" column="8" />
+        <mark key="]" line="16" column="14" />
+        <mark key="." line="16" column="13" />
+        <mark key="^" line="16" column="14" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/ctrl/DataSetController.java" timestamp="1587975726144">
         <mark key="'" line="34" column="52" />
@@ -344,16 +345,16 @@
         <text>\基本废物......\</text>
       </register>
       <register name="*" type="4">
-        <text>gFun,</text>
+        <text>order</text>
       </register>
       <register name="-" type="4">
-        <text>gFun,</text>
+        <text>order</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx3aXRoU29ydGVyXD4=</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIG9wZW4gbGF0ZWluaXQgdmFyIGRpY3RTZXJ2aWNlOiBEaWN0U2VydmljZQo=</text>
+      <register name="0" type="4">
+        <text>权限值</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgZ0Z1bjogKEdJU1Blcm1pdCkgLT4gU3RyaW5nID0gewogICAgICAgICAgICBpZiAoaXQuY29kZSAhPSAxKSBpdC5uYW1lIGVsc2UgaXQuaW5mbwogICAgICAgIH0K</text>
