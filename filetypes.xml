@@ -5,15 +5,15 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="VoTemplate" type="PLAIN_TEXT" />
+      <mapping pattern=".history" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="globalConf" type="PLAIN_TEXT" />
-      <mapping pattern=".history" type="PLAIN_TEXT" />
       <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="done" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="Test" type="Scala" />
       <mapping pattern="HelloWorld" type="Scala" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
