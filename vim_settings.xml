@@ -143,12 +143,12 @@
         <mark key="." line="22" column="50" />
         <mark key="^" line="22" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/DictGroupService.kt" timestamp="1588753685605">
-        <mark key="'" line="40" column="17" />
-        <mark key="[" line="51" column="36" />
-        <mark key="]" line="52" column="33" />
-        <mark key="." line="52" column="32" />
-        <mark key="^" line="52" column="33" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/DictGroupService.kt" timestamp="1588754585303">
+        <mark key="'" line="38" column="17" />
+        <mark key="[" line="54" column="31" />
+        <mark key="]" line="54" column="53" />
+        <mark key="." line="54" column="52" />
+        <mark key="^" line="54" column="53" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/vo/MapServiceVO.kt" timestamp="1588237598709">
         <mark key="[" line="24" column="8" />
@@ -189,11 +189,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/vo/DictGroupVO.kt" timestamp="1588752332475">
-        <mark key="[" line="12" column="18" />
-        <mark key="]" line="12" column="34" />
-        <mark key="^" line="12" column="34" />
-        <mark key="." line="12" column="33" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/vo/DictGroupVO.kt" timestamp="1588754696728">
+        <mark key="[" line="18" column="34" />
+        <mark key="]" line="18" column="42" />
+        <mark key="." line="18" column="41" />
+        <mark key="^" line="18" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/IDictGroupService.kt" timestamp="1588749393932">
         <mark key="[" line="12" column="19" />
@@ -346,47 +346,51 @@
       <register name="&quot;" type="4">
         <text>\基本废物......\</text>
       </register>
-      <register name="*" type="4">
-        <text>.</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGl0bGUgPSBwYXJlbnQudGl0bGUKICAgICAgICAgICAgY29kZSA9IHBhcmVudC5jb2RlCiAgICAgICAgICAgIHBpZCA9IHBhcmVudC5waWQKICAgICAgICAgICAgc3lzUHJpdmF0ZSA9IHBhcmVudC5zeXNQcml2YXRlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">cmV0dXJuIA==</text>
       </register>
       <register name="/" type="4">
         <text>pack</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KGhpZGRlbiA9IHRydWUpCiAgICBASnNvblByb3BlcnR5KGFjY2VzcyA9IEpzb25Qcm9wZXJ0eS5BY2Nlc3MuUkVBRF9PTkxZKQogICAgdmFyIHR5cGVOYW1lOiBTdHJpbmc/ID0gbnVsbAo=</text>
+      <register name="0" type="4">
+        <text>parent</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgRGljdEdyb3VwVk8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGl0bGUgPSBwYXJlbnQudGl0bGUKICAgICAgICAgICAgY29kZSA9IHBhcmVudC5jb2RlCiAgICAgICAgICAgIHBpZCA9IHBhcmVudC5waWQKICAgICAgICAgICAgc3lzUHJpdmF0ZSA9IHBhcmVudC5zeXNQcml2YXRlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQuYXBwbHkgeyAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmNoaWxkcmVuID0gbGlzdE9mTm90TnVsbChidWlsZFRyZWUoaXQsIGNoaWxkTGlzdC5maWx0ZXIgeyBjaGlsZCAtPiBjaGlsZC5waWQgPT0gaXQuaWQgfS50b011dGFibGVMaXN0KCkpKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjaGlsZHJlbi5hZGRBbGwobGlzdCkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXRbIml0ZW0iXSA9IHBhcmVudAogICAgICAgIHJldFsiY2hpbGRyZW4iXSA9IGNoaWxkcmVuCg==</text>
+      <register name="4" type="4">
+        <text>.apply {
+                title = it.title
+                code = it.code
+                pid = it.pid
+                sysPrivate = it.sysPrivate</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJlbnQgYXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwYXJlbnQgdG8gcmV0Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXQuY2hpbGRyZW4gPSBjaGlsZHJlbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXQudGl0bGUgPSBwYXJlbnQudGl0bGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGl0ZW0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaXQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgaXRlbS5jaGlsZHJlbiA9IAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFsIGl0ZW0gPSBpdCBhcyBEaWN0R3JvdXBWTwo=</text>
       </register>
       <register name="y" type="4">
         <text>B</text>
