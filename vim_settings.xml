@@ -125,9 +125,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1588597506572">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/RuleService.kt" timestamp="1588236654254">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="21" column="57" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/mapper/MapServiceMapper.xml" timestamp="1588236641038">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/LayersService.kt" timestamp="1588236738362">
         <mark key="'" line="35" column="0" />
@@ -136,9 +146,11 @@
         <mark key="." line="22" column="50" />
         <mark key="^" line="22" column="67" />
       </file>
-      <file name="$USER_HOME$/workspace/pegas/pegas-b/pom.xml" timestamp="1588121714435">
-        <mark key="[" line="179" column="0" />
-        <mark key="]" line="184" column="18" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/PmMapServService.kt" timestamp="1588236670231">
+        <mark key="[" line="18" column="16" />
+        <mark key="]" line="18" column="20" />
+        <mark key="^" line="18" column="20" />
+        <mark key="." line="18" column="19" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/vo/MapServiceVO.kt" timestamp="1588237598709">
         <mark key="[" line="24" column="8" />
@@ -152,6 +164,16 @@
         <mark key="." line="5" column="89" />
         <mark key="^" line="5" column="90" />
       </file>
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/MapService.kt" timestamp="1588237525590">
+        <mark key="'" line="21" column="48" />
+        <mark key="[" line="23" column="51" />
+        <mark key="]" line="23" column="61" />
+        <mark key="." line="23" column="60" />
+        <mark key="^" line="23" column="61" />
+      </file>
+      <file name="/" timestamp="1588217355555">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/resources/application-test.yml" timestamp="1588234094557">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="90" />
@@ -162,48 +184,6 @@
         <mark key="]" line="24" column="34" />
         <mark key="." line="24" column="17" />
         <mark key="^" line="24" column="18" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/mapper/RuleMapper.xml" timestamp="1588236293795">
-        <mark key="[" line="14" column="27" />
-        <mark key="]" line="14" column="58" />
-        <mark key="." line="14" column="27" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/resources/application-prod.yml" timestamp="1588234092464">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="90" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/mapper/MapServiceMapper.kt" timestamp="1588237351662">
-        <mark key="[" line="11" column="36" />
-        <mark key="]" line="11" column="48" />
-        <mark key="^" line="11" column="48" />
-        <mark key="." line="11" column="47" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1588239478084">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/mapper/MapServiceMapper.xml" timestamp="1588236641038">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/PmMapServService.kt" timestamp="1588236670231">
-        <mark key="[" line="18" column="16" />
-        <mark key="]" line="18" column="20" />
-        <mark key="^" line="18" column="20" />
-        <mark key="." line="18" column="19" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/MapService.kt" timestamp="1588237525590">
-        <mark key="'" line="21" column="48" />
-        <mark key="[" line="23" column="51" />
-        <mark key="]" line="23" column="61" />
-        <mark key="." line="23" column="60" />
-        <mark key="^" line="23" column="61" />
-      </file>
-      <file name="/" timestamp="1588217355555">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/mapper/RuleMapper.kt" timestamp="1588237339540">
         <mark key="[" line="11" column="20" />
@@ -218,11 +198,27 @@
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/ctrl/DataSetController.java" timestamp="1588220179152">
         <mark key="'" line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/mapper/RuleMapper.xml" timestamp="1588236293795">
+        <mark key="[" line="14" column="27" />
+        <mark key="]" line="14" column="58" />
+        <mark key="." line="14" column="27" />
+      </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/IMapService.kt" timestamp="1588237486267">
         <mark key="[" line="9" column="24" />
         <mark key="]" line="9" column="24" />
         <mark key="^" line="9" column="28" />
         <mark key="." line="9" column="24" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/resources/application-prod.yml" timestamp="1588234092464">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="90" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/mapper/MapServiceMapper.kt" timestamp="1588237351662">
+        <mark key="[" line="11" column="36" />
+        <mark key="]" line="11" column="48" />
+        <mark key="^" line="11" column="48" />
+        <mark key="." line="11" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/common/pom.xml" timestamp="1588121889403">
         <mark key="'" line="71" column="0" />
@@ -231,10 +227,11 @@
         <mark key="." line="15" column="12" />
         <mark key="^" line="15" column="13" />
       </file>
+      <file name="$USER_HOME$/workspace/pegas/pegas-b/cloud-common/src/main/java/com/xinsl/cloud/domain/BaseDomain.java" timestamp="1588727558403">
+        <mark key="'" line="119" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="12" filename="$MAVEN_REPOSITORY$/com/baomidou/mybatis-plus-core/3.3.1.tmp/mybatis-plus-core-3.3.1.tmp-sources.jar!/com/baomidou/mybatisplus/core/toolkit/Wrappers.java" />
-      <jump line="224" column="29" filename="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.53/fastjson-1.2.53-sources.jar!/com/alibaba/fastjson/JSON.java" />
       <jump line="0" column="0" filename="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.53/fastjson-1.2.53-sources.jar!/com/alibaba/fastjson/JSON.java" />
       <jump line="39" column="0" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/ctrl/DictGroupController.kt" />
       <jump line="17" column="0" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/ctrl/DictGroupController.kt" />
@@ -333,6 +330,8 @@
       <jump line="16" column="0" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/ctrl/DataSetController.java" />
       <jump line="44" column="0" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/ctrl/DataSetController.java" />
       <jump line="24" column="48" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/MapService.kt" />
+      <jump line="77" column="45" filename="$USER_HOME$/workspace/pegas/pegas-b/cloud-common/src/main/java/com/xinsl/cloud/domain/BaseDomain.java" />
+      <jump line="119" column="0" filename="$USER_HOME$/workspace/pegas/pegas-b/cloud-common/src/main/java/com/xinsl/cloud/domain/BaseDomain.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
