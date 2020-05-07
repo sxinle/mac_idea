@@ -156,6 +156,9 @@
         <mark key="." line="18" column="41" />
         <mark key="^" line="18" column="42" />
       </file>
+      <file name="/fragment.kt" timestamp="1588824932249">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/mapper/DictMapper.xml" timestamp="1588814797447">
         <mark key="'" line="17" column="0" />
         <mark key="[" line="12" column="26" />
@@ -173,12 +176,12 @@
         <mark key="[" line="10" column="0" />
         <mark key="]" line="12" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/DictGroupService.kt" timestamp="1588824337281">
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/DictGroupService.kt" timestamp="1588825520148">
         <mark key="'" line="38" column="17" />
-        <mark key="[" line="52" column="9" />
-        <mark key="]" line="52" column="9" />
-        <mark key="." line="52" column="9" />
-        <mark key="^" line="52" column="30" />
+        <mark key="[" line="36" column="148" />
+        <mark key="]" line="36" column="149" />
+        <mark key="." line="36" column="148" />
+        <mark key="^" line="36" column="148" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/vo/MapServiceVO.kt" timestamp="1588237598709">
         <mark key="[" line="24" column="8" />
@@ -346,10 +349,10 @@
         <text>\基本废物......\</text>
       </register>
       <register name="*" type="4">
-        <text>.filter { it.children }</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>.filter { it.children }</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>pack</text>
@@ -357,39 +360,37 @@
       <register name="0" type="4">
         <text>dictGroup</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>DictGroupVO().copyFromParent(parent).apply {
+            this.children = children
+        }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50LmNoaQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBmaWVsZDpOb3RCbGFuayhtZXNzYWdlID0gIuaYvuekuuWQjeensOS4jeiDveS4uuepuiIpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcGFyZW50LmNoaQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsaXMK</text>
+        <text encoding="base64">ICAgIEBmaWVsZDpOb3RCbGFuayhtZXNzYWdlID0gIuaYvuekuuWQjeensOS4jeiDveS4uuepuiIpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgcCA9IGRpY3QubWtQYWdlPERpY3RFbnRpdHk+KCkK</text>
+        <text encoding="base64">ICAgICAgICBsaXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGl0bGUgPSBwYXJlbnQudGl0bGUKICAgICAgICAgICAgY29kZSA9IHBhcmVudC5jb2RlCiAgICAgICAgICAgIHBpZCA9IHBhcmVudC5waWQKICAgICAgICAgICAgc3lzUHJpdmF0ZSA9IHBhcmVudC5zeXNQcml2YXRlCg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgcCA9IGRpY3QubWtQYWdlPERpY3RFbnRpdHk+KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLmNoaWxkcmVuID0gbGlzdE9mTm90TnVsbChidWlsZFRyZWUoaXQsIGNoaWxkTGlzdC5maWx0ZXIgeyBjaGlsZCAtPiBjaGlsZC5waWQgPT0gaXQuaWQgfS50b011dGFibGVMaXN0KCkpKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGl0bGUgPSBwYXJlbnQudGl0bGUKICAgICAgICAgICAgY29kZSA9IHBhcmVudC5jb2RlCiAgICAgICAgICAgIHBpZCA9IHBhcmVudC5waWQKICAgICAgICAgICAgc3lzUHJpdmF0ZSA9IHBhcmVudC5zeXNQcml2YXRlCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLmNoaWxkcmVuID0gbGlzdE9mTm90TnVsbChidWlsZFRyZWUoaXQsIGNoaWxkTGlzdC5maWx0ZXIgeyBjaGlsZCAtPiBjaGlsZC5waWQgPT0gaXQuaWQgfS50b011dGFibGVMaXN0KCkpKQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>.apply {
-                title = it.title
-                code = it.code
-                pid = it.pid
-                sysPrivate = it.sysPrivate</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="y" type="4">
         <text>B</text>
