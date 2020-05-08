@@ -149,6 +149,11 @@
         <mark key="^" line="12" column="27" />
         <mark key="." line="12" column="26" />
       </file>
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/gis/valid/ValidList.java" timestamp="1588901018623">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/DictGroupService.kt" timestamp="1588898007238">
         <mark key="'" line="58" column="8" />
         <mark key="[" line="48" column="87" />
@@ -178,7 +183,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1588900335621">
+      <file name="/Dummy.txt" timestamp="1588901135648">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -198,22 +203,16 @@
       <file name="/fragment.kt" timestamp="1588828445468">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/IDictGroupService.kt" timestamp="1588749393932">
-        <mark key="[" line="12" column="19" />
-        <mark key="]" line="12" column="19" />
-        <mark key="." line="12" column="18" />
-        <mark key="^" line="12" column="19" />
-      </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/vo/RuleVO.kt" timestamp="1588752310621">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="12" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/ctrl/PmServiceController.kt" timestamp="1588900277611">
-        <mark key="'" line="51" column="0" />
-        <mark key="[" line="47" column="101" />
-        <mark key="]" line="47" column="128" />
-        <mark key="." line="47" column="127" />
-        <mark key="^" line="47" column="128" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/ctrl/PmServiceController.kt" timestamp="1588901032329">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="48" column="91" />
+        <mark key="]" line="48" column="100" />
+        <mark key="." line="48" column="99" />
+        <mark key="^" line="48" column="100" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/PmMapServService.kt" timestamp="1588900113319">
         <mark key="[" line="25" column="58" />
@@ -233,7 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/entity/MapServiceEntity.kt" />
       <jump line="31" column="0" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/entity/MapServiceEntity.kt" />
       <jump line="42" column="73" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/ctrl/RuleController.kt" />
       <jump line="55" column="20" filename="$USER_HOME$/workspace/pegas/pegas-b/cloud-common/src/main/java/com/xinsl/cloud/domain/BaseDomain.java" />
@@ -333,6 +331,7 @@
       <jump line="58" column="8" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/DictGroupService.kt" />
       <jump line="33" column="41" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/ctrl/PmServiceController.kt" />
       <jump line="51" column="0" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/ctrl/PmServiceController.kt" />
+      <jump line="2" column="13" filename="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/gis/valid/ValidList.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -341,10 +340,10 @@
         <text>\基本废物......\</text>
       </register>
       <register name="*" type="4">
-        <text>字典管理开发完成</text>
+        <text>List</text>
       </register>
       <register name="-" type="4">
-        <text>字典管理开发完成</text>
+        <text>List</text>
       </register>
       <register name="/" type="4">
         <text>in(</text>
@@ -353,36 +352,36 @@
         <text>@PathVariable(&quot;ids&quot;) String ids</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIuWtl+WFuGNvZGUiKQogICAgdmFyIGNvZGU6IFN0cmluZz8gPSBudWxsCg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogRXhwb3NlZCBmb3IgdGhlIHtAbGluayBqYXZheC52YWxpZGF0aW9uLlZhbGlkYXRvcn0gdG8gYWNjZXNzIHRoZSBsaXN0IHBhdGgKICAgICAqLwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChleDogRXhjZXB0aW9uKSB7CiAgICAgICAgICAgIHJldHVybiBsaXN0T2YoKQogICAgICAgIH0K</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIFZhbGlkTGlzdCB7Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIuWtl+WFuGNvZGUiKQogICAgdmFyIGNvZGU6IFN0cmluZz8gPSBudWxsCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChleDogRXhjZXB0aW9uKSB7CiAgICAgICAgICAgIHJldHVybiBsaXN0T2YoKQogICAgICAgIH0K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpZiAocm9vdCA9PSBudWxsKSByZXR1cm4gbGlzdE9mKCkK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>finally {
 
         }</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB2YWwgcm9vdCA9IGxpc3QuZmlyc3QgeyBpdC5waWQuaXNOdWxsT3JFbXB0eSgpIH0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBncm91cFNlcnZpY2UuZGVsR3JvdXBCeUlkKGlkKQo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUT0RPKCLpnIDopoHpgJLlvZLnuqfogZTliKDpmaTvvIzku6Xlj4rlpITnkIZGS+ebuOWFs+mAu+i+kSIpCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBncm91cFNlcnZpY2Uuc2F2ZShkaWN0R3JvdXApCg==</text>
+        <text encoding="base64">ICAgICAgICBncm91cFNlcnZpY2UuZGVsR3JvdXBCeUlkKGlkKQo=</text>
       </register>
       <register name="y" type="4">
         <text>B</text>
