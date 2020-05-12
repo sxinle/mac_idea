@@ -164,11 +164,12 @@
       <file name="$MAVEN_REPOSITORY$/io/ktor/ktor-http-jvm/1.3.1/ktor-http-jvm-1.3.1-sources.jar!/commonMain/io/ktor/http/HttpHeaders.kt" timestamp="1589174651115">
         <mark key="'" line="20" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/gis/ktutil/utils.kt" timestamp="1589191677245">
-        <mark key="[" line="63" column="16" />
-        <mark key="]" line="63" column="16" />
-        <mark key="." line="63" column="15" />
-        <mark key="^" line="63" column="16" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/gis/ktutil/utils.kt" timestamp="1589193212091">
+        <mark key="'" line="47" column="28" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="23" column="9" />
       </file>
       <file name="/fragment.kt" timestamp="1589191332475">
         <mark key="[" line="0" column="0" />
@@ -198,17 +199,14 @@
       <file name="/fragment.java" timestamp="1589186574094">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/common/pom.xml" timestamp="1589187868134">
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/common/pom.xml" timestamp="1589193222049">
         <mark key="'" line="1" column="0" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="31" column="26" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="69" filename="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/gis/base/BaseEntity.java" />
-      <jump line="49" column="4" filename="$USER_HOME$/workspace/shangyuan/tmpl-backend/src/main/java/com/syzh/tmpl/common/base/BaseEntity.java" />
       <jump line="18" column="0" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/entity/DataSetEntity.java" />
       <jump line="57" column="0" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/entity/DataSetEntity.java" />
       <jump line="14" column="0" filename="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/gis/base/BaseEntity.java" />
@@ -307,6 +305,8 @@
       <jump line="121" column="29" filename="$MAVEN_REPOSITORY$/org/springframework/spring-webmvc/5.2.5.RELEASE/spring-webmvc-5.2.5.RELEASE-sources.jar!/org/springframework/web/servlet/mvc/method/annotation/RequestResponseBodyMethodProcessor.java" />
       <jump line="84" column="32" filename="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/gis/ktutil/utils.kt" />
       <jump line="63" column="40" filename="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/gis/ktutil/utils.kt" />
+      <jump line="58" column="46" filename="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/gis/ktutil/utils.kt" />
+      <jump line="55" column="28" filename="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/gis/ktutil/utils.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -315,47 +315,49 @@
         <text>\基本废物......\</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0Lgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+aW8ua3RvcjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+a3Rvci1jbGllbnQtanNvbi1qdm08L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEuMy4xPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KCktPnt9</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>timeout</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1ldGhvZCA9IEh0dHBNZXRob2QuUG9zdAo=</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICB1cmwgeyB1cmwgfQovLyAgICAgICAgICAgIG1ldGhvZCA9IEh0dHBNZXRob2QuUG9zdAovLyAgICAgICAgICAgIHRpbWVvdXQgeyB0aW1lb3V0IH0KLy8gICAgICAgICAgICBib2R5ID0gcGFyYW0uaWZFbXB0eSB7ICJ7fSIgfQovLyAgICAgICAgICAgIGhlYWRlcnMgeyBhcHBlbmRBbGwoaW5wdXRIZWFkZXJzKSB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0Lgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+aW8ua3RvcjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+a3Rvci1jbGllbnQtanNvbi1qdm08L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjEuMy4xPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBpdC5yZXF1ZXN0PFQ+KHVybCwgSHR0cFJlcXVlc3RCdWlsZGVyKCkuYXBwbHkgewoKICAgICAgICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+aW8ua3RvcjwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+a3Rvci1jbGllbnQtamFja3NvbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MS4zLjE8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGl0LnJlcXVlc3Q8VD4odXJsLCAoYik9PnsKCiAgICAgICAgICAgIH0pCg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGluc3RhbGwoSnNvbkZlYXR1cmUpIHsKLy8gICAgICAgICAgICBzZXJpYWxpemVyID0gSmFja3NvblNlcmlhbGl6ZXIgewovLyAgICAgICAgICAgICAgICBzZXJpYWxpemF0aW9uQ29uZmlnLmFwcGx5IHsKLy8gICAgICAgICAgICAgICAgICAgIHdpdGhGZWF0dXJlcyhKc29uR2VuZXJhdG9yLkZlYXR1cmUpCi8vCi8vICAgICAgICAgICAgICAgIH0KLy8KLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEh0dHBSZXF1ZXN0QnVpbGRlcigpLmFwcGx5IHsKICAgICAgICAgICAgICAgICAgICB1cmwgeyB1cmwgfQogICAgICAgICAgICAgICAgICAgIG1ldGhvZCA9IEh0dHBNZXRob2QuUG9zdAogICAgICAgICAgICAgICAgICAgIHRpbWVvdXQgeyB0aW1lb3V0IH0KICAgICAgICAgICAgICAgICAgICBib2R5ID0gcGFyYW0uaWZFbXB0eSB7ICJ7fSIgfQogICAgICAgICAgICAgICAgICAgIGhlYWRlcnMgeyBhcHBlbmRBbGwoaW5wdXRIZWFkZXJzKSB9CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGluc3RhbGwoSnNvbkZlYXR1cmUpIHsKLy8gICAgICAgICAgICBzZXJpYWxpemVyID0gSmFja3NvblNlcmlhbGl6ZXIgewovLyAgICAgICAgICAgICAgICBzZXJpYWxpemF0aW9uQ29uZmlnLmFwcGx5IHsKLy8gICAgICAgICAgICAgICAgICAgIHdpdGhGZWF0dXJlcyhKc29uR2VuZXJhdG9yLkZlYXR1cmUpCi8vCi8vICAgICAgICAgICAgICAgIH0KLy8KLy8gICAgICAgICAgICB9Ci8vICAgICAgICB9Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-                }</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBIdHRwUmVxdWVzdEJ1aWxkZXIoKS5hcHBseSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHVybCB7IHVybCB9CiAgICAgICAgICAgICAgICAgICAgICAgIG1ldGhvZCA9IEh0dHBNZXRob2QuUG9zdAogICAgICAgICAgICAgICAgICAgICAgICB0aW1lb3V0IHsgdGltZW91dCB9CiAgICAgICAgICAgICAgICAgICAgICAgIGJvZHkgPSBwYXJhbS5pZkVtcHR5IHsgInt9IiB9CiAgICAgICAgICAgICAgICAgICAgICAgIGhlYWRlcnMgeyBhcHBlbmRBbGwoaW5wdXRIZWFkZXJzKSB9CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBIdHRwUmVxdWVzdEJ1aWxkZXIoKS5hcHBseSB7CiAgICAgICAgICAgICAgICAgICAgICAgIHVybCB7IHVybCB9CiAgICAgICAgICAgICAgICAgICAgICAgIG1ldGhvZCA9IEh0dHBNZXRob2QuUG9zdAogICAgICAgICAgICAgICAgICAgICAgICB0aW1lb3V0IHsgdGltZW91dCB9CiAgICAgICAgICAgICAgICAgICAgICAgIGJvZHkgPSBwYXJhbS5pZkVtcHR5IHsgInt9IiB9CiAgICAgICAgICAgICAgICAgICAgICAgIGhlYWRlcnMgeyBhcHBlbmRBbGwoaW5wdXRIZWFkZXJzKSB9CiAgICAgICAgICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXBwZW5kKEh0dHBIZWFkZXJzLkNvbnRlbnRUeXBlLCBDb250ZW50VHlwZS5BcHBsaWNhdGlvbi5Kc29uICkK</text>
+      </register>
+      <register name="7" type="4">
+        <text>{
+        
+        
+    }</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB0aGlzLnNldAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAge2F9Cg==</text>
       </register>
       <register name="y" type="4">
         <text>B</text>
