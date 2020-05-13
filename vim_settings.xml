@@ -137,11 +137,11 @@
         <mark key="^" line="13" column="4" />
         <mark key="." line="14" column="35" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/DictRelaService.kt" timestamp="1589340997251">
-        <mark key="[" line="21" column="22" />
-        <mark key="]" line="21" column="52" />
-        <mark key="^" line="21" column="52" />
-        <mark key="." line="21" column="51" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/DictRelaService.kt" timestamp="1589349192711">
+        <mark key="[" line="28" column="57" />
+        <mark key="]" line="28" column="57" />
+        <mark key="." line="28" column="57" />
+        <mark key="^" line="28" column="56" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/mapper/DictRelaMapper.kt" timestamp="1589341017210">
         <mark key="[" line="11" column="9" />
@@ -149,11 +149,11 @@
         <mark key="^" line="11" column="23" />
         <mark key="." line="11" column="22" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/IDictRelaService.kt" timestamp="1589340873433">
-        <mark key="[" line="8" column="38" />
-        <mark key="]" line="8" column="38" />
-        <mark key="^" line="8" column="38" />
-        <mark key="." line="8" column="38" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/IDictRelaService.kt" timestamp="1589349195971">
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="12" column="47" />
+        <mark key="^" line="12" column="48" />
+        <mark key="." line="12" column="46" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/mapper/DictRelaMapper.xml" timestamp="1589341027812">
         <mark key="[" line="5" column="72" />
@@ -209,12 +209,12 @@
         <mark key="^" line="6" column="3" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/ctrl/DictRelaController.kt" timestamp="1589341642702">
-        <mark key="'" line="32" column="44" />
-        <mark key="[" line="35" column="20" />
-        <mark key="]" line="35" column="35" />
-        <mark key="^" line="35" column="35" />
-        <mark key="." line="35" column="34" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/ctrl/DictRelaController.kt" timestamp="1589349161996">
+        <mark key="'" line="35" column="44" />
+        <mark key="[" line="44" column="45" />
+        <mark key="]" line="44" column="78" />
+        <mark key="^" line="44" column="78" />
+        <mark key="." line="44" column="77" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/vo/DictRelaVO.kt" timestamp="1589341108267">
         <mark key="[" line="6" column="28" />
@@ -341,46 +341,46 @@
         <text>\基本废物......\</text>
       </register>
       <register name="*" type="4">
-        <text>dictService</text>
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text>dictService</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>pretty</text>
       </register>
-      <register name="0" type="4">
-        <text>dictRelaService</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQKICAgIG9wZW4gbGF0ZWluaXQgdmFyIGRpY3RSZWxhU2VydmljZTogRGljdFJlbGFTZXJ2aWNlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAogICAgQFJlc291cmNlCiAgICBvcGVuIGxhdGVpbml0IHZhciBkaWN0UmVsYU1hcHBlcjogRGljdFJlbGFNYXBwZXIK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBxdWVyeURpY3QoZGljdDogRGljdEdyb3VwVk8pOiBMaXN0PERpY3RFbnRpdHk+PyB7CiAgICAgICAgdmFsIHAgPSBkaWN0Lm1rUGFnZTxEaWN0RW50aXR5PigpCiAgICAgICAgcmV0dXJuIGRpY3RNYXBwZXIuc2VsZWN0RGljQnlHcm91cChwLCBkaWN0KQogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5p+l6K+i5YiG57uE5LiL5a2X5YW4Iiwgbm90ZXMgPSAiIikKICAgIEBQb3N0TWFwcGluZyh2YWx1ZSA9IFsiL3F1ZXJ5TGlzdCJdKQogICAgb3BlbiBmdW4gcXVlcnlSdWxlKEBBcGlQYXJhbSh2YWx1ZSA9ICLlrZflhbjlrp7kvZMiKSBAUmVxdWVzdEJvZHkgZGljdFZPOiBEaWN0Vk8pOiBSPCo+PyB7CiAgICAgICAgcmV0dXJuIFIub2soZGljdFNlcnZpY2UubGlzdChXcmFwcGVycy5xdWVyeShkaWN0Vk8pKSkKICAgIH0K</text>
+        <text encoding="base64">ICAgIG92ZXJyaWRlIGZ1biBxdWVyeURpY3QoZGljdDogRGljdEdyb3VwVk8pOiBMaXN0PERpY3RFbnRpdHk+PyB7CiAgICAgICAgdmFsIHAgPSBkaWN0Lm1rUGFnZTxEaWN0RW50aXR5PigpCiAgICAgICAgcmV0dXJuIGRpY3RNYXBwZXIuc2VsZWN0RGljQnlHcm91cChwLCBkaWN0KQogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIuaOkuW6jyIpCiAgICB2YXIgb3JkZXJzOiBJbnQ/ID0gbnVsbAoKICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIue8lueggeaXtueUqOadpeWIpOaWreeahOexu+Wei+WAvCIpCiAgICB2YXIgY29kZTogU3RyaW5nPyA9IG51bGwKCiAgICBAQXBpTW9kZWxQcm9wZXJ0eSh2YWx1ZSA9ICLmiYDlsZ7liIbnu4RJRCIpCiAgICBAZmllbGQ6Tm90QmxhbmsobWVzc2FnZSA9ICLliIbnu4RJROS4jeiDveS4uuepuiIpCiAgICB2YXIgZ3JvdXBJZDogU3RyaW5nPyA9IG51bGwKCiAgICBAQXBpTW9kZWxQcm9wZXJ0eSh2YWx1ZSA9ICLlkK/nlKjnirbmgIExLzAiKQogICAgdmFyIHN0YXR1czogU3RyaW5nPyA9IG51bGwKCiAgICBAQXBpTW9kZWxQcm9wZXJ0eSh2YWx1ZSA9ICLmj4/ov7AiKQogICAgdmFyIGRlc2NyaXB0aW9uOiBTdHJpbmc/ID0gbnVsbAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5p+l6K+i5YiG57uE5LiL5a2X5YW4Iiwgbm90ZXMgPSAiIikKICAgIEBQb3N0TWFwcGluZyh2YWx1ZSA9IFsiL3F1ZXJ5TGlzdCJdKQogICAgb3BlbiBmdW4gcXVlcnlSdWxlKEBBcGlQYXJhbSh2YWx1ZSA9ICLlrZflhbjlrp7kvZMiKSBAUmVxdWVzdEJvZHkgZGljdFZPOiBEaWN0Vk8pOiBSPCo+PyB7CiAgICAgICAgcmV0dXJuIFIub2soZGljdFNlcnZpY2UubGlzdChXcmFwcGVycy5xdWVyeShkaWN0Vk8pKSkKICAgIH0K</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaHR0cHM6Ly93d3cuYmFpZHUuY29tL3M/aWU9dXRmLTgmZj04JnJzdl9icD0xJnJzdl9pZHg9MSZ0bj1iYWlkdSZ3ZD10ZXN0JmZlbmxlaT0yNTYmcnN2X3BxPWEzNWRmYzVlMDAwN2UzMmImcnN2X3Q9MWIyOG5EOEczZXdWb2x5clNTbXY5aGFSelNIZVNoYkowbGpvNGM0S0c3byUyRkElMkZWbUZoSXZEQ092WmJrJnJxbGFuZz1jbiZyc3ZfZW50ZXI9MCZyc3ZfZGw9dGImcnN2X3N1ZzM9NCZyc3Zfc3VnMT0yJnJzdl9zdWc3PTEwMCZyc3ZfYnR5cGU9aSZwcmVmaXhzdWc9dGVzdCZyc3A9MiZpbnB1dFQ9MTEwOSZyc3Zfc3VnND0xMTA5Cg==</text>
+        <text encoding="base64">ICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIuaOkuW6jyIpCiAgICB2YXIgb3JkZXJzOiBJbnQ/ID0gbnVsbAoKICAgIEBBcGlNb2RlbFByb3BlcnR5KHZhbHVlID0gIue8lueggeaXtueUqOadpeWIpOaWreeahOexu+Wei+WAvCIpCiAgICB2YXIgY29kZTogU3RyaW5nPyA9IG51bGwKCiAgICBAQXBpTW9kZWxQcm9wZXJ0eSh2YWx1ZSA9ICLmiYDlsZ7liIbnu4RJRCIpCiAgICBAZmllbGQ6Tm90QmxhbmsobWVzc2FnZSA9ICLliIbnu4RJROS4jeiDveS4uuepuiIpCiAgICB2YXIgZ3JvdXBJZDogU3RyaW5nPyA9IG51bGwKCiAgICBAQXBpTW9kZWxQcm9wZXJ0eSh2YWx1ZSA9ICLlkK/nlKjnirbmgIExLzAiKQogICAgdmFyIHN0YXR1czogU3RyaW5nPyA9IG51bGwKCiAgICBAQXBpTW9kZWxQcm9wZXJ0eSh2YWx1ZSA9ICLmj4/ov7AiKQogICAgdmFyIGRlc2NyaXB0aW9uOiBTdHJpbmc/ID0gbnVsbAo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaHR0cHM6Ly93d3cuYmFpZHUuY29tL3M/aWU9dXRmLTgmZj04JnJzdl9icD0xJnJzdl9pZHg9MSZ0bj1iYWlkdSZ3ZD10ZXN0JmZlbmxlaT0yNTYmcnN2X3BxPWEzNWRmYzVlMDAwN2UzMmImcnN2X3Q9MWIyOG5EOEczZXdWb2x5clNTbXY5aGFSelNIZVNoYkowbGpvNGM0S0c3byUyRkElMkZWbUZoSXZEQ092WmJrJnJxbGFuZz1jbiZyc3ZfZW50ZXI9MCZyc3ZfZGw9dGImcnN2X3N1ZzM9NCZyc3Zfc3VnMT0yJnJzdl9zdWc3PTEwMCZyc3ZfYnR5cGU9aSZwcmVmaXhzdWc9dGVzdCZyc3A9MiZpbnB1dFQ9MTEwOSZyc3Zfc3VnND0xMTA5Cg==</text>
       </register>
       <register name="y" type="4">
         <text>B</text>
