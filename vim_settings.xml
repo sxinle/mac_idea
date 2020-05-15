@@ -8,7 +8,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>Array</entry>
         <entry>application</entry>
         <entry>Application</entry>
         <entry>Empty</entry>
@@ -28,6 +27,7 @@
         <entry>xml</entry>
         <entry>org.json</entry>
         <entry>json</entry>
+        <entry>jslx</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5nL14kL2Q=</entry>
@@ -337,7 +337,7 @@
         <text>org.json.</text>
       </register>
       <register name="/" type="4">
-        <text>json</text>
+        <text>jslx</text>
       </register>
       <register name="0" type="4">
         <text>http://192.168.11.217:9030/geoserver/tongliang_20200422145840/1%E7%AE%A1%E9%81%93%E7%B3%BB%E7%BB%9F/wms?request=GetCapabilities</text>
@@ -382,9 +382,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>json</last-search>
+      <last-search>jslx</last-search>
       <last-offset />
-      <last-pattern>json</last-pattern>
+      <last-pattern>jslx</last-pattern>
       <last-replace>p</last-replace>
       <last-substitute>tl</last-substitute>
       <last-dir>1</last-dir>
