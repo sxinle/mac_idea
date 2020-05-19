@@ -125,17 +125,23 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/ctrl/MapServiceController.kt" timestamp="1589855421714">
-        <mark key="[" line="29" column="31" />
-        <mark key="]" line="29" column="34" />
-        <mark key="." line="29" column="33" />
-        <mark key="^" line="29" column="34" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/ctrl/MapServiceController.kt" timestamp="1589880179057">
+        <mark key="[" line="46" column="105" />
+        <mark key="]" line="46" column="105" />
+        <mark key="." line="46" column="105" />
+        <mark key="^" line="44" column="32" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.53/fastjson-1.2.53-sources.jar!/com/alibaba/fastjson/JSON.java" timestamp="1589850142962">
         <mark key="[" line="858" column="30" />
         <mark key="]" line="858" column="30" />
         <mark key="^" line="858" column="30" />
         <mark key="." line="858" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/vo/MapServiceVO.kt" timestamp="1589880097527">
+        <mark key="[" line="31" column="31" />
+        <mark key="]" line="31" column="36" />
+        <mark key="." line="31" column="35" />
+        <mark key="^" line="31" column="36" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/pom.xml" timestamp="1589875895762">
         <mark key="[" line="79" column="31" />
@@ -183,22 +189,12 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="55" column="46" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.53/fastjson-1.2.53-sources.jar!/com/alibaba/fastjson/util/JavaBeanInfo.java" timestamp="1589796722130">
-        <mark key="'" line="271" column="24" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/resources/a.xml" timestamp="1589790955893">
-        <mark key="'" line="968" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="969" column="0" />
-        <mark key="^" line="969" column="0" />
-        <mark key="." line="968" column="1" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/MapService.kt" timestamp="1589860541224">
-        <mark key="'" line="29" column="43" />
-        <mark key="[" line="58" column="35" />
-        <mark key="]" line="58" column="40" />
-        <mark key="^" line="58" column="40" />
-        <mark key="." line="58" column="39" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/MapService.kt" timestamp="1589880550718">
+        <mark key="'" line="73" column="62" />
+        <mark key="[" line="67" column="19" />
+        <mark key="]" line="67" column="19" />
+        <mark key="." line="67" column="19" />
+        <mark key="^" line="48" column="8" />
       </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.53/fastjson-1.2.53-sources.jar!/com/alibaba/fastjson/parser/DefaultJSONParser.java" timestamp="1589850901041">
         <mark key="[" line="1593" column="57" />
@@ -222,18 +218,21 @@
         <mark key="^" line="32" column="64" />
         <mark key="." line="32" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/IMapService.kt" timestamp="1589855443857">
-        <mark key="[" line="11" column="57" />
-        <mark key="]" line="11" column="57" />
-        <mark key="." line="11" column="57" />
-        <mark key="^" line="10" column="4" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/IMapService.kt" timestamp="1589880183845">
+        <mark key="[" line="13" column="49" />
+        <mark key="]" line="13" column="49" />
+        <mark key="." line="13" column="49" />
+        <mark key="^" line="12" column="4" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/entity/MapServiceEntity.kt" timestamp="1589880038753">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="37" />
       </file>
       <file name="/fragment.java" timestamp="1589853776287">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="199" column="125" filename="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/gis/HTTPSender.java" />
       <jump line="63" column="25" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar!/org/apache/http/entity/ContentType.class" />
       <jump line="67" column="23" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar!/org/apache/http/entity/ContentType.class" />
       <jump line="68" column="24" filename="$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar!/org/apache/http/entity/ContentType.class" />
@@ -333,6 +332,7 @@
       <jump line="513" column="55" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/vo/third/LayersTree.java" />
       <jump line="639" column="35" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/vo/third/LayersTree.java" />
       <jump line="29" column="10" filename="$MAVEN_REPOSITORY$/org/apache/maven/plugins/maven-compiler-plugin/3.8.1/maven-compiler-plugin-3.8.1.pom" />
+      <jump line="66" column="62" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/MapService.kt" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -340,47 +340,47 @@
       <register name="&quot;" type="4">
         <text>\基本废物......\</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bWFpbkNsYXNzPiR7c3RhcnQtY2xhc3N9PC9tYWluQ2xhc3M+Cg==</text>
+      <register name="*" type="4">
+        <text>;</text>
       </register>
       <register name="-" type="4">
-        <text>src/</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>output</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgb3BlbiBsYXRlaW5pdCB2YXIgbWFwU2VydmljZU1hcHBlcjogTWFwU2VydmljZU1hcHBlcgo=</text>
+      <register name="0" type="4">
+        <text encoding="base64">V3JhcHBlcnMuZW1wdHlXcmFwcGVyPExheWVyc0VudGl0eT4oKS5lcShCYXNlRW50aXR5LnRvQ29sTmFtZShMYXllcnNFbnRpdHk6Om1hcElkLm5hbWUpLmZpcnN0T3JOdWxsKCksIG1hcFNlcnZpY2VWTy5pZCk=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bWFpbkNsYXNzPiR7c3RhcnQtY2xhc3N9PC9tYWluQ2xhc3M+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGF5b3V0PlpJUDwvbGF5b3V0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxjb24K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8Y29uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx2ZXJzaW9uPiR7c3ByaW5nLnZlcnNpb259PC92ZXJzaW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICB2YWwgd3JhcHBlciA9IFdyYXBwZXJzLmVtcHR5V3JhcHBlcjxMYXllcnNFbnRpdHk+KCkuZXEoQmFzZUVudGl0eS50b0NvbE5hbWUoTGF5ZXJzRW50aXR5OjptYXBJZC5uYW1lKS5maXJzdE9yTnVsbCgpLCBtYXBTZXJ2aWNlVk8uaWQpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHBsdWdpbj4KICAgICAgICAgICAgICAgIDxncm91cElkPm9yZy5hcGFjaGUubWF2ZW4ucGx1Z2luczwvZ3JvdXBJZD4KICAgICAgICAgICAgICAgIDxhcnRpZmFjdElkPm1hdmVuLWphci1wbHVnaW48L2FydGlmYWN0SWQ+CiAgICAgICAgICAgICAgICA8dmVyc2lvbj4zLjAuMjwvdmVyc2lvbj4KICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgICAgICAgICAgICAgICAgIDxhcmNoaXZlPgogICAgICAgICAgICAgICAgICAgICAgICA8bWFuaWZlc3Q+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bWFpbkNsYXNzPmNvbS5zeXpoLmdpcy5wZXJtaXQuPC9tYWluQ2xhc3M+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvbWFuaWZlc3Q+CiAgICAgICAgICAgICAgICAgICAgPC9hcmNoaXZlPgogICAgICAgICAgICAgICAgICAgIDxvdXRwdXREaXJlY3Rvcnk+Li4vc3JjL3RhcmdldDwvb3V0cHV0RGlyZWN0b3J5PgogICAgICAgICAgICAgICAgPC9jb25maWd1cmF0aW9uPgogICAgICAgICAgICA8L3BsdWdpbj4K</text>
+        <text encoding="base64">ICAgICAgICByZW1vdmUK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxjb25maWd1cmF0aW9uPgogICAgPC9jb25maWd1cmF0aW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxhcmNoaXZlPgogICAgICAgICAgICAgICAgICAgIDxtYW5pZmVzdD4KICAgICAgICAgICAgICAgICAgICAgICAgPG1haW5DbGFzcz5wYWNha2dlQW5kQ2xhc3NlTmFtZTwvbWFpbkNsYXNzPgogICAgICAgICAgICAgICAgICAgIDwvbWFuaWZlc3Q+CiAgICAgICAgICAgICAgICA8L2FyY2hpdmU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8YXJjaGl2ZT4KICAgICAgICAgICAgPG1hbmlmZXN0PgogICAgICAgICAgICAgICA8bWFpbkNsYXNzPnBhY2FrZ2VBbmRDbGFzc2VOYW1lPC9tYWluQ2xhc3M+CiAgICAgICAgICAgIDwvbWFuaWZlc3Q+CiAgICAgICAgPC9hcmNoaXZlPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>B</text>
