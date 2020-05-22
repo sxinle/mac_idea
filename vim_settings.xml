@@ -125,6 +125,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/java/com/syzh/gis/updm/vo/LineVO.java" timestamp="1590116538339">
+        <mark key="[" line="68" column="17" />
+        <mark key="]" line="68" column="32" />
+        <mark key="^" line="68" column="32" />
+        <mark key="." line="68" column="31" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.53/fastjson-1.2.53-sources.jar!/com/alibaba/fastjson/JSON.java" timestamp="1590056941028">
         <mark key="'" line="275" column="24" />
       </file>
@@ -171,12 +177,12 @@
         <mark key="^" line="31" column="28" />
         <mark key="." line="33" column="28" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/java/com/syzh/gis/updm/service/impl/DealPointDataService.java" timestamp="1590115798372">
-        <mark key="'" line="214" column="74" />
-        <mark key="[" line="129" column="0" />
-        <mark key="]" line="129" column="0" />
-        <mark key="^" line="126" column="34" />
-        <mark key="." line="129" column="0" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/java/com/syzh/gis/updm/service/impl/DealPointDataService.java" timestamp="1590116752439">
+        <mark key="'" line="201" column="74" />
+        <mark key="[" line="189" column="0" />
+        <mark key="]" line="189" column="0" />
+        <mark key="." line="189" column="0" />
+        <mark key="^" line="187" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/pom.xml" timestamp="1590051505037">
         <mark key="'" line="95" column="13" />
@@ -223,12 +229,6 @@
         <mark key="]" line="17" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/MapService.kt" timestamp="1590056308734" />
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/mapper/ParamMapper.xml" timestamp="1590044500790">
-        <mark key="[" line="21" column="55" />
-        <mark key="]" line="21" column="62" />
-        <mark key="^" line="21" column="62" />
-        <mark key="." line="21" column="61" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="1132" column="44" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/vo/third/LayersTree.java" />
@@ -339,46 +339,46 @@
         <text>\基本废物......\</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oeCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIOayoeacieWAvOaXtu+8jOaMiTDluqborqHnrpcK</text>
       </register>
       <register name="-" type="4">
-        <text>double</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWdyZWVcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oeCk7Cg==</text>
+      <register name="0" type="4">
+        <text>lineVOOutList.get(0)</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeTIgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIOayoeacieWAvOaXtu+8jOaMiTDluqborqHnrpcK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeTEgPSAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHkyID0gMDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkb3VibGUgZGVncmVlID0gOTA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBMaW5lVk8gc2V0U3koZG91YmxlIHN5KSB7CiAgICAgICAgdGhpcy5zeSA9IHN5OwogICAgICAgIHJldHVybiB0aGlzOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlmIChsaW5lU3RhcnRTaWQuZXF1YWxzKHBvaW50U2lkKSkgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vIOS7peacgOeyl+euoee6v+eahOi1t+eCueS4uui1t+eCuQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHgxID0gbGluZS5nZXRTeCgpICE9IDAgPyBsaW5lLmdldFN4KCkgOiAtMTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB5MSA9IGxpbmUuZ2V0U3koKSAhPSAwID8gbGluZS5nZXRTeSgpIDogLTE7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeDIgPSBsaW5lLmdldEV4KCkgIT0gMCA/IGxpbmUuZ2V0RXgoKSA6IC0xOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHkyID0gbGluZS5nZXRFeSgpICE9IDAgPyBsaW5lLmdldEV5KCkgOiAtMTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLy8g5Lul5pyA57KX566h57q/55qE57uI54K55Li66LW354K5CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeDEgPSBsaW5lLmdldEV4KCkgIT0gMCA/IGxpbmUuZ2V0RXgoKSA6IC0xOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHkxID0gbGluZS5nZXRFeSgpICE9IDAgPyBsaW5lLmdldEV5KCkgOiAtMTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB4MiA9IGxpbmUuZ2V0U3goKSAhPSAwID8gbGluZS5nZXRTeCgpIDogLTE7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeTIgPSBsaW5lLmdldFN5KCkgIT0gMCA/IGxpbmUuZ2V0U3koKSA6IC0xOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICB9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKFN0cmluZ1V0aWxzLmlzRW1wdHkocG9pbnRTaWQpKSB7CiAgICAgICAgICAgICAgICBwb2ludFNpZCA9IHBvaW50LmdldFNpZCgpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy8g5rKh5pyJ5YC85pe277yM5oyJMOW6puiuoeeulwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIGlmIChvMS5nZXROb21pbmFsZGlhbWV0ZXIoKSA8IG8yLmdldE5vbWluYWxkaWFtZXRlcigpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gMTsKICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIGlmIChvMS5nZXROb21pbmFsZGlhbWV0ZXIoKSA+IG8yLmdldE5vbWluYWxkaWFtZXRlcigpKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gLTE7CiAgICAgICAgICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gMDsKICAgICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcG9pbnRTaWQ7CiAgICAgICAgU3RyaW5nIGxpbmVTdGFydFNpZDsKICAgICAgICBMaXN0PExpbmVWTz4gbGluZVZPSW5MaXN0ID0gbmV3IEFycmF5TGlzdDw+KCk7CiAgICAgICAgTGlzdDxMaW5lVk8+IGxpbmVWT091dExpc3QgPSBuZXcgQXJyYXlMaXN0PD4oKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcmV0dXJuIAo=</text>
       </register>
       <register name="y" type="4">
         <text>B</text>
