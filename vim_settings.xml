@@ -162,11 +162,10 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/vo/ParamVO.kt" timestamp="1590034226787">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-        <mark key="^" line="19" column="16" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/java/com/syzh/gis/updm/service/impl/DealPointDataService.java" timestamp="1590111369956">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/pom.xml" timestamp="1590051505037">
         <mark key="'" line="95" column="13" />
@@ -208,6 +207,10 @@
         <mark key="]" line="19" column="3" />
         <mark key="^" line="18" column="4" />
         <mark key="." line="19" column="3" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/java/com/syzh/gis/updm/ctrl/DealPointDataController.java" timestamp="1590111375934">
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="17" column="30" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/MapService.kt" timestamp="1590056308734" />
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/mapper/ParamMapper.xml" timestamp="1590044500790">
@@ -325,8 +328,8 @@
       <register name="&quot;" type="4">
         <text>\基本废物......\</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICAgICBASnNvbklnbm9yZSgpCg==</text>
+      <register name="*" type="4">
+        <text>dealPointData</text>
       </register>
       <register name="-" type="4">
         <text>档</text>
@@ -335,37 +338,37 @@
         <text encoding="base64">XDxMYXllclw+</text>
       </register>
       <register name="0" type="4">
-        <text>JsonIgnore</text>
+        <text>dealPointData</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBASnNvbklnbm9yZSgpCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmFmeC5zY2VuZS5jaGFydC5TdGFja2VkQmFyQ2hhcnQ7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aHR0cDovL2xvY2FsaG9zdDo4MDgwL2RvYy5odG1sCg==</text>
+        <text encoding="base64">ICAgICAgICBASnNvbklnbm9yZSgpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aHR0cDovL2xvY2FsaG9zdDo4MDgwL3YyL2FwaS1kb2NzCg==</text>
+        <text encoding="base64">aHR0cDovL2xvY2FsaG9zdDo4MDgwL2RvYy5odG1sCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">aHR0cDovL2xvY2FsaG9zdDo4MDgwL3YyL2FwaS1kb2NzCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGxuKHJlcSkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBwcmludGxuKHJlcSkK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzb3V0Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXEK</text>
+        <text encoding="base64">ICAgICAgICBzb3V0Cg==</text>
       </register>
       <register name="y" type="4">
         <text>B</text>
