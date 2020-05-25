@@ -132,6 +132,12 @@
         <mark key="^" line="38" column="53" />
         <mark key="." line="38" column="52" />
       </file>
+      <file name="$USER_HOME$/workspace/shangyuan/Kotlin-Koans/Conventions/For loop/src/Task.kt" timestamp="1590395271649">
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="5" column="33" />
+        <mark key="." line="5" column="32" />
+        <mark key="^" line="5" column="33" />
+      </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/gis/R.java" timestamp="1590380681980">
         <mark key="'" line="25" column="49" />
       </file>
@@ -152,13 +158,6 @@
         <mark key="]" line="56" column="105" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/IRuleRoleService.kt" timestamp="1590387632478" />
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/pom.xml" timestamp="1590376302248">
-        <mark key="'" line="97" column="35" />
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="18" column="21" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="97" column="36" />
-      </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/vo/LayersVO.kt" timestamp="1590380410906">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="44" column="9" />
@@ -330,34 +329,43 @@
       <register name="&quot;" type="4">
         <text>\基本废物......\</text>
       </register>
-      <register name="*" type="4">
-        <text>Any</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBNeURhdGUoc3RhcnQueWVhciwgc3RhcnQubW9udGgsIHN0YXJ0LmRheU9mTW9udGgpLmZvbGxvd2luZ0RhdGUoKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>Any</text>
+        <text>true</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhcGlQb3N0XD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>oFilter</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghaGFzTmV4dCgpKSB0aHJvdyBOb1N1Y2hFbGVtZW50RXhjZXB0aW9uKCkKICAgICAgICAgICAgICAgIHZhbCByZXN1bHQgPSBjdXJyZW50CiAgICAgICAgICAgICAgICBjdXJyZW50ID0gY3VycmVudC5mb2xsb3dpbmdEYXRlKCkKICAgICAgICAgICAgICAgIHJldHVybiByZXN1bHQK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgcHJpbnRsbihmaWx0ZXIpCiAgICAgICAgcHJpbnRsbihvRmlsdGVyLmdldCgicmF3IikpCiAgICAgICAgcHJpbnRsbihmaWx0ZXIuZXF1YWxzKG9GaWx0ZXIuZ2V0KCJyYXciKSkpCgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBNeURhdGUoc3RhcnQueWVhciwgc3RhcnQubW9udGgsIHN0YXJ0LmRheU9mTW9udGgpLmZvbGxvd2luZ0RhdGUoKQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZmlsdGVyID0gIntcImZpbHRlclwiOlwiW3tcXFwiZlxcXCI6XFxcImEuc3RhdGlvbnR5cGVcXFwiLFxcXCJvcFxcXCI6XFxcImVxXFxcIixcXFwidlxcXCI6XFxcIjFcXFwiLFxcXCJ0XFxcIjpcXFwic1xcXCJ9XVwifSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5yZXBsYWNlKCIiIiIiIiIsICIiIlwiIiIiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuaGFzTmV4dCgpCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">CiAgICAgICAgcHJpbnRsbihmaWx0ZXIpCiAgICAgICAgcHJpbnRsbihvRmlsdGVyLmdldCgicmF3IikpCiAgICAgICAgcHJpbnRsbihmaWx0ZXIuZXF1YWxzKG9GaWx0ZXIuZ2V0KCJyYXciKSkpCgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB2YWwgZmlsdGVyID0gIntcImZpbHRlclwiOlwiW3tcXFwiZlxcXCI6XFxcImEuc3RhdGlvbnR5cGVcXFwiLFxcXCJvcFxcXCI6XFxcImVxXFxcIixcXFwidlxcXCI6XFxcIjFcXFwiLFxcXCJ0XFxcIjpcXFwic1xcXCJ9XVwifSIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5yZXBsYWNlKCIiIiIiIiIsICIiIlwiIiIiKQo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSlNPTk9iamVjdC50b0pTT05TdHJpbmcobGlzdE9mKG1hcE9mKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJmIiB0byAiYS5zdGF0aW9udHlwZSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIm9wIiB0byAiZXEiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ2IiB0byAiMSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInQiIHRvICJzIgogICAgICAgICAgICAgICAgICAgICAgICApKSkK</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>listOf(mapOf(
                                 &quot;f&quot; to &quot;a.stationtype&quot;,
                                 &quot;op&quot; to &quot;eq&quot;,
@@ -365,23 +373,8 @@
                                 &quot;t&quot; to &quot;s&quot;
                         ))</text>
       </register>
-      <register name="6" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGlzdE9mKG1hcE9mKAogICAgICAgICAgICAgICAgICAgICAgICAiZiIgdG8gImEuc3RhdGlvbnR5cGUiLAogICAgICAgICAgICAgICAgICAgICAgICAib3AiIHRvICJlcSIsCiAgICAgICAgICAgICAgICAgICAgICAgICJ2IiB0byAiMSIsCiAgICAgICAgICAgICAgICAgICAgICAgICJ0IiB0byAicyIKICAgICAgICAgICAgICAgICkpKSkK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="9" type="4">
-        <text>mapOf(&quot;filter&quot;
-                to listOf(mapOf(
-                &quot;f&quot; to &quot;a.stationtype&quot;,
-                &quot;op&quot; to &quot;eq&quot;,
-                &quot;v&quot; to &quot;1&quot;,
-                &quot;t&quot; to &quot;s&quot;
-        ))</text>
       </register>
       <register name="y" type="4">
         <text>B</text>
