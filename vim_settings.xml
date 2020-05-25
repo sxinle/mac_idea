@@ -8,10 +8,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>select</entry>
-        <entry>swagger</entry>
-        <entry encoding="base64">XDxMYXllclw+</entry>
-        <entry encoding="base64">XDxsc3RDb25uZWN0TGluZVw+</entry>
         <entry encoding="base64">XDxhc3NldGdyb3VwXD4=</entry>
         <entry encoding="base64">XDxwb2ludFNpZFw+</entry>
         <entry encoding="base64">XDxpc1BpcGVsaW5lSnVuY3Rpb25cPg==</entry>
@@ -28,6 +24,10 @@
         <entry encoding="base64">XDxwb29sYWJsZUNvbm5lY3Rpb25cPg==</entry>
         <entry>sync</entry>
         <entry>syn</entry>
+        <entry>layers</entry>
+        <entry>sdf</entry>
+        <entry encoding="base64">XDxnZXRDaGlsZHJlblw+</entry>
+        <entry encoding="base64">XDxJUGFnZVw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzIxOC42MC4xNC45OTo4MDg4L2xvY2FsaG9zdDo4MDgwL2c=</entry>
@@ -125,12 +125,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/shangyuan/Kotlin-Koans/Classes/Sealed classes/src/Task.kt" timestamp="1590141533892">
-        <mark key="[" line="3" column="37" />
-        <mark key="]" line="3" column="55" />
-        <mark key="." line="3" column="54" />
-        <mark key="^" line="3" column="55" />
-      </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/city-gis-parent/pom.xml" timestamp="1590376008472">
         <mark key="'" line="160" column="35" />
         <mark key="[" line="161" column="33" />
@@ -141,11 +135,14 @@
       <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.1.17/druid-1.1.17-sources.jar!/com/alibaba/druid/pool/DruidDataSource.java" timestamp="1590227681817">
         <mark key="'" line="1392" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/Kotlin-Koans/Conventions/For loop/src/Task.kt" timestamp="1590143164706">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="8" column="30" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/LayersService.kt" timestamp="1590383407609">
+        <mark key="[" line="81" column="56" />
+        <mark key="]" line="81" column="64" />
+        <mark key="^" line="81" column="64" />
+        <mark key="." line="81" column="63" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/gis/R.java" timestamp="1590380681980">
+        <mark key="'" line="25" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/gis/jdbc/SimpleJdbcTemplate.java" timestamp="1590378027281">
         <mark key="'" line="240" column="0" />
@@ -154,6 +151,11 @@
         <mark key="]" line="54" column="46" />
         <mark key="^" line="54" column="46" />
         <mark key="." line="54" column="45" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/DictGroupService.kt" timestamp="1590379850979">
+        <mark key="'" line="56" column="27" />
+        <mark key="[" line="56" column="45" />
+        <mark key="]" line="56" column="105" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/resources/application-dev.yml" timestamp="1590226238880">
         <mark key="[" line="5" column="46" />
@@ -168,11 +170,16 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="97" column="36" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/Kotlin-Koans/Conventions/Ranges/src/Task.kt" timestamp="1590142418273">
-        <mark key="[" line="1" column="11" />
-        <mark key="]" line="1" column="32" />
-        <mark key="." line="1" column="31" />
-        <mark key="^" line="1" column="32" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/vo/LayersVO.kt" timestamp="1590380410906">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="44" column="9" />
+        <mark key="]" line="44" column="16" />
+        <mark key="." line="44" column="15" />
+        <mark key="^" line="44" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/entity/LayersEntity.kt" timestamp="1590380039629">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="44" column="30" />
       </file>
       <file name="/Dummy.txt" timestamp="1590378059796">
         <mark key="[" line="0" column="0" />
@@ -180,11 +187,9 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/Kotlin-Koans/Classes/Rename on import/src/Task.kt" timestamp="1590141621202">
-        <mark key="[" line="7" column="12" />
-        <mark key="]" line="7" column="12" />
-        <mark key="^" line="0" column="39" />
-        <mark key="." line="7" column="12" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/vo/DictGroupVO.kt" timestamp="1590379887121">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="28" column="5" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/pom.xml" timestamp="1590376295571">
         <mark key="'" line="107" column="0" />
@@ -196,12 +201,6 @@
       <file name="$MAVEN_REPOSITORY$/org/springframework/spring-core/5.2.5.RELEASE/spring-core-5.2.5.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class" timestamp="1590369019463">
         <mark key="[" line="102" column="0" />
         <mark key="]" line="102" column="51" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/Kotlin-Koans/Conventions/Comparison/src/Task.kt" timestamp="1590142312193">
-        <mark key="[" line="6" column="9" />
-        <mark key="]" line="7" column="52" />
-        <mark key="." line="7" column="51" />
-        <mark key="^" line="7" column="52" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/java/com/syzh/gis/updm/service/impl/TopologyService.java" timestamp="1590369328154">
         <mark key="[" line="59" column="54" />
@@ -216,14 +215,9 @@
         <mark key="^" line="97" column="32" />
         <mark key="." line="97" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/Kotlin-Koans/Classes/Extension functions/src/Task.kt" timestamp="1590142154158">
-        <mark key="[" line="2" column="45" />
-        <mark key="]" line="2" column="63" />
-        <mark key="^" line="2" column="63" />
-        <mark key="." line="2" column="62" />
-      </file>
-      <file name="$MAVEN_REPOSITORY$/com/alibaba/druid/1.1.17/druid-1.1.17-sources.jar!/com/alibaba/druid/pool/DruidPooledConnection.java" timestamp="1590143436540">
-        <mark key="'" line="0" column="0" />
+      <file name="/LayersService.kt" timestamp="1590380695336">
+        <mark key="[" line="32" column="44" />
+        <mark key="]" line="32" column="66" />
       </file>
       <file name="/fragment.java" timestamp="1590227877164">
         <mark key="[" line="0" column="0" />
@@ -237,16 +231,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="35" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/resources/application.yml" />
-      <jump line="54" column="0" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/resources/application.yml" />
-      <jump line="96" column="13" filename="$USER_HOME$/workspace/shangyuan/city-gis/pom.xml" />
-      <jump line="99" column="23" filename="$USER_HOME$/workspace/shangyuan/city-gis/pom.xml" />
-      <jump line="33" column="32" filename="$USER_HOME$/workspace/shangyuan/city-gis/pom.xml" />
-      <jump line="95" column="13" filename="$USER_HOME$/workspace/shangyuan/city-gis/pom.xml" />
-      <jump line="831" column="24" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/vo/third/LayersTree.java" />
-      <jump line="843" column="309" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/vo/third/LayersTree.java" />
-      <jump line="860" column="21" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/vo/third/LayersTree.java" />
-      <jump line="862" column="20" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/vo/third/LayersTree.java" />
       <jump line="866" column="38" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/vo/third/LayersTree.java" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/vo/third/LayersTree.java" />
       <jump line="14" column="1478" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/vo/third/LayersTree.java" />
@@ -337,6 +321,16 @@
       <jump line="33" column="38" filename="$USER_HOME$/workspace/shangyuan/city-gis/common/pom.xml" />
       <jump line="127" column="0" filename="$USER_HOME$/workspace/shangyuan/city-gis/common/pom.xml" />
       <jump line="17" column="34" filename="$USER_HOME$/workspace/shangyuan/city-gis/common/pom.xml" />
+      <jump line="91" column="68" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/DictGroupService.kt" />
+      <jump line="87" column="16" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/DictGroupService.kt" />
+      <jump line="32" column="23" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/DictGroupService.kt" />
+      <jump line="56" column="27" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/DictGroupService.kt" />
+      <jump line="30" column="12" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/vo/LayersVO.kt" />
+      <jump line="11" column="11" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/vo/LayersVO.kt" />
+      <jump line="14" column="0" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/vo/LayersVO.kt" />
+      <jump line="3" column="46" filename="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/gis/R.java" />
+      <jump line="24" column="28" filename="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/gis/R.java" />
+      <jump line="25" column="49" filename="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/gis/R.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -345,16 +339,16 @@
         <text>\基本废物......\</text>
       </register>
       <register name="*" type="4">
-        <text>commit</text>
+        <text>pid</text>
       </register>
       <register name="-" type="4">
-        <text>commit</text>
+        <text>pid</text>
       </register>
       <register name="/" type="4">
-        <text>syn</text>
+        <text encoding="base64">XDxJUGFnZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIGNvbW1pdChTdHJpbmcgZGF0YVNvdXJjZUtleSkgdGhyb3dzIEV4Y2VwdGlvbiB7CiAgICAgICAgY2hlY2soZGF0YVNvdXJjZUtleSk7CiAgICAgICAgcG9vbE1hcC5nZXQoZGF0YVNvdXJjZUtleSkuY29tbWl0KCk7CiAgICB9Cg==</text>
+      <register name="0" type="4">
+        <text encoding="base64">SVBhZ2U8b3V0IExheWVyc0VudGl0eT4=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -363,28 +357,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCJbSkRCQyBFeGNlcHRpb25dIC0tPiBGYWlsZWQgdG8gcm9sbGJhY2sgdGhlIHRyYW5zYWN0aW9uLCB0aGUgZXhjZXByaW9uIG1lc3NhZ2UgaXM6IiArIGUuZ2V0TWVzc2FnZSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCJbSkRCQyBFeGNlcHRpb25dIC0tPiBGYWlsZWQgdG8gY29tbWl0IHRoZSB0cmFuc2FjdGlvbiwgdGhlIGV4Y2VwcmlvbiBtZXNzYWdlIGlzOiIgKyBlLmdldE1lc3NhZ2UoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YWwgYWxsTGF5ZXJzOiBNdXRhYmxlTGlzdDxMYXllcnNFbnRpdHk+ID0gbGlzdCgpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCJbSkRCQyBFeGNlcHRpb25dIC0tPiBGYWlsZWQgdG8gc3RhcnQgdGhlIHRyYW5zYWN0aW9uLCB0aGUgZXhjZXByaW9uIG1lc3NhZ2UgaXM6IiArIGUuZ2V0TWVzc2FnZSgpKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5lcnJvcigiW0pEQkMgRXhjZXB0aW9uXSAtLT4gRmFpbGVkIHRvIGNsb3NlIHRoZSBEcnVpZFBvb2xlZENvbm5lY3Rpb24sIHRoZSBleGNlcHJpb24gbWVzc2FnZSBpczoiICsgZS5nZXRNZXNzYWdlKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbGF5ZXJzTWFwcGVyLnF1ZXJ5TGF5ZXJzKHAsIHZvKQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvZy5lcnJvcigiW0pEQkMgRXhjZXB0aW9uXSAtLT4gRmFpbGVkIHRvIGNsb3NlIHRoZSBEcnVpZFBvb2xlZENvbm5lY3Rpb24sIHRoZSBleGNlcHJpb24gbWVzc2FnZSBpczoiICsgZS5nZXRNZXNzYWdlKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9nLmVycm9yKCJbSkRCQyBFeGNlcHRpb25dIC0tPiBGYWlsZWQgdG8gY3JlYXRlIGEgY29ubmVjdGlvbiwgdGhlIGV4Y2VwcmlvbiBtZXNzYWdlIGlzOiIgKyBlLmdldE1lc3NhZ2UoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnN5emguZ2lzPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5jb21tb248L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjAuMC4xLTIwMjAwNTIyLjA2NDA0OC0zPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnN5emguZ2lzPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5jb21tb248L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDx2ZXJzaW9uPjAuMC4xLTIwMjAwNTIyLjA2NDA0OC0zPC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
+        <text encoding="base64">ICAgICAgICBqYXZhLnV0aWwuQXJyYXlMaXN0PFN0cmluZz4oKS5wYXJhbGxlbFN0cmVhbSgpCg==</text>
       </register>
       <register name="y" type="4">
         <text>B</text>
@@ -396,9 +390,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>syn</last-search>
+      <last-search encoding="base64">XDxJUGFnZVw+</last-search>
       <last-offset />
-      <last-pattern>syn</last-pattern>
+      <last-pattern encoding="base64">XDxJUGFnZVw+</last-pattern>
       <last-replace />
       <last-substitute>\\&quot;</last-substitute>
       <last-dir>1</last-dir>
