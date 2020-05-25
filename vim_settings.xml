@@ -141,29 +141,27 @@
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/gis/R.java" timestamp="1590380681980">
         <mark key="'" line="25" column="49" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/gis/jdbc/SimpleJdbcTemplate.java" timestamp="1590378027281">
-        <mark key="'" line="240" column="0" />
-        <mark key="j" line="11" column="27" />
-        <mark key="[" line="54" column="35" />
-        <mark key="]" line="54" column="46" />
-        <mark key="^" line="54" column="46" />
-        <mark key="." line="54" column="45" />
-      </file>
       <file name="$MAVEN_REPOSITORY$/com/alibaba/fastjson/1.2.53/fastjson-1.2.53-sources.jar!/com/alibaba/fastjson/JSON.java" timestamp="1590390203973">
         <mark key="'" line="577" column="25" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/DictGroupService.kt" timestamp="1590379850979">
-        <mark key="'" line="56" column="27" />
-        <mark key="[" line="56" column="45" />
-        <mark key="]" line="56" column="105" />
-      </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/IRuleRoleService.kt" timestamp="1590387632478" />
+      <file name="$USER_HOME$/workspace/shangyuan/Kotlin-Koans/Conventions/Invoke/src/Task.kt" timestamp="1590397664320">
+        <mark key="[" line="6" column="36" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="18" />
+        <mark key="^" line="7" column="19" />
+      </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/vo/LayersVO.kt" timestamp="1590380410906">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="44" column="9" />
         <mark key="]" line="44" column="16" />
         <mark key="." line="44" column="15" />
         <mark key="^" line="44" column="16" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/util/GISPermit.kt" timestamp="1590397048002">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/util/APIHelper.kt" timestamp="1590390664517">
         <mark key="'" line="30" column="54" />
@@ -182,10 +180,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/vo/DictGroupVO.kt" timestamp="1590379887121">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="28" column="5" />
-      </file>
       <file name="/fragment.kt" timestamp="1590388855514">
         <mark key="[" line="0" column="0" />
       </file>
@@ -195,6 +189,12 @@
         <mark key="^" line="462" column="29" />
         <mark key="." line="462" column="28" />
       </file>
+      <file name="$USER_HOME$/workspace/shangyuan/Kotlin-Koans/Collections/Introduction/src/Task.kt" timestamp="1590397849054">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="33" />
+        <mark key="." line="6" column="32" />
+        <mark key="^" line="6" column="33" />
+      </file>
       <file name="$MAVEN_REPOSITORY$/com/syzh/gis/common/0.0.1-SNAPSHOT/common-0.0.1-20200525.031028-4-sources.jar!/com/syzh/gis/Http.java" timestamp="1590389981303">
         <mark key="[" line="81" column="64" />
       </file>
@@ -202,11 +202,11 @@
         <mark key="[" line="32" column="44" />
         <mark key="]" line="32" column="66" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/Kotlin-Koans/Conventions/Operators overloading/src/Task.kt" timestamp="1590396001577">
-        <mark key="[" line="8" column="42" />
-        <mark key="]" line="8" column="42" />
-        <mark key="." line="8" column="42" />
-        <mark key="^" line="8" column="43" />
+      <file name="$USER_HOME$/workspace/shangyuan/Kotlin-Koans/Conventions/Operators overloading/src/Task.kt" timestamp="1590397590462">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="13" column="70" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/Kotlin-Koans/Conventions/Operators overloading/src/DateUtil.kt" timestamp="1590395983148" />
       <file name="/fragment.java" timestamp="1590389944819">
@@ -322,8 +322,8 @@
       <register name="&quot;" type="4">
         <text>\基本废物......\</text>
       </register>
-      <register name="*" type="4">
-        <text>,</text>
+      <register name="*" type="2">
+        <text encoding="base64">cHJpbnRsbihhLmdldCkK</text>
       </register>
       <register name="-" type="4">
         <text>,</text>
@@ -332,42 +332,37 @@
         <text encoding="base64">XDxhcGlQb3N0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICghaGFzTmV4dCgpKSB0aHJvdyBOb1N1Y2hFbGVtZW50RXhjZXB0aW9uKCkKICAgICAgICAgICAgICAgIHZhbCByZXN1bHQgPSBjdXJyZW50CiAgICAgICAgICAgICAgICBjdXJyZW50ID0gY3VycmVudC5mb2xsb3dpbmdEYXRlKCkKICAgICAgICAgICAgICAgIHJldHVybiByZXN1bHQK</text>
+        <text encoding="base64">b3BlcmF0b3IgZnVuIE15RGF0ZS5wbHVzKHRpbWVJbnRlcnZhbDogVGltZUludGVydmFsKTogTXlEYXRlID0KICAgICAgICBhZGRUaW1lSW50ZXJ2YWxzKHRpbWVJbnRlcnZhbCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBNeURhdGUoc3RhcnQueWVhciwgc3RhcnQubW9udGgsIHN0YXJ0LmRheU9mTW9udGgpLmZvbGxvd2luZ0RhdGUoKQo=</text>
+        <text encoding="base64">cHJpbnRsbihhLmdldCkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBUT0RPKCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuaGFzTmV4dCgpCg==</text>
+        <text encoding="base64">ICAgIG9wZXJhdG9yIGZ1biBpbnZva2UoKTogSW52b2thYmxlIHsKICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgcHJpbnRsbihmaWx0ZXIpCiAgICAgICAgcHJpbnRsbihvRmlsdGVyLmdldCgicmF3IikpCiAgICAgICAgcHJpbnRsbihmaWx0ZXIuZXF1YWxzKG9GaWx0ZXIuZ2V0KCJyYXciKSkpCgo=</text>
+        <text encoding="base64">Y2xhc3MgUmVwZWF0ZVRpbWVJbnRlcnZhbCh0aW1lSW50ZXJ2YWw6IFRpbWVJbnRlcnZhbCwgdGltZXM6IEludCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB2YWwgZmlsdGVyID0gIntcImZpbHRlclwiOlwiW3tcXFwiZlxcXCI6XFxcImEuc3RhdGlvbnR5cGVcXFwiLFxcXCJvcFxcXCI6XFxcImVxXFxcIixcXFwidlxcXCI6XFxcIjFcXFwiLFxcXCJ0XFxcIjpcXFwic1xcXCJ9XVwifSIK</text>
+        <text encoding="base64">CiAgICBvcGVyYXRvciBmdW4gdGltZXMoZ2lzOiBHSVNQZXJtaXQpOiBHSVNQZXJtaXQ/IHsKICAgICAgICByZXR1cm4gbnVsbAogICAgfTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC5yZXBsYWNlKCIiIiIiIiIsICIiIlwiIiIiKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgSlNPTk9iamVjdC50b0pTT05TdHJpbmcobGlzdE9mKG1hcE9mKAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJmIiB0byAiYS5zdGF0aW9udHlwZSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIm9wIiB0byAiZXEiLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ2IiB0byAiMSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInQiIHRvICJzIgogICAgICAgICAgICAgICAgICAgICAgICApKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBNeURhdGUoc3RhcnQueWVhciwgc3RhcnQubW9udGgsIHN0YXJ0LmRheU9mTW9udGgpLmZvbGxvd2luZ0RhdGUoKQo=</text>
       </register>
-      <register name="8" type="4">
-        <text>listOf(mapOf(
-                                &quot;f&quot; to &quot;a.stationtype&quot;,
-                                &quot;op&quot; to &quot;eq&quot;,
-                                &quot;v&quot; to &quot;1&quot;,
-                                &quot;t&quot; to &quot;s&quot;
-                        ))</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGlzdE9mKG1hcE9mKAogICAgICAgICAgICAgICAgICAgICAgICAiZiIgdG8gImEuc3RhdGlvbnR5cGUiLAogICAgICAgICAgICAgICAgICAgICAgICAib3AiIHRvICJlcSIsCiAgICAgICAgICAgICAgICAgICAgICAgICJ2IiB0byAiMSIsCiAgICAgICAgICAgICAgICAgICAgICAgICJ0IiB0byAicyIKICAgICAgICAgICAgICAgICkpKSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMuaGFzTmV4dCgpCg==</text>
       </register>
       <register name="y" type="4">
         <text>B</text>
