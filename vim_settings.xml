@@ -47,8 +47,8 @@
         <entry>%s/JdbcConnectionPool/JdbcConnPool/g</entry>
         <entry>nohl</entry>
         <entry encoding="base64">JzwsJz5zL1xcIi8vZw==</entry>
-        <entry>action $Redo</entry>
         <entry encoding="base64">JzwsJz5zL3J1bGVyb2xlL3ZvL2c=</entry>
+        <entry>action $Redo</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -125,11 +125,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/gis/ctrl/MinioController.java" timestamp="1590490446821">
-        <mark key="[" line="56" column="5" />
-        <mark key="]" line="56" column="15" />
-        <mark key="." line="56" column="14" />
-        <mark key="^" line="56" column="15" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/gis/ctrl/MinioController.java" timestamp="1590491064719">
+        <mark key="[" line="29" column="5" />
+        <mark key="]" line="29" column="14" />
+        <mark key="." line="29" column="13" />
+        <mark key="^" line="29" column="14" />
       </file>
       <file name="/a.dummy" timestamp="1590488805657">
         <mark key="[" line="0" column="1" />
@@ -177,12 +177,12 @@
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="46" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/common/pom.xml" timestamp="1590463797172">
-        <mark key="'" line="17" column="34" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="37" column="33" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/common/pom.xml" timestamp="1590491299318">
+        <mark key="'" line="131" column="0" />
+        <mark key="[" line="40" column="21" />
+        <mark key="]" line="40" column="26" />
+        <mark key="." line="40" column="25" />
+        <mark key="^" line="40" column="26" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/LayersService.kt" timestamp="1590458674889">
         <mark key="'" line="86" column="12" />
@@ -233,8 +233,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="111" column="20" filename="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/java/com/syzh/gis/updm/service/impl/DealPointDataService.java" />
-      <jump line="79" column="16" filename="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/java/com/syzh/gis/updm/service/impl/DealPointDataService.java" />
       <jump line="215" column="12" filename="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/java/com/syzh/gis/updm/service/impl/DealPointDataService.java" />
       <jump line="90" column="15" filename="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/java/com/syzh/gis/updm/service/impl/DealPointDataService.java" />
       <jump line="219" column="74" filename="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/java/com/syzh/gis/updm/service/impl/DealPointDataService.java" />
@@ -333,6 +331,8 @@
       <jump line="2" column="13" filename="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/gis/ctrl/MinioController.java" />
       <jump line="14" column="24" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/resources/application-dev.yml" />
       <jump line="25" column="27" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/resources/application-dev.yml" />
+      <jump line="40" column="25" filename="$USER_HOME$/workspace/shangyuan/city-gis/common/pom.xml" />
+      <jump line="131" column="0" filename="$USER_HOME$/workspace/shangyuan/city-gis/common/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -341,46 +341,46 @@
         <text>\基本废物......\</text>
       </register>
       <register name="*" type="4">
-        <text>RequestMapping</text>
+        <text>${minio.version}</text>
       </register>
       <register name="-" type="4">
-        <text>RequestMapping</text>
+        <text>${minio.version}</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQbUZpZWxkVk9cPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5LiK5Lyg5paH5Lu2Iiwgbm90ZXMgPSAiIikK</text>
+      <register name="0" type="4">
+        <text>spring-boot-starter-minio</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIGh0dHBzOi8vbXZucmVwb3NpdG9yeS5jb20vYXJ0aWZhY3QvY29tLmpsZWZlYnVyZS9zcHJpbmctYm9vdC1zdGFydGVyLW1pbmlvIC0tPgogICAgICAgIDxkZXBlbmRlbmN5PgogICAgICAgICAgICA8Z3JvdXBJZD5jb20uamxlZmVidXJlPC9ncm91cElkPgogICAgICAgICAgICA8YXJ0aWZhY3RJZD5zcHJpbmctYm9vdC1zdGFydGVyLW1pbmlvPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4xLjQ8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEBQb3N0TWFwcGluZygiL3VwbG9hZCIpCg==</text>
+        <text encoding="base64">ICAgIEBSZXNwb25zZUJvZHkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIEBTbmVha3lUaHJvd3MK</text>
+        <text encoding="base64">ICAgIEBQb3N0TWFwcGluZygiL3VwbG9hZCIpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5LiK5Lyg5paH5Lu2Iiwgbm90ZXMgPSAiIikK</text>
+        <text encoding="base64">ICAgIEBTbmVha3lUaHJvd3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9taW5pb0NsaWVudC5zZXRCdWNrZXRQb2xpY3kobWluaW9Qcm9wLmdldEJ1Y2tldE5hbWUoKSwgUG9saWN5VHlwZS5SRUFEX1dSSVRFKTsK</text>
+        <text encoding="base64">ICAgIEBBcGlPcGVyYXRpb24odmFsdWUgPSAi5LiK5Lyg5paH5Lu2Iiwgbm90ZXMgPSAiIikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsID0gbWluaW9DbGllbnQuZ2V0T2JqZWN0VXJsKGJ1Y2tldE5hbWUsIG5ld0ZpbGVOYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy9taW5pb0NsaWVudC5zZXRCdWNrZXRQb2xpY3kobWluaW9Qcm9wLmdldEJ1Y2tldE5hbWUoKSwgUG9saWN5VHlwZS5SRUFEX1dSSVRFKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtaW5pb0NsaWVudC5zZXRCdWNrZXRQb2xpY3koKTsK</text>
+        <text encoding="base64">ICAgICAgICBTdHJpbmcgdXJsID0gbWluaW9DbGllbnQuZ2V0T2JqZWN0VXJsKGJ1Y2tldE5hbWUsIG5ld0ZpbGVOYW1lKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IGRhdGEgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgZGF0YS5wdXQoImJ1Y2tldE5hbWUiLCBtaW5pb1Byb3AuZ2V0QnVja2V0KCkpOwogICAgICAgIGRhdGEucHV0KCJmaWxlTmFtZSIsIG9yZ2ZpbGVOYW1lKTsK</text>
+        <text encoding="base64">ICAgICAgICBtaW5pb0NsaWVudC5zZXRCdWNrZXRQb2xpY3koKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbmV3RmlsZU5hbWUgPSBvcmdmaWxlTmFtZStVVUlELnJhbmRvbVVVSUQoKS50b1N0cmluZygpLnJlcGxhY2VBbGwoIi0iLCAiIikKICAgICAgICAgICAgICAgICAgICArIG9yZ2ZpbGVOYW1lLnN1YnN0cmluZyhvcmdmaWxlTmFtZS5sYXN0SW5kZXhPZigiLiIpKTsK</text>
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLCBPYmplY3Q+IGRhdGEgPSBuZXcgSGFzaE1hcDw+KCk7CiAgICAgICAgZGF0YS5wdXQoImJ1Y2tldE5hbWUiLCBtaW5pb1Byb3AuZ2V0QnVja2V0KCkpOwogICAgICAgIGRhdGEucHV0KCJmaWxlTmFtZSIsIG9yZ2ZpbGVOYW1lKTsK</text>
       </register>
       <register name="y" type="4">
         <text>B</text>
