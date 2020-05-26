@@ -125,6 +125,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/gis/ctrl/MinioController.java" timestamp="1590464699670">
+        <mark key="[" line="49" column="44" />
+        <mark key="]" line="49" column="55" />
+        <mark key="." line="49" column="54" />
+        <mark key="^" line="49" column="55" />
+      </file>
       <file name="/a.dummy" timestamp="1590464057110">
         <mark key="[" line="0" column="0" />
       </file>
@@ -134,6 +140,12 @@
         <mark key="]" line="35" column="46" />
         <mark key="." line="35" column="45" />
         <mark key="^" line="35" column="46" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/gis/config/minio/MinIOProps.java" timestamp="1590464691460">
+        <mark key="[" line="13" column="29" />
+        <mark key="]" line="14" column="26" />
+        <mark key="^" line="14" column="26" />
+        <mark key="." line="14" column="25" />
       </file>
       <file name="$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.5.4/mybatis-3.5.4.jar!/org/apache/ibatis/reflection/Reflector.class" timestamp="1590400022734" />
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/mapper/PmFieldMapper.kt" timestamp="1590401431696">
@@ -148,7 +160,6 @@
         <mark key="^" line="10" column="5" />
         <mark key="." line="15" column="29" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/mapper/PmFieldGroupMapper.kt" timestamp="1590398822031" />
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/RuleRoleService.kt" timestamp="1590400869127">
         <mark key="[" line="4" column="42" />
         <mark key="]" line="4" column="50" />
@@ -191,19 +202,14 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/Kotlin-Koans/Collections/Introduction/src/Task.kt" timestamp="1590397849054">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="6" column="33" />
-        <mark key="." line="6" column="32" />
-        <mark key="^" line="6" column="33" />
-      </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/mapper/RuleRoleMapper.xml" timestamp="1590399641892">
         <mark key="'" line="16" column="13" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/gis/config/minio/MinIOConfig.java" timestamp="1590464051285">
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="10" />
-        <mark key="." line="8" column="0" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/gis/config/minio/MinIOConfig.java" timestamp="1590464666347">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="17" column="33" />
+        <mark key="^" line="16" column="13" />
+        <mark key="." line="16" column="12" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/mapper/RuleRoleMapper.kt" timestamp="1590400859720">
         <mark key="[" line="3" column="31" />
@@ -216,7 +222,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="15" filename="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/java/com/syzh/gis/updm/service/impl/DealPointDataService.java" />
       <jump line="110" column="16" filename="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/java/com/syzh/gis/updm/service/impl/DealPointDataService.java" />
       <jump line="83" column="15" filename="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/java/com/syzh/gis/updm/service/impl/DealPointDataService.java" />
       <jump line="111" column="20" filename="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/java/com/syzh/gis/updm/service/impl/DealPointDataService.java" />
@@ -316,6 +321,7 @@
       <jump line="16" column="13" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/mapper/RuleRoleMapper.xml" />
       <jump line="42" column="0" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/PmFieldService.kt" />
       <jump line="14" column="4" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/PmFieldService.kt" />
+      <jump line="2" column="13" filename="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/gis/ctrl/MinioController.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -323,47 +329,47 @@
       <register name="&quot;" type="4">
         <text>\基本废物......\</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+      <register name="*" type="4">
+        <text>CommonConstants.MINIO_BUCKET</text>
       </register>
       <register name="-" type="4">
-        <text>//密码</text>
+        <text>CommonConstants.MINIO_BUCKET</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxQbUZpZWxkVk9cPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>ReflectionException: There is no getter for property named</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIEBSZXNvdXJjZQogICAgcHJpdmF0ZSBNaW5JT1Byb3BzIG1pbmlvUHJvcDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">QENvbXBvbmVudAo=</text>
+        <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY29tbW9ucy5pby5JT1V0aWxzOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">QENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKHByZWZpeCA9ICJtaW5pbyIpCg==</text>
+        <text encoding="base64">aW1wb3J0IGNvbS50aW5nY3JlYW0ubWluaW9zcHJpbmcuY29tbW9uLkNvbW1vbkNvbnN0YW50czsKaW1wb3J0IGNvbS50aW5nY3JlYW0ubWluaW9zcHJpbmcuY29tbW9uLlJldE1zZzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cGFja2FnZSBjb20udGluZ2NyZWFtLm1pbmlvc3ByaW5nLmNvbnRyb2xsZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QEdldHRlcgpAU2V0dGVyCg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIE1pbmlvQ29udHJvbGxlciB7Cn0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBhY2thZ2UgY29tLnRpbmdjcmVhbS5taW5pb3NwcmluZy5jb25maWc7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIE1pbklPQ29uZmlnIHsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">cGFja2FnZSBjb20udGluZ2NyZWFtLm1pbmlvc3ByaW5nLmNvbmZpZzsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">cHVibGljIGNsYXNzIE1pbklPQ29uZmlnIHsKICAgIAp9Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">QENvbXBvbmVudAo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">QENvbmZpZ3VyYXRpb25Qcm9wZXJ0aWVzKHByZWZpeCA9ICJtaW5pbyIpCg==</text>
       </register>
       <register name="y" type="4">
         <text>B</text>
