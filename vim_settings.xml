@@ -125,11 +125,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/PmFieldService.kt" timestamp="1590452677473">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/gis/base/BaseEntity.java" timestamp="1590541958155">
         <mark key="[" line="32" column="0" />
         <mark key="]" line="32" column="0" />
@@ -181,11 +176,9 @@
         <mark key="^" line="97" column="36" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/ctrl/LayersController.kt" timestamp="1590458098259">
-        <mark key="[" line="35" column="40" />
-        <mark key="]" line="35" column="46" />
-        <mark key="." line="35" column="45" />
-        <mark key="^" line="35" column="46" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/vo/LayersVO.kt" timestamp="1590543899534">
+        <mark key="[" line="57" column="12" />
+        <mark key="]" line="57" column="17" />
       </file>
       <file name="$MAVEN_REPOSITORY$/io/minio/minio/7.0.2/minio-7.0.2-sources.jar!/io/minio/PutObjectOptions.java" timestamp="1590493115685">
         <mark key="[" line="29" column="27" />
@@ -205,6 +198,10 @@
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/ctrl/DataSetController.java" timestamp="1590492916166">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="27" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/entity/LayersEntity.kt" timestamp="1590543905423">
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="40" column="13" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/gis/config/minio/MinIOProps.java" timestamp="1590492309561">
         <mark key="[" line="8" column="0" />
@@ -342,7 +339,7 @@
         <text>\基本废物......\</text>
       </register>
       <register name="*" type="4">
-        <text>localhost</text>
+        <text>legend</text>
       </register>
       <register name="-" type="4">
         <text>localhost</text>
@@ -351,7 +348,7 @@
         <text encoding="base64">XDxQbUZpZWxkVk9cPg==</text>
       </register>
       <register name="0" type="4">
-        <text>upload</text>
+        <text>legend</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIOWbvuWxgi9MYXllcgo=</text>
