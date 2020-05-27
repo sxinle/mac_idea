@@ -8,7 +8,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>pack</entry>
         <entry>closed</entry>
         <entry encoding="base64">XDxjbG9zZWRcPg==</entry>
         <entry encoding="base64">XDxob2xkZXJcPg==</entry>
@@ -28,6 +27,7 @@
         <entry encoding="base64">XDxydWxlcm9sZVw+</entry>
         <entry>rulerole</entry>
         <entry encoding="base64">XDxQbUZpZWxkVk9cPg==</entry>
+        <entry>pack</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xhbmcvaW8vZw==</entry>
@@ -125,29 +125,34 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/java/com/syzh/scity/updm/service/IUpdmDbService.java" timestamp="1590552466167">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1590557102709">
+      <file name="/a.dummy" timestamp="1590559273893">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/java/com/syzh/scity/updm/vo/DbConnInfoVO.java" timestamp="1590552477686">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/scity/common/ctrl/MinioController.java" timestamp="1590561279790">
+        <mark key="'" line="93" column="0" />
+        <mark key="[" line="35" column="5" />
+        <mark key="]" line="35" column="31" />
+        <mark key="^" line="35" column="31" />
+        <mark key="." line="35" column="30" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/webgis-api/pom.xml" timestamp="1590557073885">
-        <mark key="[" line="11" column="16" />
-        <mark key="]" line="11" column="26" />
-        <mark key="." line="11" column="25" />
-        <mark key="^" line="11" column="26" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/scity/common/config/ValueConfig.java" timestamp="1590559401668">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="51" />
+        <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/java/com/syzh/scity/updm/service/impl/LineService.java" timestamp="1590552412232">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.5.RELEASE/spring-beans-5.2.5.RELEASE-sources.jar!/org/springframework/beans/factory/config/PreferencesPlaceholderConfigurer.java" timestamp="1590559173525">
+        <mark key="[" line="44" column="44" />
+        <mark key="]" line="44" column="72" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/spring-beans/5.2.5.RELEASE/spring-beans-5.2.5.RELEASE-sources.jar!/org/springframework/beans/factory/config/PropertyPlaceholderConfigurer.java" timestamp="1590559218324">
+        <mark key="[" line="51" column="73" />
+        <mark key="]" line="51" column="108" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/webgis-api/pom.xml" timestamp="1590560242087">
+        <mark key="[" line="17" column="26" />
+        <mark key="]" line="17" column="35" />
+        <mark key="." line="17" column="34" />
+        <mark key="^" line="17" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/webgis-api/src/main/java/com/syzh/scity/updm/WebgisApp.java" timestamp="1590557119459">
         <mark key="[" line="14" column="28" />
@@ -155,15 +160,11 @@
         <mark key="." line="14" column="33" />
         <mark key="^" line="14" column="34" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/java/com/syzh/scity/updm/service/impl/TopologyService.java" timestamp="1590552424893">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/java/com/syzh/scity/updm/service/impl/PointService.java" timestamp="1590552418362">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/scity/common/config/MinioConfig.java" timestamp="1590561459277">
+        <mark key="[" line="29" column="35" />
+        <mark key="]" line="29" column="47" />
+        <mark key="." line="29" column="46" />
+        <mark key="^" line="29" column="47" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/java/com/syzh/scity/updm/UpdmApp.java" timestamp="1590556990034">
         <mark key="'" line="41" column="0" />
@@ -172,21 +173,17 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="27" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/resources/application-dev.yml" timestamp="1590552527360">
-        <mark key="[" line="22" column="14" />
-        <mark key="]" line="22" column="25" />
-        <mark key="^" line="22" column="25" />
-        <mark key="." line="22" column="24" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/resources/application-dev.yml" timestamp="1590558798548">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/java/com/syzh/scity/updm/service/ITopologyService.java" timestamp="1590552458441">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/java/com/syzh/scity/updm/vo/PointVO.java" timestamp="1590552481529">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/common/pom.xml" timestamp="1590560642958">
+        <mark key="'" line="15" column="56" />
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="18" />
+        <mark key="." line="12" column="18" />
+        <mark key="^" line="12" column="27" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/resources/application-dev.yml" timestamp="1590552519182">
         <mark key="'" line="24" column="5" />
@@ -195,16 +192,29 @@
         <mark key="." line="25" column="30" />
         <mark key="^" line="25" column="31" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/java/com/syzh/scity/updm/service/impl/UpdmDbService.java" timestamp="1590552433276">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/pom.xml" timestamp="1590560207131">
+        <mark key="'" line="97" column="35" />
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="17" column="35" />
+        <mark key="." line="17" column="34" />
+        <mark key="^" line="17" column="35" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590557297860">
+      <file name="/Dummy.txt" timestamp="1590558791024">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/scity/common/config/SwaggerConfig.java" timestamp="1590559156658">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/pom.xml" timestamp="1590560648291">
+        <mark key="[" line="17" column="25" />
+        <mark key="]" line="17" column="26" />
+        <mark key="." line="17" column="26" />
+        <mark key="^" line="17" column="35" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/webgis-api/src/main/resources/application.yml" timestamp="1590557138823">
         <mark key="'" line="46" column="13" />
@@ -213,31 +223,16 @@
         <mark key="." line="48" column="51" />
         <mark key="^" line="48" column="52" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/java/com/syzh/scity/updm/entity/DataSetEntity.java" timestamp="1590552393504">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/java/com/syzh/scity/updm/vo/LineVO.java" timestamp="1590552555915">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/resources/application.yml" timestamp="1590552503636">
-        <mark key="[" line="48" column="40" />
-        <mark key="]" line="48" column="45" />
-        <mark key="." line="48" column="44" />
-        <mark key="^" line="48" column="45" />
-      </file>
-      <file name="/fragment.java" timestamp="1590557297850">
+      <file name="/fragment.java" timestamp="1590558791017">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="42" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/pom.xml" />
-      <jump line="11" column="9" filename="$USER_HOME$/permit-center/pom.xml" />
-      <jump line="0" column="0" filename="$USER_HOME$/permit-center/pom.xml" />
       <jump line="89" column="20" filename="$USER_HOME$/common/pom.xml" />
       <jump line="8" column="12" filename="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/pom.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/pom.xml" />
@@ -334,6 +329,10 @@
       <jump line="26" column="0" filename="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/java/com/syzh/scity/updm/UpdmApp.java" />
       <jump line="41" column="0" filename="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/java/com/syzh/scity/updm/UpdmApp.java" />
       <jump line="46" column="13" filename="$USER_HOME$/workspace/shangyuan/city-gis/webgis-api/src/main/resources/application.yml" />
+      <jump line="44" column="48" filename="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/scity/common/ctrl/MinioController.java" />
+      <jump line="89" column="0" filename="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/scity/common/ctrl/MinioController.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/workspace/shangyuan/city-gis/common/pom.xml" />
+      <jump line="14" column="56" filename="$USER_HOME$/workspace/shangyuan/city-gis/common/pom.xml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -342,46 +341,50 @@
         <text>\基本废物......\</text>
       </register>
       <register name="*" type="4">
-        <text>updm</text>
+        <text>NullBean</text>
       </register>
       <register name="-" type="4">
-        <text>updm</text>
+        <text>NullBean</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxQbUZpZWxkVk9cPg==</text>
+        <text>pack</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">bWluaW86CiAgZW5kcG9pbnQ6IGh0dHA6Ly8xMC4zLjEwMS4xMjc6OTAwMAogIGFjY2Vzc2tleTogbWluaW9hZG1pbgogIHNlY3JldEtleTogbWluaW9hZG1pbgogIGJ1Y2tldE5hbWU6IHBlcm1pdC1jZW50ZXIK</text>
+      <register name="0" type="4">
+        <text>org.springframework.beans.factory.support.NullBean</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zeXpoLmdpcy5iYXNlLkJhc2VFbnRpdHk7Cg==</text>
+        <text encoding="base64">ICAgIEBBdXRvd2lyZWQocmVxdWlyZWQgPSBmYWxzZSkK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zeXpoLmdpcy5iYXNlLkJhc2VFbnRpdHk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBNaW5pb0NsaWVudCBjbGllbnQgPSBudWxsOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zeXpoLmdpcy5iYXNlLkJhc2VFbnRpdHk7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IGZpbmFsbHkgewogICAgICAgICAgICByZXR1cm4gY2xpZW50OwogICAgICAgIH0=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zeXpoLmdpcy5SOwo=</text>
+      <register name="4" type="4">
+        <text>finally {
+            return client;
+        }</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zeXpoLmdpcy5SOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2xpZW50ID0gbmV3IE1pbmlvQ2xpZW50KCIiKTsK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zeXpoLmdpcy5qZGJjLlNpbXBsZUpkYmNUZW1wbGF0ZTsK</text>
+      <register name="6" type="4">
+        <text>catch (InvalidPortException e) {
+            e.printStackTrace();
+        }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zeXpoLmdpcy5qZGJjLkNvbm5JbmZvOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zeXpoLmdpcy5SOwo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnN5emguc2NpdHk8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmNvbW1vbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MC4wLjEtMjAyMDA1MjcuMDMyODMzLTE8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbS5zeXpoLmdpcy5SOwo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLnN5emguc2NpdHk8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmNvbW1vbjwvYXJ0aWZhY3RJZD4KICAgICAgICAgICAgPHZlcnNpb24+MC4wLjEtMjAyMDA1MjcuMDMyODMzLTE8L3ZlcnNpb24+CiAgICAgICAgPC9kZXBlbmRlbmN5Pgo=</text>
       </register>
       <register name="y" type="4">
         <text>B</text>
@@ -393,13 +396,13 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search encoding="base64">XDxQbUZpZWxkVk9cPg==</last-search>
+      <last-search>pack</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxQbUZpZWxkVk9cPg==</last-pattern>
+      <last-pattern>pack</last-pattern>
       <last-replace>vo</last-replace>
       <last-substitute>rulerole</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
   </component>
   <component name="VimSettings">
