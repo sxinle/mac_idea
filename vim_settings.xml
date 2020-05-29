@@ -8,8 +8,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry encoding="base64">XDxJUGFnZVw+</entry>
-        <entry encoding="base64">XDxjdXJyZW50Tm9kZUNoaWxkcmVuXD4=</entry>
         <entry encoding="base64">XDxhcGlQb3N0XD4=</entry>
         <entry encoding="base64">XDxydWxlcm9sZVw+</entry>
         <entry>rulerole</entry>
@@ -28,6 +26,8 @@
         <entry>mybatis</entry>
         <entry>druid</entry>
         <entry>mysql</entry>
+        <entry>jackson</entry>
+        <entry>fast</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2xhbmcvaW8vZw==</entry>
@@ -125,20 +125,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/city-gis-parent/pom.xml" timestamp="1590735428865">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="79" column="21" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/city-gis-parent/pom.xml" timestamp="1590739273321">
+        <mark key="'" line="82" column="0" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="86" column="21" />
       </file>
       <file name="/a.dummy" timestamp="1590735459599">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/games-role/pom.xml" timestamp="1590736853085">
+      <file name="$USER_HOME$/workspace/pproj/games-role/pom.xml" timestamp="1590739667482">
         <mark key="'" line="17" column="39" />
-        <mark key="[" line="47" column="21" />
-        <mark key="]" line="47" column="27" />
-        <mark key="." line="47" column="26" />
-        <mark key="^" line="47" column="27" />
+        <mark key="[" line="80" column="0" />
+        <mark key="]" line="80" column="0" />
+        <mark key="." line="80" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/src/main/resources/application.yml" timestamp="1590737593419">
         <mark key="'" line="19" column="62" />
@@ -157,16 +156,22 @@
         <mark key="[" line="77" column="0" />
         <mark key="]" line="90" column="20" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/ctrl/IndexCtrl.java" timestamp="1590737720907">
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="9" column="4" />
-        <mark key="^" line="9" column="4" />
-        <mark key="." line="9" column="3" />
+      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/ctrl/IndexCtrl.java" timestamp="1590739333464">
+        <mark key="[" line="13" column="16" />
+        <mark key="]" line="13" column="16" />
+        <mark key="^" line="17" column="10" />
+        <mark key="." line="13" column="16" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/resources/application.yml" timestamp="1590735391540">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="54" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/jsp/index.jsp" timestamp="1590739129386">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1590735464681">
         <mark key="[" line="0" column="0" />
@@ -174,50 +179,41 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/webgis-api/src/main/java/com/syzh/scity/webgis/service/impl/BurstPipeService.kt" timestamp="1590731029446">
-        <mark key="'" line="22" column="48" />
-        <mark key="[" line="27" column="23" />
-        <mark key="]" line="27" column="32" />
-        <mark key="." line="27" column="31" />
-        <mark key="^" line="27" column="32" />
-      </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/scity/permit/PermitApp.java" timestamp="1590735178089">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="15" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/resources/application.yml" timestamp="1590737891924">
-        <mark key="'" line="16" column="20" />
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="5" column="20" />
-        <mark key="." line="5" column="19" />
-        <mark key="^" line="5" column="20" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/webgis-api/pom.xml" timestamp="1590719617937">
-        <mark key="[" line="17" column="25" />
-        <mark key="]" line="17" column="26" />
-        <mark key="." line="17" column="26" />
+      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/resources/application.yml" timestamp="1590740647415">
+        <mark key="'" line="12" column="27" />
+        <mark key="[" line="4" column="33" />
+        <mark key="]" line="4" column="39" />
+        <mark key="." line="4" column="38" />
+        <mark key="^" line="4" column="39" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/RootApp.java" timestamp="1590736190520">
         <mark key="'" line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" timestamp="1590740114136">
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="11" column="11" />
+        <mark key="." line="11" column="10" />
+        <mark key="^" line="11" column="11" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/resources/application.yml" timestamp="1590737664974">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="1" column="12" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/common.jsp" timestamp="1590740490127">
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="14" />
+        <mark key="." line="9" column="13" />
+        <mark key="^" line="9" column="14" />
+      </file>
       <file name="/fragment.java" timestamp="1590735464673">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/common/pom.xml" timestamp="1590719554472">
-        <mark key="'" line="52" column="30" />
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="18" />
-        <mark key="." line="12" column="18" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="18" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/mapper/RuleRoleMapper.xml" />
-      <jump line="12" column="34" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/mapper/RuleRoleMapper.xml" />
-      <jump line="11" column="46" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/mapper/RuleRoleMapper.xml" />
       <jump line="16" column="13" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/mapper/RuleRoleMapper.xml" />
       <jump line="42" column="0" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/PmFieldService.kt" />
       <jump line="14" column="4" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/service/impl/PmFieldService.kt" />
@@ -306,15 +302,18 @@
       <jump line="17" column="38" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/resources/application.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/resources/application.yml" />
       <jump line="24" column="40" filename="$USER_HOME$/workspace/shangyuan/city-gis/city-gis-parent/pom.xml" />
-      <jump line="28" column="31" filename="$USER_HOME$/workspace/shangyuan/city-gis/city-gis-parent/pom.xml" />
       <jump line="75" column="0" filename="$USER_HOME$/workspace/shangyuan/city-gis/city-gis-parent/pom.xml" />
-      <jump line="10" column="38" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/application.yml" />
       <jump line="17" column="39" filename="$USER_HOME$/workspace/pproj/games-role/pom.xml" />
       <jump line="15" column="40" filename="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/RootApp.java" />
       <jump line="31" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/RootApp.java" />
       <jump line="50" column="9" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/application.yml" />
       <jump line="19" column="62" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/src/main/resources/application.yml" />
       <jump line="11" column="20" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/application.yml" />
+      <jump line="28" column="44" filename="$USER_HOME$/workspace/shangyuan/city-gis/city-gis-parent/pom.xml" />
+      <jump line="82" column="0" filename="$USER_HOME$/workspace/shangyuan/city-gis/city-gis-parent/pom.xml" />
+      <jump line="10" column="27" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/application.yml" />
+      <jump line="11" column="7" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/common.jsp" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/common.jsp" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -322,35 +321,35 @@
       <register name="&quot;" type="4">
         <text>\基本废物......\</text>
       </register>
-      <register name="*" type="4">
-        <text>templates</text>
+      <register name="*" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
-        <text>templates</text>
+        <text encoding="base64">IGludGVncml0eT0ic2hhMzg0LXdmU0RGMkU1MFkyRDF1VWRqME8zdU1CSm5qdVVENEloN1l3YVlkMWlxZmt0ajBVb2Q4R0NFeGwzT2c4aWZ3QjYiIGNyb3Nzb3JpZ2luPSJhbm9ueW1vdXMi</text>
       </register>
       <register name="/" type="4">
-        <text>mysql</text>
+        <text>fast</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">c2VydmVyOgogIHBvcnQ6IDgwODEK</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+Y29tLmFsaWJhYmE8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPmZhc3Rqc29uPC9hcnRpZmFjdElkPgogICAgICAgICAgICA8dmVyc2lvbj4ke2Zhc3Rqc29uLnZlcnNpb259PC92ZXJzaW9uPgogICAgICAgIDwvZGVwZW5kZW5jeT4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwb3J0Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBzZXJ2ZXI6CiAgICBwCiAgICAK</text>
+        <text encoding="base64">PCUtLQogIENyZWF0ZWQgYnkgSW50ZWxsaUogSURFQS4KICBVc2VyOiBoc29uZwogIERhdGU6IDIwMjAvNS8yOQogIFRpbWU6IDQ6MTMg5LiL5Y2ICiAgVG8gY2hhbmdlIHRoaXMgdGVtcGxhdGUgdXNlIEZpbGUgfCBTZXR0aW5ncyB8IEZpbGUgVGVtcGxhdGVzLgotLSU+CjwlQCBwYWdlIGNvbnRlbnRUeXBlPSJ0ZXh0L2h0bWw7Y2hhcnNldD1VVEYtOCIgbGFuZ3VhZ2U9ImphdmEiICU+CjxodG1sPgo8aGVhZD4KICAgIDx0aXRsZT5UaXRsZTwvdGl0bGU+CjwvaGVhZD4KPGJvZHk+Cgo8L2JvZHk+CjwvaHRtbD4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRyaXZlckNsYXNzTmFtZTogY29tLm15c3FsLmNqLmpkYmMuRHJpdmVyCiAgICB1cmw6IGpkYmM6bXlzcWw6Ly9sb2NhbGhvc3Q6MzMwOC9wZWdhcz91c2VVbmljb2RlPXRydWUmY2hhcmFjdGVyRW5jb2Rpbmc9dXRmLTgmc2VydmVyVGltZXpvbmU9QXNpYS9TaGFuZ2hhaQogICAgdXNlcm5hbWU6IHJvb3QKICAgIHBhc3N3b3JkOiBhZG1pbgo=</text>
+        <text encoding="base64">SGVsbG8sJHtuYW1lfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICDigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJTigJQKICAgICAgICDniYjmnYPlo7DmmI7vvJrmnKzmlofkuLpDU0RO5Y2a5Li744CMQHJlbuOAjeeahOWOn+WIm+aWh+eroO+8jOmBteW+qkNDIDQuMCBCWS1TQeeJiOadg+WNj+iuru+8jOi9rOi9veivt+mZhOS4iuWOn+aWh+WHuuWkhOmTvuaOpeWPiuacrOWjsOaYjuOAggogICAgICAgIOWOn+aWh+mTvuaOpe+8mmh0dHBzOi8vYmxvZy5jc2RuLm5ldC9xcV80MTE4MjIzOC9qYXZhL2FydGljbGUvZGV0YWlscy84OTI3ODg0OQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGR5bmFtaWM6CiAgICAgIGRhdGFzb3VyY2U6CiAgICAgICAgbWFzdGVyOgogICAgICAgICAgdXJsOiBqZGJjOnBvc3RncmVzcWw6Ly9sb2NhbGhvc3Q6MzMwNi9nYW1lc19yb2xlCiAgICAgICAgICB1c2VybmFtZTogcm9vdAogICAgICAgICAgcGFzc3dvcmQ6IGFkbWluCiAgICAgICAgICBkcml2ZXItY2xhc3MtbmFtZTogY29tLm15c3FsLmNqLmpkYmMuRHJpdmVyCiAgICAgICAgICAjIOWkmuaVsOaNrua6kOmFjee9rgogICAgICAgICAgI211bHRpLWRhdGFzb3VyY2UxOgogICAgICAgICAgI3VybDogamRiYzpteXNxbDovL2xvY2FsaG9zdDozMzA2L2plZWNnLWJvb3QyP3VzZVVuaWNvZGU9dHJ1ZSZjaGFyYWN0ZXJFbmNvZGluZz11dGY4JmF1dG9SZWNvbm5lY3Q9dHJ1ZSZ6ZXJvRGF0ZVRpbWVCZWhhdmlvcj1jb252ZXJ0VG9OdWxsJnRyYW5zZm9ybWVkQml0SXNCb29sZWFuPXRydWUKICAgICAgICAgICN1c2VybmFtZTogcm9vdAogICAgICAgICAgI3Bhc3N3b3JkOiByb290CiAgICAgICAgICAjZHJpdmVyLWNsYXNzLW5hbWU6IGNvbS5teXNxbC5qZGJjLkRyaXZlcgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+b3JnLmFwYWNoZS50b21jYXQuZW1iZWQ8L2dyb3VwSWQ+CiAgICAgICAgICAgIDxhcnRpZmFjdElkPnRvbWNhdC1lbWJlZC1qYXNwZXI8L2FydGlmYWN0SWQ+CiAgICAgICAgICAgIDxzY29wZT5wcm92aWRlZDwvc2NvcGU+CiAgICAgICAgPC9kZXBlbmRlbmN5PgoKICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+amF2YXguc2VydmxldDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+amF2YXguc2VydmxldC1hcGk8L2FydGlmYWN0SWQ+CiAgICAgICAgPC9kZXBlbmRlbmN5PgoKICAgICAgICA8ZGVwZW5kZW5jeT4KICAgICAgICAgICAgPGdyb3VwSWQ+amF2YXguc2VydmxldDwvZ3JvdXBJZD4KICAgICAgICAgICAgPGFydGlmYWN0SWQ+anN0bDwvYXJ0aWZhY3RJZD4KICAgICAgICA8L2RlcGVuZGVuY3k+Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -359,10 +358,10 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBjb25maWd1cmF0aW9uOgo=</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIHNlcnZsZXQg5L6d6LWW5YyFIC0tPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxzY29wZT5wcm92aWRlZDwvc2NvcGU+LS0+Cg==</text>
       </register>
       <register name="y" type="4">
         <text>B</text>
@@ -374,9 +373,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>mysql</last-search>
+      <last-search>fast</last-search>
       <last-offset />
-      <last-pattern>mysql</last-pattern>
+      <last-pattern>fast</last-pattern>
       <last-replace>vo</last-replace>
       <last-substitute>rulerole</last-substitute>
       <last-dir>1</last-dir>
