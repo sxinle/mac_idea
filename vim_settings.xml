@@ -8,14 +8,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>font</entry>
-        <entry>mapper</entry>
-        <entry>mybatis</entry>
-        <entry>druid</entry>
-        <entry>mysql</entry>
-        <entry>jackson</entry>
-        <entry>fast</entry>
-        <entry>assets</entry>
         <entry>setting</entry>
         <entry>Style swi</entry>
         <entry>style</entry>
@@ -28,6 +20,14 @@
         <entry>Home</entry>
         <entry>search</entry>
         <entry>close</entry>
+        <entry>logo</entry>
+        <entry>fa</entry>
+        <entry>height</entry>
+        <entry>navigation</entry>
+        <entry>container</entry>
+        <entry encoding="base64">XDxjb250YWluZXJcPg==</entry>
+        <entry>member</entry>
+        <entry>eff</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLzIxOC42MC4xNDQuOTk6ODA4OC9sb2NhbGhvc3Q6ODA4MC9n</entry>
@@ -139,12 +139,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/index.css" timestamp="1590755861131">
+      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/index.css" timestamp="1590761580389">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="1" column="18" />
-        <mark key="]" line="1" column="19" />
-        <mark key="." line="1" column="19" />
-        <mark key="^" line="5" column="16" />
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="6" column="23" />
+        <mark key="." line="6" column="22" />
+        <mark key="^" line="6" column="23" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/jsp/index.jsp" timestamp="1590739129386">
         <mark key="[" line="0" column="0" />
@@ -162,19 +162,19 @@
       <file name="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/RootApp.java" timestamp="1590736190520">
         <mark key="'" line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" timestamp="1590758080684">
-        <mark key="'" line="160" column="13" />
-        <mark key="[" line="145" column="35" />
-        <mark key="]" line="145" column="36" />
-        <mark key="." line="145" column="36" />
-        <mark key="^" line="162" column="0" />
+      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" timestamp="1590761692053">
+        <mark key="'" line="168" column="0" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="67" column="8" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/main.css" timestamp="1590756725398">
-        <mark key="'" line="5367" column="31" />
-        <mark key="[" line="2045" column="12" />
-        <mark key="]" line="2045" column="13" />
-        <mark key="." line="2045" column="13" />
-        <mark key="^" line="2045" column="15" />
+      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/main.css" timestamp="1590761130733">
+        <mark key="'" line="5995" column="0" />
+        <mark key="[" line="2009" column="17" />
+        <mark key="]" line="2009" column="18" />
+        <mark key="." line="2009" column="17" />
+        <mark key="^" line="2009" column="18" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/city-gis-parent/pom.xml" timestamp="1590739273321">
         <mark key="'" line="82" column="0" />
@@ -234,35 +234,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="25" filename="$USER_HOME$/workspace/shangyuan/city-gis/webgis-api/src/main/java/com/syzh/scity/webgis/entity/BurstPipeEntity.kt" />
-      <jump line="29" column="12" filename="$USER_HOME$/workspace/shangyuan/city-gis/webgis-api/src/main/java/com/syzh/scity/webgis/service/impl/BurstPipeService.kt" />
-      <jump line="20" column="95" filename="$USER_HOME$/workspace/shangyuan/city-gis/webgis-api/src/main/java/com/syzh/scity/webgis/service/impl/BurstPipeService.kt" />
-      <jump line="29" column="44" filename="$USER_HOME$/workspace/shangyuan/city-gis/webgis-api/src/main/java/com/syzh/scity/webgis/ctrl/BurstPipeController.kt" />
-      <jump line="18" column="5" filename="$USER_HOME$/workspace/shangyuan/city-gis/webgis-api/src/main/resources/application-dev.yml" />
-      <jump line="5" column="78" filename="$USER_HOME$/workspace/shangyuan/city-gis/webgis-api/src/main/resources/application-dev.yml" />
-      <jump line="2" column="0" filename="$USER_HOME$/workspace/shangyuan/city-gis/webgis-api/src/main/java/com/syzh/scity/webgis/util/ArrayTypeHandler.java" />
-      <jump line="13" column="46" filename="$USER_HOME$/workspace/shangyuan/city-gis/webgis-api/src/main/java/com/syzh/scity/webgis/util/ArrayTypeHandler.java" />
-      <jump line="76" column="0" filename="$USER_HOME$/workspace/shangyuan/city-gis/webgis-api/src/main/java/com/syzh/scity/webgis/util/ArrayTypeHandler.java" />
-      <jump line="54" column="26" filename="$USER_HOME$/Desktop/mapfish-print/core/src/main/java/org/mapfish/print/servlet/MapPrinterServlet.java" />
-      <jump line="75" column="1" filename="$USER_HOME$/Desktop/mapfish-print/core/src/main/java/org/mapfish/print/servlet/MapPrinterServlet.java" />
-      <jump line="99" column="42" filename="$USER_HOME$/Desktop/mapfish-print/core/src/main/java/org/mapfish/print/servlet/MapPrinterServlet.java" />
-      <jump line="103" column="65" filename="$USER_HOME$/Desktop/mapfish-print/core/src/main/java/org/mapfish/print/servlet/MapPrinterServlet.java" />
-      <jump line="158" column="36" filename="$USER_HOME$/Desktop/mapfish-print/core/src/main/java/org/mapfish/print/servlet/MapPrinterServlet.java" />
-      <jump line="156" column="30" filename="$USER_HOME$/Desktop/mapfish-print/core/src/main/java/org/mapfish/print/servlet/MapPrinterServlet.java" />
-      <jump line="63" column="32" filename="$USER_HOME$/Desktop/mapfish-print/examples/src/test/java/org/mapfish/print/ExamplesTest.java" />
-      <jump line="340" column="45" filename="$USER_HOME$/Desktop/mapfish-print/examples/src/test/java/org/mapfish/print/ExamplesTest.java" />
-      <jump line="38" column="38" filename="$USER_HOME$/Desktop/mapfish-print/core/src/main/java/org/mapfish/print/MapPrinter.java" />
-      <jump line="103" column="17" filename="$USER_HOME$/Desktop/mapfish-print/core/src/main/java/org/mapfish/print/MapPrinter.java" />
-      <jump line="110" column="18" filename="$USER_HOME$/Desktop/mapfish-print/core/src/main/java/org/mapfish/print/MapPrinter.java" />
-      <jump line="115" column="20" filename="$USER_HOME$/Desktop/mapfish-print/core/src/main/java/org/mapfish/print/MapPrinter.java" />
-      <jump line="206" column="8" filename="$USER_HOME$/Desktop/mapfish-print/core/src/main/java/org/mapfish/print/cli/CliServletContext.java" />
-      <jump line="320" column="0" filename="$USER_HOME$/Desktop/mapfish-print/core/src/main/java/org/mapfish/print/cli/CliServletContext.java" />
-      <jump line="293" column="44" filename="$USER_HOME$/Desktop/mapfish-print/core/build.gradle" />
-      <jump line="210" column="60" filename="$USER_HOME$/Desktop/mapfish-print/core/build.gradle" />
-      <jump line="211" column="64" filename="$USER_HOME$/Desktop/mapfish-print/core/build.gradle" />
-      <jump line="16" column="0" filename="$USER_HOME$/Desktop/mapfish-print/build.gradle" />
-      <jump line="101" column="42" filename="$USER_HOME$/Desktop/mapfish-print/build.gradle" />
-      <jump line="41" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.jasperreports/jasperreports/6.12.2/280c541341c161f36777ad67ff053395cd550d14/jasperreports-6.12.2-sources.jar!/net/sf/jasperreports/engine/fill/FillReturnValues.java" />
       <jump line="61" column="13" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.jasperreports/jasperreports/6.12.2/280c541341c161f36777ad67ff053395cd550d14/jasperreports-6.12.2-sources.jar!/net/sf/jasperreports/engine/fill/SimpleTextLineWrapper.java" />
       <jump line="70" column="56" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.jasperreports/jasperreports/6.12.2/280c541341c161f36777ad67ff053395cd550d14/jasperreports-6.12.2-sources.jar!/net/sf/jasperreports/engine/fill/SimpleTextLineWrapper.java" />
       <jump line="80" column="56" filename="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sf.jasperreports/jasperreports/6.12.2/280c541341c161f36777ad67ff053395cd550d14/jasperreports-6.12.2-sources.jar!/net/sf/jasperreports/engine/fill/SimpleTextLineWrapper.java" />
@@ -321,19 +292,48 @@
       <jump line="29" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
       <jump line="45" column="36" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
       <jump line="47" column="46" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
-      <jump line="48" column="54" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
-      <jump line="49" column="80" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
       <jump line="60" column="39" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
       <jump line="3" column="35" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/index.js" />
       <jump line="46" column="32" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
       <jump line="50" column="64" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
       <jump line="38" column="17" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
       <jump line="1" column="20" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/index.css" />
-      <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/index.css" />
       <jump line="40" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
       <jump line="2287" column="20" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/main.css" />
       <jump line="5367" column="31" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/main.css" />
       <jump line="160" column="13" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
+      <jump line="1502" column="24" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/main.css" />
+      <jump line="76" column="49" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
+      <jump line="48" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
+      <jump line="1734" column="28" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/main.css" />
+      <jump line="1742" column="1" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/main.css" />
+      <jump line="1747" column="1" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/main.css" />
+      <jump line="1752" column="1" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/main.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/main.css" />
+      <jump line="136" column="12" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/main.css" />
+      <jump line="2081" column="17" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/main.css" />
+      <jump line="2531" column="17" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/main.css" />
+      <jump line="233" column="5" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/main.css" />
+      <jump line="248" column="9" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/main.css" />
+      <jump line="2530" column="18" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/main.css" />
+      <jump line="2713" column="24" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/main.css" />
+      <jump line="2717" column="67" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/main.css" />
+      <jump line="2725" column="24" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/main.css" />
+      <jump line="2736" column="12" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/main.css" />
+      <jump line="2834" column="20" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/main.css" />
+      <jump line="2879" column="24" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/main.css" />
+      <jump line="2890" column="20" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/main.css" />
+      <jump line="2929" column="24" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/main.css" />
+      <jump line="25" column="143" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
+      <jump line="30" column="40" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
+      <jump line="49" column="57" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
+      <jump line="168" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
+      <jump line="3" column="4" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/index.css" />
+      <jump line="2004" column="17" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/main.css" />
+      <jump line="4303" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/main.css" />
+      <jump line="5995" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/main.css" />
+      <jump line="0" column="1" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/index.css" />
+      <jump line="90" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/index.css" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -342,46 +342,136 @@
         <text>\基本废物......\</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">ICAgIDxzZWN0aW9uIGNsYXNzPSJzZWN0aW9uLTIgcC10LTEwMCBwLWItNTAiPgo8JS0tICAgICAgICA8ZGl2IGNsYXNzPSJjb250YWluZXIiPjxoMj5TaG9wPC9oMj4tLSU+CjwlLS0gICAgICAgICAgICA8cD5UaHJlZSBjb2x1bW5zIHNob3AgcHJvZHVjdHM8L3A+PC9kaXY+LS0lPgogICAgPC9zZWN0aW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjYXJkIiBzdHlsZT0id2lkdGg6IDE4cmVtOyI+CiAgICAgICAgICAgIDxpbWcgY2xhc3M9ImNhcmQtaW1nLXRvcCIgc3JjPSIuLi4iIGFsdD0iQ2FyZCBpbWFnZSBjYXAiPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjYXJkLWJvZHkiPgogICAgICAgICAgICAgICAgPGg1IGNsYXNzPSJjYXJkLXRpdGxlIj5DYXJkIHRpdGxlPC9oNT4KICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJjYXJkLXRleHQiPlNvbWUgcXVpY2sgZXhhbXBsZSB0ZXh0IHRvIGJ1aWxkIG9uIHRoZSBjYXJkIHRpdGxlIGFuZCBtYWtlIHVwIHRoZSBidWxrIG9mIHRoZQogICAgICAgICAgICAgICAgICAgIGNhcmQncyBjb250ZW50LjwvcD4KICAgICAgICAgICAgICAgIDxhIGhyZWY9IiMiIGNsYXNzPSJidG4gYnRuLXByaW1hcnkiPkdvIHNvbWV3aGVyZTwvYT4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>N</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
-        <text>close</text>
+        <text>eff</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGE+PGkgY2xhc3M9ImZhIGZhLWxhbmd1YWdlIj48L2k+Jm5ic3A7Jm5ic3A7Jm5ic3A75Lit5paH566A5L2TPC9hPjwvbGk+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJvbmUtcm9sZSI+CgogICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzZWN0aW9uIGNsYXNzPSJzZWN0aW9uLTIgcC10LTEwMCBwLWItNTAiPgo8JS0tICAgICAgICA8ZGl2IGNsYXNzPSJjb250YWluZXIiPjxoMj5TaG9wPC9oMj4tLSU+CjwlLS0gICAgICAgICAgICA8cD5UaHJlZSBjb2x1bW5zIHNob3AgcHJvZHVjdHM8L3A+PC9kaXY+LS0lPgogICAgPC9zZWN0aW9uPgo=</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjYXJkIiBzdHlsZT0id2lkdGg6IDE4cmVtOyI+CiAgICAgICAgICAgIDxpbWcgY2xhc3M9ImNhcmQtaW1nLXRvcCIgc3JjPSIuLi4iIGFsdD0iQ2FyZCBpbWFnZSBjYXAiPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJjYXJkLWJvZHkiPgogICAgICAgICAgICAgICAgPGg1IGNsYXNzPSJjYXJkLXRpdGxlIj5DYXJkIHRpdGxlPC9oNT4KICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJjYXJkLXRleHQiPlNvbWUgcXVpY2sgZXhhbXBsZSB0ZXh0IHRvIGJ1aWxkIG9uIHRoZSBjYXJkIHRpdGxlIGFuZCBtYWtlIHVwIHRoZSBidWxrIG9mIHRoZQogICAgICAgICAgICAgICAgICAgIGNhcmQncyBjb250ZW50LjwvcD4KICAgICAgICAgICAgICAgIDxhIGhyZWY9IiMiIGNsYXNzPSJidG4gYnRuLXByaW1hcnkiPkdvIHNvbWV3aGVyZTwvYT4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iaW5kZXguaHRtbCMiPkFub3RoZXIgYWN0aW9uPC9hPjwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9ImluZGV4Lmh0bWwjIj5Tb21ldGhpbmcgZWxzZSBoZXJlPC9hPjwvbGk+Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9Im9uZS1yb2xlIj4KCiAgICA8L2Rpdj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAK</text>
+        <text>.hovereffect {
+    width: 100%;
+    height: 100%;
+    float: left;
+    overflow: hidden;
+    position: relative;
+    text-align: center;
+    cursor: default;
+}
+
+.hovereffect .overlay {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    overflow: hidden;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out
+}
+
+.hovereffect img {
+    display: block;
+    position: relative;
+    -webkit-transition: all .4s linear;
+    transition: all .4s linear;
+}
+
+.hovereffect h2 {
+    text-transform: uppercase;
+    color: #fff;
+    text-align: center;
+    position: relative;
+    font-size: 17px;
+    background: rgba(0, 0, 0, 0.6);
+    -webkit-transform: translatey(-100px);
+    -ms-transform: translatey(-100px);
+    transform: translatey(-100px);
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    padding: 10px;
+}
+
+.hovereffect a.info {
+    text-decoration: none;
+    display: inline-block;
+    text-transform: uppercase;
+    color: #fff;
+    border: 1px solid #fff;
+    background-color: transparent;
+    opacity: 0;
+    filter: alpha(opacity=0);
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    margin: 50px 0 0;
+    padding: 7px 14px;
+}
+
+.hovereffect a.info:hover {
+    box-shadow: 0 0 5px #fff;
+}
+
+.hovereffect:hover img {
+    -ms-transform: scale(1.2);
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
+
+.hovereffect:hover .overlay {
+    opacity: 1;
+    filter: alpha(opacity=100);
+}
+
+.hovereffect:hover h2, .hovereffect:hover a.info {
+    opacity: 1;
+    filter: alpha(opacity=100);
+    -ms-transform: translatey(0);
+    -webkit-transform: translatey(0);
+    transform: translatey(0);
+}
+
+.hovereffect:hover a.info {
+    -webkit-transition-delay: .2s;
+    transition-delay: .2s;
+}
+
+.one-role{
+    width:100px;
+}</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0iYnRuLXNlYXJjaCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJzZWFyY2giPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxmb3JtPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9InN1Ym1pdCI+PGkgY2xhc3M9ImZhIGZhLXNlYXJjaCI+PC9pPjwvYnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW5wdXQgaWQ9InNlYXJjaCIgdHlwZT0idGV4dCIgcGxhY2Vob2xkZXI9IuaQnOe0oiIvPjwvZm9ybT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbC1sZy0zIGNvbC1tZC00IGNvbC1zbS02IGNvbC14cy0xMiI+CgogICAgICAgIDxkaXYgY2xhc3M9Im9uZS1yb2xlIj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iaG92ZXJlZmZlY3QiPgogICAgICAgICAgICAgICAgPGltZyBjbGFzcz0iaW1nLXJlc3BvbnNpdmUiIHNyYz0iaHR0cDovL3BsYWNlaG9sZC5pdC8zNTB4MjAwIiBhbHQ9IiI+CiAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJvdmVybGF5Ij4KICAgICAgICAgICAgICAgICAgICA8aDI+SG92ZXIgZWZmZWN0IDE8L2gyPgogICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJpbmZvIiBocmVmPSIjIj5saW5rIGhlcmU8L2E+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CgogICAgPC9kaXY+Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dWwgY2xhc3M9Im1lbWJlci1uYXYiPgogICAgICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9ImRyb3Bkb3duICBidG4tY2FydCI+PGEgaHJlZj0iaW5kZXguaHRtbCMiIGNsYXNzPSJkcm9wZG93bi10b2dnbGUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhLXRvZ2dsZT0iZHJvcGRvd24iIHJvbGU9ImJ1dHRvbiIgYXJpYS1oYXNwb3B1cD0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFyaWEtZXhwYW5kZWQ9ImZhbHNlIj48aQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJmYSBmYS1zaG9wcGluZy1iYXNrZXQiPjwvaT48c3Bhbj4xPHNwYW4gY2xhc3M9ImNhcmV0Ij48L3NwYW4+PC9zcGFuPjwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRyb3Bkb3duLW1lbnUgc2hvcHBpbmctY2FydCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ic2hvcHBpbmctY2FydC1ob2xkZXIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJyb3cgcHJvZHVjdCI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wteHMtMTIiPjxoNT5aQVJBIEdsYXNzZXMgdW5pc2V4IGVkaXRpb24gb24gU2FsZSA8c3BhbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzcz0icXR5Ij54Mjwvc3Bhbj48L2g1PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Im0tdC01Ij48YSBocmVmPSJpbmRleC5odG1sIyIgY2xhc3M9InJlbW92ZSI+PGkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJtYXRlcmlhbC1pY29ucyI+Y2xvc2U8L2k+PC9hPjxzcGFuCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjbGFzcz0icHJpY2UiPiQyNC4wMCBVU0Q8L3NwYW4+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InJvdyBwcm9kdWN0Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC14cy0xMiI+PGg1PlpBUkEgR2xhc3NlcyB1bmlzZXggZWRpdGlvbiBvbiBTYWxlIDxzcGFuCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJxdHkiPngyPC9zcGFuPjwvaDU+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ibS10LTUiPjxhIGhyZWY9ImluZGV4Lmh0bWwjIiBjbGFzcz0icmVtb3ZlIj48aQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9Im1hdGVyaWFsLWljb25zIj5jbG9zZTwvaT48L2E+PHNwYW4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJwcmljZSI+JDI0LjAwIFVTRDwvc3Bhbj48L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icm93IHRvdGFsIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC14cy0xMiI+PHA+VG90YWw6ICQ0OC4wMCBVU0Q8L3A+PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tZGVmYXVsdCBidG4tbGciIGRhdGEtdG9nZ2xlPSJtb2RhbCIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgZGF0YS10YXJnZXQ9IiNzaG9wcGluZ0NhcnRNb2RhbCI+Q2hlY2tvdXQKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9ImJ0bi1zZWFyY2giPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ic2VhcmNoIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8Zm9ybT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSJzdWJtaXQiPjxpIGNsYXNzPSJmYSBmYS1zZWFyY2giPjwvaT48L2J1dHRvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIHBsYWNlaG9sZGVyPSJTZWFyY2guLi4iLz48L2Zvcm0+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9saT4KICAgICAgICAgICAgICAgICAgICA8L3VsPgoK</text>
+        <text encoding="base64">ICAgIGhlaWdodDogMjAwcHg7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPCUtLSAgICAgICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0iZHJvcGRvd24gIGJ0bi1jYXJ0Ij4tLSU+CiAgICAgICAgICAgICAgICAgICAgICAgIDwlLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iaW5kZXguaHRtbCMiIGNsYXNzPSJkcm9wZG93bi10b2dnbGUiLS0lPgogICAgICAgICAgICAgICAgICAgICAgICA8JS0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGEtdG9nZ2xlPSJkcm9wZG93biIgcm9sZT0iYnV0dG9uIiBhcmlhLWhhc3BvcHVwPSJ0cnVlIi0tJT4KICAgICAgICAgICAgICAgICAgICAgICAgPCUtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhcmlhLWV4cGFuZGVkPSJmYWxzZSI+LS0lPgogICAgICAgICAgICAgICAgICAgICAgICA8JS0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtc2hvcHBpbmctYmFza2V0Ij48L2k+LS0lPgogICAgICAgICAgICAgICAgICAgICAgICA8JS0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3Bhbj4xPHNwYW4gY2xhc3M9ImNhcmV0Ij48L3NwYW4+PC9zcGFuPjwvYT4tLSU+CiAgICAgICAgICAgICAgICAgICAgICAgIDwlLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iZHJvcGRvd24tbWVudSBzaG9wcGluZy1jYXJ0Ij4tLSU+CiAgICAgICAgICAgICAgICAgICAgICAgIDwlLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InNob3BwaW5nLWNhcnQtaG9sZGVyIj4tLSU+CiAgICAgICAgICAgICAgICAgICAgICAgIDwlLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJyb3cgcHJvZHVjdCI+LS0lPgogICAgICAgICAgICAgICAgICAgICAgICA8JS0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC14cy0xMiI+PGg1PlpBUkEgR2xhc3NlcyB1bmlzZXggZWRpdGlvbiBvbiBTYWxlIDxzcGFuLS0lPgogICAgICAgICAgICAgICAgICAgICAgICA8JS0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9InF0eSI+eDI8L3NwYW4+PC9oNT4tLSU+CiAgICAgICAgICAgICAgICAgICAgICAgIDwlLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Im0tdC01Ij48YSBocmVmPSJpbmRleC5odG1sIyIgY2xhc3M9InJlbW92ZSI+PGktLSU+CiAgICAgICAgICAgICAgICAgICAgICAgIDwlLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9Im1hdGVyaWFsLWljb25zIj5jbG9zZTwvaT48L2E+PHNwYW4tLSU+CiAgICAgICAgICAgICAgICAgICAgICAgIDwlLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9InByaWNlIj4kMjQuMDAgVVNEPC9zcGFuPjwvZGl2Pi0tJT4KICAgICAgICAgICAgICAgICAgICAgICAgPCUtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4tLSU+CiAgICAgICAgICAgICAgICAgICAgICAgIDwlLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4tLSU+CiAgICAgICAgICAgICAgICAgICAgICAgIDwlLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJyb3cgcHJvZHVjdCI+LS0lPgogICAgICAgICAgICAgICAgICAgICAgICA8JS0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNvbC14cy0xMiI+PGg1PlpBUkEgR2xhc3NlcyB1bmlzZXggZWRpdGlvbiBvbiBTYWxlIDxzcGFuLS0lPgogICAgICAgICAgICAgICAgICAgICAgICA8JS0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9InF0eSI+eDI8L3NwYW4+PC9oNT4tLSU+CiAgICAgICAgICAgICAgICAgICAgICAgIDwlLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9Im0tdC01Ij48YSBocmVmPSJpbmRleC5odG1sIyIgY2xhc3M9InJlbW92ZSI+PGktLSU+CiAgICAgICAgICAgICAgICAgICAgICAgIDwlLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9Im1hdGVyaWFsLWljb25zIj5jbG9zZTwvaT48L2E+PHNwYW4tLSU+CiAgICAgICAgICAgICAgICAgICAgICAgIDwlLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9InByaWNlIj4kMjQuMDAgVVNEPC9zcGFuPjwvZGl2Pi0tJT4KICAgICAgICAgICAgICAgICAgICAgICAgPCUtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4tLSU+CiAgICAgICAgICAgICAgICAgICAgICAgIDwlLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4tLSU+CiAgICAgICAgICAgICAgICAgICAgICAgIDwlLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJyb3cgdG90YWwiPi0tJT4KICAgICAgICAgICAgICAgICAgICAgICAgPCUtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJjb2wteHMtMTIiPjxwPlRvdGFsOiAkNDguMDAgVVNEPC9wPjwvZGl2Pi0tJT4KICAgICAgICAgICAgICAgICAgICAgICAgPCUtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9ImJ1dHRvbiIgY2xhc3M9ImJ0biBidG4tZGVmYXVsdCBidG4tbGciIGRhdGEtdG9nZ2xlPSJtb2RhbCItLSU+CiAgICAgICAgICAgICAgICAgICAgICAgIDwlLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhLXRhcmdldD0iI3Nob3BwaW5nQ2FydE1vZGFsIj5DaGVja291dC0tJT4KICAgICAgICAgICAgICAgICAgICAgICAgPCUtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2J1dHRvbj4tLSU+CiAgICAgICAgICAgICAgICAgICAgICAgIDwlLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4tLSU+CiAgICAgICAgICAgICAgICAgICAgICAgIDwlLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pi0tJT4KICAgICAgICAgICAgICAgICAgICAgICAgPCUtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4tLSU+CiAgICAgICAgICAgICAgICAgICAgICAgIDwlLS0gICAgICAgICAgICAgICAgICAgICAgICA8L2xpPi0tJT4KICAgICAgICAgICAgICAgICAgICAgICAgPCUtLSAgICAgICAgICAgICAgICAgICAgICAgIDxsaSBjbGFzcz0iZHJvcGRvd24gYnRuLW1lbWJlciI+PGEgaHJlZj0iaW5kZXguaHRtbCMiIGNsYXNzPSJkcm9wZG93bi10b2dnbGUiLS0lPgogICAgICAgICAgICAgICAgICAgICAgICA8JS0tICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhLXRvZ2dsZT0iZHJvcGRvd24iIHJvbGU9ImJ1dHRvbiIgYXJpYS1oYXNwb3B1cD0idHJ1ZSItLSU+CiAgICAgICAgICAgICAgICAgICAgICAgIDwlLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFyaWEtZXhwYW5kZWQ9ImZhbHNlIj48aS0tJT4KICAgICAgICAgICAgICAgICAgICAgICAgPCUtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3M9ImZhIGZhLXVzZXItY2lyY2xlLW8iPjwvaT48c3Bhbj5IaSBCb3JpcyA8c3BhbiBjbGFzcz0iY2FyZXQiPjwvc3Bhbj48L3NwYW4+PC9hPi0tJT4KICAgICAgICAgICAgICAgICAgICAgICAgPCUtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dWwgY2xhc3M9ImRyb3Bkb3duLW1lbnUiPi0tJT4KICAgICAgICAgICAgICAgICAgICAgICAgPCUtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9ImluZGV4Lmh0bWwjIiBkYXRhLXRvZ2dsZT0ibW9kYWwiIGRhdGEtdGFyZ2V0PSIjbG9naW5Nb2RhbCI+TG9naW48L2E+PC9saT4tLSU+CiAgICAgICAgICAgICAgICAgICAgICAgIDwlLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSJpbmRleC5odG1sIyI+QW5vdGhlciBhY3Rpb248L2E+PC9saT4tLSU+CiAgICAgICAgICAgICAgICAgICAgICAgIDwlLS0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT48YSBocmVmPSJpbmRleC5odG1sIyI+U29tZXRoaW5nIGVsc2UgaGVyZTwvYT48L2xpPi0tJT4KICAgICAgICAgICAgICAgICAgICAgICAgPCUtLSAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3VsPi0tJT4KICAgICAgICAgICAgICAgICAgICAgICAgPCUtLSAgICAgICAgICAgICAgICAgICAgICAgIDwvbGk+LS0lPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJkcm9wZG93biBidG4tbWVtYmVyIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9ImluZGV4Lmh0bWwjIiBjbGFzcz0iZHJvcGRvd24tdG9nZ2xlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRhdGEtdG9nZ2xlPSJkcm9wZG93biIgcm9sZT0iYnV0dG9uIiBhcmlhLWhhc3BvcHVwPSJ0cnVlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFyaWEtZXhwYW5kZWQ9ImZhbHNlIj48aQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJmYSBmYS11c2VyLWNpcmNsZS1vIj48L2k+PHNwYW4+SGkgQm9yaXMgPHNwYW4gY2xhc3M9ImNhcmV0Ij48L3NwYW4+PC9zcGFuPjwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0iZHJvcGRvd24tbWVudSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9ImluZGV4Lmh0bWwjIiBkYXRhLXRvZ2dsZT0ibW9kYWwiIGRhdGEtdGFyZ2V0PSIjbG9naW5Nb2RhbCI+TG9naW48L2E+PC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+PGEgaHJlZj0iaW5kZXguaHRtbCMiPkFub3RoZXIgYWN0aW9uPC9hPjwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPjxhIGhyZWY9ImluZGV4Lmh0bWwjIj5Tb21ldGhpbmcgZWxzZSBoZXJlPC9hPjwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICAgICAgICAgICAgICA8L2xpPgo=</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImhvdmVyZWZmZWN0Ij4KICAgICAgICA8aW1nIGNsYXNzPSJpbWctcmVzcG9uc2l2ZSIgc3JjPSJodHRwOi8vcGxhY2Vob2xkLml0LzM1MHgyMDAiIGFsdD0iIj4KICAgICAgICA8ZGl2IGNsYXNzPSJvdmVybGF5Ij4KICAgICAgICAgICA8aDI+SG92ZXIgZWZmZWN0IDE8L2gyPgogICAgICAgICAgIDxhIGNsYXNzPSJpbmZvIiBocmVmPSIjIj5saW5rIGhlcmU8L2E+CiAgICAgICAgPC9kaXY+CiAgICA8L2Rpdj4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ0b2dnbGUiPgogICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSJqYXZhc2NyaXB0OjsiIGNsYXNzPSJqcy1tZW51LXRvZ2dsZSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8c3BhbiBjbGFzcz0ibW9iaWxlLW1lbnUtbGFiZWwiPjxiPkxhbnVnYWdlPC9iPjxiPkNsb3NlPC9iPjwvc3Bhbj48c3BhbgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNsYXNzPSJtb2JpbGUtbWVudS1idG4iPjxzcGFuPjwvc3Bhbj48c3Bhbj48L3NwYW4+PHNwYW4+PC9zcGFuPjwvc3Bhbj48L2E+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="y" type="4">
         <text>B</text>
@@ -393,9 +483,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>close</last-search>
+      <last-search>eff</last-search>
       <last-offset />
-      <last-pattern>close</last-pattern>
+      <last-pattern>eff</last-pattern>
       <last-replace>\/assets</last-replace>
       <last-substitute>assets</last-substitute>
       <last-dir>1</last-dir>
