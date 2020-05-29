@@ -157,6 +157,12 @@
         <mark key="[" line="77" column="0" />
         <mark key="]" line="90" column="20" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/ctrl/IndexCtrl.java" timestamp="1590737720907">
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="9" column="4" />
+        <mark key="^" line="9" column="4" />
+        <mark key="." line="9" column="3" />
+      </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/resources/application.yml" timestamp="1590735391540">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -167,12 +173,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/scity/common/jdbc/PgSQLArrayTypeHandler.java" timestamp="1590719417185">
-        <mark key="[" line="11" column="1" />
-        <mark key="]" line="11" column="3" />
-        <mark key="^" line="11" column="3" />
-        <mark key="." line="11" column="2" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/webgis-api/src/main/java/com/syzh/scity/webgis/service/impl/BurstPipeService.kt" timestamp="1590731029446">
         <mark key="'" line="22" column="48" />
@@ -185,12 +185,12 @@
         <mark key="[" line="14" column="0" />
         <mark key="]" line="15" column="32" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/resources/application.yml" timestamp="1590737619446">
-        <mark key="'" line="41" column="9" />
-        <mark key="[" line="11" column="37" />
-        <mark key="]" line="11" column="47" />
-        <mark key="." line="11" column="46" />
-        <mark key="^" line="11" column="47" />
+      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/resources/application.yml" timestamp="1590737891924">
+        <mark key="'" line="16" column="20" />
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="5" column="20" />
+        <mark key="." line="5" column="19" />
+        <mark key="^" line="5" column="20" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/webgis-api/pom.xml" timestamp="1590719617937">
         <mark key="[" line="17" column="25" />
@@ -199,6 +199,10 @@
       </file>
       <file name="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/RootApp.java" timestamp="1590736190520">
         <mark key="'" line="31" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/resources/application.yml" timestamp="1590737664974">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="12" />
       </file>
       <file name="/fragment.java" timestamp="1590735464673">
         <mark key="[" line="0" column="0" />
@@ -211,7 +215,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="29" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/mapper/RuleRoleMapper.xml" />
       <jump line="14" column="18" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/mapper/RuleRoleMapper.xml" />
       <jump line="12" column="34" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/mapper/RuleRoleMapper.xml" />
       <jump line="11" column="46" filename="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/gis/permit/mapper/RuleRoleMapper.xml" />
@@ -311,6 +314,7 @@
       <jump line="31" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/RootApp.java" />
       <jump line="50" column="9" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/application.yml" />
       <jump line="19" column="62" filename="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/src/main/resources/application.yml" />
+      <jump line="11" column="20" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/application.yml" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -319,46 +323,46 @@
         <text>\基本废物......\</text>
       </register>
       <register name="*" type="4">
-        <text>pegas</text>
+        <text>templates</text>
       </register>
       <register name="-" type="4">
-        <text>pegas</text>
+        <text>templates</text>
       </register>
       <register name="/" type="4">
         <text>mysql</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRyaXZlckNsYXNzTmFtZTogY29tLm15c3FsLmNqLmpkYmMuRHJpdmVyCiAgICB1cmw6IGpkYmM6bXlzcWw6Ly9sb2NhbGhvc3Q6MzMwOC9wZWdhcz91c2VVbmljb2RlPXRydWUmY2hhcmFjdGVyRW5jb2Rpbmc9dXRmLTgmc2VydmVyVGltZXpvbmU9QXNpYS9TaGFuZ2hhaQogICAgdXNlcm5hbWU6IHJvb3QKICAgIHBhc3N3b3JkOiBhZG1pbgo=</text>
+        <text encoding="base64">c2VydmVyOgogIHBvcnQ6IDgwODEK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRyaXZlckNsYXNzTmFtZTogY29tLm15c3FsLmNqLmpkYmMuRHJpdmVyCiAgICB1cmw6IGpkYmM6bXlzcWw6Ly9sb2NhbGhvc3Q6MzMwOC9wZWdhcz91c2VVbmljb2RlPXRydWUmY2hhcmFjdGVyRW5jb2Rpbmc9dXRmLTgmc2VydmVyVGltZXpvbmU9QXNpYS9TaGFuZ2hhaQogICAgdXNlcm5hbWU6IHJvb3QKICAgIHBhc3N3b3JkOiBhZG1pbgo=</text>
+        <text encoding="base64">ICBwb3J0Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBzZXJ2ZXI6CiAgICBwCiAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGR5bmFtaWM6CiAgICAgIGRhdGFzb3VyY2U6CiAgICAgICAgbWFzdGVyOgogICAgICAgICAgdXJsOiBqZGJjOnBvc3RncmVzcWw6Ly9sb2NhbGhvc3Q6MzMwNi9nYW1lc19yb2xlCiAgICAgICAgICB1c2VybmFtZTogcm9vdAogICAgICAgICAgcGFzc3dvcmQ6IGFkbWluCiAgICAgICAgICBkcml2ZXItY2xhc3MtbmFtZTogY29tLm15c3FsLmNqLmpkYmMuRHJpdmVyCiAgICAgICAgICAjIOWkmuaVsOaNrua6kOmFjee9rgogICAgICAgICAgI211bHRpLWRhdGFzb3VyY2UxOgogICAgICAgICAgI3VybDogamRiYzpteXNxbDovL2xvY2FsaG9zdDozMzA2L2plZWNnLWJvb3QyP3VzZVVuaWNvZGU9dHJ1ZSZjaGFyYWN0ZXJFbmNvZGluZz11dGY4JmF1dG9SZWNvbm5lY3Q9dHJ1ZSZ6ZXJvRGF0ZVRpbWVCZWhhdmlvcj1jb252ZXJ0VG9OdWxsJnRyYW5zZm9ybWVkQml0SXNCb29sZWFuPXRydWUKICAgICAgICAgICN1c2VybmFtZTogcm9vdAogICAgICAgICAgI3Bhc3N3b3JkOiByb290CiAgICAgICAgICAjZHJpdmVyLWNsYXNzLW5hbWU6IGNvbS5teXNxbC5qZGJjLkRyaXZlcgo=</text>
+        <text encoding="base64">ICAgIGRyaXZlckNsYXNzTmFtZTogY29tLm15c3FsLmNqLmpkYmMuRHJpdmVyCiAgICB1cmw6IGpkYmM6bXlzcWw6Ly9sb2NhbGhvc3Q6MzMwOC9wZWdhcz91c2VVbmljb2RlPXRydWUmY2hhcmFjdGVyRW5jb2Rpbmc9dXRmLTgmc2VydmVyVGltZXpvbmU9QXNpYS9TaGFuZ2hhaQogICAgdXNlcm5hbWU6IHJvb3QKICAgIHBhc3N3b3JkOiBhZG1pbgo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGR5bmFtaWM6CiAgICAgIGRhdGFzb3VyY2U6CiAgICAgICAgbWFzdGVyOgogICAgICAgICAgdXJsOiBqZGJjOnBvc3RncmVzcWw6Ly9sb2NhbGhvc3Q6MzMwNi9nYW1lc19yb2xlCiAgICAgICAgICB1c2VybmFtZTogcm9vdAogICAgICAgICAgcGFzc3dvcmQ6IGFkbWluCiAgICAgICAgICBkcml2ZXItY2xhc3MtbmFtZTogY29tLm15c3FsLmNqLmpkYmMuRHJpdmVyCiAgICAgICAgICAjIOWkmuaVsOaNrua6kOmFjee9rgogICAgICAgICAgI211bHRpLWRhdGFzb3VyY2UxOgogICAgICAgICAgI3VybDogamRiYzpteXNxbDovL2xvY2FsaG9zdDozMzA2L2plZWNnLWJvb3QyP3VzZVVuaWNvZGU9dHJ1ZSZjaGFyYWN0ZXJFbmNvZGluZz11dGY4JmF1dG9SZWNvbm5lY3Q9dHJ1ZSZ6ZXJvRGF0ZVRpbWVCZWhhdmlvcj1jb252ZXJ0VG9OdWxsJnRyYW5zZm9ybWVkQml0SXNCb29sZWFuPXRydWUKICAgICAgICAgICN1c2VybmFtZTogcm9vdAogICAgICAgICAgI3Bhc3N3b3JkOiByb290CiAgICAgICAgICAjZHJpdmVyLWNsYXNzLW5hbWU6IGNvbS5teXNxbC5qZGJjLkRyaXZlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb25maWd1cmF0aW9uOgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjb25maWd1cmF0aW9uOgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwcm9maWxlczoKICAgIGFjdGl2ZTogZGV2Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="y" type="4">
         <text>B</text>
