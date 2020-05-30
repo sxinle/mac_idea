@@ -19,7 +19,6 @@
         <entry>按id</entry>
         <entry>搜索结果</entry>
         <entry>box-sha</entry>
-        <entry>copy</entry>
         <entry>nav-tabs</entry>
         <entry>hr</entry>
         <entry>分类1</entry>
@@ -28,6 +27,7 @@
         <entry>stick</entry>
         <entry>简体中文</entry>
         <entry>中文</entry>
+        <entry>copy</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL2RzL2Zyb20vZw==</entry>
@@ -125,22 +125,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/src/main/resources/application.yml" timestamp="1590737593419">
-        <mark key="'" line="19" column="62" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="21" column="19" />
-      </file>
       <file name="$USER_HOME$/workspace/pproj/games-role/src/main/resources/static/css/index.css" timestamp="1590744016087">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/index.css" timestamp="1590832964621">
-        <mark key="'" line="131" column="21" />
-        <mark key="[" line="222" column="17" />
-        <mark key="]" line="223" column="19" />
-        <mark key="^" line="223" column="19" />
-        <mark key="." line="223" column="18" />
+      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/index.css" timestamp="1590841612718">
+        <mark key="'" line="230" column="0" />
+        <mark key="[" line="163" column="16" />
+        <mark key="]" line="163" column="23" />
+        <mark key="." line="163" column="16" />
+        <mark key="^" line="245" column="21" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/jsp/index.jsp" timestamp="1590739129386">
         <mark key="[" line="0" column="0" />
@@ -161,12 +156,11 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="10" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" timestamp="1590834171512">
-        <mark key="'" line="57" column="40" />
-        <mark key="[" line="60" column="39" />
-        <mark key="]" line="60" column="42" />
-        <mark key="." line="60" column="41" />
-        <mark key="^" line="60" column="42" />
+      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" timestamp="1590841274072">
+        <mark key="'" line="30" column="84" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="152" column="0" />
+        <mark key="." line="135" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/search.js" timestamp="1590833944956">
         <mark key="'" line="90" column="52" />
@@ -186,6 +180,12 @@
         <mark key="[" line="82" column="0" />
         <mark key="]" line="86" column="21" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/util/LocaleConfig.java" timestamp="1590842053014">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="42" column="1" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/games-role/pom.xml" timestamp="1590739667482">
         <mark key="'" line="17" column="39" />
         <mark key="[" line="80" column="0" />
@@ -203,27 +203,29 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1590834215342">
+      <file name="/Dummy.txt" timestamp="1590835208575">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/resources/application.yml" timestamp="1590748916497">
-        <mark key="'" line="12" column="27" />
-        <mark key="[" line="4" column="32" />
-        <mark key="]" line="4" column="33" />
-        <mark key="." line="4" column="32" />
-        <mark key="^" line="4" column="33" />
-      </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/updm-manage/src/main/resources/application.yml" timestamp="1590737664974">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="1" column="12" />
+      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/resources/application.yml" timestamp="1590842083639">
+        <mark key="'" line="14" column="27" />
+        <mark key="[" line="4" column="34" />
+        <mark key="]" line="4" column="34" />
+        <mark key="." line="4" column="34" />
+        <mark key="^" line="4" column="49" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/plugins/bootstrap-3.3.7/css/bootstrap.min.css" timestamp="1590765090700">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/util/Msg.java" timestamp="1590842417117">
+        <mark key="[" line="28" column="5" />
+        <mark key="]" line="29" column="1" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="29" column="1" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/common.jsp" timestamp="1590748997488">
         <mark key="[" line="9" column="0" />
@@ -236,14 +238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="951" column="1608" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/search.css" />
-      <jump line="123" column="24" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
-      <jump line="121" column="15" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
-      <jump line="1015" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/search.css" />
-      <jump line="524" column="1" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/search.css" />
-      <jump line="46" column="28" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
-      <jump line="47" column="48" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
-      <jump line="25" column="109" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
       <jump line="283" column="54" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
       <jump line="48" column="76" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
       <jump line="19" column="43" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
@@ -336,6 +330,14 @@
       <jump line="358" column="27" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
       <jump line="64" column="39" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
       <jump line="57" column="40" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
+      <jump line="30" column="84" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
+      <jump line="223" column="18" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/index.css" />
+      <jump line="246" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/index.css" />
+      <jump line="230" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/index.css" />
+      <jump line="2" column="13" filename="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/util/LocaleConfig.java" />
+      <jump line="22" column="11" filename="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/util/LocaleConfig.java" />
+      <jump line="42" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/util/LocaleConfig.java" />
+      <jump line="2" column="13" filename="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/util/Msg.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -344,46 +346,46 @@
         <text>\基本废物......\</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">PGkgY2xhc3M9ImZhIGZhLWxhbmd1YWdlIj48L2k+Jm5ic3A7Jm5ic3A7Jm5ic3A7</text>
+        <text>essageUtils</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PGkgY2xhc3M9ImZhIGZhLWxhbmd1YWdlIj48L2k+Jm5ic3A7Jm5ic3A7Jm5ic3A7</text>
+        <text>essageUtils</text>
       </register>
       <register name="/" type="4">
-        <text>中文</text>
+        <text>copy</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LmNhdHMgPiBhIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJzZWFyY2gtci1vbmUtcm9sZSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImlkZW50aXR5Ij4xMjM0NQogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9ImEtY29weSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWNvcHkiIHN0eWxlPSJmb250LXdlaWdodDogYm9sZDtmb250LXNpemU6IDEuNXJlbTsiPjwvaT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InJvbGUtaW1ncyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHdpZHRoPSIxMDBweCIgaGVpZ2h0PSIxMDBweCIgc3JjPSIvYXNzZXRzL2ltZy9MV1JDNTAwMi5wbmciPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyB3aWR0aD0iMTAwcHgiIGhlaWdodD0iMTAwcHgiIHNyYz0iL2Fzc2V0cy9pbWcvTFdSQzUwMDIucG5nIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgd2lkdGg9IjEwMHB4IiBoZWlnaHQ9IjEwMHB4IiBzcmM9Ii9hc3NldHMvaW1nL0xXUkM1MDAyLnBuZyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHdpZHRoPSIxMDBweCIgaGVpZ2h0PSIxMDBweCIgc3JjPSIvYXNzZXRzL2ltZy9MV1JDNTAwMi5wbmciPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyB3aWR0aD0iMTAwcHgiIGhlaWdodD0iMTAwcHgiIHNyYz0iL2Fzc2V0cy9pbWcvTFdSQzUwMDIucG5nIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgd2lkdGg9IjEwMHB4IiBoZWlnaHQ9IjEwMHB4IiBzcmM9Ii9hc3NldHMvaW1nL0xXUkM1MDAyLnBuZyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHdpZHRoPSIxMDBweCIgaGVpZ2h0PSIxMDBweCIgc3JjPSIvYXNzZXRzL2ltZy9MV1JDNTAwMi5wbmciPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyB3aWR0aD0iMTAwcHgiIGhlaWdodD0iMTAwcHgiIHNyYz0iL2Fzc2V0cy9pbWcvTFdSQzUwMDIucG5nIj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbGl6aGVueWEgb24gMjAxOC81LzE5LgogKi8KCg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIE1zZyB7Cn0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCEtLSAgICAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMgICAgIyMjIyMjIyMjIFNldCB0byBib2R5IGNsYXNzID0gLm1lbWJlci1uYXYtaW52ZXJzZSAgPSBmb3IgSW52ZXJzZSBtZW1iZXIgbmF2aWdhdGlvbiAgICAjIyMjIyMjIyMgU2V0IHRvIGJvZHkgY2xhc3MgPSAuc3RpY2t5LW5hdiAgPSBmb3Igc3RpY2t5IGhlYWRlciAgICAjIyMjIyMjIyMgU2V0IHRvIGJvZHkgY2xhc3MgPSAudGl0bGVzLWludmVyc2UgID0gZm9yIGJsYWNrIHRpdGxlICAgICMjIyMjIyMjIyBTZXQgdG8gYm9keSBjbGFzcyA9IC5yb3VuZGVkLWJ1dHRvbnMgID0gZm9yIHJvdW5kZWQgYnV0dG9ucyAgICAjIyMjIyMjIyMgICAgQ3JlYXRlIGJhY2tncm91bmRlZCBzZWN0aW9uICAgIFRoZSBTZWN0aW9uIG11c3QgYmUgd3JhcGVkIGluIGRpdiB3aXRoIHBhcmFtZXRlcnM6ICAgIGRhdGEtb3ZlcmxheTogc2V0IG92ZXJsYXkgYXQgYmFja2dyb3VuZCAtIGFjY2VwdCBwYXJhbWV0ZXJzIGZyb20gMS0xMCAgICBkYXRhLXBhcmFsbGF4OiB0dXJuIG9uIHBhcmFsbGF4IG9mIHRoZSBiYWNrZ3JvdW5kICAgIGRhdGEtYmctY29udGFpbjogY2hhbmdlIGJhY2tncm91bmQtc2l6ZSB0byBjb2ludGFpbiAgICBUaGUgc2VjdGlvbiBtdXN0IGNvbnRhaW4gY2xhc3MgYmFja2dyb3VuZC1pbWFnZS1ob2xkZXIgd2l0aCBzdHlsZT0iYmFja2dyb3VuZC1pbWFnZTogdXJsKCcnKTsiIGlubGluZSBjc3MgICAgRm9yIGV4YW1wbGU6ICAgIDxkaXYgZGF0YS1vdmVybGF5PSI4IiBkYXRhLXBhcmFsbGF4IGRhdGEtYmctY29udGFpbiI+PHNlY3Rpb24gY2xhc3M9InNlY3Rpb24tWCBiYWNrZ3JvdW5kLWltYWdlLWhvbGRlciIgc3R5bGU9ImJhY2tncm91bmQtaW1hZ2U6IHVybCgnYXNzZXRzL2ltZy9zZWN0aW9uLTExL2JnLmpwZycpOyI+PC9kaXY+PC9kaXY+WW91IGNhbiBhZGQgY2xhc3MgPSAiaW52ZXJzZSIgdG8gY2hhbmdlIHRoZSBiYWNrZ3JvdW5kIG9mIG92ZXJsYXkgICAgRm9yIGV4YW1wbGU6ICAgIDxkaXYgZGF0YS1vdmVybGF5PSI4IiBkYXRhLXBhcmFsbGF4IGRhdGEtYmctY29udGFpbiIgY2xhc3M9ImludmVyc2UiPjwvZGl2PiAgICAjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMgICAgLS0+Cg==</text>
+        <text encoding="base64">cHVibGljIGNsYXNzIExvY2FsZUNvbmZpZyB7Cn0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJzZWFyY2gtci1vbmUtcm9sZSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImlkZW50aXR5Ij4xMjM0NSZuYnNwOyZuYnNwOyZuYnNwOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGkgY2xhc3M9ImZhIGZhLWNvcHkiIHN0eWxlPSJmb250LXdlaWdodDogYm9sZDtmb250LXNpemU6IDEuOHJlbTtjb2xvcjojZmY1ZjJlIj48L2k+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJyb2xlLWltZ3MiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyB3aWR0aD0iMTAwcHgiIGhlaWdodD0iMTAwcHgiIHNyYz0iL2Fzc2V0cy9pbWcvTFdSQzUwMDIucG5nIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgd2lkdGg9IjEwMHB4IiBoZWlnaHQ9IjEwMHB4IiBzcmM9Ii9hc3NldHMvaW1nL0xXUkM1MDAyLnBuZyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHdpZHRoPSIxMDBweCIgaGVpZ2h0PSIxMDBweCIgc3JjPSIvYXNzZXRzL2ltZy9MV1JDNTAwMi5wbmciPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyB3aWR0aD0iMTAwcHgiIGhlaWdodD0iMTAwcHgiIHNyYz0iL2Fzc2V0cy9pbWcvTFdSQzUwMDIucG5nIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgd2lkdGg9IjEwMHB4IiBoZWlnaHQ9IjEwMHB4IiBzcmM9Ii9hc3NldHMvaW1nL0xXUkM1MDAyLnBuZyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHdpZHRoPSIxMDBweCIgaGVpZ2h0PSIxMDBweCIgc3JjPSIvYXNzZXRzL2ltZy9MV1JDNTAwMi5wbmciPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyB3aWR0aD0iMTAwcHgiIGhlaWdodD0iMTAwcHgiIHNyYz0iL2Fzc2V0cy9pbWcvTFdSQzUwMDIucG5nIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgd2lkdGg9IjEwMHB4IiBoZWlnaHQ9IjEwMHB4IiBzcmM9Ii9hc3NldHMvaW1nL0xXUkM1MDAyLnBuZyI+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InNlYXJjaC1yLW9uZS1yb2xlIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iaWRlbnRpdHkiPjEyMzQ1Jm5ic3A7Jm5ic3A7Jm5ic3A7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aSBjbGFzcz0iZmEgZmEtY29weSIgc3R5bGU9ImZvbnQtd2VpZ2h0OiBib2xkO2ZvbnQtc2l6ZTogMS44cmVtO2NvbG9yOiNmZjVmMmUiPjwvaT4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InJvbGUtaW1ncyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHdpZHRoPSIxMDBweCIgaGVpZ2h0PSIxMDBweCIgc3JjPSIvYXNzZXRzL2ltZy9MV1JDNTAwMi5wbmciPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyB3aWR0aD0iMTAwcHgiIGhlaWdodD0iMTAwcHgiIHNyYz0iL2Fzc2V0cy9pbWcvTFdSQzUwMDIucG5nIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgd2lkdGg9IjEwMHB4IiBoZWlnaHQ9IjEwMHB4IiBzcmM9Ii9hc3NldHMvaW1nL0xXUkM1MDAyLnBuZyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHdpZHRoPSIxMDBweCIgaGVpZ2h0PSIxMDBweCIgc3JjPSIvYXNzZXRzL2ltZy9MV1JDNTAwMi5wbmciPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyB3aWR0aD0iMTAwcHgiIGhlaWdodD0iMTAwcHgiIHNyYz0iL2Fzc2V0cy9pbWcvTFdSQzUwMDIucG5nIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgd2lkdGg9IjEwMHB4IiBoZWlnaHQ9IjEwMHB4IiBzcmM9Ii9hc3NldHMvaW1nL0xXUkM1MDAyLnBuZyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHdpZHRoPSIxMDBweCIgaGVpZ2h0PSIxMDBweCIgc3JjPSIvYXNzZXRzL2ltZy9MV1JDNTAwMi5wbmciPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyB3aWR0aD0iMTAwcHgiIGhlaWdodD0iMTAwcHgiIHNyYz0iL2Fzc2V0cy9pbWcvTFdSQzUwMDIucG5nIj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ic2VhcmNoLXItb25lLXJvbGUiPgogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJpZGVudGl0eSI+MTIzNDUmbmJzcDsmbmJzcDsmbmJzcDsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS1jb3B5IiBzdHlsZT0iZm9udC13ZWlnaHQ6IGJvbGQ7Zm9udC1zaXplOiAxLjhyZW07Y29sb3I6I2ZmNWYyZSI+PC9pPgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0icm9sZS1pbWdzIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgd2lkdGg9IjEwMHB4IiBoZWlnaHQ9IjEwMHB4IiBzcmM9Ii9hc3NldHMvaW1nL0xXUkM1MDAyLnBuZyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHdpZHRoPSIxMDBweCIgaGVpZ2h0PSIxMDBweCIgc3JjPSIvYXNzZXRzL2ltZy9MV1JDNTAwMi5wbmciPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyB3aWR0aD0iMTAwcHgiIGhlaWdodD0iMTAwcHgiIHNyYz0iL2Fzc2V0cy9pbWcvTFdSQzUwMDIucG5nIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgd2lkdGg9IjEwMHB4IiBoZWlnaHQ9IjEwMHB4IiBzcmM9Ii9hc3NldHMvaW1nL0xXUkM1MDAyLnBuZyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHdpZHRoPSIxMDBweCIgaGVpZ2h0PSIxMDBweCIgc3JjPSIvYXNzZXRzL2ltZy9MV1JDNTAwMi5wbmciPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyB3aWR0aD0iMTAwcHgiIGhlaWdodD0iMTAwcHgiIHNyYz0iL2Fzc2V0cy9pbWcvTFdSQzUwMDIucG5nIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgd2lkdGg9IjEwMHB4IiBoZWlnaHQ9IjEwMHB4IiBzcmM9Ii9hc3NldHMvaW1nL0xXUkM1MDAyLnBuZyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIHdpZHRoPSIxMDBweCIgaGVpZ2h0PSIxMDBweCIgc3JjPSIvYXNzZXRzL2ltZy9MV1JDNTAwMi5wbmciPgogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICA8L2Rpdg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiBkYXJrZ3JheTsK</text>
+        <text encoding="base64">ICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxocj4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1ib3R0b206IDVweDsK</text>
+        <text encoding="base64">LmlkZW50aXR5ID4gYSB7CiAgICBkaXNwbGF5OiBibG9jazsKICAgIGNvbG9yOiAjM2QwMGI0OwogICAgdGV4dC1kZWNvcmF0aW9uOiBub25lOwogICAgYmFja2dyb3VuZDogI2ZmZjsKICAgIGhlaWdodDogNTBweDsKICAgIHdpZHRoOiA1MHB4OwogICAgLXdlYmtpdC1ib3JkZXItcmFkaXVzOiAxMDAlOwogICAgLW1vei1ib3JkZXItcmFkaXVzOiAxMDAlOwogICAgYm9yZGVyLXJhZGl1czogMTAwJTsKICAgIGZvbnQtc2l6ZTogMjZweDsKICAgIHBhZGRpbmc6IDEwcHggMDsKICAgIHRleHQtYWxpZ246IGNlbnRlcjsKICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsKfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LmNhdHMgPiBzcGFuIC5hY3RpdmUgewogICBib3JkZXItYm90dG9tOiAxcHggc29saWQgcmVkOwp9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCBncmF5Owo=</text>
+        <text encoding="base64">ICAgIHBhZGRpbmcK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgbGl6aGVueWEgb24gMjAxOC81LzE5LgogKi8KCg==</text>
       </register>
       <register name="y" type="4">
         <text>B</text>
@@ -395,9 +397,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>中文</last-search>
+      <last-search>copy</last-search>
       <last-offset />
-      <last-pattern>中文</last-pattern>
+      <last-pattern>copy</last-pattern>
       <last-replace>nav-tabs-own</last-replace>
       <last-substitute>nav-tabs</last-substitute>
       <last-dir>1</last-dir>
