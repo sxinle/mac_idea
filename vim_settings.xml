@@ -8,13 +8,6 @@
   <component name="VimHistorySettings">
     <history>
       <history-search>
-        <entry>copy</entry>
-        <entry>简体中文</entry>
-        <entry>角色列表</entry>
-        <entry encoding="base64">XDxwYXJlbnRNZXNzYWdlU291cmNlXD4=</entry>
-        <entry>搜索结果</entry>
-        <entry>ID</entry>
-        <entry>mybatis</entry>
         <entry>drui</entry>
         <entry>com.syzh.scity.common.</entry>
         <entry>gR</entry>
@@ -28,6 +21,13 @@
         <entry>jp</entry>
         <entry>cats</entry>
         <entry>3306</entry>
+        <entry>5</entry>
+        <entry>已选条件</entry>
+        <entry>changeGames</entry>
+        <entry>one-role</entry>
+        <entry>debugger</entry>
+        <entry encoding="base64">XDxiaW5kU2VhcmNoQ2hlY2tCb3hcPg==</entry>
+        <entry>checkbox</entry>
       </history-search>
       <history-cmd>
         <entry>files</entry>
@@ -125,74 +125,14 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1590985212137">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="0" column="1" />
-      </file>
-      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/resources/application.yml" timestamp="1590984068947">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="24" column="35" />
-        <mark key="]" line="24" column="36" />
-        <mark key="." line="24" column="36" />
-        <mark key="^" line="74" column="29" />
-      </file>
-      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/mapper/AccountMapper.java" timestamp="1590927128368">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/service/IAccountService.java" timestamp="1590926915331">
-        <mark key="[" line="13" column="4" />
-        <mark key="]" line="13" column="11" />
-        <mark key="." line="13" column="10" />
-        <mark key="^" line="13" column="11" />
-      </file>
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/permit-center/src/main/java/com/syzh/scity/permit/service/impl/MapService.kt" timestamp="1590992437178" />
       <file name="$USER_HOME$/workspace/pegas/pegas-b/pegas-root/src/main/resources/application.yml" timestamp="1590972601697">
         <mark key="'" line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/index.js" timestamp="1590985203043">
-        <mark key="[" line="0" column="31" />
-        <mark key="]" line="1" column="20" />
-        <mark key="." line="1" column="19" />
-        <mark key="^" line="1" column="20" />
-      </file>
-      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/RootApp.java" timestamp="1590980846207">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/data/Account.java" timestamp="1590926709396">
-        <mark key="[" line="18" column="11" />
-        <mark key="]" line="18" column="22" />
-        <mark key="^" line="18" column="23" />
-        <mark key="." line="18" column="22" />
-      </file>
-      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" timestamp="1590983175450">
-        <mark key="'" line="117" column="16" />
-        <mark key="[" line="132" column="79" />
-        <mark key="]" line="132" column="80" />
-        <mark key="." line="132" column="79" />
-        <mark key="^" line="132" column="80" />
-      </file>
-      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/mapper/AccRoleRelaMapper.xml" timestamp="1590927101226">
-        <mark key="[" line="3" column="37" />
-        <mark key="]" line="3" column="54" />
-        <mark key="." line="3" column="53" />
-        <mark key="^" line="3" column="54" />
-      </file>
-      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/ctrl/AccountsCtrl.java" timestamp="1590926716596">
-        <mark key="[" line="53" column="28" />
-        <mark key="]" line="53" column="37" />
-        <mark key="." line="53" column="36" />
-        <mark key="^" line="53" column="37" />
-      </file>
-      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/service/impl/GameService.java" timestamp="1590983810500">
-        <mark key="[" line="32" column="27" />
-        <mark key="]" line="32" column="27" />
-        <mark key="." line="32" column="27" />
-        <mark key="^" line="31" column="29" />
+      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/index.css" timestamp="1591007558440">
+        <mark key="[" line="252" column="0" />
+        <mark key="]" line="252" column="0" />
+        <mark key="." line="252" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/mapper/RolesMapper.xml" timestamp="1590984633995">
         <mark key="[" line="14" column="0" />
@@ -223,13 +163,6 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="12" column="17" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/common.jsp" timestamp="1590931517509">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="11" column="13" />
-        <mark key="." line="11" column="12" />
-        <mark key="^" line="11" column="13" />
-      </file>
       <file name="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/service/impl/AccountService.java" timestamp="1590927546272">
         <mark key="'" line="42" column="7" />
         <mark key="[" line="40" column="12" />
@@ -237,46 +170,72 @@
         <mark key="^" line="41" column="8" />
         <mark key="." line="41" column="7" />
       </file>
+      <file name="/Dummy.txt" timestamp="1590985212137">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/resources/application.yml" timestamp="1590984068947">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="24" column="35" />
+        <mark key="]" line="24" column="36" />
+        <mark key="." line="24" column="36" />
+        <mark key="^" line="74" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/mapper/AccountMapper.java" timestamp="1590927128368">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/index.js" timestamp="1591016371174">
+        <mark key="'" line="120" column="5" />
+        <mark key="[" line="121" column="27" />
+        <mark key="]" line="121" column="31" />
+        <mark key="." line="121" column="30" />
+        <mark key="^" line="121" column="31" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/RootApp.java" timestamp="1590980846207">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" timestamp="1591015997517">
+        <mark key="'" line="276" column="86" />
+        <mark key="[" line="142" column="70" />
+        <mark key="]" line="142" column="86" />
+        <mark key="^" line="270" column="73" />
+        <mark key="." line="270" column="69" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/mapper/AccRoleRelaMapper.xml" timestamp="1590927101226">
+        <mark key="[" line="3" column="37" />
+        <mark key="]" line="3" column="54" />
+        <mark key="." line="3" column="53" />
+        <mark key="^" line="3" column="54" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/service/impl/GameService.java" timestamp="1590983810500">
+        <mark key="[" line="32" column="27" />
+        <mark key="]" line="32" column="27" />
+        <mark key="." line="32" column="27" />
+        <mark key="^" line="31" column="29" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/search.js" timestamp="1591014960553">
+        <mark key="'" line="193" column="26" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="75" />
+      </file>
+      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/common.jsp" timestamp="1590931517509">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="11" column="13" />
+        <mark key="." line="11" column="12" />
+        <mark key="^" line="11" column="13" />
+      </file>
       <file name="/fragment.java" timestamp="1590927477582">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="50" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
-      <jump line="70" column="17" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
-      <jump line="351" column="42" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
-      <jump line="29" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
-      <jump line="94" column="52" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/search.js" />
-      <jump line="358" column="27" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
-      <jump line="64" column="39" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
-      <jump line="57" column="40" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
-      <jump line="30" column="84" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
-      <jump line="223" column="18" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/index.css" />
-      <jump line="246" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/index.css" />
-      <jump line="230" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/index.css" />
-      <jump line="2" column="13" filename="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/util/LocaleConfig.java" />
-      <jump line="22" column="11" filename="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/util/LocaleConfig.java" />
-      <jump line="42" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/util/LocaleConfig.java" />
-      <jump line="2" column="13" filename="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/util/Msg.java" />
-      <jump line="4" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/index.js" />
-      <jump line="48" column="44" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
-      <jump line="7" column="2" filename="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/util/Msg.java" />
-      <jump line="15" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/util/LocaleMessage.java" />
-      <jump line="53" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/util/LocaleMessage.java" />
-      <jump line="97" column="51" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
-      <jump line="16" column="26" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.6.RELEASE/spring-context-5.2.6.RELEASE.jar!/org/springframework/context/support/DelegatingMessageSource.class" />
-      <jump line="22" column="13" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.6.RELEASE/spring-context-5.2.6.RELEASE.jar!/org/springframework/context/support/DelegatingMessageSource.class" />
-      <jump line="27" column="20" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.6.RELEASE/spring-context-5.2.6.RELEASE.jar!/org/springframework/context/support/DelegatingMessageSource.class" />
-      <jump line="32" column="17" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.6.RELEASE/spring-context-5.2.6.RELEASE.jar!/org/springframework/context/support/DelegatingMessageSource.class" />
-      <jump line="33" column="24" filename="$MAVEN_REPOSITORY$/org/springframework/spring-context/5.2.6.RELEASE/spring-context-5.2.6.RELEASE.jar!/org/springframework/context/support/DelegatingMessageSource.class" />
-      <jump line="60" column="66" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
-      <jump line="105" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
-      <jump line="23" column="57" filename="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/util/R.java" />
-      <jump line="1" column="1" filename="$USER_HOME$/workspace/pproj/games-role/pom.xml" />
-      <jump line="33" column="25" filename="$USER_HOME$/workspace/pproj/games-role/pom.xml" />
-      <jump line="35" column="36" filename="$USER_HOME$/workspace/shangyuan/city-gis/city-gis-parent/pom.xml" />
-      <jump line="38" column="25" filename="$USER_HOME$/workspace/shangyuan/city-gis/city-gis-parent/pom.xml" />
-      <jump line="39" column="24" filename="$USER_HOME$/workspace/shangyuan/city-gis/city-gis-parent/pom.xml" />
       <jump line="40" column="23" filename="$USER_HOME$/workspace/shangyuan/city-gis/city-gis-parent/pom.xml" />
       <jump line="34" column="24" filename="$USER_HOME$/workspace/pproj/games-role/pom.xml" />
       <jump line="40" column="24" filename="$USER_HOME$/workspace/pproj/games-role/pom.xml" />
@@ -342,6 +301,41 @@
       <jump line="1" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/application.yml" />
       <jump line="24" column="35" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/application.yml" />
       <jump line="75" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/application.yml" />
+      <jump line="266" column="36" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/search.js" />
+      <jump line="3" column="16" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/search.js" />
+      <jump line="7" column="16" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/search.js" />
+      <jump line="103" column="7" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/search.js" />
+      <jump line="152" column="53" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/search.js" />
+      <jump line="190" column="61" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/search.js" />
+      <jump line="193" column="26" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/search.js" />
+      <jump line="260" column="36" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
+      <jump line="135" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
+      <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/index.css" />
+      <jump line="253" column="13" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/css/index.css" />
+      <jump line="17" column="18" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/index.js" />
+      <jump line="114" column="10" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/index.js" />
+      <jump line="3" column="11" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/index.js" />
+      <jump line="56" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/index.js" />
+      <jump line="55" column="12" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/index.js" />
+      <jump line="117" column="7" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/index.js" />
+      <jump line="63" column="9" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/index.js" />
+      <jump line="270" column="69" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
+      <jump line="79" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/index.js" />
+      <jump line="9" column="8" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/index.js" />
+      <jump line="142" column="70" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
+      <jump line="97" column="78" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/index.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/index.js" />
+      <jump line="43" column="57" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/index.js" />
+      <jump line="96" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/index.js" />
+      <jump line="122" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/index.js" />
+      <jump line="2" column="4" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/index.js" />
+      <jump line="57" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/index.js" />
+      <jump line="4" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/index.js" />
+      <jump line="92" column="41" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/index.js" />
+      <jump line="120" column="5" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/index.js" />
+      <jump line="275" column="83" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
+      <jump line="276" column="86" filename="$USER_HOME$/workspace/pproj/games-role/src/main/webapp/WEB-INF/jsp/index.jsp" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -349,47 +343,47 @@
       <register name="&quot;" type="4">
         <text>\基本废物......\</text>
       </register>
-      <register name="*" type="2">
-        <text encoding="base64">ICAgICQoJy5vbmUtcm9sZScpLmNsaWNrKGZ1bmN0aW9uICgpIHsKICAgICAgICAkKHRoaXMpLmZpbmQoJ2ltZycpLmNzcygnb3BhY2l0eScsICcuNScpOwogICAgfSkK</text>
+      <register name="*" type="4">
+        <text>prop</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>prop</text>
       </register>
       <register name="/" type="4">
-        <text>3306</text>
+        <text>checkbox</text>
       </register>
       <register name="0" type="4">
-        <text>bindRoleClick</text>
+        <text>checkbox_c</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICQoJy5vbmUtcm9sZScpLmNsaWNrKGZ1bmN0aW9uICgpIHsKICAgICAgICAkKHRoaXMpLmZpbmQoJ2ltZycpLmNzcygnb3BhY2l0eScsICcuNScpOwogICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaW5wdXQpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygkKGNoZWNrc1swXSkuYXR0cignZGF0YScpKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">bGV0IG9mZnNldCA9ICQoJy50b29sYmFyX2J0bicpLm9mZnNldCgpOwokKCcub25lLXJvbGUnKS5vbignY2xpY2snLCBmdW5jdGlvbiAoZXZlbnQpIHsKICAgIGNvbnN0IHRoaXNJdGVtID0gJCh0aGlzKTsKICAgIGNvbnN0IGZseWVyID0gdGhpc0l0ZW0uY2xvbmUoKTsKICAgIGZseWVyLmZseSh7CiAgICAgICAgc3RhcnQ6IHsKICAgICAgICAgICAgbGVmdDogZXZlbnQucGFnZVgsCiAgICAgICAgICAgIHRvcDogZXZlbnQucGFnZVkKICAgICAgICB9LAogICAgICAgIGVuZDogewogICAgICAgICAgICBsZWZ0OiBvZmZzZXQubGVmdCArIDEwLAogICAgICAgICAgICB0b3A6IG9mZnNldC50b3AgKyAxMCwKICAgICAgICAgICAgd2lkdGg6IDAsCiAgICAgICAgICAgIGhlaWdodDogMAogICAgICAgIH0sCiAgICAgICAgb25FbmQ6IGZ1bmN0aW9uICgpIHsKICAgICAgICAgICAgJChmbHllcikucmVtb3ZlKCk7CiAgICAgICAgfQogICAgfSk7Cn0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBDYXRlZ29yeSBjYXQgPSBjYXRldG9yeVNlcnZpY2UuZ2V0QnlJZChjYXRJZCk7CiAgICAgICAgaWYgKGNhdC5nZXROYW1lQ24oKS5lcXVhbHMoIum7mOiupCIpKSB7CiAgICAgICAgICAgIFJvbGVzIHZvID0gbmV3IFJvbGVzKCk7CiAgICAgICAgICAgIHZvLnNldEdhbWVJZChjYXQuZ2V0R2FtZUlkKCkpOwogICAgICAgICAgICByZXR1cm4gUi5vayhyb2xlc1NlcnZpY2UucXVlcnlSb2xlcyh2bykpOwogICAgICAgIH0KCg==</text>
+        <text encoding="base64">ICAgICAgICAkKCkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IGphdmF4LmFubm90YXRpb24uUmVzb3VyY2U7CmltcG9ydCBqYXZheC5zZXJ2bGV0Lmh0dHAuSHR0cFNlcnZsZXRSZXF1ZXN0Owo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGEpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8aWYgdGVzdD0idm8uZ2FtZUlkICE9IG51bGwgYW5kIHZvLmdhbWVJZCAhPSAnJyI+CiAgICAgICAgICAgIEFORCByLmNhdF9pZCBpbiAoIHNlbGVjdCBpZCBmcm9tIGNhdHMgd2hlcmUgZ2FtZV9pZCA9ICN7dm8uZ2FtZUlkfSApCiAgICAgICAgPC9pZj4K</text>
+      <register name="6" type="4">
+        <text encoding="base64">LmZpbHRlcihkb20gPT4gewogICAgICAgIHJldHVybiAkKGRvbSkuZmluZCgnLmNoZWNrYm94X2MnKVswXS5wcm9wKCdjaGVja2VkJykKICAgIH0p</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">LmZvckVhY2goZWxlPT57CiAgICAgICAgY29uc29sZS5sb2coZWxlKTsKICAgIH0p</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiAwOwo=</text>
+        <text encoding="base64">ICAgICAgICBjbGVhckNhcnQoKWVsZQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBlbmRwb2ludDogaHR0cDovLzE2Ny4xNzkuNjYuMjI2OjkwMDAK</text>
+        <text encoding="base64">ICAgIGJpbmRTZWFyY2hDaGVja0JveCgpOwo=</text>
       </register>
       <register name="y" type="4">
         <text>B</text>
@@ -401,9 +395,9 @@
   </component>
   <component name="VimSearchSettings">
     <search>
-      <last-search>3306</last-search>
+      <last-search>checkbox</last-search>
       <last-offset />
-      <last-pattern>3306</last-pattern>
+      <last-pattern>checkbox</last-pattern>
       <last-replace>R</last-replace>
       <last-substitute>gR</last-substitute>
       <last-dir>1</last-dir>
