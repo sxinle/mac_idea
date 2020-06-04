@@ -143,7 +143,6 @@
         <mark key="^" line="22" column="22" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/scity/common/ctrl/MinioController.java" timestamp="1591147924271" />
       <file name="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/mapper/RolesMapper.xml" timestamp="1591276356131">
         <mark key="[" line="21" column="68" />
         <mark key="]" line="21" column="74" />
@@ -165,6 +164,13 @@
         <mark key="[" line="38" column="0" />
         <mark key="]" line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/index.js" timestamp="1591279765161">
+        <mark key="'" line="127" column="75" />
+        <mark key="[" line="77" column="0" />
+        <mark key="]" line="79" column="1" />
+        <mark key="." line="127" column="70" />
+        <mark key="^" line="127" column="70" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/ctrl/APICtrl.java" timestamp="1591277870986">
         <mark key="[" line="17" column="13" />
         <mark key="]" line="17" column="17" />
@@ -183,12 +189,12 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/ctrl/IndexCtrl.java" timestamp="1591279534057">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="45" column="26" />
-        <mark key="]" line="45" column="36" />
-        <mark key="." line="45" column="36" />
-        <mark key="^" line="45" column="37" />
+      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/ctrl/IndexCtrl.java" timestamp="1591280157993">
+        <mark key="'" line="100" column="0" />
+        <mark key="[" line="62" column="19" />
+        <mark key="]" line="62" column="31" />
+        <mark key="." line="46" column="16" />
+        <mark key="^" line="46" column="17" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/service/impl/AccountService.java" timestamp="1591277397654">
         <mark key="[" line="111" column="9" />
@@ -334,7 +340,7 @@
         <text>\基本废物......\</text>
       </register>
       <register name="*" type="4">
-        <text>/queryGames</text>
+        <text>getCatsByGame</text>
       </register>
       <register name="-" type="4">
         <text>service</text>
@@ -343,7 +349,7 @@
         <text>common</text>
       </register>
       <register name="0" type="4">
-        <text>/queryGames</text>
+        <text>getCatsByGame</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
