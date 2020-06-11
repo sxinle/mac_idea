@@ -135,6 +135,12 @@
         <mark key="[" line="80" column="0" />
         <mark key="]" line="104" column="0" />
       </file>
+      <file name="$USER_HOME$/workspace/pproj/jj/src/main/resources/data.json" timestamp="1591849187829">
+        <mark key="'" line="27" column="20" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/workspace/pproj/jj/src/main/resources/application.properties" timestamp="1591848039401">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="22" column="0" />
@@ -182,17 +188,10 @@
         <mark key="." line="127" column="70" />
         <mark key="^" line="127" column="70" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/jj/pom.xml" timestamp="1591848136874">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
-        <mark key="^" line="61" column="0" />
-      </file>
-      <file name="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/ctrl/APICtrl.java" timestamp="1591277870986">
-        <mark key="[" line="17" column="13" />
-        <mark key="]" line="17" column="17" />
-        <mark key="." line="17" column="16" />
-        <mark key="^" line="17" column="17" />
+      <file name="$USER_HOME$/workspace/pproj/jj/pom.xml" timestamp="1591849268546">
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/games-role/src/main/java/com/lyl/gr/ctrl/OpenCtrl.java" timestamp="1591278598614">
         <mark key="'" line="18" column="0" />
@@ -212,11 +211,10 @@
         <mark key="]" line="30" column="8" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/workspace/pproj/jj/src/main/java/com/jj/jj/IndexCtrl.java" timestamp="1591848955440">
-        <mark key="[" line="10" column="24" />
-        <mark key="]" line="10" column="31" />
-        <mark key="^" line="10" column="31" />
-        <mark key="." line="10" column="30" />
+      <file name="$USER_HOME$/workspace/pproj/jj/src/main/java/com/jj/jj/IndexCtrl.java" timestamp="1591849360944">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/workspace/pproj/jj/src/main/webapp/WEB-INF/jsp/common.jsp" timestamp="1591849017072">
         <mark key="[" line="9" column="0" />
@@ -234,7 +232,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="56" column="0" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/index.js" />
       <jump line="55" column="12" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/index.js" />
       <jump line="117" column="7" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/index.js" />
       <jump line="63" column="9" filename="$USER_HOME$/workspace/pproj/games-role/src/main/resources/assets/js/index.js" />
@@ -334,6 +331,7 @@
       <jump line="18" column="16" filename="$USER_HOME$/workspace/pproj/jj/src/main/resources/application.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/games-role/.gitignore" />
       <jump line="0" column="0" filename="$USER_HOME$/workspace/pproj/jj/.gitignore" />
+      <jump line="3" column="20" filename="$USER_HOME$/workspace/pproj/jj/src/main/resources/data.json" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
@@ -342,19 +340,19 @@
         <text>\基本废物......\</text>
       </register>
       <register name="*" type="2">
-        <text encoding="base64">PHNjcmlwdD5jb25zdCBqcCA9IDwlPWpwJT47PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0LnBhcnNlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>switchLang</text>
+        <text>jkjJjk</text>
       </register>
       <register name="/" type="4">
         <text>common</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">SEVMUC5tZAp0YXJnZXQvCiEubXZuL3dyYXBwZXIvbWF2ZW4td3JhcHBlci5qYXIKISoqL3NyYy9tYWluLyoqCiEqKi9zcmMvdGVzdC8qKgoKIyMjIFNUUyAjIyMKLmFwdF9nZW5lcmF0ZWQKLmNsYXNzcGF0aAouZmFjdG9yeXBhdGgKLnByb2plY3QKLnNldHRpbmdzCi5zcHJpbmdCZWFucwouc3RzNC1jYWNoZQoKIyMjIEludGVsbGlKIElERUEgIyMjCi5pZGVhCiouaXdzCiouaW1sCiouaXByCgojIyMgTmV0QmVhbnMgIyMjCi9uYnByb2plY3QvcHJpdmF0ZS8KL25iYnVpbGQvCi9kaXN0LwovbmJkaXN0LwovLm5iLWdyYWRsZS8KYnVpbGQvCgojIyMgVlMgQ29kZSAjIyMKLnZzY29kZS8K</text>
+        <text encoding="base64">ICB7CiAgICAibmFtZSI6ICLkuK3mrKfml7bku6PlhYjplIvogqHnpahBIiwKICAgICJjb2RlIjogIjAwMTkzOCIKICB9LAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PHNjcmlwdD5jb25zdCBqcCA9IDwlPWpwJT47PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0LnBhcnNlCg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -363,25 +361,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJvb2xlYW4ganAgPSByZXF1ZXN0LmdldFNlc3Npb24oKS5nZXRBdHRyaWJ1dGUoIm9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQuaTE4bi5TZXNzaW9uTG9jYWxlUmVzb2x2ZXIuTE9DQUxFIikudG9TdHJpbmcoKS5lcXVhbHMoImphX0pQIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICBKU09OT2JqZWN0LnBhcnNlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCIvIikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">SEVMUC5tZAp0YXJnZXQvCiEubXZuL3dyYXBwZXIvbWF2ZW4td3JhcHBlci5qYXIKISoqL3NyYy9tYWluLyoqCiEqKi9zcmMvdGVzdC8qKgoKIyMjIFNUUyAjIyMKLmFwdF9nZW5lcmF0ZWQKLmNsYXNzcGF0aAouZmFjdG9yeXBhdGgKLnByb2plY3QKLnNldHRpbmdzCi5zcHJpbmdCZWFucwouc3RzNC1jYWNoZQoKIyMjIEludGVsbGlKIElERUEgIyMjCi5pZGVhCiouaXdzCiouaW1sCiouaXByCgojIyMgTmV0QmVhbnMgIyMjCi9uYnByb2plY3QvcHJpdmF0ZS8KL25iYnVpbGQvCi9kaXN0LwovbmJkaXN0LwovLm5iLWdyYWRsZS8KYnVpbGQvCgojIyMgVlMgQ29kZSAjIyMKLnZzY29kZS8K</text>
+        <text encoding="base64">PHNjcmlwdD5jb25zdCBqcCA9IDwlPWpwJT47PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9jYWxlUmVzb2x2ZXIuc2V0TG9jYWxlKHJlcXVlc3QsIHJlc3BvbnNlLCBMb2NhbGUuSkFQQU4pOwo=</text>
+        <text encoding="base64">ICAgIGJvb2xlYW4ganAgPSByZXF1ZXN0LmdldFNlc3Npb24oKS5nZXRBdHRyaWJ1dGUoIm9yZy5zcHJpbmdmcmFtZXdvcmsud2ViLnNlcnZsZXQuaTE4bi5TZXNzaW9uTG9jYWxlUmVzb2x2ZXIuTE9DQUxFIikudG9TdHJpbmcoKS5lcXVhbHMoImphX0pQIik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IGVsc2UgaWYgKCJqYV9KUCIuZXF1YWxzKGxhbmcpKSB7Cg==</text>
+        <text encoding="base64">QFJlcXVlc3RNYXBwaW5nKCIvIikK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBMb2NhbGVSZXNvbHZlciBsb2NhbGVSZXNvbHZlciA9IFJlcXVlc3RDb250ZXh0VXRpbHMuZ2V0TG9jYWxlUmVzb2x2ZXIocmVxdWVzdCk7CiAgICAgICAgaWYgKCJ6aF9DTiIuZXF1YWxzKGxhbmcpKSB7CiAgICAgICAgICAgIGxvY2FsZVJlc29sdmVyLnNldExvY2FsZShyZXF1ZXN0LCByZXNwb25zZSwgTG9jYWxlLlNJTVBMSUZJRURfQ0hJTkVTRSk7CiAgICAgICAgfQ==</text>
+        <text encoding="base64">SEVMUC5tZAp0YXJnZXQvCiEubXZuL3dyYXBwZXIvbWF2ZW4td3JhcHBlci5qYXIKISoqL3NyYy9tYWluLyoqCiEqKi9zcmMvdGVzdC8qKgoKIyMjIFNUUyAjIyMKLmFwdF9nZW5lcmF0ZWQKLmNsYXNzcGF0aAouZmFjdG9yeXBhdGgKLnByb2plY3QKLnNldHRpbmdzCi5zcHJpbmdCZWFucwouc3RzNC1jYWNoZQoKIyMjIEludGVsbGlKIElERUEgIyMjCi5pZGVhCiouaXdzCiouaW1sCiouaXByCgojIyMgTmV0QmVhbnMgIyMjCi9uYnByb2plY3QvcHJpdmF0ZS8KL25iYnVpbGQvCi9kaXN0LwovbmJkaXN0LwovLm5iLWdyYWRsZS8KYnVpbGQvCgojIyMgVlMgQ29kZSAjIyMKLnZzY29kZS8K</text>
       </register>
       <register name="y" type="4">
         <text>B</text>
