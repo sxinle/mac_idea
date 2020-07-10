@@ -158,11 +158,11 @@
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/webgis-api/src/main/resources/application.yml" timestamp="1594197139777">
         <mark key="'" line="57" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/webgis-api/src/main/java/com/syzh/scity/webgis/mapper/SQLQueryMapper.xml" timestamp="1594360805474">
-        <mark key="[" line="5" column="8" />
-        <mark key="]" line="5" column="8" />
-        <mark key="^" line="5" column="4" />
-        <mark key="." line="5" column="8" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/webgis-api/src/main/java/com/syzh/scity/webgis/mapper/SQLQueryMapper.xml" timestamp="1594361771054">
+        <mark key="[" line="14" column="42" />
+        <mark key="]" line="14" column="42" />
+        <mark key="^" line="14" column="43" />
+        <mark key="." line="14" column="42" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/webgis-api/src/main/java/com/syzh/scity/webgis/ctrl/SQLQueryController.kt" timestamp="1594347279019">
         <mark key="'" line="47" column="0" />
@@ -183,11 +183,11 @@
         <mark key="^" line="26" column="66" />
         <mark key="." line="26" column="65" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/webgis-api/src/main/java/com/syzh/scity/webgis/mapper/BurstPipeMapper.xml" timestamp="1594347441278">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="56" />
-        <mark key="^" line="9" column="10" />
-        <mark key="." line="7" column="26" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/webgis-api/src/main/java/com/syzh/scity/webgis/mapper/BurstPipeMapper.xml" timestamp="1594361763953">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="41" />
+        <mark key="^" line="8" column="10" />
+        <mark key="." line="6" column="9" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/common/src/main/java/com/syzh/scity/common/ctrl/MinioController.java" timestamp="1594197392142">
         <mark key="[" line="56" column="68" />
@@ -327,16 +327,16 @@
         <text>\基本废物......\</text>
       </register>
       <register name="*" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYXNTb3VyY2VcPg==</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIDxzZWxlY3QgaWQ9ImZldGNoQ29sdW1uRGlzdGluY3RWYWxzIiByZXN1bHRUeXBlPSJqYXZhLnV0aWwuSGFzaE1hcCI+CiAgICAgICAgU0VMRUNUIERJU1RJTkNUICR7dm8uc2VsZWN0ZWRGaWVsZH0gRlJPTSAke3ZvLmxheWVyTmFtZX0KICAgICAgICBXSEVSRSAke3ZvLnNlbGVjdGVkRmllbGR9IElTIE5PVCBOVUxMCiAgICAgICAgICAgIEFORCAke3ZvLnNlbGVjdGVkRmllbGR9Ojp2YXJjaGFyKDI1NSkgJmx0OyZndDsgJycKICAgICAgICBMSU1JVCAxMDAwIC0tIGZpeG1lIOWIhumhtQogICAgPC9zZWxlY3Q+Cg==</text>
+      <register name="0" type="4">
+        <text>st_asgeojson(geom) geojson,</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBMSU1JVCAxMDAwIC0tIGZpeG1lIOWIhumhtQo=</text>
