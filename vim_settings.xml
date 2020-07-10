@@ -158,11 +158,11 @@
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/webgis-api/src/main/resources/application.yml" timestamp="1594197139777">
         <mark key="'" line="57" column="4" />
       </file>
-      <file name="$USER_HOME$/workspace/shangyuan/city-gis/webgis-api/src/main/java/com/syzh/scity/webgis/mapper/SQLQueryMapper.xml" timestamp="1594349324309">
-        <mark key="[" line="5" column="63" />
-        <mark key="]" line="5" column="67" />
-        <mark key="." line="5" column="66" />
-        <mark key="^" line="5" column="67" />
+      <file name="$USER_HOME$/workspace/shangyuan/city-gis/webgis-api/src/main/java/com/syzh/scity/webgis/mapper/SQLQueryMapper.xml" timestamp="1594351040047">
+        <mark key="[" line="7" column="50" />
+        <mark key="]" line="7" column="50" />
+        <mark key="." line="7" column="50" />
+        <mark key="^" line="7" column="66" />
       </file>
       <file name="$USER_HOME$/workspace/shangyuan/city-gis/webgis-api/src/main/java/com/syzh/scity/webgis/ctrl/SQLQueryController.kt" timestamp="1594347279019">
         <mark key="'" line="47" column="0" />
@@ -326,16 +326,16 @@
         <text>\基本废物......\</text>
       </register>
       <register name="*" type="4">
-        <text>List</text>
+        <text>ownedby</text>
       </register>
       <register name="-" type="4">
-        <text>List</text>
+        <text>ownedby</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxoYXNTb3VyY2VcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>layerName</text>
+        <text>${vo.selectedField}</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
