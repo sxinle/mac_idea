@@ -4,6 +4,9 @@
     <keyboard-shortcut first-keystroke="alt 1" />
   </action>
   <action id="ActivateFavoritesToolWindow" />
+  <action id="ActivateFundToolToolWindow">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="ActivateMavenProjectsToolWindow">
     <keyboard-shortcut first-keystroke="meta 0" />
   </action>
