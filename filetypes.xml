@@ -1,14 +1,14 @@
 <application>
   <component name="FileTypeManager" version="18">
-    <ignoreFiles list="*$py.class;*.cmd;*.iml;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;mvnw;rcs;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*$py.class;*.cmd;*.iml;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;mvnw;rcs;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="zhihu" type="AUTO_DETECTED" />
       <mapping pattern="zhihu.txt" type="AUTO_DETECTED" />
-      <mapping pattern="globalConf" type="PLAIN_TEXT" />
-      <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping pattern=".history" type="PLAIN_TEXT" />
       <mapping pattern="VoTemplate" type="PLAIN_TEXT" />
+      <mapping pattern="globalConf" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="readme" type="PLAIN_TEXT" />
       <mapping ext="bcmap" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
