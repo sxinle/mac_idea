@@ -9,8 +9,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
-    <mask>*.html</mask>
     <mask>*.as</mask>
     <mask>*.mxml</mask>
     <mask>js</mask>
@@ -22,15 +20,17 @@
     <mask>*.ftl</mask>
     <mask>*ServiceImpl.j</mask>
     <mask>*.prop</mask>
-    <mask>*.jsp</mask>
-    <mask>*.css</mask>
     <mask>*.js</mask>
     <mask>*Controller.java</mask>
     <mask>*yml</mask>
     <mask>*</mask>
-    <mask>*.xml</mask>
     <mask>*.yml</mask>
-    <mask>*.sql</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
